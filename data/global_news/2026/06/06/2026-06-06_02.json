@@ -1,0 +1,65 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-06",
+  "slot": "02",
+  "generated_at": "2026-06-06T16:13:36Z",
+  "tweets": [
+    {
+      "tweet_id": "2062844583831036249",
+      "author": "@RadekPyffel",
+      "text": "Spory sukces Ukrainy w Waszyngtonie. Demokraci przeciągają na swoją stronę 18 Republikanów i w głosowaniu Izby Reprezentantów przyjmują ustawę o wsparciu Kijowa stosunkiem głosów 226 do 195. \n\nMoże być to sukces jedynie symboliczny i wizerunkowy, bo ustawa zapewniająca 1 mld",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2062791547012382758",
+      "author": "@narendramodi",
+      "text": "India’s digital infrastructure journey is gathering remarkable momentum.\n\nAirTrunk has announced plans to invest around Rs. 3 lakh crore ($30 billion) in India, and develop 5 GW of data centre capacity. This is among the largest proposed investments in the country’s digital",
+      "likes": 35935,
+      "retweets": 5134
+    },
+    {
+      "tweet_id": "2062881369521373653",
+      "author": "@visegrad24",
+      "text": "BREAKING:\n\nRomania signs a contract with Germany to buy 298 Lynx KF41 Infantry Fighting Vehicles for $3.83 billion.\n\nRomania is in the midst of carrying out a massive military modernization program 🇷🇴🇩🇪",
+      "likes": 1440,
+      "retweets": 131
+    },
+    {
+      "tweet_id": "2063132209217757293",
+      "author": "@rshereme",
+      "text": "Ukraine's drones had a busy night.\n\nA major oil depot in Ust-Labinsk, Krasnodar region, is burning after a drone strike. The facility is a key fuel supplier for southern russia, storing gasoline, diesel, aviation fuel, fuel oil, and liquefied gas.\n\nExplosions and air defense",
+      "likes": 1154,
+      "retweets": 256
+    },
+    {
+      "tweet_id": "2062852410251387311",
+      "author": "@business",
+      "text": "India’s economy grew faster than expected in the three months through March, despite rising energy costs linked to the Iran war and a weaker currency",
+      "likes": 915,
+      "retweets": 130
+    },
+    {
+      "tweet_id": "2062943702482292923",
+      "author": "@sentdefender",
+      "text": "The International Atomic Energy Agency (IAEA) is reporting a “serious incident” that resulted in injuries to several Russian military personnel, which occurred during today’s de-mining phase of the agreed localized ceasefire near the Zaporizhzhia Nuclear Power Station in",
+      "likes": 879,
+      "retweets": 124
+    },
+    {
+      "tweet_id": "2062596691585626379",
+      "author": "@PolymarketMoney",
+      "text": "The U.S. and Japan are launching a $1B push across AI, quantum, fusion and biotech.",
+      "likes": 543,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2062902454962819348",
+      "author": "@business",
+      "text": "Turkey is trying to connect underground fuel pipelines as part of a $28 billion infrastructure expansion by NATO to enhance the alliance’s fuel security, sources say",
+      "likes": 427,
+      "retweets": 86
+    }
+  ]
+}

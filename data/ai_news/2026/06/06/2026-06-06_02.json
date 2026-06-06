@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-06",
+  "slot": "02",
+  "generated_at": "2026-06-06T16:13:36Z",
+  "tweets": [
+    {
+      "tweet_id": "2062588093014905034",
+      "author": "@jerryjliu0",
+      "text": "We built a cool project that shows you how to compose our core document intelligence primitives into a reusable pipeline that turn your documents into machine-readable data.\n\nCome check it out!",
+      "likes": 83,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2062972973435269324",
+      "author": "@DanKornas",
+      "text": "AI agents move fast. This repo gives you a chapter-by-chapter code path.\n\natlas-agents is the source-code repository for the book “Hands-on AI Agents,” with examples and project implementations for builders learning autonomous and semi-autonomous agent systems.\n\nIt helps you move",
+      "likes": 76,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2063089093660307583",
+      "author": "@VivekIntel",
+      "text": "🤖 Awesome AI Hacking Agents\n\nA curated collection of open-source and commercial AI-powered cybersecurity agents, autonomous pentesting frameworks, AI SOC tools, and security research projects.\n\nHighlights:\n\n• 60+ AI hacking and security agents\n• Covers autonomous pentesting,",
+      "likes": 37,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2062867665237016602",
+      "author": "@AlphaSignalAI",
+      "text": "ByteDance's new open-source AI controls your entire computer. 100% local.\n\nMost desktop agents today rely on cloud APIs. \n\nYour screen, clicks, and files all leave the machine.\n \nByteDance just open-sourced TARS, a multimodal agent stack that runs fully on your computer. \n\nIt hit",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2062797246836691288",
+      "author": "@ayushagarwal",
+      "text": "dualmark v0.9.0 just shipped.\n\ndualmark is our open-source AEO infrastructure. it gives every page on your site a markdown twin for AI agents, served alongside HTML for humans via content negotiation. so when ChatGPT, Perplexity, or Claude crawl your site, they get clean",
+      "likes": 16,
+      "retweets": 2
+    }
+  ]
+}
