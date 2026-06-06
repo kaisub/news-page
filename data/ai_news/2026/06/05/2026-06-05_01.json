@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-05",
+  "slot": "01",
+  "generated_at": "2026-06-06T12:34:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2063089093660307583",
+      "author": "@VivekIntel",
+      "text": "🤖 Awesome AI Hacking Agents\n\nA curated collection of open-source and commercial AI-powered cybersecurity agents, autonomous pentesting frameworks, AI SOC tools, and security research projects.\n\nHighlights:\n\n• 60+ AI hacking and security agents\n• Covers autonomous pentesting,",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2062867665237016602",
+      "author": "@AlphaSignalAI",
+      "text": "ByteDance's new open-source AI controls your entire computer. 100% local.\n\nMost desktop agents today rely on cloud APIs. \n\nYour screen, clicks, and files all leave the machine.\n \nByteDance just open-sourced TARS, a multimodal agent stack that runs fully on your computer. \n\nIt hit",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2062512218080792674",
+      "author": "@svpino",
+      "text": "Beautiful way to display real-time session information in your Claude Code terminal.\n\nTo configure this:\n\n1. Run /statusline in Claude Code\n2. Copy script locally (see GitHub repository below)\n3. Modify Claude Code settings to point to the script\n5. Restart Claude Code\n\nRepo ↓",
+      "likes": 137,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2062466908386210042",
+      "author": "@DailyDoseOfDS_",
+      "text": "Claude Code used 3x fewer tokens with just one change!\n\nAnd it wasn't because of a better CLAUDE(.)md or a better model.\n\nBefore writing a single line of code, the agent must know:\n\n- the existing tables and schemas\n- the configured auth providers\n- the available storage buckets",
+      "likes": 25,
+      "retweets": 5
+    }
+  ]
+}

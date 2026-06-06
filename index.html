@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Radar</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: #f3f4f6;
+      color: #111827;
+      min-height: 100vh;
+    }
+
+    /* ── TABS ── */
+    .tabs {
+      display: flex;
+      background: #fff;
+      border-bottom: 1px solid #e5e7eb;
+      padding: 0 1rem;
+      gap: .25rem;
+    }
+    .tab-btn {
+      padding: .75rem 1.25rem;
+      border: none;
+      border-bottom: 3px solid transparent;
+      background: none;
+      cursor: pointer;
+      font-size: .95rem;
+      font-weight: 500;
+      color: #6b7280;
+      margin-bottom: -1px;
+      transition: color .12s, border-color .12s;
+    }
+    .tab-btn:hover { color: #374151; }
+    .tab-btn.active { color: #1d4ed8; border-bottom-color: #1d4ed8; font-weight: 600; }
+
+    /* ── LAYOUT ── */
+    .layout {
+      display: flex;
+      min-height: calc(100vh - 49px);
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar {
+      width: 160px;
+      flex-shrink: 0;
+      background: #fff;
+      border-right: 1px solid #e5e7eb;
+      padding: 1.25rem 1rem;
+    }
+    .sidebar label {
+      display: block;
+      font-size: .7rem;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: #9ca3af;
+      margin-top: 1rem;
+      margin-bottom: .3rem;
+    }
+    .sidebar label:first-of-type { margin-top: 0; }
+    .sidebar select {
+      width: 100%;
+      padding: .35rem .5rem;
+      border: 1px solid #d1d5db;
+      border-radius: 5px;
+      font-size: .875rem;
+      background: #fff;
+      color: #374151;
+      cursor: pointer;
+    }
+    .sidebar select:focus {
+      outline: none;
+      border-color: #1d4ed8;
+      box-shadow: 0 0 0 2px rgba(29,78,216,.15);
+    }
+
+    /* ── MAIN ── */
+    .main {
+      flex: 1;
+      padding: 1.5rem;
+      max-width: 800px;
+    }
+
+    /* ── REPORT HEADER ── */
+    .report-header {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    .report-header h2 { font-size: 1.2rem; font-weight: 700; }
+    .report-meta { font-size: .82rem; color: #6b7280; margin-top: .25rem; }
+
+    /* ── TWEET CARD ── */
+    .tweet-card {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 1rem 1.1rem;
+      margin-bottom: .75rem;
+    }
+    .tweet-author {
+      font-weight: 600;
+      color: #1d4ed8;
+      font-size: .9rem;
+      margin-bottom: .45rem;
+    }
+    .tweet-text {
+      font-size: .92rem;
+      line-height: 1.65;
+      color: #1f2937;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .tweet-footer {
+      display: flex;
+      align-items: center;
+      margin-top: .85rem;
+      gap: .75rem;
+    }
+    .tweet-stats {
+      display: flex;
+      gap: .75rem;
+      font-size: .82rem;
+      color: #6b7280;
+    }
+    .show-tweet-btn {
+      margin-left: auto;
+      padding: .28rem .75rem;
+      border: 1px solid #d1d5db;
+      border-radius: 5px;
+      background: #f9fafb;
+      cursor: pointer;
+      font-size: .8rem;
+      color: #374151;
+      transition: background .1s;
+      white-space: nowrap;
+    }
+    .show-tweet-btn:hover { background: #f3f4f6; }
+    .show-tweet-btn.open { background: #eff6ff; border-color: #93c5fd; color: #1d4ed8; }
+    .tweet-embed-wrap { margin-top: .75rem; }
+
+    /* ── EMBED FALLBACK (przed renderem widgets.js) ── */
+    .tweet-embed-wrap blockquote {
+      border-left: 3px solid #1d9bf0;
+      background: #f0f7ff;
+      border-radius: 0 6px 6px 0;
+      padding: .6rem 1rem;
+      margin: 0;
+    }
+    .tweet-embed-wrap blockquote a {
+      color: #1d4ed8;
+      font-size: .82rem;
+      word-break: break-all;
+      text-decoration: none;
+    }
+    .tweet-embed-wrap blockquote a:hover { text-decoration: underline; }
+
+    /* ── STATUS MESSAGES ── */
+    .status {
+      padding: 2rem;
+      text-align: center;
+      color: #6b7280;
+      font-size: .9rem;
+    }
+    .status.loading::before { content: '⏳ '; }
+    .status.error {
+      color: #dc2626;
+      background: #fef2f2;
+      border-radius: 6px;
+      padding: 1rem;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="tabs" id="tabs">
+  <button class="tab-btn active" data-pipeline="pl_news">Polska</button>
+  <button class="tab-btn"        data-pipeline="global_news">Świat</button>
+  <button class="tab-btn"        data-pipeline="ai_news">AI</button>
+</nav>
+
+<div class="layout">
+  <aside class="sidebar">
+    <label for="sel-year">Rok</label>
+    <select id="sel-year"></select>
+    <label for="sel-month">Miesiąc</label>
+    <select id="sel-month"></select>
+    <label for="sel-day">Dzień</label>
+    <select id="sel-day"></select>
+    <label for="sel-slot">Slot</label>
+    <select id="sel-slot"></select>
+  </aside>
+
+  <main class="main">
+    <div id="report-header" class="report-header" style="display:none">
+      <h2 id="report-label"></h2>
+      <div id="report-meta" class="report-meta"></div>
+    </div>
+    <div id="status" class="status loading">Ładowanie…</div>
+    <div id="tweets"></div>
+  </main>
+</div>
+
+<script>
+'use strict';
+
+// ── Config ────────────────────────────────────────────────────────────────────
+// DATA_BASE jest wykrywany automatycznie przy starcie (patrz detectDataBase()).
+// Ręczny override jeśli auto-detekcja zawodzi:
+// const DATA_BASE = '/data';
+let DATA_BASE = '/data';
+
+const PIPELINE_LABELS = {
+  pl_news:     'Radar Wiadomości PL',
+  global_news: 'Radar Wiadomości Świat',
+  ai_news:     'Radar AI & Tech',
+};
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let currentPipeline = 'pl_news';
+const indexCache = {};       // pipeline → entry[]
+let widgetsInjected = false; // widgets.js loaded at most once per page
+
+// ── DOM refs ──────────────────────────────────────────────────────────────────
+const selYear    = document.getElementById('sel-year');
+const selMonth   = document.getElementById('sel-month');
+const selDay     = document.getElementById('sel-day');
+const selSlot    = document.getElementById('sel-slot');
+const statusEl   = document.getElementById('status');
+const tweetsEl   = document.getElementById('tweets');
+const headerEl   = document.getElementById('report-header');
+const labelEl    = document.getElementById('report-label');
+const metaEl     = document.getElementById('report-meta');
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+async function fetchJSON(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status} — ${url}`);
+  return res.json();
+}
+
+function setStatus(msg, type) {
+  statusEl.className = 'status' + (type ? ' ' + type : '');
+  statusEl.textContent = msg;
+  statusEl.style.display = msg ? '' : 'none';
+}
+
+function escHtml(s) {
+  return String(s ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// Returns unique values from entries[key], sorted descending (newest first).
+// Pass ascending=true for slots (01, 02, 03…).
+function uniqueSorted(entries, key, ascending = false) {
+  const vals = [...new Set(entries.map(e => e[key]))].sort();
+  return ascending ? vals : vals.reverse();
+}
+
+// Rebuilds a <select> with new values; restores previous selection if still valid.
+function rebuildSelect(sel, values) {
+  const prev = sel.value;
+  sel.innerHTML = '';
+  values.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+  if (values.includes(prev)) sel.value = prev;
+  // else: defaults to first option (= newest)
+}
+
+// ── Cascading dropdowns ───────────────────────────────────────────────────────
+// Each level rebuilds its children, ending with loadReport() at the bottom.
+// This chain fires once during init and once per user interaction.
+
+function cascadeYear() {
+  const entries = indexCache[currentPipeline] || [];
+  rebuildSelect(selYear, uniqueSorted(entries, 'year'));
+  cascadeMonth();
+}
+
+function cascadeMonth() {
+  const entries = indexCache[currentPipeline] || [];
+  const byYear  = entries.filter(e => e.year === selYear.value);
+  rebuildSelect(selMonth, uniqueSorted(byYear, 'month'));
+  cascadeDay();
+}
+
+function cascadeDay() {
+  const entries = indexCache[currentPipeline] || [];
+  const byYM    = entries.filter(e => e.year === selYear.value && e.month === selMonth.value);
+  rebuildSelect(selDay, uniqueSorted(byYM, 'day'));
+  cascadeSlot();
+}
+
+function cascadeSlot() {
+  const entries = indexCache[currentPipeline] || [];
+  const byYMD   = entries.filter(e =>
+    e.year  === selYear.value &&
+    e.month === selMonth.value &&
+    e.day   === selDay.value
+  );
+  rebuildSelect(selSlot, uniqueSorted(byYMD, 'slot', true)); // ascending: 01, 02…
+  loadReport();
+}
+
+// ── Report loading ────────────────────────────────────────────────────────────
+async function loadReport() {
+  const entry = (indexCache[currentPipeline] || []).find(e =>
+    e.year  === selYear.value  &&
+    e.month === selMonth.value &&
+    e.day   === selDay.value   &&
+    e.slot  === selSlot.value
+  );
+  if (!entry) {
+    setStatus('Brak danych dla wybranego okresu.');
+    tweetsEl.innerHTML = '';
+    headerEl.style.display = 'none';
+    return;
+  }
+
+  setStatus('Ładowanie raportu…', 'loading');
+  tweetsEl.innerHTML = '';
+  headerEl.style.display = 'none';
+
+  try {
+    const data = await fetchJSON(`${DATA_BASE}/${currentPipeline}/${entry.file}`);
+    renderReport(data);
+  } catch (err) {
+    setStatus(`Błąd ładowania raportu: ${err.message}`, 'error');
+  }
+}
+
+// ── Rendering ─────────────────────────────────────────────────────────────────
+function renderReport(data) {
+  setStatus('');
+  labelEl.textContent = data.label || PIPELINE_LABELS[currentPipeline] || currentPipeline;
+  metaEl.textContent  = `${data.date} · slot ${String(data.slot).padStart(2, '0')}`;
+  headerEl.style.display = '';
+
+  tweetsEl.innerHTML = '';
+  const tweets = data.tweets || [];
+
+  if (!tweets.length) {
+    setStatus('Raport nie zawiera tweetów.');
+    return;
+  }
+
+  const frag = document.createDocumentFragment();
+  tweets.forEach(t => frag.appendChild(buildCard(t)));
+  tweetsEl.appendChild(frag);
+}
+
+function buildCard(tweet) {
+  const card = document.createElement('article');
+  card.className = 'tweet-card';
+  card.innerHTML = `
+    <div class="tweet-author">${escHtml(tweet.author)}</div>
+    <div class="tweet-text">${escHtml(tweet.text)}</div>
+    <div class="tweet-footer">
+      <div class="tweet-stats">
+        <span>❤️ ${tweet.likes ?? '?'}</span>
+        <span>🔁 ${tweet.retweets ?? '?'}</span>
+      </div>
+      <button class="show-tweet-btn" type="button">🔗 pokaż tweet</button>
+    </div>
+    <div class="tweet-embed-wrap"></div>
+  `;
+
+  const btn  = card.querySelector('.show-tweet-btn');
+  const wrap = card.querySelector('.tweet-embed-wrap');
+  btn.addEventListener('click', () => toggleEmbed(tweet, wrap, btn));
+  return card;
+}
+
+// ── Twitter embed ─────────────────────────────────────────────────────────────
+function toggleEmbed(tweet, wrap, btn) {
+  if (wrap.children.length) {
+    wrap.innerHTML = '';
+    btn.textContent = '🔗 pokaż tweet';
+    btn.classList.remove('open');
+    return;
+  }
+
+  btn.textContent = '↑ ukryj tweet';
+  btn.classList.add('open');
+
+  // Pełny URL z nazwą użytkownika — wymagany przez widgets.js do pobrania oEmbed.
+  // author ma format "@handle", usuwamy @.
+  const handle = String(tweet.author).replace(/^@/, '');
+  const tweetUrl = `https://twitter.com/${handle}/status/${tweet.tweet_id}`;
+
+  const bq = document.createElement('blockquote');
+  bq.className = 'twitter-tweet';
+  bq.setAttribute('data-dnt', 'true');
+  bq.setAttribute('data-lang', 'pl');
+  const a = document.createElement('a');
+  a.href = tweetUrl;
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+  a.textContent = tweetUrl; // fallback widoczny gdy widgets.js zablokowany lub wolny
+  bq.appendChild(a);
+  wrap.appendChild(bq);
+
+  if (!widgetsInjected) {
+    widgetsInjected = true;
+    const s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://platform.twitter.com/widgets.js';
+    document.body.appendChild(s);
+  } else if (window.twttr?.widgets) {
+    window.twttr.widgets.load(wrap);
+  }
+}
+
+// ── Pipeline switch ───────────────────────────────────────────────────────────
+async function switchPipeline(id) {
+  currentPipeline = id;
+  document.querySelectorAll('.tab-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.pipeline === id)
+  );
+
+  if (!indexCache[id]) {
+    setStatus('Ładowanie indeksu…', 'loading');
+    tweetsEl.innerHTML = '';
+    headerEl.style.display = 'none';
+    try {
+      indexCache[id] = await fetchJSON(`${DATA_BASE}/${id}/index.json`);
+    } catch (err) {
+      setStatus(`Nie można wczytać indeksu (${id}): ${err.message}`, 'error');
+      return;
+    }
+  }
+
+  cascadeYear(); // → cascadeMonth → cascadeDay → cascadeSlot → loadReport
+}
+
+// ── Event listeners ───────────────────────────────────────────────────────────
+document.getElementById('tabs').addEventListener('click', e => {
+  const btn = e.target.closest('.tab-btn');
+  if (btn && btn.dataset.pipeline !== currentPipeline) switchPipeline(btn.dataset.pipeline);
+});
+
+selYear.addEventListener('change',  cascadeMonth);
+selMonth.addEventListener('change', cascadeDay);
+selDay.addEventListener('change',   cascadeSlot);
+selSlot.addEventListener('change',  loadReport);
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+
+// Zatrzymaj wcześnie jeśli plik otwarto przez file://.
+if (location.protocol === 'file:') {
+  document.body.innerHTML = `
+    <div style="font-family:monospace;padding:2rem;max-width:600px">
+      <p style="color:#dc2626;font-size:1.1rem;font-weight:bold">⛔ Plik otwarty przez file://, a nie przez HTTP.</p>
+      <p style="margin-top:1rem">Fetch jest zablokowany w przeglądarce dla plików lokalnych.<br>Uruchom serwer HTTP:</p>
+      <pre style="margin-top:1rem;background:#f3f4f6;padding:1rem;border-radius:6px;white-space:pre-wrap">cd D:\\WaldekProjekty\\vault_obs\\news_radar
+python -m http.server 8080</pre>
+      <p style="margin-top:1rem">Potem otwórz: <a href="http://localhost:8080/planowanie/index_draft.html">http://localhost:8080/planowanie/index_draft.html</a></p>
+    </div>`;
+} else {
+  // Próbuje kolejne ścieżki i uruchamia aplikację na pierwszej działającej.
+  detectDataBase().then(base => {
+    if (!base) {
+      document.getElementById('status').className = 'status error';
+      document.getElementById('status').innerHTML =
+        `Nie można znaleźć danych.<br>
+         Sprawdź, czy serwer działa na porcie 8080 i jest uruchomiony z katalogu <code>news_radar/</code>.<br><br>
+         Próbowane ścieżki: <code>/data</code>, <code>../data</code>, <code>data</code>`;
+      return;
+    }
+    DATA_BASE = base;
+    switchPipeline('pl_news');
+  });
+}
+
+async function detectDataBase() {
+  const candidates = ['/data', '../data', 'data'];
+  for (const base of candidates) {
+    try {
+      const r = await fetch(`${base}/pl_news/index.json`, { method: 'HEAD' });
+      if (r.ok) return base;
+    } catch { /* próbuj następną */ }
+  }
+  return null;
+}
+</script>
+</body>
+</html>
