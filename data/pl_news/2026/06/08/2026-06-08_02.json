@@ -1,0 +1,296 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-08",
+  "slot": "02",
+  "generated_at": "2026-06-08T17:57:30Z",
+  "tweets": [
+    {
+      "tweet_id": "2063977067759260020",
+      "author": "@Macronextcom",
+      "text": "Polacy 🇵🇱 nie wierzą w AI. A już na pewno nie w to, że \"AI jest zagrożeniem dla rynku pracy\".\n\nAż 91% badanych NIE OBAWIA się, że w najbliższym czasie straci pracę lub będzie miało mniej zleceń w związku z wprowadzeniem AI - wynika z badania @CBOS_Info.",
+      "likes": 50,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2063861788832067811",
+      "author": "@Macronextcom",
+      "text": "Dzieje się. 👇\n\nKOREA EXCHANGE ACTIVATES CIRCUIT BREAKERS ON KOSDAQ AFTER INDEX FALLS 8%, TRADING HALTED FOR 20 MINS",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2063881425196097911",
+      "author": "@PAPinformacje",
+      "text": "Armenia/ Pełne wyniki wyborów: partia premiera Paszyniana wygrywa z wynikiem 49,81 proc. głosów. #PAPinformacje",
+      "likes": 34,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2064000607694782659",
+      "author": "@Macronextcom",
+      "text": "Zaczyna się. \n\nCitigroup obniżył swoją 3-miesięczną prognozę ceny złota do 4000 USD za uncję z wcześniejszych 4300 USD. #gold \n\nCITIGROUP CUT ITS 3-MONTH GOLD PT TO $4,000/OZ FROM $4,300/OZ.",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2063886613084549630",
+      "author": "@PAPinformacje",
+      "text": "Reuters: samoloty NATO zestrzeliły drona w łotewskiej przestrzeni powietrznej. #PAPinformacje",
+      "likes": 21,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2063864702149484750",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w IV 2026 r. Zamówienia w przemyśle -3,8% m/m (prognoza: -2,1%; poprzednio: 4,5%) \n\nKalendarz (Niemcy):",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2063938108442227085",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 5,93 zł, benzyny 98 - 6,57 zł, a oleju napędowego - 6,45 zł. (PAP)\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064033844395667596",
+      "author": "@PAPinformacje",
+      "text": "Standerski: negocjacje z Komisją Europejską ws. gigafabryk AI mogą zakończyć się w czerwcu\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2063738365015474279",
+      "author": "@PAPinformacje",
+      "text": "Izrael ostrzeliwany irańskimi rakietami, po raz pierwszy od zawarcia rozejmu\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2063866202586329423",
+      "author": "@PAPinformacje",
+      "text": "Pokój z Rosją możliwy? Przywódcy Wlk. Brytanii, Francji, Niemiec i Ukrainy przedstawili warunki\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2063866028178706597",
+      "author": "@PAPinformacje",
+      "text": "Odwet Izraela. Lotnictwo przeprowadziło ataki w Iranie\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2063979661562945759",
+      "author": "@DGPrawna",
+      "text": "Po trzech latach hossy na Wall Street firmy, które są liderami w budowaniu modeli AI, zamierzają pozyskać od inwestorów po kilkadziesiąt miliardów dolarów. Nigdy wcześniej żadna wchodząca na giełdę spółka nie przeprowadziła IPO o tak dużej wartości.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064039666966266016",
+      "author": "@DGPrawna",
+      "text": "Europa ma coraz większy problem z wodą. Niedobory wody dotykają ok. 30 proc. obszaru UE i 33 proc. populacji UE każdego roku.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064038059629248870",
+      "author": "@DGPrawna",
+      "text": "Są już pełne wyniki egzaminu adwokackiego i radcowskiego. Zdawalność 75 proc. i 84,1 proc.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2063892546745417802",
+      "author": "@wolski_jaros",
+      "text": "Znów jest internetowa burza o szpej. \nTym razem o zakup 50 tys kamizelek KKZ-01/K4 za 720mln PLN - co daje 14 400pln za kamizelkę. Bez VATu co jest plusem SAFE. \nCzy to drogo? \nW kwietniu 2023 kupiono 40 tys KKZ-01 o nieco słabszej osłonie (K3) za 491mln PLN  czyli 12 275 zł",
+      "likes": 952,
+      "retweets": 127
+    },
+    {
+      "tweet_id": "2063914024887021587",
+      "author": "@Pekao_Analizy",
+      "text": "To wykres dekady - chyba zgoda? \n\n1⃣ W przeliczeniu na euro, płace w Polsce podwoiły się w pięć lat i potroiły w dekadę. \n\n2⃣ Polacy mogą poczuć się bogatsi zagranicą. Wydaje się, że tego przez lata brakowało. Wzrostowi płac w zł towarzyszyła bowiem deprecjacja złotego i",
+      "likes": 341,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2063860015702605853",
+      "author": "@MON_GOV_PL",
+      "text": "Pierwsze samoloty F-35A Husarz są już w 32. Bazie Lotnictwa Taktycznego w #Łask. Ich przylot to kamień milowy modernizacji #WojskoPolskie 🇵🇱 i najważniejszy etap wdrażania maszyn V generacji do Sił Powietrznych. #Husarz przenosi nasze zdolności obronne i interoperacyjność z",
+      "likes": 292,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2063361847626199427",
+      "author": "@brave_romania",
+      "text": "🇷🇴 Is Romania about to lose its main source of European money in just 2 years?\n\nRight now, a major battle is happening in Brussels over the next EU budget (2028–2034).\n\nRomania, together with Poland, Greece, the Baltics, Spain, and Italy, has formed the “Friends of Cohesion”",
+      "likes": 304,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2063893934942585008",
+      "author": "@PremierRP",
+      "text": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku wydał decyzję środowiskową dla stacji elektroenergetycznej, do której zostanie przyłączona pierwsza polska elektrownia jądrowa. ⚛️\n\nBędzie to pierwszy tego typu obiekt w Polsce, który odbierze wyprodukowaną energię i przekaże ją",
+      "likes": 177,
+      "retweets": 84
+    },
+    {
+      "tweet_id": "2063905391163900278",
+      "author": "@DemagogPL",
+      "text": "🗣️ Wypowiedź @DariuszMatecki oceniamy jako ❌ #fałsz.\n\n📹 26 maja rząd przyjął projekt ustawy o zabezpieczeniu socjalnym osób wykonujących zawód artystyczny. Wprowadza ona status artysty zawodowego oraz dopłaty do składek dla artystów o najniższych dochodach.\n\n📊 Rząd szacuje, że",
+      "likes": 201,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2063876829568545102",
+      "author": "@GPW_Trader2022",
+      "text": "Giełdy w Azji 🌍na czerwono. Eskalacja wojny w Iranie to kolejny okres bez taniej ropy i gazu z 🛳️Ormuz. Rosną zamienniki. Spadają głównie spółki Ai,  Rosną surowce.\nIndeksy główne: \n🇰🇷 Korea Południowa -8% 🔴\n🇯🇵  Japonia -4%🔴\n🇹🇼 Tajwan -3,5%🔴\n🇨🇳 Chiny -1,5% 🔴\n🇮🇳 Indie -1% 🔴",
+      "likes": 156,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2064006825997947192",
+      "author": "@GPW_Trader2022",
+      "text": "Dla inwestorów JSW⚒️ i PKN⛽️. JSW może zaciągać pożyczki z ARP dzięki specjalnie na takie sytuacje stworzonemu mechanizmowi. Warto podkreślić, że to rozwiązanie dla podmiotów o istotnych dla gospodarki.  @wbalczun o PKN i JSW więcej w porannym wywiadzie.",
+      "likes": 61,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2063587782577004938",
+      "author": "@Pekao_Analizy",
+      "text": "STAN GRY:\n🔹Kontynuacja (cyklicznego) ożywienia w USA. Kolejny mocny raport z rynku pracy. Jak na razie tradycyjne efekty cykliczne przeważają nad strukturalnym wzrostem produktywności, ale i negatywnym wpływem genAI na rynek pracy. Taka konstelacja powoduje, że amerykański",
+      "likes": 57,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2063915540679176559",
+      "author": "@Adbodnar",
+      "text": "Dzisiaj Rada UE przyjęła zrewidowaną dyrektywę o ochronie praw ofiar przestępstw. Wcześniej zgodził się na nią Parlament Europejski. W czasie Prezydencji Polski w UE eksperci @MS_GOV_PL oraz @PLintheEU przez setki godzin negocjowali ostateczny tekst. Dzięki temu Duńczycy i",
+      "likes": 40,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2063334857636233591",
+      "author": "@SwiatKrypto",
+      "text": "Taylor Hornby, inżynier bezpieczeństwa, który przy pomocy modelu AI Claude Opus 4.8 odkrył krytyczną lukę w Zcash, nie zwalnia tempa.\n\nNa jego celownik trafia teraz Monero (XMR) oraz inne kryptowaluty stawiające na prywatność.\n\nAI ewidentnie staje się nowym standardem i",
+      "likes": 48,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2063655492879040520",
+      "author": "@Piechocinski",
+      "text": "Oto, jak przedstawiają się wynagrodzenia w gastronomii:\n\ndla kelnerów od 32 do 40 zł za godzinę plus napiwki,\ndla barmanów od 32 do 50 zł,\ndla barmanów na eventach od 50 do 70 zł za godzinę,\ndla baristów od 32 do 45 zł za godzinę,\ndla pomocy kuchennej od 32 do 38 zł za godzinę,",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2063894833152897277",
+      "author": "@zus_pl",
+      "text": "↗️O 9,81 proc. wzrosły w czerwcu środki na kontach ubezpieczonych i ich kapitał początkowy. To znaczy, że w wyniku waloryzacji do każdych 100 tys. złotych zapisanych w pierwszym filarze emerytalnym ZUS dodał 9⃣8⃣1⃣0⃣ zł.\n\n🔎 Wysokość corocznej waloryzacji konta zależy od:\n👉",
+      "likes": 21,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2063522220362584094",
+      "author": "@Piechocinski",
+      "text": "Produkcja energii z OZE w Polsce osiągnęła rekordowe 54,7 TWh, ale brak elastyczności systemu skutkował ograniczeniem wytwarzania sporej ilości prądu z odnawialnych źródeł energii.",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2063900854759969036",
+      "author": "@niefrankowski",
+      "text": "Kolejny czarny czwartek dla banksterów ???\nJuż 11 czerwca 2026 o 9:30 opinię w sprawie sankcji kredytu darmowego #SKD sygn. C-831/24 wyda Rzecznik Generalny #TSUE \nO co pyta polski sąd?\nNajważniejsze pytanie: czy sądy z urzędu muszą szukać wad w umowach?\nDrugie dotyczy poprawnego",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2063878925516677184",
+      "author": "@WojtekAndrzej",
+      "text": "POLSKA OCHRONA ZDROWIA \n SYSTEMOWY KRYZYS\n\n🏥Miliardy płyną z naszych podatków na zdrowie, a długi szpitali bezustannie rosną. Według oficjalnych danych Ministerstwa Zdrowia ogólne zadłużenie publicznych placówek osiągnęło gigantyczną kwotę 27,65 miliarda złotych.\nCo gorsza,",
+      "likes": 12,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2063932696011628849",
+      "author": "@Energetyka_24",
+      "text": "❗️ Resort obrony przygotował nowe wytyczne dla inwestycji wiatrowych\n\nPodczas inauguracji konferencji @PSEW_PWEA minister @KosiniakKamysz zapowiada bliższą współpracę z sektorem energetycznym i deklaruje, że armia nie będzie blokować rozwoju OZE. „Wojsko i siły zbrojne będą",
+      "likes": 12,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2063991945102274771",
+      "author": "@Defence24pl",
+      "text": "#BursztynowyDzik, ciężki sprzęt na drogaci i ewakuacja. @16Dywizja na największych w tym roku ćwiczeniach Wojska Polskiego",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2063878700274208897",
+      "author": "@Straz_Graniczna",
+      "text": "5️⃣-7️⃣ czerwca na granicy z 🇧🇾 nie odnotowano prób nielegalnego przedostania się do 🇵🇱. \n\n#BezpiecznaGranica",
+      "likes": 11,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2063916809636520377",
+      "author": "@RadioMaryja",
+      "text": ".@UOKiKgovPL sprawdza podejrzenie zmowy na rynku pracy na Dolnym Śląsku",
+      "likes": 8,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2063950305344078050",
+      "author": "@Straz_Graniczna",
+      "text": "Funkcjonariusze z #PlacówkaSGwKorczowej zatrzymali skradzionego Range Rovera oraz ponad 50 części pochodzących z siedmiu samochodów Audi. Łączna wartość odzyskanego mienia przekracza 3️⃣0️⃣0️⃣ tys. zł.\n\nPodczas kontroli Range Rovera wykryto ingerencję w oznaczenia identyfikacyjne.",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2063673523210522679",
+      "author": "@Piechocinski",
+      "text": "Europejski Bank Odbudowy i Rozwoju (EBOiR) obniżył prognozy wzrostu gospodarczego Polski w 2026 r. o 0,2 pkt proc. do 3,5 proc. oraz w 2027 r. o 0,2 pkt. proc. do 2,8 proc. - wynika z najnowszego raportu banku. Z kolei Organizacja Współpracy Gospodarczej i Rozwoju (OECD) obniżyła",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2063982920490955170",
+      "author": "@fundusze_eu",
+      "text": "Podatki od aut spalinowych zostały wykreślone z polskiego KPO. Komisja Europejska zaakceptowała zmiany wprowadzone przez polski rząd.\n\n#KPO #EfektyNaLata",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064003872339702237",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 +0,58%; pozytywna druga część sesji, poziom 3628\n#Żabka +2,15%; plany przyspieszenia rozwoju zagranicznego\n#Ryvu +11,83%; ?🤔 \n#ScanWay +5,16%; przekazany pierwszy instrument do obserwacji Ziemi w ramach projektu NarSha \n#OneMoreLevel -12,07%; reakcja na datę",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064007825278243281",
+      "author": "@Piechocinski",
+      "text": "Sektor TSL, czyli transport, spedycja i logistyka:  \n🚛 generuje około 7% polskiego PKB, \n👷 zapewnia blisko 6,5% wszystkich miejsc pracy w kraju, \n📦 daje zatrudnienie ponad 950 tysiącom osób.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2063577207394759071",
+      "author": "@NewVoiceUkraine",
+      "text": "Polish authorities have detained a former Ukrainian government official as part of an ongoing corruption and bribery investigation. The case has drawn attention on both sides of the border as details of the probe continue to emerge",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2063522523308827042",
+      "author": "@Piechocinski",
+      "text": "Z powodu braku elastyczności systemu okresowo dochodzi do wyłączania źródeł odnawialnych na polecenie operatora systemu. W 2025 r. szacunkowe ograniczenie produkcji prądu z OZE wyniosło 1,4 TWh, czyli tyle, ile rocznie energii zużywa niemal 700 tys. gospodarstw domowych",
+      "likes": 5,
+      "retweets": 2
+    }
+  ]
+}

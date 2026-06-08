@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-08",
+  "slot": "02",
+  "generated_at": "2026-06-08T17:57:30Z",
+  "tweets": [
+    {
+      "tweet_id": "2063904995259683274",
+      "author": "@sentient_agency",
+      "text": "This Shouldn't Be Free\n\nUnderstand Anything is a plugin that maps any codebase into a searchable, interactive knowledge graph and works across Claude Code, Cursor, Copilot, Gemini CLI, Codex, and more.\n\nNow engineering teams get instant visual documentation of every project,",
+      "likes": 16,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2063873418383294511",
+      "author": "@aaliya_va",
+      "text": "LlamaIndex just made the world's fastest open-source PDF parser.\n\nMost PDF parsers force a choice. \n\nStay fast and local, or get accuracy through cloud LLMs.\n\nLiteParse v2 refuses that trade-off entirely.\n\nIt just became the fastest PDF parser available, and the most accurate",
+      "likes": 62,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2063680276803551252",
+      "author": "@charliejhills",
+      "text": "🚨 BREAKING: An open-source AI agent just processed 280K tokens for less than a penny.\n\nIt's called OpenSquilla.\n\nA local ML router sits between you and 20+ LLM providers. Every turn, it sends your message to the cheapest model that can handle it. Automatically.\n\n→ Simple",
+      "likes": 28,
+      "retweets": 6
+    }
+  ]
+}
