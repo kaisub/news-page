@@ -1,0 +1,16 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-08",
+  "slot": "01",
+  "generated_at": "2026-06-08T05:25:55Z",
+  "tweets": [
+    {
+      "tweet_id": "2063456456314437853",
+      "author": "@oldgamesnob",
+      "text": "Pixal3D (free open source AI 3D generation model) I added it to Sorceress and anyone can use it for free (unlimited use until the servers melt) no GPU needed, no setup required - hope you guys like! [-link in comments-] #gamedev #aigamedev #ai3d",
+      "likes": 90,
+      "retweets": 9
+    }
+  ]
+}
