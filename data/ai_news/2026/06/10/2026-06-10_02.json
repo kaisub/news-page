@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-10",
+  "slot": "02",
+  "generated_at": "2026-06-10T18:14:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2064327225504403752",
+      "author": "@bcherny",
+      "text": "Just landed nested subagent support in Claude Code\n\nStarting to experiment more with agents kicking off agents as a way to better manage context. Capped at depth=5 to start, going out in today’s release.\n\nLmk what you think!",
+      "likes": 5548,
+      "retweets": 290
+    },
+    {
+      "tweet_id": "2064741174317924421",
+      "author": "@claudeai",
+      "text": "New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\n\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.",
+      "likes": 2609,
+      "retweets": 159
+    },
+    {
+      "tweet_id": "2064477429071286719",
+      "author": "@jerryjliu0",
+      "text": "LiteParse, our open-source/Rust-based doc parser, runs so quickly that Claude Fable 5 doesn't think it's real 🔥\n\nIt is the fastest document parsing solution on the planet and a great choice for your AI document workloads.\n\nCheck it out:",
+      "likes": 215,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2064292837403799982",
+      "author": "@rpl_0x",
+      "text": "Warty przeczytania artykuł od zespołu claude o tym kiedy i dlaczego lepiej w dokumentacjach wewnętrznych i plikach procesowych sprawdzi się format html, a kiedy md - dotyczczas używany za jedyny słuszny\n\nclaude (.) com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064569239902806515",
+      "author": "@XSquareRobot",
+      "text": "🥳Our third open-source release is here: XRZero-G0.  \n\nAfter WALL-OSS-0.5 and WALL-WM, we’re open-sourcing XRZero-G0 to Scale Robot Learning with Interfaces, Data Quality and Ratios  \n\nXRZero-G0 enables robot-free data collection, trainable policy generation, and real-robot",
+      "likes": 42,
+      "retweets": 10
+    }
+  ]
+}
