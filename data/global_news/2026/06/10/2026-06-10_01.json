@@ -1,0 +1,366 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-10",
+  "slot": "01",
+  "generated_at": "2026-06-10T05:12:54Z",
+  "tweets": [
+    {
+      "tweet_id": "2064303040140616101",
+      "author": "@OSW_pl",
+      "text": "Péter Magyar poinformował o osiągnięciu „kompleksowego porozumienia” z Ukrainą dotyczącego rozszerzenia praw ok. 60–70-tysięcznej mniejszości węgierskiej zamieszkującej obwód  zakarpacki.\n\nWięcej w analizie ⬇️",
+      "likes": 27,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2064261143170879875",
+      "author": "@RadekPyffel",
+      "text": "Współczynnik średniej dzietności w Indiach spadł po raz pierwszy do 1.9, czyli poniżej poziomu niezbędnego do powstrzymania spadku populacji a majowe sondy wskazują, że perspektywa kurczącej się populacji może być bardziej realna, niż zakładali decydenci.\n\nW kraju występują",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2063988920988139739",
+      "author": "@OSW_pl",
+      "text": "Wg wstępnych wyników w wyborach parlamentarnych w Armenii zwycięstwo odniosła Umowa Społeczna premiera Nikola Paszyniana. Zdobyła ona 50% głosów. Oznacza to kontynuację zbliżenia z państwami zachodnimi i normalizację stosunków z Turcją i Azerbejdżanem.",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2063965374295499058",
+      "author": "@OSW_pl",
+      "text": "Komisja Europejska w opublikowanej 2 czerwca opinii  skrytykowała Niemcy (oraz osiem innych państw strefy Schengen, w tym  m. in. Francję, Włochy i Holandię) za utrzymywanie kontroli granicznych. 1/3\n\n#analizaOSW autorstwa @KamilFrymark ⬇️",
+      "likes": 18,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064292137139576834",
+      "author": "@OSW_pl",
+      "text": "7 czerwca w Londynie doszło do spotkania liderów  państw E3 – prezydenta Macrona, kanclerza Merza i  premiera Starmera – z prezydentem Zełenskim. Celem  było skoordynowanie dalszego wsparcia dla Ukrainy oraz omówienie perspektyw rozmów pokojowych z Rosją.",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064065307019272306",
+      "author": "@steve_hanke",
+      "text": "The EU has warned Albania that the construction of Trump's son-in-law Jared Kushner's luxury resort project would jeopardize Albania's accession path to the EU.\n\nThe project has been suspended.\n\nTHE FLAMINGO REVOLUTION HAS LEGS.",
+      "likes": 7107,
+      "retweets": 1522
+    },
+    {
+      "tweet_id": "2063973445051011150",
+      "author": "@GBX_Press",
+      "text": "🚨 JUST IN:\n\nIndia has rejected the proposal from BRICS countries to conduct trade in local currencies instead of the US dollar. It is also stated that Narendra Modi has a pro-Israel stance.",
+      "likes": 6807,
+      "retweets": 1033
+    },
+    {
+      "tweet_id": "2063987705415909878",
+      "author": "@contra_press",
+      "text": "🇧🇴 🇺🇸 | Civil war-type scenes are emerging from Bolivia.\n\nThe government passed a law authorising US-backed President Rodrigo Paz to deploy the military against protesters.\n\nBolivian police and military forces have launched a joint operation to clear strike blockades in San",
+      "likes": 3428,
+      "retweets": 1985
+    },
+    {
+      "tweet_id": "2064254799919419782",
+      "author": "@PUsiadek",
+      "text": "⁨Bruksela zdecydowała. Będziemy podawać PESEL przy zakupach❗\n\nW połowie lipca 2027 roku wchodzi w życie unijne rozporządzenie AMLR — nowy pakiet przepisów przeciwdziałania praniu pieniędzy. Na papierze: walka z przestępczością zorganizowaną.\n\nW praktyce: obowiązkowa weryfikacja",
+      "likes": 2481,
+      "retweets": 943
+    },
+    {
+      "tweet_id": "2064310174307729590",
+      "author": "@RadioZET_NEWS",
+      "text": "Komisja Europejska zaproponowała objęcie zakazem wjazdu do UE wszystkich, którzy służyli w siłach zbrojnych Rosji od początku wojny w Ukrainie.",
+      "likes": 2493,
+      "retweets": 235
+    },
+    {
+      "tweet_id": "2064341043181400379",
+      "author": "@business",
+      "text": "India has effectively frozen approvals for Elon Musk’s space-based internet service Starlink to begin commercial operations, citing concerns over the use of its satellite terminals in the Iran war, according to people familiar.",
+      "likes": 1931,
+      "retweets": 390
+    },
+    {
+      "tweet_id": "2064313424943677486",
+      "author": "@ragipsoylu",
+      "text": "Turkey and Saudi Arabia sign a deal on railway cooperation and connectivity today during meetings in Riyadh \n\nThe deal is a memorandum of understanding which could cover the plans to revive historic Hejaz railway.",
+      "likes": 1564,
+      "retweets": 294
+    },
+    {
+      "tweet_id": "2064373118391419316",
+      "author": "@CanadianCoffey",
+      "text": "BREAKING NEWS:\n\nCanada posts highest trade surplus in 15 months.\n\nExports hit a record high of $75.2 billion driven by oil and gas.\n\nGood thing Trudeau built that pipeline.\n\nWho wants to tell @pierrepoilievre? \n\n💪🇨🇦",
+      "likes": 1286,
+      "retweets": 497
+    },
+    {
+      "tweet_id": "2064334281808506964",
+      "author": "@BullTheoryio",
+      "text": "BREAKING: China is spending $295 billion to replace Nvidia with Huawei across its entire AI infrastructure.\n\nChina announced today it will build a nationwide AI data center network over the next 5 years operated by state firms China Mobile and China Telecom. \n\nAt least 80% of all",
+      "likes": 1057,
+      "retweets": 260
+    },
+    {
+      "tweet_id": "2064435072250351944",
+      "author": "@KobeissiLetter",
+      "text": "China's rare earth export controls are driving prices sharply higher:\n\nYttrium, used in defense, aerospace, and chipmaking, has skyrocketed +14,000% since April 2025, to ~$1,100 per kilogram.\n\nTerbium, used in permanent magnets for electric vehicles and wind turbines, has surged",
+      "likes": 964,
+      "retweets": 179
+    },
+    {
+      "tweet_id": "2064336005239345380",
+      "author": "@USTradeRep",
+      "text": "The United States cut its trade deficit in goods with China by more than 30% in just one year.\n\nBalanced trade in non-sensitive goods will help drive that progress even further.",
+      "likes": 902,
+      "retweets": 192
+    },
+    {
+      "tweet_id": "2064027733265469566",
+      "author": "@business",
+      "text": "The Pentagon identified some of China’s biggest companies including Alibaba, BYD and Baidu as entities that support the Chinese military, in a move that risks provoking new friction with the government in Beijing",
+      "likes": 745,
+      "retweets": 294
+    },
+    {
+      "tweet_id": "2064009382350782893",
+      "author": "@visegrad24",
+      "text": "🇫🇮 NATO officially deploys new Forward Land Forces in Finland (FLF Finland)\n\nNATO has activated its ninth forward combat group on the eastern flank — Forward Land Forces Finland.\n\nThe core of the new unit is a Swedish battalion of around 600 troops, with Sweden serving as the",
+      "likes": 825,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2064519161909547316",
+      "author": "@ikwilson",
+      "text": "Cenovus CEO says proposed pipeline to Canada's west coast currently 'unfinanceable' \n\n\"McKenzie, who heads one of ​Canada's largest ​oil sands companies, said at ‌the ⁠Global Energy Show in Calgary that the country's industrial ​carbon ​pricing ⁠system makes Canadian oil",
+      "likes": 609,
+      "retweets": 273
+    },
+    {
+      "tweet_id": "2064188648782991753",
+      "author": "@Defence_Index",
+      "text": "🇰🇷🇯🇵 SOUTH KOREA DRAWS A LINE: “NO APOLOGY, NO MILITARY DEAL”\n\nA major diplomatic rift is emerging in East Asia as South Korea signals it will NOT expand military cooperation with Japan unless Tokyo issues a “genuine apology” over historical grievances.\n\nPresident Lee Jae Myung",
+      "likes": 619,
+      "retweets": 150
+    },
+    {
+      "tweet_id": "2064380752066674856",
+      "author": "@Reuters",
+      "text": "Yemen's Iran-aligned Houthis said that they would ban ships linked to Israel from the Red Sea after Israel renewed its military attacks on Iran. Here’s a look at what it could mean for the Iran war and its impact on the global energy market",
+      "likes": 550,
+      "retweets": 114
+    },
+    {
+      "tweet_id": "2063884394792648909",
+      "author": "@clashreport",
+      "text": "Asian tech stocks fell sharply on Monday after a record rally, with South Korea’s Kospi dropping nearly 9% at the open and triggering a 20-minute trading halt.\n\nJapan’s Nikkei also fell about 4.5% as investors sold major technology shares.",
+      "likes": 479,
+      "retweets": 121
+    },
+    {
+      "tweet_id": "2064305755931734239",
+      "author": "@MFA_China",
+      "text": "China has banned the export of dual-use items to Japanese military users or for military use to stop Japan from remilitarizing itself and attempting to go nuclear.",
+      "likes": 442,
+      "retweets": 101
+    },
+    {
+      "tweet_id": "2063927767344074993",
+      "author": "@Reuters",
+      "text": "Nvidia announced a series of deals in South Korea with tech giants including SK Hynix and Naver, as it looks to secure crucial memory chips to power its AI ambitions and entice new customers",
+      "likes": 434,
+      "retweets": 74
+    },
+    {
+      "tweet_id": "2063910529974825192",
+      "author": "@Schuldensuehner",
+      "text": "Good Morning from Germany where factory orders fell more than expected in April due to the automotive industry and electrical equipment, adding to concerns that Europe’s largest economy could contract in the second quarter. New orders in the German manufacturing sector fell by",
+      "likes": 258,
+      "retweets": 68
+    },
+    {
+      "tweet_id": "2064052114775814198",
+      "author": "@GPW_Trader2022",
+      "text": "Dziś Rada UE 🇪🇺  przyjęła nowe przepisy ograniczające import stali, które wejdą w życie od 1 lipca 2026. Bardzo ważne dla JSW⚒️, Cognor🏭, Stalprodukt 🏭\n1. Zmniejszenie bezcłowych kontyngentów o 4⃣7⃣%\n2.Podwojenie ceł na import stali z 2⃣5⃣% na 5⃣0⃣%\n3.W lipcu ma być mocne",
+      "likes": 211,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2064475124586414192",
+      "author": "@MarioNawfal",
+      "text": "🇨🇳 China’s playing dirty with rare earths again:\n\n- Yttrium prices just exploded +14,000%. \n- Terbium +350%. \n- Dysprosium +450%. \n\nAll since their April export bans hit back at Trump’s tariffs.\n\nExports of these critical minerals? Down 50-60%.\n\nChina is weaponizing its monopoly",
+      "likes": 194,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2064343333489553485",
+      "author": "@nexta_polska",
+      "text": "🇵🇱 Polska nie będzie blokować przystąpienia Ukrainy do UE, ale jest pewien haczyk\n\nWedług premiera Polski Donalda Tuska Kijów nie powinien otrzymać żadnych specjalnych warunków ani przywilejów na drodze do członkostwa w Unii Europejskiej.",
+      "likes": 234,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2064557860424675693",
+      "author": "@Irantimes01",
+      "text": "Iran has launched a wave of ballistic missile strikes targeting US military installations across the Middle East, with explosions reported in Bahrain.",
+      "likes": 204,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2063859584012341451",
+      "author": "@jacekzarzecki",
+      "text": "Od 14 czerwca w całej UE na słoikach z miodem musi być lista wszystkich krajów pochodzenia, w kolejności od największego do najmniejszego, ze wskazaniem % udziału dla każdego. \nOznacza to koniec enigmatycznych etykiet „mieszanka miodów z UE i spoza UE”. \nWreszcie zobaczymy, skąd",
+      "likes": 200,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2064378259773509707",
+      "author": "@business",
+      "text": "Germany will undertake a strategic effort to become a global leader in aviation over the next 15 years, with focused investment in military aircraft manufacturing, sustainable fuels and top technology",
+      "likes": 181,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2064369760725299698",
+      "author": "@BonnieGlaser",
+      "text": "US asks China to resume rare-earth exports to Japan \n via @NikkeiAsia",
+      "likes": 115,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2064573302266315023",
+      "author": "@IndianTechGuide",
+      "text": "🚨 India opens ISRO’s LVM3 rocket technology for transfer to private companies. (BL)",
+      "likes": 150,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064027786386231424",
+      "author": "@wirtualnapolska",
+      "text": "🔴 Pochówek Bandery w Ukrainie odłożony. Kijów chce rozmawiać\n\nTrwają intensywne rozmowy o kompromisie, który miałby zatrzymać narastający kryzys dyplomatyczny na linii Polska - Ukraina. Z ustaleń WP wynika, że otoczenie Wołodymyra Zełenskiego szuka sposobu na wycofanie się z",
+      "likes": 118,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2064343601996288353",
+      "author": "@JFCNorfolk",
+      "text": "Let's get it started!✈️\n\nExercise Ramstein Flag 2026 has officially commenced, bringing together Allied airpower to strengthen readiness, interoperability and collective defence from the northern reaches of Norway to the southern skies of Spain. \n\nThis year's exercise, as a part",
+      "likes": 100,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2064354560626299149",
+      "author": "@ColdBrief",
+      "text": "Turkey and Saudi Arabia signed a railway cooperation MoU in Riyadh, advancing plans for a modern Hejaz Railway revival - a rail corridor linking Saudi Arabia through Jordan and Syria to Turkey.",
+      "likes": 115,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064417003398443057",
+      "author": "@robin_j_brooks",
+      "text": "China's exports to Zimbabwe are up 130% in the first four months of 2026 versus 2024. This is how China survived the US tariff shock. It unloaded all the stuff it couldn't sell to the US on small, often impoverished countries who can't afford this stuff...",
+      "likes": 92,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2064366752838910018",
+      "author": "@Schuldensuehner",
+      "text": "Hello from Germany, where foreign trade remains stuck in a rut. The trade surplus narrowed from €14.7bn in March to €14.5bn in April, its lowest level since Nov2025, as imports rose 1.2% MoM and outpaced exports, which increased by 0.9% MoM.",
+      "likes": 92,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2064298487957598535",
+      "author": "@MiddleEastMnt",
+      "text": "Israeli media reports say the United States is seeking clarification regarding expanding military and security contacts between Egypt and Turkey amid concerns that closer cooperation between the two regional powers could reshape strategic dynamics in the Eastern Mediterranean.",
+      "likes": 69,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2063994877545677298",
+      "author": "@ArmyRecognition",
+      "text": "U.S. Approves 766 Boeing JDAM Smart Bomb Kits for South Korea to Target Hardened Military Sites",
+      "likes": 92,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064246985394094488",
+      "author": "@DariuszKlimczak",
+      "text": "➡️ Podczas posiedzenia Rady UE ds. Transportu w Luksemburgu zbudowaliśmy grupę państw, która zablokowała tzw. zazielenianie flot.\n\n🚙To ważny sukces Polski 🇵🇱 i jasny sygnał: zielona transformacja musi być rozsądna i oparta na realiach rynku - a nie na odgórnych nakazach.\n\nNie",
+      "likes": 62,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2064129115699945484",
+      "author": "@Reuters",
+      "text": "Germany deepens Canada energy ties with provisional LNG deal",
+      "likes": 66,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2064483882083193092",
+      "author": "@jackprandelli",
+      "text": "🚨Yttrium is up 14,000%... Not a typo. \n\nChina's rare earth export controls are the most underreported supply shock running right now.\n\n3 numbers:\n\n→ Yttrium: +14,000% since April 2025 → $1,100/kg\n→ Dysprosium: +450% → $1,450/kg\n→ Terbium: +350% → $4,500/kg\n\nThese are not",
+      "likes": 41,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2063999509777269171",
+      "author": "@KoreaElect69833",
+      "text": "After the local elections, the Lee Jae-myung administration has moved to replace Prime Minister Kim Min-seok with Han Seong-sook, the minister responsible for startups and venture business.\n\nFollowing an ambiguous election result — a sweeping national victory for the Democratic",
+      "likes": 43,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2064237040984530946",
+      "author": "@WSJ",
+      "text": "Industrial production in Germany rebounded slightly in April, helped by recent gains in new orders after firms stockpiled inventory to prepare for sharply higher energy prices caused by the war in the Middle East.",
+      "likes": 33,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2063971745732710869",
+      "author": "@komarglobal",
+      "text": "📉 Asian Markets Sink as AI Bubble Fears Hit Tech Stocks\n​\nSouth Korea’s KOSPI collapsed by more than 8% in one day, forcing trading to halt after a circuit breaker was triggered.\n​\n➡Samsung and SK Hynix, which had carried the market higher on the AI wave, fell by 10% or more.",
+      "likes": 24,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2064565036929237177",
+      "author": "@commiepommie",
+      "text": "🇺🇸🇯🇵 The US asked China to keep supplying rare earths to Japan. Beijing refused 🇨🇳\n\nOn Tuesday, China’s Foreign Ministry confirmed the rare earth export restrictions on Japanese military procurement will remain in place. Without exceptions and no silent reversals. After Tokyo’s",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2064374186936517087",
+      "author": "@business",
+      "text": "Meta has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses",
+      "likes": 24,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2063959682121699744",
+      "author": "@IranIntl_En",
+      "text": "The European Union approved sanctions on Monday against Iranian individuals and entities involved in disrupting transit through the Strait of Hormuz, EU foreign policy chief Kaja Kallas said, marking the first use of the bloc's new freedom of navigation sanctions regime.",
+      "likes": 20,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2063908904300663247",
+      "author": "@Saudi_Gazette",
+      "text": "Seven OPEC+ countries have agreed to increase their combined crude oil output targets by 188,000 barrels per day (bpd) in July.",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064421922239111407",
+      "author": "@Spa_Eng",
+      "text": "Saudi Arabia, Yemen Sign $150 Million Petroleum Supply Deal to Support Energy Sector, Power Plants.\n\n#SPAGOV",
+      "likes": 12,
+      "retweets": 0
+    }
+  ]
+}

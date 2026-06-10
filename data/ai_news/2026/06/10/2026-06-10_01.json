@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-10",
+  "slot": "01",
+  "generated_at": "2026-06-10T05:12:54Z",
+  "tweets": [
+    {
+      "tweet_id": "2064327225504403752",
+      "author": "@bcherny",
+      "text": "Just landed nested subagent support in Claude Code\n\nStarting to experiment more with agents kicking off agents as a way to better manage context. Capped at depth=5 to start, going out in today’s release.\n\nLmk what you think!",
+      "likes": 5209,
+      "retweets": 264
+    },
+    {
+      "tweet_id": "2064028260070215772",
+      "author": "@reach_vb",
+      "text": "codex tip: give codex a clear outcome to work towards\n\ntell codex what you want to achieve, how it can verify it got there, then let it keep going until it does\n\nfor example: “make the build faster” is quite vague\n\n“measure the production build on vercel, keep going until it’s",
+      "likes": 379,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2064044955421769755",
+      "author": "@reach_vb",
+      "text": "Codex tip: Do yourself a favor and switch to using \"Approve for me\" by default\n\nYou should not let your coding agent run free without any checks but also approving each tool call isn't the way\n\n\"Approve for me\" is a good middle ground as it let codex review each tool call and",
+      "likes": 363,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2064477429071286719",
+      "author": "@jerryjliu0",
+      "text": "LiteParse, our open-source/Rust-based doc parser, runs so quickly that Claude Fable 5 doesn't think it's real 🔥\n\nIt is the fastest document parsing solution on the planet and a great choice for your AI document workloads.\n\nCheck it out:",
+      "likes": 105,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064292837403799982",
+      "author": "@rpl_0x",
+      "text": "Warty przeczytania artykuł od zespołu claude o tym kiedy i dlaczego lepiej w dokumentacjach wewnętrznych i plikach procesowych sprawdzi się format html, a kiedy md - dotyczczas używany za jedyny słuszny\n\nclaude (.) com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2063904995259683274",
+      "author": "@sentient_agency",
+      "text": "This Shouldn't Be Free\n\nUnderstand Anything is a plugin that maps any codebase into a searchable, interactive knowledge graph and works across Claude Code, Cursor, Copilot, Gemini CLI, Codex, and more.\n\nNow engineering teams get instant visual documentation of every project,",
+      "likes": 18,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064460042024128525",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli chcesz skorzystać z premiery nowego Claude 5 Mythos/Fable - ale nie chcesz ponosić ogromych kosztów - przetestuj strategię zarządca + wykonawca.\n\nMythos/Fable jako zarządca, Opus jako wykonawca.\n\nPowinieneś odczuć skok możliwości, przy minimalnej różnicy kosztów",
+      "likes": 9,
+      "retweets": 1
+    }
+  ]
+}
