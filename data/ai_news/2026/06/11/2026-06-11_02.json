@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-11",
+  "slot": "02",
+  "generated_at": "2026-06-11T18:20:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2064741174317924421",
+      "author": "@claudeai",
+      "text": "New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\n\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.",
+      "likes": 4613,
+      "retweets": 324
+    },
+    {
+      "tweet_id": "2064622917028094176",
+      "author": "@reach_vb",
+      "text": "Codex Mobile updates:\n\n- choose a branch, create a worktree, and run setup scripts for new threads\n- new Codex profile with usage stats and token activity charts\n- create and manage /goal from mobile\nadd inline review comments to changed files\n- start side chats from selected",
+      "likes": 317,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2064477429071286719",
+      "author": "@jerryjliu0",
+      "text": "LiteParse, our open-source/Rust-based doc parser, runs so quickly that Claude Fable 5 doesn't think it's real 🔥\n\nIt is the fastest document parsing solution on the planet and a great choice for your AI document workloads.\n\nCheck it out:",
+      "likes": 239,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2065079108959363290",
+      "author": "@svpino",
+      "text": "Claude Code is already powerful, but you can make it dramatically better and ~60% cheaper with this MCP server.\n\nWe tested the same speech-to-text benchmarking task two ways:\n\n1. Using Claude Code alone\n2. Claude Code + @withneo MCP\n\nSame hardware. Same model.\n\nClaude Code cost",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064799879352959085",
+      "author": "@XiaomiMiMo",
+      "text": "🚀 MiMo Code V0.1 is now live and open-source！\n\nMore than an AI coding assistant in your terminal — it's the smartest coding partner you'll ever work with.\n\nComes with MiMo V2.5, a multimodal model available free for a limited time, featuring a million-token context window—ready",
+      "likes": 2342,
+      "retweets": 235
+    },
+    {
+      "tweet_id": "2064416312605237434",
+      "author": "@vllm_project",
+      "text": "🚀Day-0 support for @cohere's  North Mini Code on vLLM!  \n\nReady to serve with the latest vLLM stable release, this open-source coding model is built for agentic workflows: \n🧩 30B total / 3B active — Mixture-of-Experts \n📏 256K context, 64K max generation \n🛠️ Reasoning, tool",
+      "likes": 104,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2065011214783262846",
+      "author": "@aiedge_",
+      "text": "Claude Fable + /loop is f*cking insane...\n\nYou can run AI agents for HOURS with zero manual intervention.\n\nHere's the exact playbook:\n\nStep 1. Claude update\n\nYou need v2.1.170+ to access Fable 5.\n\nStep 2. Switch to Fable 5\n\nclaude --model claude-fable-5\n\nOr type /model inside a",
+      "likes": 29,
+      "retweets": 3
+    }
+  ]
+}
