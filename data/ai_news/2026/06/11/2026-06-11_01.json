@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-11",
+  "slot": "01",
+  "generated_at": "2026-06-11T05:14:49Z",
+  "tweets": [
+    {
+      "tweet_id": "2064394146916229443",
+      "author": "@claudeai",
+      "text": "Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.\n\nIts capabilities exceed those of any model we’ve ever made generally available.",
+      "likes": 101168,
+      "retweets": 14134
+    },
+    {
+      "tweet_id": "2064409694761054332",
+      "author": "@karpathy",
+      "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward",
+      "likes": 24277,
+      "retweets": 2251
+    },
+    {
+      "tweet_id": "2064431111154053187",
+      "author": "@bcherny",
+      "text": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstalled my IDE when I realized that I’d been doing 100% of my coding in a terminal for a few weeks. With Fable, it’s felt like Claude has stepped up from being a",
+      "likes": 10085,
+      "retweets": 564
+    },
+    {
+      "tweet_id": "2064327225504403752",
+      "author": "@bcherny",
+      "text": "Just landed nested subagent support in Claude Code\n\nStarting to experiment more with agents kicking off agents as a way to better manage context. Capped at depth=5 to start, going out in today’s release.\n\nLmk what you think!",
+      "likes": 5613,
+      "retweets": 295
+    },
+    {
+      "tweet_id": "2064757537992249734",
+      "author": "@claudeai",
+      "text": "Michael Truell (@mntruell) fell in love with coding at 12. The company he co-founded, @cursor_ai, went from 15 people to 700 in two years.\n\nToday, over 60% of the Fortune 500 build with its AI coding platform.",
+      "likes": 4959,
+      "retweets": 225
+    },
+    {
+      "tweet_id": "2064402671898075579",
+      "author": "@bcherny",
+      "text": "Fable 5 is now available in Claude Code and Cowork\n\nFable is the best model I have used for coding, by a wide margin. It is a big step up, enabling less prompts and steers, more efficient token use, better code quality, better tool use, more intelligent self-verification, longer",
+      "likes": 4349,
+      "retweets": 300
+    },
+    {
+      "tweet_id": "2064783418844762489",
+      "author": "@AnthropicAI",
+      "text": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it.\n\nWe're launching three new initiatives to support the",
+      "likes": 4253,
+      "retweets": 337
+    },
+    {
+      "tweet_id": "2064741174317924421",
+      "author": "@claudeai",
+      "text": "New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\n\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.",
+      "likes": 4016,
+      "retweets": 272
+    },
+    {
+      "tweet_id": "2064366504112505266",
+      "author": "@GoogleAI",
+      "text": "Today, we released Gemini 3.5 Live Translate, our latest audio model for live speech-to-speech translation.\n\nIt supports over 70 languages and starts translating as soon as you start talking, streaming translations while listening to what you say next. No awkward pauses or choppy",
+      "likes": 2868,
+      "retweets": 374
+    },
+    {
+      "tweet_id": "2064426115255730578",
+      "author": "@bcherny",
+      "text": "We talk a lot about how important it is to set up self-verification loops. Especially in the age of powerful models that can run for long periods of time, self-verification is a key ingredient that enables the model to run for much longer, delivering a result that is closer to",
+      "likes": 2871,
+      "retweets": 229
+    },
+    {
+      "tweet_id": "2064469227499929651",
+      "author": "@bcherny",
+      "text": "Enjoy!",
+      "likes": 2932,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2064885111477219664",
+      "author": "@bcherny",
+      "text": "Hello from Code with Claude Tokyo!!",
+      "likes": 1345,
+      "retweets": 61
+    },
+    {
+      "tweet_id": "2064410506287538387",
+      "author": "@NotebookLM",
+      "text": "Notebooks in @GeminiApp are now 100% rolled out in Europe!\n\nWe're so excited to hear what you think! Thank you for your patience 🙏",
+      "likes": 657,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2064622917028094176",
+      "author": "@reach_vb",
+      "text": "Codex Mobile updates:\n\n- choose a branch, create a worktree, and run setup scripts for new threads\n- new Codex profile with usage stats and token activity charts\n- create and manage /goal from mobile\nadd inline review comments to changed files\n- start side chats from selected",
+      "likes": 314,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2064477429071286719",
+      "author": "@jerryjliu0",
+      "text": "LiteParse, our open-source/Rust-based doc parser, runs so quickly that Claude Fable 5 doesn't think it's real 🔥\n\nIt is the fastest document parsing solution on the planet and a great choice for your AI document workloads.\n\nCheck it out:",
+      "likes": 230,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2064519456966205905",
+      "author": "@jerryjliu0",
+      "text": "Claude Fable 5 thinks document parsing is beneath it\n\nIt is absolutely crushing on all reasoning-intensive/long horizon benchmarks: SWE-Bench Pro, FrontierCode,  GDPval, Runescape, etc.\n\nBut for document understanding tasks, it is roughly equivalent with Gemini 3 Flash in",
+      "likes": 215,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2064479193988206933",
+      "author": "@jerryjliu0",
+      "text": "As frontier models (e.g. Fable 5) continue to push the task horizon of knowledge work automation, it becomes ever more important for humans to be able to audit decisions back to the source context.\n\nIt is extremely easy for agents to cite an entire document or document page, but",
+      "likes": 149,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2064646259315736999",
+      "author": "@sentient_agency",
+      "text": "MIT charges $80,000/year.\nBerkeley charges $70,000/year.\n charges nothing.\n\nIt's a single webpage that gives you the exact CS curriculum both schools teach, with the best book and the best free video course for each subject, in the right order.\n\n→",
+      "likes": 126,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2064887641859088701",
+      "author": "@jerryjliu0",
+      "text": "Up until yesterday, our entire MTS team has operated under the philosophy of tokenmaxxing as much as possible on Claude Max plans.\n\nWith Fable, this may no longer be possible:\n- One of our team members hit his limit 3 times yesterday and used the equivalent of $1.5k in 10 hours",
+      "likes": 145,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2064780226706407558",
+      "author": "@reach_vb",
+      "text": "what’s the wildest thing you built with codex so far?",
+      "likes": 125,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064914885159592136",
+      "author": "@jerryjliu0",
+      "text": "If the knicks could pull that comeback then openai can come back against anthropic",
+      "likes": 116,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2064442746547618206",
+      "author": "@nauczymycieAI",
+      "text": "Właśnie dostaliśmy dostęp do Claude Mythosa (Fable). I jego premiera to dla większości z nas bardzo zła wiadomość.\n\nZgodnie z oczekiwaniami, Mythos wyciera konkurencją podłogę w wielu benchmarkach dotyczących codziennej pracy. \n\nUżytkownicy, którzy mieli wcześniejszy dostęp",
+      "likes": 102,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2064326898034118785",
+      "author": "@svpino",
+      "text": "Measuring AI productivity in \"number of lines written\" is a stupid mistake.\n\nOne Day, Everyone Will Have Always Been Against This.",
+      "likes": 101,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2064408259184964036",
+      "author": "@jerryjliu0",
+      "text": "We've got 13 days to burn as much tokens as humanly possible on Claude Max plans \n\nBefore they revert to API based billing 💀",
+      "likes": 94,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064688027478499785",
+      "author": "@svpino",
+      "text": "If my boat sinks and I end up stranded on a deserted island, and the only way to get back to civilization is to send an email using Outlook on a Windows laptop, they’ll name the island after me when they find my bones.",
+      "likes": 69,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2064365145615380538",
+      "author": "@hwchase17",
+      "text": "loops are great because its just ai running in the background\n\n\"triggers\" are the way we kick those off in fleet",
+      "likes": 58,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064835754061435391",
+      "author": "@hwchase17",
+      "text": "first in a series of technical blogs of how we build llm infra",
+      "likes": 55,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064728135137190243",
+      "author": "@jerryjliu0",
+      "text": "This is a great article on how startups/frontier labs can coexist. Another way to look at this is task complexity - the number of bits of information needed to specify a task such that AI can solve the task above a threshold of accuracy:\n\n* If the minimum number of bits is low",
+      "likes": 45,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064755215140831439",
+      "author": "@svpino",
+      "text": "We are getting 2 new devices from NVIDIA and Microsoft:\n\n1. The DGX Station, with GB300 superchip and up to 748GB of memory.\n\n2. The RTX Spark laptop, with 1 petaflop of AI performance and 128GB of unified memory.\n\nThe hardware here is pretty bonkers!\n\nThink about it this way:",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2064212493321543829",
+      "author": "@jerryjliu0",
+      "text": "Agent filesystems are the new RAG \n\nIt seems like this pattern is around to stay and will only get more robust over time. Agents need tools to not only read and search over documents, but an entire infra+application layer to generate new files, collaborate with humans, organize",
+      "likes": 42,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064777235869892743",
+      "author": "@nauczymycieAI",
+      "text": "Coraz więcej kontrowersji wokół premiery Mythosa/Fable.\n\nO premierze szerzej pisałem wczoraj - jeżeli nie miałeś jeszcze okazji się zapoznać - zapraszam na mój profil.\n\nTeraz zaczynają pojawiać się doniesienia o kolejnych kontrowersyjnych decyzjach, które podjęło Anthropic.",
+      "likes": 44,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064451766046101879",
+      "author": "@svpino",
+      "text": "This is so freaking cool!\n\nWhen I'm in Spain, I never go to the movie theater if they only play dubbed movies. Horrible experience watching Hollywood actors speak with a Spanish accent in voices that aren't theirs.\n\nThis will make all of that go away.\n\nBy the way,  I just got",
+      "likes": 38,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064292837403799982",
+      "author": "@rpl_0x",
+      "text": "Warty przeczytania artykuł od zespołu claude o tym kiedy i dlaczego lepiej w dokumentacjach wewnętrznych i plikach procesowych sprawdzi się format html, a kiedy md - dotyczczas używany za jedyny słuszny\n\nclaude (.) com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064623543929708882",
+      "author": "@nauczymycieAI",
+      "text": "W związku z premierą potężnego - i bardzo drogiego Mythosa - warto wdrożyć metody oszczedzajace tokeny.\n\nWiększość użytkowników realnie marnuje 50%+ swoich tokenów.\n\nJak to rozwiązać opisywałem poniżej - i na swoim blogu",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2064410767701823611",
+      "author": "@svpino",
+      "text": "This is not the first tool to promise AI-backed analytics.\n\nI've tried a ton, some better than others, but most suffer from hallucinations.\n\nThere are 3 things these guys are doing that I like:\n\n1. Showing you the SQL they ran to give you the results. Assuming you can read SQL,",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064301138065977728",
+      "author": "@sentient_agency",
+      "text": "I'm going to stop paying my marketing consultant because of this.\n\nA well-known marketer named Corey Haines open-sourced his entire playbook as skills you drop into Claude Code, and your AI agent instantly knows how to run real marketing.\n\nIt's called marketingskills.\n\nNot",
+      "likes": 15,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064460042024128525",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli chcesz skorzystać z premiery nowego Claude 5 Mythos/Fable - ale nie chcesz ponosić ogromych kosztów - przetestuj strategię zarządca + wykonawca.\n\nMythos/Fable jako zarządca, Opus jako wykonawca.\n\nPowinieneś odczuć skok możliwości, przy minimalnej różnicy kosztów",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064356953669730336",
+      "author": "@nauczymycieAI",
+      "text": "Według rynków predykcyjnych - jest spora szansa, że Mythosa dostaniemy już dzisiaj.\n\nTrzymam za to kciuki - premiera Mythosa rozwieje wiele pytań i wątpliwości wokół AI",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064820589869830460",
+      "author": "@hwchase17",
+      "text": "Are you going to be in Chicago on June 22?\n\nDo you want to talk about deepagents?\n\nIf so - come by our LangChain x @focused_dot_io meetup!",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064841869625094510",
+      "author": "@hwchase17",
+      "text": "future of travel!",
+      "likes": 16,
+      "retweets": 0
+    }
+  ]
+}
