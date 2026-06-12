@@ -1,0 +1,296 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-12",
+  "slot": "01",
+  "generated_at": "2026-06-12T05:21:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2064630370121756779",
+      "author": "@OSW_pl",
+      "text": "Siły rosyjskie zintensyfikowały ataki na ukraińską  logistykę, niszcząc bądź uszkadzając duże powierzchnie magazynowe na bezpośrednim zapleczu frontu.\n\nStałymi celami agresora pozostawały infrastruktura  energetyczna, przemysłowa i transportowa.",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064698276209721662",
+      "author": "@OSW_pl",
+      "text": "61% Ukraińców odrzuca możliwość zawieszenia broni  wzdłuż obecnej linii frontu, jeśli Ukraina nie otrzyma gwarancji  bezpieczeństwa oraz zwiększonych dostaw uzbrojenia i środków finansowych. Takie rozwiązanie byłoby gotowych poprzeć 32% respondentów.\n\n➡️",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2065063979773272195",
+      "author": "@OSW_pl",
+      "text": "Przedterminowe wybory w Kosowie (7 czerwca), nie przyniosły jednoznacznego rozstrzygnięcia. To trzecie podejście do urn w ciągu 18 miesięcy.\n\nInstytucje UE i państwa członkowskie zaapelowały o porozumienie między partiami i utworzenie stabilnej większości.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2064978337596842151",
+      "author": "@Coinvo",
+      "text": "JUST IN: 🇺🇸🇸🇦 The U.S. is now the world's largest oil producer, dethroning Saudi Arabia.",
+      "likes": 11460,
+      "retweets": 829
+    },
+    {
+      "tweet_id": "2064636367598932071",
+      "author": "@GudadzeLevan",
+      "text": "The EU is demanding that Georgia impose sanctions against Russia in exchange for maintaining a visa-free regime, said the speaker of the country's parliament, Shalva Papuashvili.\n\n“They are telling us that if we want visa-free travel, we must impose sanctions against Russia, that",
+      "likes": 4218,
+      "retweets": 1457
+    },
+    {
+      "tweet_id": "2065064056604541192",
+      "author": "@IndianTechGuide",
+      "text": "🚨 India has overtaken the United States to become the world's second-largest contributor to construction growth between 2020 and 2030, behind only China. \n\nShare of global construction growth by volume between 2020 and 2030:\n\nChina - 26.1%\nIndia - 14.1%\nUSA - 11.1%",
+      "likes": 4555,
+      "retweets": 455
+    },
+    {
+      "tweet_id": "2064637652695966007",
+      "author": "@WSJ",
+      "text": "Taiwan fired U.S. mobile missile launchers into the strategic waters directly facing China for the first time, sending a message of resolve to Beijing and Washington",
+      "likes": 2599,
+      "retweets": 694
+    },
+    {
+      "tweet_id": "2064895213282414756",
+      "author": "@WarintheFuture",
+      "text": "Ukraine has just struck a Russian defence plant with its new long-range FP-5 missiles and damaged a key bridge to Crimea. Things keep getting worse for Putin and Gerasimov. My Part 2 assessment of Russia's losing war,  and how Putin might reverse things. 1/5 🧵",
+      "likes": 2293,
+      "retweets": 367
+    },
+    {
+      "tweet_id": "2064737832519008572",
+      "author": "@Unveiled_ChinaX",
+      "text": "Two Chinese international students claiming to be casual tourists just got hit with espionage convictions after running a year-long drone surveillance operation over a nuclear-powered U.S. aircraft carrier. In a landmark legal move against foreign intelligence threats, the",
+      "likes": 1166,
+      "retweets": 526
+    },
+    {
+      "tweet_id": "2064713841066295755",
+      "author": "@WarMonitor3",
+      "text": "Russia is starting to build massive military infrastructure near the Baltic nations and Finland intelligence reports suggest up to 115,000 additional troops may be deployed in the near future with bases being expanded or built in:\n-Petsamo 10km away from Norway \n-Petrozavodsk,",
+      "likes": 1358,
+      "retweets": 283
+    },
+    {
+      "tweet_id": "2065033507219353799",
+      "author": "@rkmtimes",
+      "text": "JUST IN🇨🇳🇮🇷❌🇺🇸🔥 China and Iran signed a $400b economic, energy, trade, technology and security cooperation in a 25-year Comprehensive Strategic Partnership.",
+      "likes": 1234,
+      "retweets": 255
+    },
+    {
+      "tweet_id": "2064799763682521362",
+      "author": "@Electroversenet",
+      "text": "Germany currently has about 26 gigawatt hours of battery storage. Most of it sits in home batteries with only 4.3 gigawatt hours actually serving the grid.\n\nBuilding that storage already cost more than 10 billion euros and at national demand levels it only covers roughly 30",
+      "likes": 972,
+      "retweets": 462
+    },
+    {
+      "tweet_id": "2065086360847786329",
+      "author": "@KyivIndependent",
+      "text": "⚡️ Ukraine's drone advantage over Russia grows as nearly 180,000 military targets struck in May, Syrskyi says.\n\nUkraine currently maintains a 1.5-to-1 advantage over Russian forces in the use of FPV drones, with the gap continuing to widen in recent months, Commander-in-Chief",
+      "likes": 694,
+      "retweets": 166
+    },
+    {
+      "tweet_id": "2064768724855370238",
+      "author": "@WhaleInsider",
+      "text": "JUST IN: 🇺🇸🇨🇳 U.S. imposes sanctions on multiple Chinese companies for supporting Iran.",
+      "likes": 652,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2064938950507262213",
+      "author": "@jukan05",
+      "text": "Reuters: U.S. officials have visited China multiple times and urged the Chinese side to resolve the InP export controls, but China is still causing delays in export approvals.\n\nAs a result, U.S. photonic chip manufacturers that need InP are facing difficulties.\n\nHowever, China",
+      "likes": 609,
+      "retweets": 84
+    },
+    {
+      "tweet_id": "2065048149543305418",
+      "author": "@steve_hanke",
+      "text": "#TurkeyWatch🇹🇷: Erdoğan says Israel’s attacks on Syria and Lebanon now threaten Turkey.\n\nTurkey has halted trade with Israel and warned that any violation of Turkish rights in the Eastern Mediterranean will trigger a “clear and strong” response.\n\nSUPPORTED BY THE TURKISH PUBLIC,",
+      "likes": 543,
+      "retweets": 124
+    },
+    {
+      "tweet_id": "2064762383424254324",
+      "author": "@JohannaNyman5",
+      "text": "A former employee of the Swedish Armed Forces has been charged with attempted espionage for Russia after allegedly trying to pass sensitive security information to Russian intelligence. He is currently in custody in Sweden.",
+      "likes": 433,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2065022225900585354",
+      "author": "@GudadzeLevan",
+      "text": "🇷🇺🇹🇷 Finns are complaining that Russia, for the first time in many years, has started building a new military base near the Finnish border\n\nThe construction was discovered in the Novaya Vilga area near Petrozavodsk. It is claimed that the base is designed to accommodate 4–6",
+      "likes": 437,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2065095640921907540",
+      "author": "@War_Radar2",
+      "text": "JUST IN: 🇷🇺🇺🇦 After repeated devastating Ukrainian drone attacks exposing serious gaps in its air defenses, Russia has rolled out the “Zubr” anti drone system, essentially a quad mounted set of 7.62mm Kalashnikov machine guns with radar tracking.",
+      "likes": 434,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2064636669375267290",
+      "author": "@Defence_Index",
+      "text": "🇨🇳🇺🇸🇯🇵 NEW: China has rejected a U.S. request to ease rare earth export restrictions on Japan.\n\nBeijing says the controls target military end use materials and will remain in place, signaling its willingness to use dominance in critical minerals as strategic leverage.\n\nAs",
+      "likes": 340,
+      "retweets": 73
+    },
+    {
+      "tweet_id": "2065003915356127568",
+      "author": "@trainofangels00",
+      "text": "India says it will now make Canada a major crude oil supplier to fuel its energy needs.\n\nIndia's new refineries are built specifically for heavy crude.\n\nThis is part of a massive trade partnership and reinforces clear evidence of Canadas now visible pivot away from the US to",
+      "likes": 240,
+      "retweets": 90
+    },
+    {
+      "tweet_id": "2064620480372642098",
+      "author": "@Defence_Index",
+      "text": "⚡🇫🇷☢️🇪🇺 France unveils biggest nuclear doctrine shift in decades, expands European deterrence role\n\nFrance is overhauling its nuclear strategy, increasing its arsenal and opening the door for selected European allies to take part in French nuclear deterrence operations.",
+      "likes": 249,
+      "retweets": 71
+    },
+    {
+      "tweet_id": "2065029171584159980",
+      "author": "@KGawkowski",
+      "text": "JEST! Ustawa o AI właśnie przyjęta przez Sejm! Praktycznie JEDNOGLOŚNIE! 💪🌐\n\nZrobiliśmy kolejny milowy krok w stronę innowacyjnej Polski!\n\nUstawa to nie tylko rozwój polskiego AI ale to także wsparcie dla nauki i biznesu. \n\nWe wtorek Rada Ministrów przyjęła Strategię Cyfryzacji",
+      "likes": 224,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2065138512450785663",
+      "author": "@DropSiteNews",
+      "text": "🚨 Trump says he has canceled planned U.S. strikes on Iran after negotiations were “brought to the highest level of Iranian leadership and approved.”\n\nIn a Truth Social post, President Trump claimed that the “final points” of a deal had been approved by the U.S., Iran, Israel,",
+      "likes": 209,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2064919388411883930",
+      "author": "@jukan05",
+      "text": "▶ AI servers squeeze high-end MLCC supply, sending Taiwan firms toward China alternatives\n\n- Expanding demand from AI servers and high-voltage EVs is tightening the global supply of high-end MLCCs; to cope with lengthening lead times, some Taiwanese supply-chain players are",
+      "likes": 236,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2065032220310438251",
+      "author": "@MarhelmData",
+      "text": "Historic shift in global oil trade: The US has become the world’s largest oil exporter for a 3rd straight month, shipping 10.5m bpd in May vs 7.0m bpd from Russia and 5.9m bpd from Saudi Arabia. US crude &amp; liquids output has surged to 22m bpd, reshaping global energy flows.",
+      "likes": 219,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2065059394316898525",
+      "author": "@CNBC",
+      "text": "Iran will consider all of Elon Musk’s companies in the Middle East, including SpaceX’s Starlink internet service, as military targets as it retaliates against the U.S., Iranian state media outlet Fars reported Thursday.\n\nIran is targeting “all interests related to economic",
+      "likes": 204,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2065079355944898943",
+      "author": "@Piechocinski",
+      "text": "Polska ma już 233 dostarczone czołgi Abrams, a do końca roku liczba ta wzrośnie do 366 egzemplarzy - w tym 116 w starszej wersji M1A1FEP (dostarczono już wszystkie) oraz 250 w najnowszej wersji M1A2 SEPv3, z których 117 już odebrano.\n\nJesteśmy największym użytkownikiem",
+      "likes": 179,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2064996063702867988",
+      "author": "@EVCurveFuturist",
+      "text": "Australia's emissions are falling fast. Transport emissions are declining, batteries cut evening gas use by 30%, EVs now account for 27% of new car sales, and renewables supply over half the grid.\n\nThe transition is being driven by accelerating EV adoption, rapid renewable energy",
+      "likes": 123,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2065278888276537823",
+      "author": "@DropSiteNews",
+      "text": "🇦🇱 Albania’s “Flamingo Revolution” escalated Thursday, with protests against the roughly €5 billion luxury Jared Kushner and Ivanka Trump backed resort expanding into demands for the entire political establishment to step aside, Bloomberg reported.\n\nNow in their second week, the",
+      "likes": 118,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2064957012341837865",
+      "author": "@ErikSolheim",
+      "text": "Electric vehicle transition on speed - Laos 🇱🇦 suspends import of fossil vehicles.\n\nAll across the world people turn electric as a response to the Strait of Hormuz crisis.\n\nThe latest is Laos. A notice issued by the government states that the move aims to encourage the use of",
+      "likes": 70,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2064666667490185631",
+      "author": "@LuizaJarovsky",
+      "text": "🚨 BREAKING: After the UK and France, Germany became the third European country to announce a government-backed AI Safety Institute. Will global AI governance FINALLY take off?\n\nOn Monday, Germany's National Security Council announced that, after assessing the cybersecurity",
+      "likes": 59,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2065169928647499920",
+      "author": "@visionergeo",
+      "text": "‼️🇺🇸🇩🇰 The cost of the F-35 tactical fighter acquisition program for Denmark has risen by 25%\n\nAccording to a report by the Danish Audit Office, the total cost of the F-35 tactical fighter acquisition program for the country's national air force will exceed the initial estimates",
+      "likes": 69,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2064753007170875803",
+      "author": "@MarosSefcovic",
+      "text": "🇪🇺🖋️🇰🇷 Proud to have signed the EU-South Korea Digital Trade Agreement - opening new doors for businesses and people on both sides.\n\nA partnership built for the digital age.\n\n👉",
+      "likes": 39,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2064964598998892985",
+      "author": "@ReutersBiz",
+      "text": "The United States has become the world's largest oil exporter, upending a decades-old order long dominated by Saudi Arabia and Russia, a shift that tightens American companies' grip on energy markets as Washington's war with Iran reshapes global energy trade. More here:",
+      "likes": 35,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2065114422868168958",
+      "author": "@Reuters",
+      "text": "US, South Korea hold nuclear deterrence talks as North Korea expands arms push",
+      "likes": 34,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2065293309711409340",
+      "author": "@Reuters",
+      "text": "A South Korean court sentenced former President Yoon Suk Yeol to 30 years in prison over charges linked to military drones sent over Pyongyang to help create a pretext for his failed December 2024 martial law declaration, Yonhap reported",
+      "likes": 26,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2065073254134378598",
+      "author": "@MaciekDuszczyk",
+      "text": "Prezydent podpisał Ustawę z dnia 15 maja 2026 r. o udziale Rzeczypospolitej Polskiej w systemie Eurodac. To znowelizowany system wymiany informacji o migrantach w UE, część europejskiej polityki migracyjnej. @MSWiA_GOV_PL @TSzymanski_",
+      "likes": 22,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2065291181031112898",
+      "author": "@Defence_Index",
+      "text": "⚡🇹🇷🇫🇷🇨🇾 Eastern Mediterranean on edge: France Turkey clash deepens after Cyprus military deal sparks “harsh response” warning\n\nFrance has signed a Status of Forces Agreement with Cyprus, expanding military cooperation and granting French forces access to facilities on the",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2065281171215298842",
+      "author": "@business",
+      "text": "A Seoul court has found former South Korean President Yoon Suk Yeol guilty of sending drones to Pyongyang to provoke a military confrontation with North Korea meant to create grounds for declaring martial law in 2024",
+      "likes": 11,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2065092429422759962",
+      "author": "@rynekzdrowia",
+      "text": "Kilka tysięcy lekarzy spoza UE bez prawa do wykonywania zawodu. @prezydentpl odrzucił łagodzące przepisy. Stwierdził, że \"rządzący stosują metodę na brzydką wrzutkę\" 👇",
+      "likes": 16,
+      "retweets": 2
+    }
+  ]
+}

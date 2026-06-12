@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-12",
+  "slot": "01",
+  "generated_at": "2026-06-12T05:21:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2064741174317924421",
+      "author": "@claudeai",
+      "text": "New from Code with Claude Tokyo: scheduled deployments and environment variables in vaults are in public beta in Claude Managed Agents, and dynamic workflows in Claude Code are generally available.\n\nAgents now run on a schedule, use your tools securely, and take on bigger jobs.",
+      "likes": 4815,
+      "retweets": 335
+    },
+    {
+      "tweet_id": "2065079108959363290",
+      "author": "@svpino",
+      "text": "Claude Code is already powerful, but you can make it dramatically better and ~60% cheaper with this MCP server.\n\nWe tested the same speech-to-text benchmarking task two ways:\n\n1. Using Claude Code alone\n2. Claude Code + @withneo MCP\n\nSame hardware. Same model.\n\nClaude Code cost",
+      "likes": 88,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2065044925201146253",
+      "author": "@quantscience_",
+      "text": "🚨 Someone built an AI that reads candlestick charts the way GPT reads English.\n\nTrained on 12 billion records from 45 exchanges. Outperforms every model by 93%. Live BTC demo. Free.\n\nIt's called Kronos.\n\nThe first open source foundation model built for financial markets. Not a",
+      "likes": 385,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2065011214783262846",
+      "author": "@aiedge_",
+      "text": "Claude Fable + /loop is f*cking insane...\n\nYou can run AI agents for HOURS with zero manual intervention.\n\nHere's the exact playbook:\n\nStep 1. Claude update\n\nYou need v2.1.170+ to access Fable 5.\n\nStep 2. Switch to Fable 5\n\nclaude --model claude-fable-5\n\nOr type /model inside a",
+      "likes": 39,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2065071561246392824",
+      "author": "@WesRoth",
+      "text": "Xiaomi’s MiMo team released MiMo Code V0.1, an open-source AI coding agent for the terminal.\n\nThe tool comes with MiMo V2.5, a multimodal model available free for a limited time, with a million-token context window for large coding projects.\n\nThe system uses automatic knowledge",
+      "likes": 22,
+      "retweets": 2
+    }
+  ]
+}
