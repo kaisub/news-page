@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-12",
+  "slot": "02",
+  "generated_at": "2026-06-12T17:56:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2065456678909227064",
+      "author": "@claudeai",
+      "text": "Claude Fable 5 has been out for a couple of days. Some projects people have already built with it:",
+      "likes": 16232,
+      "retweets": 862
+    },
+    {
+      "tweet_id": "2065057393927467084",
+      "author": "@AnthropicAI",
+      "text": "We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.\n\nWe'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.",
+      "likes": 6231,
+      "retweets": 639
+    },
+    {
+      "tweet_id": "2064783418844762489",
+      "author": "@AnthropicAI",
+      "text": "AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it.\n\nWe're launching three new initiatives to support the",
+      "likes": 5376,
+      "retweets": 441
+    },
+    {
+      "tweet_id": "2064885111477219664",
+      "author": "@bcherny",
+      "text": "Hello from Code with Claude Tokyo!!",
+      "likes": 3010,
+      "retweets": 118
+    },
+    {
+      "tweet_id": "2065160791205310565",
+      "author": "@sama",
+      "text": "really looking forward to working together!",
+      "likes": 2632,
+      "retweets": 119
+    },
+    {
+      "tweet_id": "2065069068722241729",
+      "author": "@leerob",
+      "text": "We're training the next version of Composer... with Composer!\n\nThe model is always learning from itself. This kind of \"recursive self-improvement\" might sound new, but it's been happening for many months!\n\nFor example, training big models requires creating *lots* of data for RL",
+      "likes": 2086,
+      "retweets": 97
+    },
+    {
+      "tweet_id": "2064914885159592136",
+      "author": "@jerryjliu0",
+      "text": "If the knicks could pull that comeback then openai can come back against anthropic",
+      "likes": 645,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2064887641859088701",
+      "author": "@jerryjliu0",
+      "text": "Up until yesterday, our entire MTS team has operated under the philosophy of tokenmaxxing as much as possible on Claude Max plans.\n\nWith Fable, this may no longer be possible:\n- One of our team members hit his limit 3 times yesterday and used the equivalent of $1.5k in 10 hours",
+      "likes": 425,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2065318050857877601",
+      "author": "@reach_vb",
+      "text": "Thursday Codex updates:\n\n- Developer Mode for Browser use with controlled CDP access\n- deeper debugging for network, console, runtime errors, perf, and page state\n- /init in the app composer\n- customizable macOS Dock icons\n- Computer Use for more Enterprise users\n- Windows",
+      "likes": 414,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2065490793092337691",
+      "author": "@karpathy",
+      "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+      "likes": 283,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2065309649981591967",
+      "author": "@reach_vb",
+      "text": "PSA: Everyone across Go, Plus, Pro &amp; Business gets a usage limit reset to use whenever they want! \n\nAnd for the next 2 weeks if you invite a friend to use codex both of you get a reset too :)\n\nCodex for everyone (including resets) \n\nEnjoy!",
+      "likes": 211,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2065478191247130703",
+      "author": "@GoogleAI",
+      "text": "Here’s what launched this week:\n\n— Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation\n\n— @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats\n\n— Project Genie from",
+      "likes": 169,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2064780226706407558",
+      "author": "@reach_vb",
+      "text": "what’s the wildest thing you built with codex so far?",
+      "likes": 144,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2065079108959363290",
+      "author": "@svpino",
+      "text": "Claude Code is already powerful, but you can make it dramatically better and ~60% cheaper with this MCP server.\n\nWe tested the same speech-to-text benchmarking task two ways:\n\n1. Using Claude Code alone\n2. Claude Code + @withneo MCP\n\nSame hardware. Same model.\n\nClaude Code cost",
+      "likes": 110,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2064835754061435391",
+      "author": "@hwchase17",
+      "text": "first in a series of technical blogs of how we build llm infra",
+      "likes": 81,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2065052681220329677",
+      "author": "@svpino",
+      "text": "Here is your daily reminder to use a gateway between your code and the model providers.\n\nYou get freedom, visibility, observability, flexibility, control, and a bunch of other benefits.",
+      "likes": 63,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2065280547153444902",
+      "author": "@jerryjliu0",
+      "text": "It is really hard to combine research and product. \n\nA lot of the traditional wisdom in building product at a startup don't apply for research. Building pure product requires scrappily building MVPs, iterating as quickly as possible on customer feedback, and being able to change",
+      "likes": 55,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2064777235869892743",
+      "author": "@nauczymycieAI",
+      "text": "Coraz więcej kontrowersji wokół premiery Mythosa/Fable.\n\nO premierze szerzej pisałem wczoraj - jeżeli nie miałeś jeszcze okazji się zapoznać - zapraszam na mój profil.\n\nTeraz zaczynają pojawiać się doniesienia o kolejnych kontrowersyjnych decyzjach, które podjęło Anthropic.",
+      "likes": 59,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2065068501044474087",
+      "author": "@sentient_agency",
+      "text": "A computer scientist who got sued by Elsevier, MIT, and the American Chemical Society simultaneously just launched an AI that makes every scientific paper on Earth free to chat with.\n\nHer name is Alexandra Elbakyan. The tool is called Sci-Bot.\n\nShe built Sci-Hub in 2011 as a",
+      "likes": 37,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2065135476017914342",
+      "author": "@svpino",
+      "text": "Uber spent its entire 2026 AI coding budget by April.\n\nThe Microsoft team behind Windows, Office, and Teams cut Claude Code because their bill blew past its annual budget.\n\nWe all love these tools. Maybe too much.\n\nGlad to see Superblocks shipping better metering tools so we",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064995953858294209",
+      "author": "@rpl_0x",
+      "text": "Koduj jak superbochater (😉)\nDarmowe warsztaty od googla, sesje live coding i dyskusja - często powtarzam że lepiej wiedze czerpać u źródła a nie od wannabe szkoleniowców-handlowców, więc jest fajna okazja, warsztat za 5 dni, wrzutka od @nietechniczny",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2065264788268319221",
+      "author": "@jerryjliu0",
+      "text": "There's got to be some major advances in the data ingestion, indexing, and retrieval layer to make this happen.\n\nAgents are getting much more sophisticated in fetching diverse sources of context with simple tool interfaces (e.g. CLI + filesystem). But: \n*  It is a known problem",
+      "likes": 32,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2064841869625094510",
+      "author": "@hwchase17",
+      "text": "future of travel!",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2065294273873063950",
+      "author": "@jerryjliu0",
+      "text": "Fable is clearly the best model ever released, but imo the pushback around it is a product packaging issue.\n\nNo one wants to feel like they have to tune thinking modes or switch back to Opus (or worse, churn to Codex). Hot take if \n1. they did the auto-routing under the hood so",
+      "likes": 31,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2065432756566577419",
+      "author": "@svpino",
+      "text": "Oracle's AI Database is packed with really cool features.\n\nThese guys are really turning Oracle around and making it the One Place to store data.\n\nI wrote an image search example using embeddings and Oracle's vector store functionality.\n\nVideo and a bunch of examples below.",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2065063483167691056",
+      "author": "@svpino",
+      "text": "You can’t beat the vibe of film photography on Portra 400.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064820589869830460",
+      "author": "@hwchase17",
+      "text": "Are you going to be in Chicago on June 22?\n\nDo you want to talk about deepagents?\n\nIf so - come by our LangChain x @focused_dot_io meetup!",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2065408570234191883",
+      "author": "@sentient_agency",
+      "text": "Google killed the best ad blocker on Earth. They couldn't kill it on Firefox.\n\nThe combo that still gives you a clean, ad-free web in 2026 is Firefox +  uBlock Origin.\n\nHere's what happened.\n\nuBlock Origin is the gold-standard ad and tracker blocker, free and open-source since",
+      "likes": 12,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2065337971985822079",
+      "author": "@nauczymycieAI",
+      "text": "OpenAi zaczyna właśnie zapowiadaną w mediach wojnę cenową z Anthropic.\n\nPierwszy krok - Codex umożliwia Ci wykorzystanie resetu użycia w dowolnym momencie.\n\nMoja interpretacja:\n\nOpenAI nie przebije możliwości Fable po premierze GPT-5.6. Dlatego przenosi walkę na inne pole, gdzie",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064781393557938497",
+      "author": "@svpino",
+      "text": "One of the best providers of voice AI has just halved its API prices across its entire stack:\n\nTTS, STT, and LLM costs are now 50% down.\n\nEven better: the price goes down as you scale!\n\nThe more users you have, the lower you pay.\n\nHats off. Hope more providers follow.",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2065124570139631710",
+      "author": "@nauczymycieAI",
+      "text": "Jak optymalnie wykorzystać Claude Mythosa/Fable - i nie zbankrutować?\n\nWiele osób instynktownie odpala Claude Mythosa / Fable na ustawienia Max i narzeka na nieporównywalnie wysokie koszty.\n\nFable jest tak inteligentny - że z powodzeniem możesz używać go na low/medium/high\n\nI",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2065466723441262712",
+      "author": "@jerryjliu0",
+      "text": "This game seems similar towards building any human organization/company:\n- A human is just a set of recursive loops \n- A team loops over humans for team-level OKRs\n- A company loops over teams for company-level OKRs \n\nImagine building an org that integrates humans and agents. In",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2065491608598872156",
+      "author": "@ammaar",
+      "text": "I asked Claude Fable 5 to reverse engineer a 1993 DOS game with no source code.\n\nIt read the raw machine code, rewrote the engine in C, and gave me a fully editable port for every platform. \n\n30 min from EXE to iPhone.\n\nSharing it all so you can revive your own childhood games!",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2065491385344790758",
+      "author": "@svpino",
+      "text": "You can give Claude Code the ability to parse any website in the world with Apify actors.\n\nIt's the closest thing to a superpower that I've seen.\n\nAnd they just added support for MCP connectors, which opens a whole new set of possibilities.\n\nHere is one example:",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2064797676475187520",
+      "author": "@heynavtoor",
+      "text": "You have noticed it. ChatGPT feels dumber than it used to. Your prompts that worked six months ago produce worse results now. The writing sounds flatter. The ideas sound safer. The internet itself feels like it is shrinking. Every article reads the same. Every email sounds the",
+      "likes": 17402,
+      "retweets": 6282
+    },
+    {
+      "tweet_id": "2064772430975877298",
+      "author": "@ClementDelangue",
+      "text": "Should we try to train an open source AI building model? We obviously have interesting datasets with HF, MLintern, transformers, trl…",
+      "likes": 1043,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2064897732976714085",
+      "author": "@JackPrescottX",
+      "text": "Karp has been saying it for years:\n\nThe Large Language Model is a commodity",
+      "likes": 286,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2064897909926379689",
+      "author": "@coder_surya",
+      "text": "→ Most AI builders overcomplicate learning.\nThe fastest signal is still open source reality.\n\nHere are 9 repositories shaping how modern AI systems are actually built and deployed:\n\n• LangChain\nLLM pipelines, agent workflows, production patterns\n\n• LlamaIndex\nRAG systems, data",
+      "likes": 131,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2065263772244279770",
+      "author": "@rakib_md007",
+      "text": "Most developers still use AI as a coding assistant.\n\n👉Generate code. \n👉Review code. \n👉Deploy code.\n\nBut the landscape is changing.\n\nAI is evolving from a tool that executes instructions to a system that can help drive outcomes.\n\nI recently explored Fable 5, and what stood out",
+      "likes": 98,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2065032210105892880",
+      "author": "@RamSingh_369",
+      "text": "The person who BUILT Claude Code, Boris Cherny, and the engineer many call the Godfather of AI, Andrej Karpathy, just independently arrived at the same conclusion:\n\nThe future of software engineering isn't better prompts.\n\nIt's better systems.\n\nI combined both of their CLAUDE.md",
+      "likes": 101,
+      "retweets": 25
+    }
+  ]
+}
