@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-13",
+  "slot": "02",
+  "generated_at": "2026-06-13T16:30:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2065318050857877601",
+      "author": "@reach_vb",
+      "text": "Thursday Codex updates:\n\n- Developer Mode for Browser use with controlled CDP access\n- deeper debugging for network, console, runtime errors, perf, and page state\n- /init in the app composer\n- customizable macOS Dock icons\n- Computer Use for more Enterprise users\n- Windows",
+      "likes": 476,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2065491385344790758",
+      "author": "@svpino",
+      "text": "You can give Claude Code the ability to parse any website in the world with Apify actors.\n\nIt's the closest thing to a superpower that I've seen.\n\nAnd they just added support for MCP connectors, which opens a whole new set of possibilities.\n\nHere is one example:",
+      "likes": 91,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2065432756566577419",
+      "author": "@svpino",
+      "text": "Oracle's AI Database is packed with really cool features.\n\nThese guys are really turning Oracle around and making it the One Place to store data.\n\nI wrote an image search example using embeddings and Oracle's vector store functionality.\n\nVideo and a bunch of examples below.",
+      "likes": 71,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2065299834756902995",
+      "author": "@PaddlePaddle",
+      "text": "🚀PP-OCRv6 is officially released！\n\n🔥PaddleOCR’s new OCR model series scales from 1.5M to 34.5M parameters, bringing stronger accuracy, faster inference, and broader deployment options — from browsers and edge devices to servers.\n\n📊What’s new:\n🔸Tiny / Small / Medium models:",
+      "likes": 310,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2065664402301575438",
+      "author": "@hasantoxr",
+      "text": "NVIDIA open-sourced a security scanner for AI agent skills and the research behind it is more alarming than the tool itself.\n\nThe repo is called SkillSpector.\n\nNVIDIA says research found 26.1% of agent skills contain vulnerabilities, and 5.2% show likely malicious intent.\n\nThis",
+      "likes": 27,
+      "retweets": 6
+    }
+  ]
+}
