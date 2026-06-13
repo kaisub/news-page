@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-13",
+  "slot": "01",
+  "generated_at": "2026-06-13T05:13:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2065318050857877601",
+      "author": "@reach_vb",
+      "text": "Thursday Codex updates:\n\n- Developer Mode for Browser use with controlled CDP access\n- deeper debugging for network, console, runtime errors, perf, and page state\n- /init in the app composer\n- customizable macOS Dock icons\n- Computer Use for more Enterprise users\n- Windows",
+      "likes": 466,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2065556489268539755",
+      "author": "@reach_vb",
+      "text": "appshots in codex is the most useful piece of software on my Mac \n\nmost of my prompts these days are:\n- cmd + cmd investigate this\n- cmd + cmd open a PR to fix this\n- cmd + cmd run the eval on these set of prompts and discussion\n- cmd + cmd set a heartbeat to keep following up",
+      "likes": 320,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2065520558620500082",
+      "author": "@reach_vb",
+      "text": "Codex tip: use Build macOS Apps plugin to build, debug and implement macOS Apps with SwiftUI",
+      "likes": 158,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2065079108959363290",
+      "author": "@svpino",
+      "text": "Claude Code is already powerful, but you can make it dramatically better and ~60% cheaper with this MCP server.\n\nWe tested the same speech-to-text benchmarking task two ways:\n\n1. Using Claude Code alone\n2. Claude Code + @withneo MCP\n\nSame hardware. Same model.\n\nClaude Code cost",
+      "likes": 112,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2065432756566577419",
+      "author": "@svpino",
+      "text": "Oracle's AI Database is packed with really cool features.\n\nThese guys are really turning Oracle around and making it the One Place to store data.\n\nI wrote an image search example using embeddings and Oracle's vector store functionality.\n\nVideo and a bunch of examples below.",
+      "likes": 53,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2065491385344790758",
+      "author": "@svpino",
+      "text": "You can give Claude Code the ability to parse any website in the world with Apify actors.\n\nIt's the closest thing to a superpower that I've seen.\n\nAnd they just added support for MCP connectors, which opens a whole new set of possibilities.\n\nHere is one example:",
+      "likes": 49,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2065082444542574625",
+      "author": "@DivyanshT91162",
+      "text": "Holy shit...someone just built a universal web crawling brain for AI agents. 🤯\n\nNo Puppeteer.\nNo Selenium.\nNo scraping scripts.\nNo brittle CSS selectors.\n\nJust call a skill → and your agent can crawl the entire internet.\n\nThis repo is called XCrawl Skills — and it basically",
+      "likes": 73,
+      "retweets": 30
+    }
+  ]
+}
