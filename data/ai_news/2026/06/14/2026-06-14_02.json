@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-14",
+  "slot": "02",
+  "generated_at": "2026-06-14T16:36:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2065491385344790758",
+      "author": "@svpino",
+      "text": "You can give Claude Code the ability to parse any website in the world with Apify actors.\n\nIt's the closest thing to a superpower that I've seen.\n\nAnd they just added support for MCP connectors, which opens a whole new set of possibilities.\n\nHere is one example:",
+      "likes": 101,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2065804691020382504",
+      "author": "@Arindam_1729",
+      "text": "ByteDance's new open-source AI controls your entire computer. 100% local.\n\nMost desktop agents today rely on cloud APIs.\n\nYour screen, clicks, and files all leave the machine.\n\nByteDance just open-sourced TARS, a multimodal agent stack that runs fully on your computer.\n\nIt hit",
+      "likes": 225,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2066064900204401034",
+      "author": "@SwarmSubnet",
+      "text": "Today we’re announcing a new open-source SOTA for AI drone autonomy\n\nSOTApilot hit 95.34% success on Swarm — our public, 1,000-seed benchmark for general UAV navigation across 6 procedural environments\n\nGitHub in the first reply 👇\n\n400+ submissions\n25 top-model improvements\n2",
+      "likes": 81,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2065664402301575438",
+      "author": "@hasantoxr",
+      "text": "NVIDIA open-sourced a security scanner for AI agent skills and the research behind it is more alarming than the tool itself.\n\nThe repo is called SkillSpector.\n\nNVIDIA says research found 26.1% of agent skills contain vulnerabilities, and 5.2% show likely malicious intent.\n\nThis",
+      "likes": 40,
+      "retweets": 7
+    }
+  ]
+}
