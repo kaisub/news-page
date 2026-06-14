@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-14",
+  "slot": "01",
+  "generated_at": "2026-06-14T05:31:11Z",
+  "tweets": [
+    {
+      "tweet_id": "2065491385344790758",
+      "author": "@svpino",
+      "text": "You can give Claude Code the ability to parse any website in the world with Apify actors.\n\nIt's the closest thing to a superpower that I've seen.\n\nAnd they just added support for MCP connectors, which opens a whole new set of possibilities.\n\nHere is one example:",
+      "likes": 97,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2065432756566577419",
+      "author": "@svpino",
+      "text": "Oracle's AI Database is packed with really cool features.\n\nThese guys are really turning Oracle around and making it the One Place to store data.\n\nI wrote an image search example using embeddings and Oracle's vector store functionality.\n\nVideo and a bunch of examples below.",
+      "likes": 73,
+      "retweets": 5
+    }
+  ]
+}
