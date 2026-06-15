@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-15",
+  "slot": "01",
+  "generated_at": "2026-06-15T19:08:48Z",
+  "tweets": [
+    {
+      "tweet_id": "2066538849980051640",
+      "author": "@svpino",
+      "text": "Google keeps sharing a ton of free content!\n\nHere is one of their most complete examples: a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nThere are the 3 architectural patterns you'll learn from this:",
+      "likes": 69,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066406863877636495",
+      "author": "@ZaiforStartups",
+      "text": "GLM-5.2. Open-source. 1M context.\nWhen one door closes, another opens.\n\n– GLM Team Coding Plan: live now\n– API: this week",
+      "likes": 1884,
+      "retweets": 99
+    },
+    {
+      "tweet_id": "2066506703554920812",
+      "author": "@caffeineai",
+      "text": "Connect Claude, ChatGPT, Cursor, Perplexity, or Codex to Caffeine.\n\nThe Caffeine MCP server is live.\n\nOne URL. One browser sign-in.\n\nDescribe what you want built from inside your AI tool - it sends the prompt straight to Caffeine. Get updates on what's being built without leaving",
+      "likes": 275,
+      "retweets": 92
+    }
+  ]
+}
