@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-16",
+  "slot": "02",
+  "generated_at": "2026-06-16T16:32:44Z",
+  "tweets": [
+    {
+      "tweet_id": "2066538849980051640",
+      "author": "@svpino",
+      "text": "Google keeps sharing a ton of free content!\n\nHere is one of their most complete examples: a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nThere are the 3 architectural patterns you'll learn from this:",
+      "likes": 194,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2066895499739922530",
+      "author": "@hwchase17",
+      "text": "Like many AI-pilled orgs, our spending on coding agents has increased pretty dramatically over the past few months\n\nA key part of the LLM gateway we're building (available in private preview now) is cost control and visibility\n\nHere's how we're doing it:\n\n1/ Accurate, up to date",
+      "likes": 20,
+      "retweets": 2
+    }
+  ]
+}

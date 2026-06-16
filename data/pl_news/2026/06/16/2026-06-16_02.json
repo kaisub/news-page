@@ -1,0 +1,170 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-16",
+  "slot": "02",
+  "generated_at": "2026-06-16T16:32:44Z",
+  "tweets": [
+    {
+      "tweet_id": "2066388828491833746",
+      "author": "@laskowski_pl",
+      "text": "170 tys. zł netto jednorazowej odprawy pieniężnej może dostać nie tylko górnik Jastrzębskiej Spółki Węglowej, ale także sekretarka dyrektora.\nDo końca roku ma odejść ze świadczeniami 1 156 osób zatrudnionych w koncernie – nie tylko górników, ale także pracowników administracji,",
+      "likes": 657,
+      "retweets": 180
+    },
+    {
+      "tweet_id": "2066856516041211968",
+      "author": "@PAPinformacje",
+      "text": "Szłapka: rząd przyjął projekt ustawy umożliwiającej zbieranie informacji o zarobkach medyków. (PAP)\n#PAPInformacje",
+      "likes": 109,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2066473103933292917",
+      "author": "@Macronextcom",
+      "text": "🇵🇱Spokojniej na polskim rynku długu.\n\nRentowności 10let. obligacji spadły do 5,466% i są najniżej od 2 miesięcy.",
+      "likes": 69,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066742027853631699",
+      "author": "@Macronextcom",
+      "text": "🔸️Japonia 🇯🇵: stopy proc. najwyższe od 31 lat;\n🔸️Chiny 🇨🇳: pierwszy spadek sprzedaży detalicznej od 2022 roku.",
+      "likes": 45,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066860371978203177",
+      "author": "@PAPinformacje",
+      "text": "Potężny pożar w Moskwie. Ukraińskie drony zaatakowały jedną z największych rafinerii w Rosji ⤵️\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2066856695129665646",
+      "author": "@PAPinformacje",
+      "text": "Rząd przyjął projekt ustawy ws. podatku od nadzwyczajnych zysków firm paliwowych. (PAP)\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066808592821317778",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VI 2026 Indeks instytutu ZEW 10,5 pkt. 📈(prognoza: -5,8 pkt.; poprzednio: -10,2 pkt.)",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066510350325858562",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w V 2026 r. Produkcja przemysłowa 0,1% m/m (prognoza: 0,3%; poprzednio: 0,9%) \n\nW relacji rok do roku w maju produkcja przemysłowa w USA wzrosła o 1,7%.\n\nKalendarz (USA):",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066452883541725381",
+      "author": "@GUS_STAT",
+      "text": "Przedsiębiorco, od 1 stycznia 2025 r. obowiązuje #PKD2025. Składając sprawozdanie finansowe do #KRS, sprawdź, czy kody #PKD w rejestrze odpowiadają faktycznie prowadzonej działalności.\n\n🔗 \n\n#GUS",
+      "likes": 2,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2066423252486914496",
+      "author": "@GUS_STAT",
+      "text": "W okresie styczeń-kwiecień 2026 r. ujemne saldo w #HandelZagraniczny ukształtowało się na poziomie 7,3 mld PLN. W porównaniu z analogicznym okresem 2025 r. eksport wzrósł o 3,3%, a import o 2,9%.\n\n🔗\n\n#GUS #HandelZagraniczny",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066871472484749389",
+      "author": "@PAPinformacje",
+      "text": "Epidemia eboli wciąż nie osiągnęła szczytu. Czerwony Krzyż ostrzega ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066425053491671470",
+      "author": "@GUS_STAT",
+      "text": "W grudniu 2025 r. najwięcej osób pracujących na umowach zlecenia było w sekcji „Administrowanie i działalność wspierająca”, która obejmuje m. in. działalność agencji zatrudnienia świadczących usługi pośrednictwa pracy (21,8%).\n\n🔗\n\n#GUS #RynekPracy",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2066895906914377794",
+      "author": "@PAPinformacje",
+      "text": "FBI aresztowało osoby, które miały planować atak podczas gali UFC w Białym Domu ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066753876368253260",
+      "author": "@DGPrawna",
+      "text": "Rząd podtrzymuje plan zwiększenia liczebności wojska do 500 tys. osób, jednak proces ten ma być rozciągnięty do 2039 r. Demografowie przestrzegają, że osiągnięcie tego poziomu będzie niemożliwe bez powszechnego poboru lub podwyższenia wieku rezerwistów.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066517392495104233",
+      "author": "@DGPrawna",
+      "text": "Sędzia pozwana za lekceważenie strony i nierzetelne prowadzenie sprawy. Zapadł wyrok",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066852359813108141",
+      "author": "@PAPinformacje",
+      "text": "Porozumienie celne na linii UE-USA. Jest decyzja PE ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066785769507656051",
+      "author": "@GUS_STAT",
+      "text": "W latach 2014–2024 roczne skumulowane tempo wzrostu #EfektywnośćEnergetyczna wyniosło 1,2%. #Energochłonność pierwotna PKB obniżała się w tym okresie średnio o 3,3% rocznie, a energochłonność finalna PKB o 2,2%.\n\n🔗 \n\n#GUS #statystyki #energia #przemysł",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066891991217021145",
+      "author": "@DGPrawna",
+      "text": "Sędzia Piebiak bez dostępu do dokumentów. KRS powołuje specjalny zespół",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066889810371883025",
+      "author": "@DGPrawna",
+      "text": "Małpki, akcyza, JPK, KSeF. Ministerstwo Finansów chce kolejnych zmian w podatkach",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066513235247792178",
+      "author": "@DGPrawna",
+      "text": "Ruszyły negocjacje akcesyjne z Ukrainą i Mołdawią. Kiedy wejdą do Unii Europejskiej?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066431792215654590",
+      "author": "@GUS_STAT",
+      "text": "Wg stanu w dniu 31.12.2025 r. w uczelniach w Polsce kształciło się 1322,8 tys. osób, o 42,7 tys. więcej niż rok wcześniej.\n\n🔗 \n\n#GUS #statystyki #edukacja #nauka #studia",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066424121928380596",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych w marcu 2026 r. produkcja usług była o 11,0% wyższa r/r. Największy wzrost odnotowano w działalności związanej z produkcją filmów, nagrań wideo i programów telewizyjnych, nagrań dźwiękowych i muzycznych – 31,0%.\n\n🔗  \n\n#GUS",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066390219281096951",
+      "author": "@DGPrawna",
+      "text": "Mamy program energetyki jądrowej. Napięty harmonogram drugiej elektrowni",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}

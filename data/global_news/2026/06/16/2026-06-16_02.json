@@ -1,0 +1,16 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-16",
+  "slot": "02",
+  "generated_at": "2026-06-16T16:32:44Z",
+  "tweets": [
+    {
+      "tweet_id": "2066893041118421258",
+      "author": "@OSW_pl",
+      "text": "Otwarcie pierwszego klastra negocjacyjnego kończy okres paraliżu politycznego na drodze Ukrainy i Mołdawii do UE. To sukces obu państw, choć perspektywa członkostwa pozostaje odległa.\n\nWięcej w analizie @sienicki_kacper i @KamilCaus 👇",
+      "likes": 6,
+      "retweets": 2
+    }
+  ]
+}
