@@ -1,0 +1,16 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-16",
+  "slot": "01",
+  "generated_at": "2026-06-16T01:57:05Z",
+  "tweets": [
+    {
+      "tweet_id": "2066538849980051640",
+      "author": "@svpino",
+      "text": "Google keeps sharing a ton of free content!\n\nHere is one of their most complete examples: a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nThere are the 3 architectural patterns you'll learn from this:",
+      "likes": 133,
+      "retweets": 15
+    }
+  ]
+}

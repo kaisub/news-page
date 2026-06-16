@@ -1,0 +1,23 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-16",
+  "slot": "01",
+  "generated_at": "2026-06-16T01:57:05Z",
+  "tweets": [
+    {
+      "tweet_id": "2066500456679973356",
+      "author": "@OSW_pl",
+      "text": "Utrzymanie liczebności Sił Zbrojnych Ukrainy na poziomie 800 tys. żołnierzy wymaga stosowania coraz ostrzejszych środków.\n\nProblem rosnącego niedoboru chętnych do służby w armii ukraińskiej najprawdopodobniej pozostanie w dalszym ciągu nierozwiązany.",
+      "likes": 22,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066461533459149119",
+      "author": "@OSW_pl",
+      "text": "Ważnym elementem dyskusji o nowej roli UE w polityce bezpieczeństwa jest planowana operacjonalizacja unijnej klauzuli o wzajemnej pomocy zawarta w art. 42.7 Traktatu o Unii Europejskiej.\n\nWięcej w analizie Łukasza Maślanki ⬇️",
+      "likes": 15,
+      "retweets": 1
+    }
+  ]
+}
