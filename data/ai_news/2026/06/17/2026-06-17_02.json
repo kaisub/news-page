@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-17",
+  "slot": "02",
+  "generated_at": "2026-06-17T16:21:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2066969532380721386",
+      "author": "@AnthropicAI",
+      "text": "Our latest economic research introduces a framework for tracking Claude Code as it scales. \n\nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?",
+      "likes": 2995,
+      "retweets": 321
+    },
+    {
+      "tweet_id": "2066917748333064504",
+      "author": "@reach_vb",
+      "text": "Stoked to announce that the Chrome, Computer Use, Memory, Chronicle and more are rolling out across the EU, EEA and UK this week! 🔥\n\nCodex can now use apps across your Mac, automate workflows in Chrome and remember context across your work.\n\nOpen your Codex and prompt away!",
+      "likes": 727,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2066969540412780644",
+      "author": "@AnthropicAI",
+      "text": "Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\n\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.",
+      "likes": 358,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2066863297173815427",
+      "author": "@reach_vb",
+      "text": "Some Codex users are seeing a “Selected Model is at Capacity” error. \n\nWe’re working to resolve it as quickly as possible.\n\nUpdates:",
+      "likes": 279,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2066641173926572222",
+      "author": "@reach_vb",
+      "text": "Open Source runs on maintainers!\n\nat @OpenAI, we're committing $160,000 to sponsor the maintainers behind the Astral and Codex toolchains\n\nThis is alongside our ongoing $1M fund providing free Codex access to open source maintainers.\n\nI’m incredibly stoked that this finally",
+      "likes": 272,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2066889143746023936",
+      "author": "@reach_vb",
+      "text": "This should be all fixed as of 30 minutes ago and we're continuing to monitor the situation!\n\nApologies for the inconvenience 🙏",
+      "likes": 281,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066930812927299600",
+      "author": "@reach_vb",
+      "text": "here are a few things that you should try to experience the future:\n\n- ask codex to use chrome and automate all your busy work like filling forms, capturing info\n- ask it to update memory based on your recent sessions, PRs, artefacts on a project, watch it become better in",
+      "likes": 232,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2066969542010806561",
+      "author": "@AnthropicAI",
+      "text": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. \n\nRead the full report:",
+      "likes": 200,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2066919163503755732",
+      "author": "@reach_vb",
+      "text": "wen EU? wen UK?\n\nit's now!",
+      "likes": 190,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066974931238142046",
+      "author": "@reach_vb",
+      "text": "went to a meetup and people asked what should I be doing that I’m not doing rn\n\njust ask things\n\nwant to build a startup - ask codex\nwant to sort your finances - asl codex\n\nwant to order groceries - yes ask codex\nwant to build a game - indeed you should ask codex\n\nwant to get a",
+      "likes": 175,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067143013135012026",
+      "author": "@reach_vb",
+      "text": "Codex Mobile updates:\n\n- browse workspace files and link paths into prompts\n- pick a workspace folder when starting a new thread\n- expand or collapse all diffs while reviewing changes\n- approve MCP actions for one chat or across chats\n- LaTeX rendering in Codex messages and plans",
+      "likes": 161,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066604713668194400",
+      "author": "@reach_vb",
+      "text": "We just breached 200+ past + upcoming Codex ambassador events since February 2026!\n\nThank you for everyone who showed up and continue to cheer for for Codex\n\nWe’ve had 181 events (23 upcoming) in 72 cities across the globe so far and we’re looking forward to bringing it to a city",
+      "likes": 142,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066559658849116361",
+      "author": "@svpino",
+      "text": "If your code is married to a single model provider, you will suffer.\n\nThe best time to start using a model gateway was a week ago. The second-best time is today.\n\nEveryone needs a model gateway.\n\nThe good news: you don't need to reinvent the wheel!",
+      "likes": 107,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066591646737678554",
+      "author": "@nauczymycieAI",
+      "text": "Wiemy już jak bardzo Anthropic i OpenAI subsydiują abonamenty. Bardzo.\n\n51 200 zł miesięcznie.\n\nTyle, według badania SemiAnalysis, może wynieść ekwiwalent maksymalnego zużycia ChatGPT Pro 20x według cen API.\n\nCzyli inaczej mówiąc - w planie za około 730 zł miesięcznie, dostajesz",
+      "likes": 110,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066569527341744396",
+      "author": "@svpino",
+      "text": "There's no way call centers stay in business after this.\n\nListen to this conversation. You cannot tell I'm speaking to an AI voice agent here.\n\nThis is Cartesia's model. Right now, #1 in the world.",
+      "likes": 89,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066895499739922530",
+      "author": "@hwchase17",
+      "text": "Like many AI-pilled orgs, our spending on coding agents has increased pretty dramatically over the past few months\n\nA key part of the LLM gateway we're building (available in private preview now) is cost control and visibility\n\nHere's how we're doing it:\n\n1/ Accurate, up to date",
+      "likes": 59,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2066558250691248417",
+      "author": "@jerryjliu0",
+      "text": "Every enterprise organization receives and generates a massive volume of contracts. Each contract oftentimes follows a non-standardized template. \n\nThe difficulty extends beyond simply digitalizing the document (OCR) to actually semantically interpreting the meaning of each term",
+      "likes": 57,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066914411139465241",
+      "author": "@jerryjliu0",
+      "text": "It's no secret that coding agents are a great proxy for computer use and generalized knowledge work. \n\nAfter all, Claude Cowork is just a UI wrapper on Claude Code.\n\nI think Cursor has a great shot here. However, I do think it has a bit of work to do on the product and harness",
+      "likes": 54,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066571333216133376",
+      "author": "@jerryjliu0",
+      "text": "congrats on the release!",
+      "likes": 56,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067082889817403756",
+      "author": "@hwchase17",
+      "text": "Awesome agent idea",
+      "likes": 40,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067223690853691894",
+      "author": "@svpino",
+      "text": "Look at the speed at which this model generates video!\n\nImagine a chat interface that uses real-time video streaming to talk to us instead of text.\n\nWe are getting close!",
+      "likes": 34,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2066927787857060313",
+      "author": "@svpino",
+      "text": "This runs locally and watches what's on your screen.\n\nIf you're about to expose something sensitive (like sharing your screen in a Zoom call with a private doc open), it automatically covers it before it's visible.\n\nYou can always one-click reveal it if you actually meant to",
+      "likes": 27,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2066713408570106060",
+      "author": "@hwchase17",
+      "text": "&gt; \"loopcraft\"\n\ndamn @swyx is so good at naming",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067256827889479759",
+      "author": "@jerryjliu0",
+      "text": "We made Claude better and faster at understanding PDFs\n\nThe trick isn’t just creating the fastest free document parser out there (with liteparse), but also *tuning the skill itself* so that Claude Code can use it with fewer turns and expensive file operations.\n\nThis is a",
+      "likes": 24,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2066901173580562792",
+      "author": "@svpino",
+      "text": "I want one of these robots so badly.\n\nFunny thing is, Musk promised general-purpose household robots, but somebody else will deliver instead.\n\nAt least, I haven't seen Optimus with this level of fluidity yet.\n\nI'm stocked that we have competition in this space!",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066773394423427520",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 ponoć za tydzień.\n\nPobije Mythosa / Fable?",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067184624951034084",
+      "author": "@sentient_agency",
+      "text": "SOMEONE IS LEAKING THE SECRET INSTRUCTIONS BEHIND 200+ CHATGPT GPTS AND OPENAI HASN'T TAKEN IT DOWN\n\nit's called the GPTs repo and it's just sitting on github with 32,000 stars.\n\nyou know how every custom GPT has a hidden prompt the creator wrote? the secret block of text that",
+      "likes": 15,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2066911699631034507",
+      "author": "@jerryjliu0",
+      "text": "Congrats to the team for being AI's biggest growth/success story so far (outside the labs, which don't count)  🚀📈",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066851170535325712",
+      "author": "@sentient_agency",
+      "text": "Every password manager that lives in the cloud is one breach away from leaking your entire digital life.\n\nLastPass already proved it. So a community built one that has no cloud at all.\n\nIt's called KeePassXC.\n\nYour passwords never leave your device. They sit inside a single",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066876189927522332",
+      "author": "@svpino",
+      "text": "this.",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067263563757216047",
+      "author": "@svpino",
+      "text": "A bunch of companies are banning developers from pushing vibe-coded software to production.\n\nWho didn't see this one coming?\n\nVibe-coding is amazing, but we are now realizing what happens when we let anyone put autogenerated slop in front of users.\n\nWe need something better.",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066873915717136548",
+      "author": "@SpaceX",
+      "text": "SpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models.\n\nFor the past few months, SpaceXAI has been jointly training a model with Cursor, which will be released in Cursor and Grok Build soon.",
+      "likes": 35007,
+      "retweets": 4047
+    },
+    {
+      "tweet_id": "2066938937344495629",
+      "author": "@Zai_org",
+      "text": "Introducing GLM-5.2: Frontier Intelligence, Open Weights\n\n- Significant improvements in coding and agentic tasks\n- Strong long-horizon capabilities with a 1M context window\n- Two levels of reasoning effort: GLM-5.2 (max) pushes the limits, while GLM-5.2 (high) strikes a strong",
+      "likes": 7888,
+      "retweets": 1095
+    },
+    {
+      "tweet_id": "2067180054979936413",
+      "author": "@vercel",
+      "text": "Introducing eve, an agent framework.\n\n𝚊𝚐𝚎𝚗𝚝/\n  𝚊𝚐𝚎𝚗𝚝.𝚝𝚜\n  𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍\n  𝚝𝚘𝚘𝚕𝚜/\n  𝚜𝚔𝚒𝚕𝚕𝚜/\n  𝚜𝚊𝚗𝚍𝚋𝚘𝚡/\n  𝚜𝚌𝚑𝚎𝚍𝚞𝚕𝚎𝚜/\n\nLike Next.js, for agents.",
+      "likes": 3882,
+      "retweets": 360
+    },
+    {
+      "tweet_id": "2067012903337664886",
+      "author": "@GoogleCloudTech",
+      "text": "Introducing the Open Knowledge Format (OKF), an open specification that formalizes the LLM-wiki pattern into a portable, interoperable format.\n\nAI is only as smart as the context we give it. As we build more advanced, agentic AI systems, they need accurate metadata and context to",
+      "likes": 3755,
+      "retweets": 427
+    },
+    {
+      "tweet_id": "2066957802741043641",
+      "author": "@arena",
+      "text": "Exciting news: GLM-5.2 (Max) ranks #2 in Code Arena: Frontend, with +29pt over Claude Opus 4.7 (Thinking) and only behind Fable 5! GLM-5.2 is the best open model vs Kimi-K2.6 and Minimax-M3 by a large margin.\n\n- #2 React and #4 HTML sub-leaderboards\n- Ranks as the top model in",
+      "likes": 3339,
+      "retweets": 375
+    },
+    {
+      "tweet_id": "2066926619714007115",
+      "author": "@ClaudeDevs",
+      "text": "How do teams get agents into production?\n\nNew blog post from our Applied AI team on Claude Managed Agents and the challenges it solves (credentials, sandboxing, observability, &amp; more) ...",
+      "likes": 3087,
+      "retweets": 225
+    },
+    {
+      "tweet_id": "2066870197122899980",
+      "author": "@Alibaba_Qwen",
+      "text": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal,",
+      "likes": 2666,
+      "retweets": 400
+    },
+    {
+      "tweet_id": "2066912871649574945",
+      "author": "@thaiscbranco_",
+      "text": "We’re excited to introduce Taste Labs.\n\nOur mission is to end AI slop. We’re building the data and infrastructure layer to give AI models and agents taste.\n\nAnd today we’re coming out of stealth, announcing our $18.5M seed funding, co-led by @CRV and @AmplifyPartners \n\nAI has",
+      "likes": 2865,
+      "retweets": 174
+    },
+    {
+      "tweet_id": "2067022641949814893",
+      "author": "@jietang",
+      "text": "We're introducing GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, for the first time, delivers that capability on a solid 1M-token context. GLM-5.2's new capabilities include:",
+      "likes": 2255,
+      "retweets": 201
+    }
+  ]
+}

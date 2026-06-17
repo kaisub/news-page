@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-17",
+  "slot": "02",
+  "generated_at": "2026-06-17T16:21:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2067108262072254597",
+      "author": "@laskowski_pl",
+      "text": "\"Szpitale Koalicji\" sezon 1 odcinek 1 \n\nTo będzie długi serial.",
+      "likes": 313,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2067121309814083838",
+      "author": "@Macronextcom",
+      "text": "Milionowe zarobki lekarzy, którymi żyją media, to kolejna odsłona zjawiska, które trwa już od kilku miesięcy. \n\nW Polsce narasta społeczny bunt przeciwko zbyt wysokim zarobkom lekarzy. \n\nCiekawe kiedy on wybuchnie? I jak się to skończy?",
+      "likes": 136,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066947326992654743",
+      "author": "@laskowski_pl",
+      "text": "Zyski z wydobycia surowców w Polsce popłyną zagranicę.\nKGHM zyski wpłaca do budżetu, oni tego nie zrobią.\nPo co nam takie inwestycje gdy mamy własnych producentów?",
+      "likes": 49,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2066742027853631699",
+      "author": "@Macronextcom",
+      "text": "🔸️Japonia 🇯🇵: stopy proc. najwyższe od 31 lat;\n🔸️Chiny 🇨🇳: pierwszy spadek sprzedaży detalicznej od 2022 roku.",
+      "likes": 47,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066810257435660624",
+      "author": "@Macronextcom",
+      "text": "Allegro +5,74% 📈\n\nDzień oczyszczenia\" na Allegro. 🙂 Kto bał się ciągłej podaż z ABB, teraz już nie musi.",
+      "likes": 47,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067264263580705128",
+      "author": "@laskowski_pl",
+      "text": "Fakty po południu w @tvn24 poświęciły aferze w Szpitalu Południowym, całe 15 sekund, cytując wpis prokuratury na X. \n\nZa to 10 razy zobaczylem prezydenta Poznania z tortem na twarzy. \n\nCała prawda, całą dobę.",
+      "likes": 26,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067188069984276926",
+      "author": "@PAPinformacje",
+      "text": "Premier: zwróciłem się do NIK o całościową kontrolę tam, gdzie mamy do czynienia z publicznymi środkami na ochronę zdrowia. (PAP)\n#PAPinformacje",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067179857134453222",
+      "author": "@PAPinformacje",
+      "text": "Przywódcy państw G7 wyrazili poparcie dla Ukrainy, jest zgoda na zwiększenie presji na Rosję\n#PAPinformacje",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067238015835988234",
+      "author": "@PAPinformacje",
+      "text": "Ministrowie obrony Polski i Niemiec podpisali nową umowę o współpracy obronnej #PAPinformacje",
+      "likes": 14,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2067190071116087663",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: prowokacje Bąkiewicza w Polsce i za granicą służą Federacji Rosyjskiej\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066808592821317778",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VI 2026 Indeks instytutu ZEW 10,5 pkt. 📈(prognoza: -5,8 pkt.; poprzednio: -10,2 pkt.)",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067273225797603604",
+      "author": "@PAPinformacje",
+      "text": "Unijny komisarz rolnictwa Christophe Hansen: polscy rolnicy dostaną z nowego budżetu UE co najmniej 33,6 mld euro, co oznacza wzrost w stosunku do obecnej perspektywy finansowej. (PAP)\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067238509518209416",
+      "author": "@laskowski_pl",
+      "text": "\"Ale PiS też tak robił!\" - to ta nowa jakość w polityce🤔\n\nKierowniku, jak chcesz mieć 20% w wyborach, to lepiej zabierz mu klawiaturę. \n(na wyjaśnienia tego co robił PiS mieliście prawie 3 lata)",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067218535667921182",
+      "author": "@PAPinformacje",
+      "text": "Cienkowska w Berlinie: do Polski wracają bezcenne zabytki zrabowane w czasie II wojny światowej\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067240954709315809",
+      "author": "@PAPinformacje",
+      "text": "Ministrowie obrony Polski i Niemiec podpisali umowę o współpracy obronnej\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067194210831200307",
+      "author": "@PAPinformacje",
+      "text": "Premier: wszystko wskazuje na to, że śmierć Rosjanina Roberta K. w Białej Podlaskiej, to zabójstwo polityczne. (PAP)\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067223112811167949",
+      "author": "@GUS_STAT",
+      "text": "1 lipca br. rozpocznie się VI #KongersStatystykiPolskiej. Uczestnicy zapoznają się z najnowszymi osiągnięciami  statystyki społecznej i gospodarczej.\n\n👉 Program: \n\n🎥 Wydarzenie będzie można śledzić na żywo na kanale YouTube #GUS.\n\n#statystyka #dane",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067201536283877880",
+      "author": "@PAPinformacje",
+      "text": "Papież: przyjmuję z zadowoleniem osiągnięcie porozumienia między Iranem i USA\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066860140322529507",
+      "author": "@laskowski_pl",
+      "text": "Materiał sponsorowany przez polskiego podatnika.",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067227651815719186",
+      "author": "@GUS_STAT",
+      "text": "🤝 #GUS i @IOMPoland podpisały memorandum o współpracy w zakresie badań nad migracjami.\n💬 Prezes GUS Marek Cierpiał-Wolan: „Współpraca z IOM to wsparcie eksperckie w badaniach nad migracjami i polską diasporą oraz kolejny krok w rozwoju wiarygodnych danych i analiz.”\n#Migracje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066573788544696688",
+      "author": "@DGPrawna",
+      "text": "Znamy rządowy plan sieci kolejowej. 5 tys. km nowych linii jest realne?",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067265300056224210",
+      "author": "@PAPinformacje",
+      "text": "Afera w warszawskim szpitalu. Jest ruch prokuratury\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067241453319782908",
+      "author": "@PAPinformacje",
+      "text": "Eksperci: zabójstwo Skrepeckiego może być ostrzeżeniem #PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066826495029301474",
+      "author": "@GUS_STAT",
+      "text": "Jak wyglądały wzorce konsumpcyjne słowackich #GospodarstwaDomowe w okresie pandemii #COVID19 w latach 2021–2022?\nO tym przeczytasz w najnowszym, czerwcowym numerze #SiTns:\n\n🔗 \n\n#GUS #statystyki #publikacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067211856188473762",
+      "author": "@PAPinformacje",
+      "text": "Tusk: wszystko wskazuje na to, że śmierć Rosjanina Roberta K. to zabójstwo polityczne\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067265622052942016",
+      "author": "@PAPinformacje",
+      "text": "Kraje G7 wezwały dostawców usług cyfrowych, by uznali za priorytet ochronę dzieci i młodzieży online\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067265130274980027",
+      "author": "@PAPinformacje",
+      "text": "Sikorski w Berlinie: trudna historia tworzy podziały, ale nie jesteśmy na nie skazani\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067194486678057019",
+      "author": "@PAPinformacje",
+      "text": "Armenia w obliczu presji ze strony Rosji. Bruksela interweniuje\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067194329903333587",
+      "author": "@PAPinformacje",
+      "text": "Premier o środkach na ochronę zdrowia. Zwrócił się do NIK o kontrolę\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067187398224511170",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w czwartek litr benzyny 95 ma kosztować nie więcej niż 6,06 zł, benzyny 98 - 6,72 zł, a oleju napędowego - 6,36 zł. (PAP)\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066753876368253260",
+      "author": "@DGPrawna",
+      "text": "Rząd podtrzymuje plan zwiększenia liczebności wojska do 500 tys. osób, jednak proces ten ma być rozciągnięty do 2039 r. Demografowie przestrzegają, że osiągnięcie tego poziomu będzie niemożliwe bez powszechnego poboru lub podwyższenia wieku rezerwistów.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067268403841147310",
+      "author": "@PAPinformacje",
+      "text": "Choć mundial dopiero się zaczął, jego skala  oraz długość trwania będzie sprzyjać kolportowaniu przy jego okazji dezinformujących i kłamliwych treści - powiedział PAP Michał Banasiak, prezes Polskiego Instytutu Dyplomacji Sportowej.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067144221820076086",
+      "author": "@GUS_STAT",
+      "text": "Zapraszamy do udziału w konferencji #ICASX, 8–10.07.2026 r. w Krakowie.\nTo nie tylko eksperckie prezentacje i panele dyskusyjne, ale również możliwość nawiązania współpracy międzynarodowej i poznania najnowszych kierunków rozwoju #StatystykaRolna.\n\n🔗\n\n#GUS",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066785769507656051",
+      "author": "@GUS_STAT",
+      "text": "W latach 2014–2024 roczne skumulowane tempo wzrostu #EfektywnośćEnergetyczna wyniosło 1,2%. #Energochłonność pierwotna PKB obniżała się w tym okresie średnio o 3,3% rocznie, a energochłonność finalna PKB o 2,2%.\n\n🔗 \n\n#GUS #statystyki #energia #przemysł",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067102412968460622",
+      "author": "@DGPrawna",
+      "text": "Wojsko w 2027 r. będzie potrzebowało od obywateli więcej samochodów",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066891991217021145",
+      "author": "@DGPrawna",
+      "text": "Sędzia Piebiak bez dostępu do dokumentów. KRS powołuje specjalny zespół",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066889810371883025",
+      "author": "@DGPrawna",
+      "text": "Małpki, akcyza, JPK, KSeF. Ministerstwo Finansów chce kolejnych zmian w podatkach",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066815135558086817",
+      "author": "@DGPrawna",
+      "text": "🏆 Perły Samorządu 2026. Poznaliśmy najlepsze polskie gminy i najlepszych włodarzy \n📖 Pełna lista zwycięzców:",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066795123573211248",
+      "author": "@DGPrawna",
+      "text": "🏛️ Perły Samorządu 2026 | Samorządy na zakręcie historii. W Toruniu debatowano o cyfryzacji, kryzysie demograficznym i nowym modelu wspólnoty |",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066611872283975876",
+      "author": "@DGPrawna",
+      "text": "🏆 Za nami Gala Rankingu Perły Samorządu 2026!\n Już jutro na  relacja z wydarzenia oraz sylwetki laureatów.\n\n📅 17 czerwca w specjalnym dodatku Dziennika Gazety Prawnej opublikujemy pełne wyniki Rankingu Perły Samorządu 2026.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
