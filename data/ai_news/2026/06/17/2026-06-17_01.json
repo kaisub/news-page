@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-17",
+  "slot": "01",
+  "generated_at": "2026-06-17T01:53:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2066969532380721386",
+      "author": "@AnthropicAI",
+      "text": "Our latest economic research introduces a framework for tracking Claude Code as it scales. \n\nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?",
+      "likes": 1802,
+      "retweets": 173
+    },
+    {
+      "tweet_id": "2066917748333064504",
+      "author": "@reach_vb",
+      "text": "Stoked to announce that the Chrome, Computer Use, Memory, Chronicle and more are rolling out across the EU, EEA and UK this week! 🔥\n\nCodex can now use apps across your Mac, automate workflows in Chrome and remember context across your work.\n\nOpen your Codex and prompt away!",
+      "likes": 644,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2066363868683866503",
+      "author": "@jerryjliu0",
+      "text": "This is an insane release from OpenRouter, and not just because it's perfect timing.\n\nIt shows that frontier models alone do not own all the points on the cost-accuracy Pareto curve for knowledge work tasks; in fact they may not be on the Pareto curve at all. The Pareto curve may",
+      "likes": 331,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2066863297173815427",
+      "author": "@reach_vb",
+      "text": "Some Codex users are seeing a “Selected Model is at Capacity” error. \n\nWe’re working to resolve it as quickly as possible.\n\nUpdates:",
+      "likes": 274,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2066641173926572222",
+      "author": "@reach_vb",
+      "text": "Open Source runs on maintainers!\n\nat @OpenAI, we're committing $160,000 to sponsor the maintainers behind the Astral and Codex toolchains\n\nThis is alongside our ongoing $1M fund providing free Codex access to open source maintainers.\n\nI’m incredibly stoked that this finally",
+      "likes": 270,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2066889143746023936",
+      "author": "@reach_vb",
+      "text": "This should be all fixed as of 30 minutes ago and we're continuing to monitor the situation!\n\nApologies for the inconvenience 🙏",
+      "likes": 271,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066538849980051640",
+      "author": "@svpino",
+      "text": "Google keeps sharing a ton of free content!\n\nHere is one of their most complete examples: a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nThere are the 3 architectural patterns you'll learn from this:",
+      "likes": 208,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2066930812927299600",
+      "author": "@reach_vb",
+      "text": "here are a few things that you should try to experience the future:\n\n- ask codex to use chrome and automate all your busy work like filling forms, capturing info\n- ask it to update memory based on your recent sessions, PRs, artefacts on a project, watch it become better in",
+      "likes": 188,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066969540412780644",
+      "author": "@AnthropicAI",
+      "text": "Domain experts—as judged by the questions they ask and vocabulary they use about a subject—are more likely to see success.\n\nBut the gap between intermediate and expert users is quite modest, suggesting that proficiency in a domain is sufficient to code successfully within it.",
+      "likes": 170,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2066919163503755732",
+      "author": "@reach_vb",
+      "text": "wen EU? wen UK?\n\nit's now!",
+      "likes": 176,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066604713668194400",
+      "author": "@reach_vb",
+      "text": "We just breached 200+ past + upcoming Codex ambassador events since February 2026!\n\nThank you for everyone who showed up and continue to cheer for for Codex\n\nWe’ve had 181 events (23 upcoming) in 72 cities across the globe so far and we’re looking forward to bringing it to a city",
+      "likes": 141,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2066969542010806561",
+      "author": "@AnthropicAI",
+      "text": "These and other measures will allow us to track consequential shifts in the nature of work as they happen—we'll incorporate some of them into the Anthropic Economic Index going forward. \n\nRead the full report:",
+      "likes": 137,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2066974931238142046",
+      "author": "@reach_vb",
+      "text": "went to a meetup and people asked what should I be doing that I’m not doing rn\n\njust ask things\n\nwant to build a startup - ask codex\nwant to sort your finances - asl codex\n\nwant to order groceries - yes ask codex\nwant to build a game - indeed you should ask codex\n\nwant to get a",
+      "likes": 123,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066559658849116361",
+      "author": "@svpino",
+      "text": "If your code is married to a single model provider, you will suffer.\n\nThe best time to start using a model gateway was a week ago. The second-best time is today.\n\nEveryone needs a model gateway.\n\nThe good news: you don't need to reinvent the wheel!",
+      "likes": 107,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066591646737678554",
+      "author": "@nauczymycieAI",
+      "text": "Wiemy już jak bardzo Anthropic i OpenAI subsydiują abonamenty. Bardzo.\n\n51 200 zł miesięcznie.\n\nTyle, według badania SemiAnalysis, może wynieść ekwiwalent maksymalnego zużycia ChatGPT Pro 20x według cen API.\n\nCzyli inaczej mówiąc - w planie za około 730 zł miesięcznie, dostajesz",
+      "likes": 110,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066569527341744396",
+      "author": "@svpino",
+      "text": "There's no way call centers stay in business after this.\n\nListen to this conversation. You cannot tell I'm speaking to an AI voice agent here.\n\nThis is Cartesia's model. Right now, #1 in the world.",
+      "likes": 86,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066558250691248417",
+      "author": "@jerryjliu0",
+      "text": "Every enterprise organization receives and generates a massive volume of contracts. Each contract oftentimes follows a non-standardized template. \n\nThe difficulty extends beyond simply digitalizing the document (OCR) to actually semantically interpreting the meaning of each term",
+      "likes": 57,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066895499739922530",
+      "author": "@hwchase17",
+      "text": "Like many AI-pilled orgs, our spending on coding agents has increased pretty dramatically over the past few months\n\nA key part of the LLM gateway we're building (available in private preview now) is cost control and visibility\n\nHere's how we're doing it:\n\n1/ Accurate, up to date",
+      "likes": 48,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2066571333216133376",
+      "author": "@jerryjliu0",
+      "text": "congrats on the release!",
+      "likes": 55,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066454052662399465",
+      "author": "@sentient_agency",
+      "text": "A single developer got tired of ads invading his living room TV, so he built his own Android TV player and gave it to the world for free.\n\nHis name is Yurii Liskov. The app is called SmartTube.\n\nThere is no company behind it. No team. One person maintaining a clean, ad-free way",
+      "likes": 26,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066586399323947142",
+      "author": "@hwchase17",
+      "text": "congrats to arcade for their launch!\n\nthey make it super easy to use thousands of tools\n\nif you want to try them out with langchain - easiest way is probably our no-code agent builder:",
+      "likes": 29,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066713408570106060",
+      "author": "@hwchase17",
+      "text": "&gt; \"loopcraft\"\n\ndamn @swyx is so good at naming",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2066914411139465241",
+      "author": "@jerryjliu0",
+      "text": "It's no secret that coding agents are a great proxy for computer use and generalized knowledge work. \n\nAfter all, Claude Cowork is just a UI wrapper on Claude Code.\n\nI think Cursor has a great shot here. However, I do think it has a bit of work to do on the product and harness",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2066773394423427520",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 ponoć za tydzień.\n\nPobije Mythosa / Fable?",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066901173580562792",
+      "author": "@svpino",
+      "text": "I want one of these robots so badly.\n\nFunny thing is, Musk promised general-purpose household robots, but somebody else will deliver instead.\n\nAt least, I haven't seen Optimus with this level of fluidity yet.\n\nI'm stocked that we have competition in this space!",
+      "likes": 22,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066601074220466673",
+      "author": "@hwchase17",
+      "text": "observability is non-optional for agents",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066927787857060313",
+      "author": "@svpino",
+      "text": "This runs locally and watches what's on your screen.\n\nIf you're about to expose something sensitive (like sharing your screen in a Zoom call with a private doc open), it automatically covers it before it's visible.\n\nYou can always one-click reveal it if you actually meant to",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066851170535325712",
+      "author": "@sentient_agency",
+      "text": "Every password manager that lives in the cloud is one breach away from leaking your entire digital life.\n\nLastPass already proved it. So a community built one that has no cloud at all.\n\nIt's called KeePassXC.\n\nYour passwords never leave your device. They sit inside a single",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2066911699631034507",
+      "author": "@jerryjliu0",
+      "text": "Congrats to the team for being AI's biggest growth/success story so far (outside the labs, which don't count)  🚀📈",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066876189927522332",
+      "author": "@svpino",
+      "text": "this.",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066939775701950560",
+      "author": "@FinanceLancelot",
+      "text": "In a major blow to Sam Altman, Microsoft  plans to move $MSFT Copilot to usage-based pricing with open-source AI model DeepSeek instead of OpenAI due to costs",
+      "likes": 3605,
+      "retweets": 276
+    },
+    {
+      "tweet_id": "2066990012680565048",
+      "author": "@netcapgirl",
+      "text": "me: i would like to buy a launch on a reusable rocket\n\nspaceX: ok\n\nme: i would also like high speed satellite internet\n\nspaceX: got it\n\nme: also do you know where i can find a frontier ai model, a social media site, a coding agent, and a 100k GPU supercomputer?\n\nspaceX: you’re",
+      "likes": 3380,
+      "retweets": 136
+    },
+    {
+      "tweet_id": "2067019640400642171",
+      "author": "@theiaincameron",
+      "text": "Argentina v Algeria is the World Cup’s only group-stage match between the largest Spanish-speaking country and the largest Arabic-speaking country in the world.\n\nArgentina is the largest country where Spanish is the dominant language. Algeria is the largest country where Arabic",
+      "likes": 3152,
+      "retweets": 239
+    },
+    {
+      "tweet_id": "2066970407618445655",
+      "author": "@brian_armstrong",
+      "text": "We registered the AI agent itself with the SEC as an investment advisor.\n\nIt has your complete context on your portfolio and account history. Speak to it in plain English to take action on your account. It will even prompt you with ideas you hadn’t thought of.",
+      "likes": 1722,
+      "retweets": 135
+    },
+    {
+      "tweet_id": "2066957802741043641",
+      "author": "@arena",
+      "text": "Exciting news: GLM-5.2 (Max) ranks #2 in Code Arena: Frontend, with +29pt over Claude Opus 4.7 (Thinking) and only behind Fable 5! GLM-5.2 is the best open model vs Kimi-K2.6 and Minimax-M3 by a large margin.\n\n- #2 React and #4 HTML sub-leaderboards\n- Ranks as the top model in",
+      "likes": 1688,
+      "retweets": 168
+    },
+    {
+      "tweet_id": "2066824782801240465",
+      "author": "@teneo_protocol",
+      "text": "The Teneo CLI setup guide for Manus is live.\n\n@ManusAI  is a cloud-based autonomous AI agent. No local install, no terminal, no folder to create.\n\nThe sandbox is a cloud computer with Node.js already configured. You skip the local setup entirely.\n\nFrom there it's three steps:\n\n1)",
+      "likes": 898,
+      "retweets": 679
+    },
+    {
+      "tweet_id": "2066861493367586824",
+      "author": "@BrianRoemmele",
+      "text": "Mind-blowing hardware breakthrough: \n\nAn open source garage engineer burned a full AI Transformer model (with KV cache) directly into a custom digital chip:\n\nWITH NO GPU, NO CPU, NO CLOUD. \n\nJust pure silicon running microGPT at 56,000+ tokens/sec on only 80 MHz!\n\nAnd uses less",
+      "likes": 1318,
+      "retweets": 210
+    },
+    {
+      "tweet_id": "2066949797316350361",
+      "author": "@ollama",
+      "text": "🤯 GLM-5.2 is here — built for long-horizon coding and agentic tasks, now with a solid 1M-token context. \n\nThe strongest open-source coding model yet!\n\nAvailable now on Ollama's cloud, hosted in the US on the latest @NVIDIAAI Blackwell datacenter GPUs. Privacy policy and zero",
+      "likes": 1206,
+      "retweets": 109
+    },
+    {
+      "tweet_id": "2067031478001660349",
+      "author": "@AvantrisLegends",
+      "text": "D&amp;D Animated: That Language Is DEMONIC! 🤣 \n\n#dnd #ttrpg #dnd5e",
+      "likes": 920,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2066540084422189069",
+      "author": "@yacineMTB",
+      "text": "I'm going to ask some very stupid questions about large language model training this week. You guys will be very annoyed\n\nHow do people figure out the hyperparameters for these big trians? Does mup actually work? Do they do LR decay?",
+      "likes": 873,
+      "retweets": 7
+    }
+  ]
+}
