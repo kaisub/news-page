@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-18",
+  "slot": "01",
+  "generated_at": "2026-06-18T01:55:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2067325887909884315",
+      "author": "@claudeai",
+      "text": "New in Claude Design: it stays on brand with your design system across projects, lets you edit directly on the canvas, syncs with Claude Code, and connects to more of the tools you already use.",
+      "likes": 7069,
+      "retweets": 513
+    },
+    {
+      "tweet_id": "2066969532380721386",
+      "author": "@AnthropicAI",
+      "text": "Our latest economic research introduces a framework for tracking Claude Code as it scales. \n\nWho is using Claude Code, and what are they using it for? How is the value of tasks changing? And how much does domain expertise shape whether a session succeeds?",
+      "likes": 3301,
+      "retweets": 353
+    },
+    {
+      "tweet_id": "2066917748333064504",
+      "author": "@reach_vb",
+      "text": "Stoked to announce that the Chrome, Computer Use, Memory, Chronicle and more are rolling out across the EU, EEA and UK this week! 🔥\n\nCodex can now use apps across your Mac, automate workflows in Chrome and remember context across your work.\n\nOpen your Codex and prompt away!",
+      "likes": 730,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2067389255005901260",
+      "author": "@reach_vb",
+      "text": "PSA: the team did a global reset across all plans \n\nAND in addition to that a banked reset is rolling out right now as well!\n\nEnjoy!",
+      "likes": 382,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2066863297173815427",
+      "author": "@reach_vb",
+      "text": "Some Codex users are seeing a “Selected Model is at Capacity” error. \n\nWe’re working to resolve it as quickly as possible.\n\nUpdates:",
+      "likes": 279,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2066889143746023936",
+      "author": "@reach_vb",
+      "text": "This should be all fixed as of 30 minutes ago and we're continuing to monitor the situation!\n\nApologies for the inconvenience 🙏",
+      "likes": 282,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066930812927299600",
+      "author": "@reach_vb",
+      "text": "here are a few things that you should try to experience the future:\n\n- ask codex to use chrome and automate all your busy work like filling forms, capturing info\n- ask it to update memory based on your recent sessions, PRs, artefacts on a project, watch it become better in",
+      "likes": 235,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2067143013135012026",
+      "author": "@reach_vb",
+      "text": "Codex Mobile updates:\n\n- browse workspace files and link paths into prompts\n- pick a workspace folder when starting a new thread\n- expand or collapse all diffs while reviewing changes\n- approve MCP actions for one chat or across chats\n- LaTeX rendering in Codex messages and plans",
+      "likes": 197,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066919163503755732",
+      "author": "@reach_vb",
+      "text": "wen EU? wen UK?\n\nit's now!",
+      "likes": 191,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2066974931238142046",
+      "author": "@reach_vb",
+      "text": "went to a meetup and people asked what should I be doing that I’m not doing rn\n\njust ask things\n\nwant to build a startup - ask codex\nwant to sort your finances - asl codex\n\nwant to order groceries - yes ask codex\nwant to build a game - indeed you should ask codex\n\nwant to get a",
+      "likes": 178,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067324418653560855",
+      "author": "@reach_vb",
+      "text": "OpenAI 🤝 Rust\n\nProud that we’re supporting the open source (&amp; rust) ecosystem - we’re just getting started!",
+      "likes": 120,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067327088999231790",
+      "author": "@reach_vb",
+      "text": "When you hit the limit, Codex resets have your back!!",
+      "likes": 123,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067256827889479759",
+      "author": "@jerryjliu0",
+      "text": "We made Claude better and faster at understanding PDFs\n\nThe trick isn’t just creating the fastest free document parser out there (with liteparse), but also *tuning the skill itself* so that Claude Code can use it with fewer turns and expensive file operations.\n\nThis is a",
+      "likes": 83,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2067382607508079088",
+      "author": "@reach_vb",
+      "text": "Codex is remarkably well at creating and manipulating sheets in excel, google sheets!\n\nI’ve had it create complex pivots, dashboards and use sheets as a way to keep track of tasks\n\nWorks remarkably well, best part is that you don’t need a specific skill for this, GPT 5.5 is",
+      "likes": 77,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067082889817403756",
+      "author": "@hwchase17",
+      "text": "Awesome agent idea",
+      "likes": 53,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066914411139465241",
+      "author": "@jerryjliu0",
+      "text": "It's no secret that coding agents are a great proxy for computer use and generalized knowledge work. \n\nAfter all, Claude Cowork is just a UI wrapper on Claude Code.\n\nI think Cursor has a great shot here. However, I do think it has a bit of work to do on the product and harness",
+      "likes": 54,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067223690853691894",
+      "author": "@svpino",
+      "text": "Look at the speed at which this model generates video!\n\nImagine a chat interface that uses real-time video streaming to talk to us instead of text.\n\nWe are getting close!",
+      "likes": 43,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2067263563757216047",
+      "author": "@svpino",
+      "text": "A bunch of companies are banning developers from pushing vibe-coded software to production.\n\nWho didn't see this one coming?\n\nVibe-coding is amazing, but we are now realizing what happens when we let anyone put autogenerated slop in front of users.\n\nWe need something better.",
+      "likes": 38,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067348517014946072",
+      "author": "@jerryjliu0",
+      "text": "Agentic search has moved from fixed RAG pipelines into flexible agent harnesses with access to a set of search tools: keyword search (bm25, grep regex) and semantic search.\n\nWhen you upload a collection of unstructured documents to LlamaParse, we expose all these tools for agents",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2066927787857060313",
+      "author": "@svpino",
+      "text": "This runs locally and watches what's on your screen.\n\nIf you're about to expose something sensitive (like sharing your screen in a Zoom call with a private doc open), it automatically covers it before it's visible.\n\nYou can always one-click reveal it if you actually meant to",
+      "likes": 28,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066901173580562792",
+      "author": "@svpino",
+      "text": "I want one of these robots so badly.\n\nFunny thing is, Musk promised general-purpose household robots, but somebody else will deliver instead.\n\nAt least, I haven't seen Optimus with this level of fluidity yet.\n\nI'm stocked that we have competition in this space!",
+      "likes": 28,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067316185876631966",
+      "author": "@nauczymycieAI",
+      "text": "Google transformerami rozpoczęło rewolucję AI. Mają niemal nielimitowane fundusze. \n\nDo tego własne, potężne czipy - i mimo to, przegrywają wyścig o AI.  Nawet z Chińczykami.\n\nCo się dzieje?\n\nGoogle to dziś największy paradoks AI.\n\nPoniżej lista ich przewag:\n- Researcherzy,",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067184624951034084",
+      "author": "@sentient_agency",
+      "text": "SOMEONE IS LEAKING THE SECRET INSTRUCTIONS BEHIND 200+ CHATGPT GPTS AND OPENAI HASN'T TAKEN IT DOWN\n\nit's called the GPTs repo and it's just sitting on github with 32,000 stars.\n\nyou know how every custom GPT has a hidden prompt the creator wrote? the secret block of text that",
+      "likes": 19,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2066773394423427520",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 ponoć za tydzień.\n\nPobije Mythosa / Fable?",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066911699631034507",
+      "author": "@jerryjliu0",
+      "text": "Congrats to the team for being AI's biggest growth/success story so far (outside the labs, which don't count)  🚀📈",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066851170535325712",
+      "author": "@sentient_agency",
+      "text": "Every password manager that lives in the cloud is one breach away from leaking your entire digital life.\n\nLastPass already proved it. So a community built one that has no cloud at all.\n\nIt's called KeePassXC.\n\nYour passwords never leave your device. They sit inside a single",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2067343633406414942",
+      "author": "@hwchase17",
+      "text": "harbor is a great framework for running longer running, more stateful agent evals\n\nit underpins terminal bench 2 and is becoming industry standard\n\nLangSmith Sandboxes now integration with harbor!",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067303763275305225",
+      "author": "@svpino",
+      "text": "My favorite models right now:\n\n• Everyday: Claude Opus 4.7 and ChatGPT 5.5 Thinking\n• Real-time news: Grok (whatever version they offer)\n• Coding: Claude Code with Sonnet 4.6 and Opus 4.6\n• Fast (running locally): Gemma 4\n• Open weights: MiniMax 2.7 and Qwen 3.6\n\nHere is",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067319580582719633",
+      "author": "@svpino",
+      "text": "Barcola celebrating his goal while wearing a WHOOP.\n\nPros know what’s up.",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066876189927522332",
+      "author": "@svpino",
+      "text": "this.",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066938937344495629",
+      "author": "@Zai_org",
+      "text": "Introducing GLM-5.2: Frontier Intelligence, Open Weights\n\n- Significant improvements in coding and agentic tasks\n- Strong long-horizon capabilities with a 1M context window\n- Two levels of reasoning effort: GLM-5.2 (max) pushes the limits, while GLM-5.2 (high) strikes a strong",
+      "likes": 9191,
+      "retweets": 1246
+    },
+    {
+      "tweet_id": "2066869177965822024",
+      "author": "@Ai_Vaidehi",
+      "text": "A Russian guy has discovered a method to learn anything ten times faster using AI!\n\nIt involves NotebookLM, Gemini and Obsidian.",
+      "likes": 3756,
+      "retweets": 638
+    },
+    {
+      "tweet_id": "2066957802741043641",
+      "author": "@arena",
+      "text": "Exciting news: GLM-5.2 (Max) ranks #2 in Code Arena: Frontend, with +29pt over Claude Opus 4.7 (Thinking) and only behind Fable 5! GLM-5.2 is the best open model vs Kimi-K2.6 and Minimax-M3 by a large margin.\n\n- #2 React and #4 HTML sub-leaderboards\n- Ranks as the top model in",
+      "likes": 3888,
+      "retweets": 439
+    },
+    {
+      "tweet_id": "2066926619714007115",
+      "author": "@ClaudeDevs",
+      "text": "How do teams get agents into production?\n\nNew blog post from our Applied AI team on Claude Managed Agents and the challenges it solves (credentials, sandboxing, observability, &amp; more) ...",
+      "likes": 3352,
+      "retweets": 248
+    },
+    {
+      "tweet_id": "2066912871649574945",
+      "author": "@thaiscbranco_",
+      "text": "We’re excited to introduce Taste Labs.\n\nOur mission is to end AI slop. We’re building the data and infrastructure layer to give AI models and agents taste.\n\nAnd today we’re coming out of stealth, announcing our $18.5M seed funding, co-led by @CRV and @AmplifyPartners \n\nAI has",
+      "likes": 3237,
+      "retweets": 184
+    },
+    {
+      "tweet_id": "2066870197122899980",
+      "author": "@Alibaba_Qwen",
+      "text": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal,",
+      "likes": 2772,
+      "retweets": 417
+    },
+    {
+      "tweet_id": "2067259590488510471",
+      "author": "@mattpocockuk",
+      "text": "Announcing mattpocock/skills v1\n\n- Achieved a 63% reduction in token cost for skill descriptions\n- Split skills into model-invocable and user-invocable skills, adding /codebase-design, /domain-modeling, and /grilling\n- (UPDATED) /writing-great-skills - rewritten from the ground",
+      "likes": 2847,
+      "retweets": 226
+    },
+    {
+      "tweet_id": "2066911399494963335",
+      "author": "@satyanadella",
+      "text": "Copilot Cowork is now generally available worldwide, now with multi-model support!\n\nEvery organization can put long-running agents to work on complex, multi-step tasks, grounded in your organization's unique knowledge and know-how.",
+      "likes": 2551,
+      "retweets": 452
+    },
+    {
+      "tweet_id": "2067313679951941686",
+      "author": "@nutlope",
+      "text": "This model is insane at design.\n\nI asked GLM 5.2 (left) and Opus 4.8 (right) to build me a landing page and you can't even tell the difference.\n\nGLM cost $0.06 while opus cost $0.49. More than 6x cheaper while being faster + more token efficient.\n\nAnother win for open source AI.",
+      "likes": 2722,
+      "retweets": 160
+    },
+    {
+      "tweet_id": "2066949797316350361",
+      "author": "@ollama",
+      "text": "🤯 GLM-5.2 is here — built for long-horizon coding and agentic tasks, now with a solid 1M-token context. \n\nThe strongest open-source coding model yet!\n\nAvailable now on Ollama's cloud, hosted in the US on the latest @NVIDIAAI Blackwell datacenter GPUs. Privacy policy and zero",
+      "likes": 2399,
+      "retweets": 232
+    }
+  ]
+}

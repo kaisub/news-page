@@ -1,0 +1,282 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-18",
+  "slot": "01",
+  "generated_at": "2026-06-18T01:55:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2067273225797603604",
+      "author": "@PAPinformacje",
+      "text": "Unijny komisarz rolnictwa Christophe Hansen: polscy rolnicy dostaną z nowego budżetu UE co najmniej 33,6 mld euro, co oznacza wzrost w stosunku do obecnej perspektywy finansowej. (PAP)\n#PAPinformacje",
+      "likes": 70,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2066742027853631699",
+      "author": "@Macronextcom",
+      "text": "🔸️Japonia 🇯🇵: stopy proc. najwyższe od 31 lat;\n🔸️Chiny 🇨🇳: pierwszy spadek sprzedaży detalicznej od 2022 roku.",
+      "likes": 47,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067328705832046678",
+      "author": "@Macronextcom",
+      "text": "Reakcja na Fed (Warsh, projekcje, komunikat):\n\n🔸dolar mocno w górę;\n🔸rentowność obligacji USA w górę;\n🔸złoto mocno w dół (o ponad 3%);\n🔸Wall Street w dół.",
+      "likes": 39,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2066808592821317778",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VI 2026 Indeks instytutu ZEW 10,5 pkt. 📈(prognoza: -5,8 pkt.; poprzednio: -10,2 pkt.)",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067306886718742639",
+      "author": "@Macronextcom",
+      "text": "Zgodnie z prognozami #Fed nie zmienił stóp proc. w USA 🇺🇸.  Główna zostaje na 3,50-3,75%.\n\nTeraz istotne jest to co na konferencji prasowej powie nowy szef Fed Kevin Warsh.",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067240954709315809",
+      "author": "@PAPinformacje",
+      "text": "Ministrowie obrony Polski i Niemiec podpisali umowę o współpracy obronnej\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067227651815719186",
+      "author": "@GUS_STAT",
+      "text": "🤝 #GUS i @IOMPoland podpisały memorandum o współpracy w zakresie badań nad migracjami.\n💬 Prezes GUS Marek Cierpiał-Wolan: „Współpraca z IOM to wsparcie eksperckie w badaniach nad migracjami i polską diasporą oraz kolejny krok w rozwoju wiarygodnych danych i analiz.”\n#Migracje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067326655513690571",
+      "author": "@PAPinformacje",
+      "text": "Akcja ratownicza po wstrząsie w kopalni na Śląsku. Jeden pracownik pozostał pod ziemią ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066753876368253260",
+      "author": "@DGPrawna",
+      "text": "Rząd podtrzymuje plan zwiększenia liczebności wojska do 500 tys. osób, jednak proces ten ma być rozciągnięty do 2039 r. Demografowie przestrzegają, że osiągnięcie tego poziomu będzie niemożliwe bez powszechnego poboru lub podwyższenia wieku rezerwistów.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066785769507656051",
+      "author": "@GUS_STAT",
+      "text": "W latach 2014–2024 roczne skumulowane tempo wzrostu #EfektywnośćEnergetyczna wyniosło 1,2%. #Energochłonność pierwotna PKB obniżała się w tym okresie średnio o 3,3% rocznie, a energochłonność finalna PKB o 2,2%.\n\n🔗 \n\n#GUS #statystyki #energia #przemysł",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067102412968460622",
+      "author": "@DGPrawna",
+      "text": "Wojsko w 2027 r. będzie potrzebowało od obywateli więcej samochodów",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066889810371883025",
+      "author": "@DGPrawna",
+      "text": "Małpki, akcyza, JPK, KSeF. Ministerstwo Finansów chce kolejnych zmian w podatkach",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067339523827126416",
+      "author": "@visegrad24",
+      "text": "🇵🇱🇪🇺 Poland won't build migrant centers centers at its borders despite EU obligations.\n\nPoland refused to build facilities for processing migrants on its borders, choosing to do the opposite instead.\n\nInstead, Poland is suspending the right to apply for asylum on its eastern",
+      "likes": 1374,
+      "retweets": 216
+    },
+    {
+      "tweet_id": "2067206794103914636",
+      "author": "@annabrylka",
+      "text": "Parlament Europejski przyjął zaostrzone procedury powrotowe dotyczące migrantów! To jedno z najważniejszych głosowań tej kadencji. Jest to ważny sukces wywalczony przez grupę @PatriotsEP, która od początku była siłą napędową zmian w tej sprawie i konsekwentnie naciskała na",
+      "likes": 738,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2067142862400020740",
+      "author": "@DawidParzyk",
+      "text": "\"Z przekazanych danych wynika również, że najwyższe miesięczne wynagrodzenia lekarzy kontraktowych przekraczały 100 tysięcy złotych.\n\nNajwyższe miesięczne wynagrodzenie kontraktowe w 2025 roku wyniosło:\n– 129 600 zł w sierpniu,\n– 124 860 zł w październiku,\n– 117 420 zł w",
+      "likes": 339,
+      "retweets": 65
+    },
+    {
+      "tweet_id": "2066864218586972165",
+      "author": "@MarekLangalis",
+      "text": "Jakby ktoś przeoczył to ZUS właśnie podniósł Wam o prawie 10% czerwcową waloryzacją kapitał emerytalny. \n\nPanowie - wg statystyk 27% z Was nie dożyje wieku emerytalnego. A zróbcie takiego psikusa i na złość systemowi dożyjcie i sprawdźmy czy faktycznie jak przyjdzie moment próby",
+      "likes": 164,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2066805374049534067",
+      "author": "@ChrostowskiGabi",
+      "text": "Wielka Polska depozytowa!\n\nNadwyżka depozytów nad kredytami dobiła do 800 mld zł. To ok. 20 proc. PKB",
+      "likes": 99,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2066850763674886264",
+      "author": "@Wysmulek_Kar",
+      "text": "Kolejna wygrana konsumenta po TSUE C-744/24.\n\nSO w Warszawie zmienił wyrok I instancji i zasądził od Erste Bank Polska S.A. (wcześniej Santander Bank Polska S.A.) 27 640,04 zł + odsetki i koszty procesu.",
+      "likes": 40,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2067296659696934962",
+      "author": "@AkcjaDemokracja",
+      "text": "Warszawska prokuratura regionalna wszczęła postępowanie ws. patroli zaczepiających i bezprawnie legitymujących cudzoziemców. Legalność działań powiązanych z partią Brauna bojówek zaczęła sprawdzać policja.\n\nMy apelujemy o niezwłoczną i zdecydowaną reakcję służb wobec działalności",
+      "likes": 41,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2067178864585871403",
+      "author": "@MonizPolski",
+      "text": "W 35. rocznicę Traktatu o dobrym sąsiedztwie, Polska i Niemcy podpisują dziś nową umowę o współpracy obronnej. Szefowie MON, W. Kosiniak-Kamysz i B. Pistorius, stawiają na wzmocnienie bezpieczeństwa na Bałtyku, cyberobronę oraz mobilność wojskową. 🇵🇱🤝🇩🇪 #Bezpieczeństwo #NATO",
+      "likes": 34,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2066938239999516986",
+      "author": "@Niezn7Krzysztof",
+      "text": "!!!\n\n\"Polska będzie produkować amerykańskie kluczowe systemy uzbrojenia? Ważna zmiana\nWśród poprawek naniesionych przez komisję sił zbrojnych Izby Reprezentantów do projektu corocznej ustawy o wydatkach obronnych (NDAA) znalazły się  zapisy o możliwości",
+      "likes": 51,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066732093023912009",
+      "author": "@Dan_Kostecki",
+      "text": "🇯🇵 Bank Japonii, zgodnie z oczekiwaniami, podniósł stopy procentowe. Oprocentowanie depozytów (complementary deposit facility) będzie na poziomie 1,0%, a podstawowa stopa kredytowa (basic loan rate) na 1,25%.\n\nJednocześnie BOJ będzie systematycznie redukował planowany miesięczny",
+      "likes": 40,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067025396147601555",
+      "author": "@TarasKuzio",
+      "text": "POLAND WANTS TO EXCHANGE OUTDATED 20th CENTURY SOVIET JETS FOR 21ST UKRAINIAN DEFENCE TECHNOLOGY:\n\nPoland is ready to transfer the promised MiG-29 fighters to Ukraine in exchange for unmanned technologies. Polish Deputy Defense Minister Cezary Tomczyk reported that negotiations",
+      "likes": 37,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2067341839741682154",
+      "author": "@PolandMFA",
+      "text": "💬 Not everyone realizes that goods worth €500 million cross the Polish-German border every single day. I already mentioned this during the Forum.\nThis year, Poland is likely to overtake France and become Germany’s fourth-largest trading partner.\n\n| Deputy PM, FM @sikorskiradek",
+      "likes": 27,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2066921877444972633",
+      "author": "@katha1502",
+      "text": "🚨 🇸🇪 RUSSIA TESTS NATO’S NORTHERN FLANK — SWEDEN SCRAMBLES GRIPEN FIGHTERS 🚨\n\nSweden has revealed new details about a highly provocative Russian military manoeuvre over the Baltic Sea.\n\nOn Friday, June 13, the Swedish Air Force scrambled JAS 39 Gripen fighter jets twice after",
+      "likes": 29,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2067091188616757743",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy — 17.06\n\n22:44–22:45  \n🛢️ API pokazuje mocny spadek zapasów ropy w USA\n\n• zapasy ropy API spadły o 8,33 mln baryłek  \n• prognoza zakładała spadek o 4,5 mln  \n• zapasy w Cushing spadły o 1,52 mln  \n• benzyna wzrosła o 2,48 mln, a destylaty spadły o 0,46 mln",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2066759781985960141",
+      "author": "@zus_pl",
+      "text": "Efekty czerwcowej waloryzacji składek możecie już zobaczyć na swoich kontach w portalu eZUS⤵️\n\n✅ Środki na kontach ubezpieczonych w ZUS i ich kapitał początkowy wzrosły o 9,81 proc.👉 łącznie o 371,4 mld zł.\n\n✅ Środki na dziedziczonych subkontach w ZUS wzrosły o 10,61 proc.👉",
+      "likes": 25,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2067321090431459338",
+      "author": "@marketrev_eu",
+      "text": "LPP (właściciel reserved) - najdroższe akcje na naszym GPW  są w ciekawym miejscu - ostatnie wyniki znakomite:\nPrzychody 5,472 mld zł +10%\nZysk 475 mln +43%\nA kurs nie dość że &lt;20k to jeszcze wygląda na wyprzedany lokalny dołek :)",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067289009726877737",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (17.06) za isbiznes. pl\n\n🏦 #Alior_Bank – emisja obligacji serii T zwiększona do 800 mln zł (z 500 mln zł) ze względu na bardzo duży popyt inwestorów; obligacje o zmiennym oprocentowaniu (WIBOR 6M + 1,6%), emisja 30.06.2026,",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2066960975165636786",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (16.06) za isbiznes. pl\n\n🏗️ #Robyg – KNF zatwierdziła prospekt emisyjny. Spółka rozpoczyna ofertę publiczną akcji, a cena maksymalna została ustalona na 36 zł za akcję. Robyg planuje wejście na rynek główny GPW.\n\n🏠 #Archicom",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067323784776864174",
+      "author": "@JulianWro",
+      "text": "Podsumowanie dzisiejszego spotkania Fedu. 5 wniosków w 1 poście:\n\n1. Stopy bez zmian od czterech posiedzeń z rzędu.\n\nFed utrzymał stopy w przedziale 4.25-4.50%. Od stycznia żadnego ruchu w żadną stronę. Decyzja zapadła jednogłośnie, 12-0.\n\n2. Połowa komitetu widzi podwyżkę w tym",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067203439101149444",
+      "author": "@Polska_Zbrojna",
+      "text": "Krajowa produkcja spolonizowanej wersji czołgu K2PL ruszy bez opóźnień. Jak podaje MON, będzie to w I kwartale 2028 roku\n\n@MON_GOV_PL @SztabGenWP @DGeneralneRSZ @DowOperSZ",
+      "likes": 23,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067250336213950723",
+      "author": "@Energetyka_24",
+      "text": "🌊 Polski offshore przestał być planem z prezentacji i staje się realnym placem budowy na Bałtyku\n\n❗️ W budowie jest już ok. 4,5 GW mocy, ale w dyskusji wciąż wybrzmiewa jeden mocny wniosek.\n\nMorska energetyka wiatrowa ma wzmacniać bezpieczeństwo Polski, ale nie może rozwijać się",
+      "likes": 20,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2066883497160012132",
+      "author": "@TK_GOV_PL",
+      "text": "W środę, 17 czerwca 2026 r., o godz. 10:00 #TK rozpozna skargę konstytucyjną dotyczącą braku możliwości złożenia zażalenia na orzeczenie Wojskowego Sądu Garnizonowego orzekającego jako organ odwoławczy od postanowienia rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego.",
+      "likes": 15,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067148745985188263",
+      "author": "@PolicjaWlkp",
+      "text": "Policjanci z Piły zatrzymali 9 członków zorganizowanej grupy przestępczej, która wprowadzała do obrotu leki narkotyczne.\n\nWśród zatrzymanych jest 2 lekarzy, którzy wystawiali fałszywe recepty na przypadkowe osoby.",
+      "likes": 10,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067285068662341915",
+      "author": "@GPW_WSExchange",
+      "text": "WIG z rekordem wszechczasów na koniec sesji przebija barierę 140 tysięcy punktów!🔝\n\nŚrodek tygodnia na GPW przynosi nie tylko kolejne debiuty, ale i kolejne rekordy. Indeks WIG ustanowił nowy historyczny poziom 140 339,70 punktów przy wzroście o 0,55%. \n\n#GPW #WIG #Rekordy",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2066952601610977602",
+      "author": "@nbppl",
+      "text": "W Narodowym Banku Polskim (@nbppl) odbyło się spotkanie Prezesa NBP prof. Adama Glapińskiego z przedstawicielami Międzynarodowego Funduszu Walutowego (@IMF). Rozmowy dotyczyły bieżącej sytuacji gospodarczej w Polsce oraz perspektyw polityki pieniężnej.\n\nW spotkaniu wzięli udział",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067127681896903039",
+      "author": "@zus_pl",
+      "text": "Ponad 1⃣2⃣0⃣ mld zł wyniosły wydatki Funduszu Ubezpieczeń Społecznych w pierwszym kwartale 2026 roku. Ze środków FUS finansujemy przede wszystkim wypłaty świadczeń.\n\n👛 Emerytury i renty wraz z dodatkami kosztowały 105,6 mld zł. To o prawie 9⃣ proc. więcej w porównaniu z",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2066762704459575791",
+      "author": "@Newsforce",
+      "text": "U.S. offers Poland another $4 billion loan for weapons purchases.\n\nThe financing will support additional American arms acquisitions as Poland continues its military modernization efforts.\n\nSource: NewsForce\nHost: @MacyGunnell",
+      "likes": 10,
+      "retweets": 3
+    }
+  ]
+}
