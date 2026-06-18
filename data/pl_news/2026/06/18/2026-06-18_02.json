@@ -1,0 +1,310 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-18",
+  "slot": "02",
+  "generated_at": "2026-06-18T16:23:03Z",
+  "tweets": [
+    {
+      "tweet_id": "2067565714462892403",
+      "author": "@PAPinformacje",
+      "text": "Stołeczny ratusz: Dawid Kacprzyk zwrócił szpitalowi znaczną część wypłaconych mu środków. (PAP)\n#PAPinformacje",
+      "likes": 322,
+      "retweets": 60
+    },
+    {
+      "tweet_id": "2067587356660576644",
+      "author": "@PAPinformacje",
+      "text": "Kosiniak-Kamysz po spotkaniu z szefem Pentagonu: Stany Zjednoczone pozytywnie odnoszą się do propozycji utworzenia stałej bazy wojsk USA w Polsce. (PAP)\n#PAPinformacje",
+      "likes": 101,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2067616552589935071",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Warszawy: cały zarząd Szpitala Południowego został odwołany. (PAP)\n#PAPInformacje",
+      "likes": 78,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2067328705832046678",
+      "author": "@Macronextcom",
+      "text": "Reakcja na Fed (Warsh, projekcje, komunikat):\n\n🔸dolar mocno w górę;\n🔸rentowność obligacji USA w górę;\n🔸złoto mocno w dół (o ponad 3%);\n🔸Wall Street w dół.",
+      "likes": 50,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067561878302101705",
+      "author": "@PAPinformacje",
+      "text": "Wiceprzewodnicząca klubu radnych KO w Warszawie: Dawid Kacprzyk zrezygnował z mandatu radnego dzielnicy Ursus. (PAP)\n#PAPInformacje",
+      "likes": 25,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067551792188076420",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w piątek litr benzyny 95 ma kosztować nie więcej niż 6,00 zł, benzyny 98 - 6,66 zł, a oleju napędowego - 6,20 zł. (PAP)\n#PAPInformacje",
+      "likes": 16,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2067596944521011512",
+      "author": "@Macronextcom",
+      "text": "Dziś na Wall Street ostatnia sesja przed długim weekendem w USA 🇺🇸. \n\nW Chinach 🇨🇳 i Szwecji 🇸🇪 również piątek jest dniem wolnym.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067306886718742639",
+      "author": "@Macronextcom",
+      "text": "Zgodnie z prognozami #Fed nie zmienił stóp proc. w USA 🇺🇸.  Główna zostaje na 3,50-3,75%.\n\nTeraz istotne jest to co na konferencji prasowej powie nowy szef Fed Kevin Warsh.",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067561391326646458",
+      "author": "@GUS_STAT",
+      "text": "#PKD2025 wprowadza bardziej szczegółowy podział działalności, obejmujący m. in. odrębną klasę dla działalności logistycznej oraz nowe kategorie związane z pośrednictwem w #transport.\n\n🔎Sprawdź i zaktualizuj kody przed końcem 2026 r.\n\n🔗\n\n#GUS #logistyka",
+      "likes": 1,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067227651815719186",
+      "author": "@GUS_STAT",
+      "text": "🤝 #GUS i @IOMPoland podpisały memorandum o współpracy w zakresie badań nad migracjami.\n💬 Prezes GUS Marek Cierpiał-Wolan: „Współpraca z IOM to wsparcie eksperckie w badaniach nad migracjami i polską diasporą oraz kolejny krok w rozwoju wiarygodnych danych i analiz.”\n#Migracje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067529939608273192",
+      "author": "@PAPinformacje",
+      "text": "Szef MSZ Izraela Gideon Saar oświadczył, że zrywa wszelkie kontakty z szefową dyplomacji UE Kają Kallas za jej porównanie Izraela do RPA z czasów apartheidu. (PAP)\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067510580236132662",
+      "author": "@GUS_STAT",
+      "text": "W czerwcu 2026 r. odnotowano poprawę nastrojów konsumenckich (m/m), dotyczących zarówno obecnej, jak i przyszłej sytuacji. (BWUK) i większość jego składowych w czerwcu br. były wyższe niż w poprzednim miesiącu (+1,4 m/m).\n\n🔗\n\n#GUS #KoniunkturaKonsumencka",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067532281690902781",
+      "author": "@PAPinformacje",
+      "text": "Hegseth zapowiedział przegląd obecności sił zbrojnych USA i ich baz w Europie\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067511479784403317",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych przeciętne zatrudnienie w gospodarce narodowej w 2025 r. wyniosło 11,0 mln etatów i pozostało na zbliżonym poziomie w stosunku do poprzedniego roku. Najwięcej etatów (22,5%) było w sekcji Przetwórstwo przemysłowe.\n\n🔗\n\n#GUS",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067517526070665304",
+      "author": "@DGPrawna",
+      "text": "Członkini #RPP: Bazowym scenariuszem jest stabilizacja stóp procentowych w najbliższych miesiącach",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067491005876593126",
+      "author": "@DGPrawna",
+      "text": "Surowce tanieją. Ceny zbliżają się do poziomów sprzed wojny",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067102412968460622",
+      "author": "@DGPrawna",
+      "text": "Wojsko w 2027 r. będzie potrzebowało od obywateli więcej samochodów",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067339523827126416",
+      "author": "@visegrad24",
+      "text": "🇵🇱🇪🇺 Poland won't build migrant centers centers at its borders despite EU obligations.\n\nPoland refused to build facilities for processing migrants on its borders, choosing to do the opposite instead.\n\nInstead, Poland is suspending the right to apply for asylum on its eastern",
+      "likes": 2601,
+      "retweets": 429
+    },
+    {
+      "tweet_id": "2067251248085012935",
+      "author": "@TheEuropeansHQ",
+      "text": "🇪🇺🇩🇪🇵🇱 Europe's security centre of gravity is moving east.\n\nGermany and Poland have signed a new defence agreement covering military mobility, critical infrastructure protection, cyber defence, defence-industrial cooperation, and closer coordination on Baltic Sea security and",
+      "likes": 306,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2067296659696934962",
+      "author": "@AkcjaDemokracja",
+      "text": "Warszawska prokuratura regionalna wszczęła postępowanie ws. patroli zaczepiających i bezprawnie legitymujących cudzoziemców. Legalność działań powiązanych z partią Brauna bojówek zaczęła sprawdzać policja.\n\nMy apelujemy o niezwłoczną i zdecydowaną reakcję służb wobec działalności",
+      "likes": 83,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2067536475646738922",
+      "author": "@et_ius7842",
+      "text": "TSUE ogranicza jurysdykcję sądów krajowych. Nie każda krzywda historyczna może być dochodzona „u siebie”…\n👇👇👇\n\nTSUE w wyroku C-232/25 (Idziski) wyjaśnił zasady jurysdykcji w sprawach o naruszenie dóbr osobistych przez treści rozpowszechniane transgranicznie – zarówno w",
+      "likes": 36,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2067304387026854353",
+      "author": "@notesfrompoland",
+      "text": "Poland and Germany have signed a bilateral security agreement that will see the two neighbours and NATO allies increase cooperation in areas such as military mobility, logistics infrastructure, maritime security in the Baltic Sea, and cybersecurity",
+      "likes": 47,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2067168076479562212",
+      "author": "@SprinterPress",
+      "text": "France, Poland, and Lithuania are conducting joint military exercises in the Suwalki Corridor\n\nMore than 10,000 military personnel and 600 units of military equipment are involved in the \"Valiant Boar 26\" exercises, which are also simulating possible offensive operations against",
+      "likes": 50,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2067518010768711944",
+      "author": "@CBAgovPL",
+      "text": "Funkcjonariusze CBA rozbili układ korupcyjny w zakładach PESA Mińsk Mazowiecki. Zatrzymano siedem osób, w tym trzech pracowników spółki oraz czterech współpracujących z nią przedsiębiorców. Śledztwo nadzoruje Mazowiecki Wydział Zamiejscowy Departamentu ds. Przestępczości",
+      "likes": 41,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2067321090431459338",
+      "author": "@marketrev_eu",
+      "text": "LPP (właściciel reserved) - najdroższe akcje na naszym GPW  są w ciekawym miejscu - ostatnie wyniki znakomite:\nPrzychody 5,472 mld zł +10%\nZysk 475 mln +43%\nA kurs nie dość że &lt;20k to jeszcze wygląda na wyprzedany lokalny dołek :)",
+      "likes": 49,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067323784776864174",
+      "author": "@JulianWro",
+      "text": "Podsumowanie dzisiejszego spotkania Fedu. 5 wniosków w 1 poście:\n\n1. Stopy bez zmian od czterech posiedzeń z rzędu.\n\nFed utrzymał stopy w przedziale 4.25-4.50%. Od stycznia żadnego ruchu w żadną stronę. Decyzja zapadła jednogłośnie, 12-0.\n\n2. Połowa komitetu widzi podwyżkę w tym",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067539602072567996",
+      "author": "@WojciechCPK",
+      "text": "W Podprogramie Lotniskowym CPK ogłoszone zostało ostatnie z planowanych postępowań zakupowych w zakresie projektowania📏\n\nDotyczy zaprojektowania Sortowni Towarów dla Terminala 📦📨\n\nTo ważny moment w całym procesie inwestycyjnym 🤝🇵🇱",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067091188616757743",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy — 17.06\n\n22:44–22:45  \n🛢️ API pokazuje mocny spadek zapasów ropy w USA\n\n• zapasy ropy API spadły o 8,33 mln baryłek  \n• prognoza zakładała spadek o 4,5 mln  \n• zapasy w Cushing spadły o 1,52 mln  \n• benzyna wzrosła o 2,48 mln, a destylaty spadły o 0,46 mln",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067289009726877737",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (17.06) za isbiznes. pl\n\n🏦 #Alior_Bank – emisja obligacji serii T zwiększona do 800 mln zł (z 500 mln zł) ze względu na bardzo duży popyt inwestorów; obligacje o zmiennym oprocentowaniu (WIBOR 6M + 1,6%), emisja 30.06.2026,",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067547654150668681",
+      "author": "@Czubakovic",
+      "text": "#GPW\n\nPolski paliwowy gigant #Orlen kupił 20% udziałów złóż „Goliat” w Norwegii (ropa i gaz) - 60 mln baryłek ropy 🛢️.\n\n🗓️ Dzienne wydobycie ma oscylować ~12k baryłek w ciągu paru lat.\n\n#PKN w odwrocie po wczorajszym odcięciu dywidendy oraz  mocnych wzrostach z ostatnich",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067446240921403489",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy - czwartek, 18.06.2026\n\n22:19–01:58\n🌍 Iran i USA domknęły MOU, ale Ormuz nie wraca do starej normalności\n\n• Biały Dom potwierdził podpisanie memorandum USA–Iran\n• z irańskiej strony pojawiły się też zdjęcia podpisu prezydenta Pezeszkiana\n• Iran przekazał, że",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067506664681443519",
+      "author": "@GIS_gov",
+      "text": "Nowe przepisy dotyczące jakości wody już obowiązują. Co się zmienia? Szerszy zakres badań, szybsze wykrywanie zagrożeń i wyższe standardy dla laboratoriów. Woda w Polsce pozostaje bezpieczna, a system kontroli staje się jeszcze skuteczniejszy. Więcej:",
+      "likes": 9,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2067624632866259455",
+      "author": "@_ZajacPiotr",
+      "text": "#LiczbyDnia czw:\n\n1) #WIG20 -1,6% do 3671\n2) #Modivo test 95\n3) #Asbis ATH 97,35; CEO\n4) #Vigo -6,9%; emisja\n5) #Unibep +5,2% test MA200\n6) #Mabion +5%; Novavax\n7) #Fed 0 pb i -1 dot\n8) #EURUSD&lt;1,15\n9) #oil WTI&lt;75\n10) ..?",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067285068662341915",
+      "author": "@GPW_WSExchange",
+      "text": "WIG z rekordem wszechczasów na koniec sesji przebija barierę 140 tysięcy punktów!🔝\n\nŚrodek tygodnia na GPW przynosi nie tylko kolejne debiuty, ale i kolejne rekordy. Indeks WIG ustanowił nowy historyczny poziom 140 339,70 punktów przy wzroście o 0,55%. \n\n#GPW #WIG #Rekordy",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067127681896903039",
+      "author": "@zus_pl",
+      "text": "Ponad 1⃣2⃣0⃣ mld zł wyniosły wydatki Funduszu Ubezpieczeń Społecznych w pierwszym kwartale 2026 roku. Ze środków FUS finansujemy przede wszystkim wypłaty świadczeń.\n\n👛 Emerytury i renty wraz z dodatkami kosztowały 105,6 mld zł. To o prawie 9⃣ proc. więcej w porównaniu z",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067604217351557301",
+      "author": "@wirtualnapolska",
+      "text": "🔴Wynagrodzenia personelu medycznego pod lupą NIK. Pokłosie afery\n\nNIK planuje rozpocząć w lipcu kontrolę zatrudnienia i wynagradzania  personelu medycznego. Działania obejmą kilka podmiotów leczniczych i  mają sprawdzić mechanizmy wzrostu płac. W tym samym miesiącu Izba chce",
+      "likes": 7,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067622441149456492",
+      "author": "@MZ_GOV_PL",
+      "text": "💼🏥 Bezpieczeństwo pacjentów i odpowiedzialne zarządzanie publicznymi środkami to fundamenty stabilnego systemu ochrony zdrowia.\n\nProjekt ustawy, który umożliwi Ministerstwu Zdrowia, NFZ oraz AOTMiT pozyskiwanie dokładniejszych i bardziej kompleksowych danych o wynagrodzeniach",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067372713451176070",
+      "author": "@Longterm44",
+      "text": "🔥Po konferencji nowego szefa FED- Warsha na CME jest aż 83,1% prawdopodobieństwa że stopy na koniec roku będą wyżej - 43% że będzie 1 podwyżka, 32,7% że 2 i o zgrozo pojawiła się opcja aż 3 podwyżek o 25 pb (7,3% szans). Rentowność 2-letnich obligów rządowych USA wzrosła do 4,2%",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067183326247411809",
+      "author": "@EmerytalnyPlan",
+      "text": "Czy doczekamy się końca ręcznego liczenia składek i ślęczenia nad ZUS DRA? \n\nZUS ma plan. Szykuje się rewolucja pod nazwą JPU (Jednolity Plik Ubezpieczeniowy). System ma działać dokładnie tak, jak Twój e-PIT – urząd przygotuje wszystko za Ciebie, a Ty tylko klikasz „zatwierdź i",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067602159357637014",
+      "author": "@UOKiKgovPL",
+      "text": "⚖️#UOKiK wygrywa w sądzie\n\nSąd Ochrony Konkurencji i Konsumentów potwierdził decyzję w sprawie zmowy przetargowej.\n\nSiedem spółek utworzyło konsorcjum, którego celem było uniknięcie rywalizacji w przetargach na odbiór odpadów w Poznaniu i okolicach.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067196921228185601",
+      "author": "@KOWR_gov_pl",
+      "text": "KOWR aktywnie działa na rzecz rozwoju OZE w rolnictwie. Spółdzielnie energetyczne na obszarach wiejskich to jedna z najbardziej dynamicznie rozwijających się dziedzin OZE. W wykazie spółdzielni prowadzonym przez KOWR jest ich już prawie 750🔋\n\nWięcej 🌐  🌐",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067122948092141581",
+      "author": "@Piechocinski",
+      "text": "Ptasia grypa i rzekomy pomór drobiu mocno ograniczyły podaż jaj",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067178526730490243",
+      "author": "@inwestorzy",
+      "text": "Na @GPW_WSExchange pojawią się kolejne ETF-y tematyczne od @hanetf.",
+      "likes": 5,
+      "retweets": 1
+    }
+  ]
+}
