@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-19",
+  "slot": "02",
+  "generated_at": "2026-06-19T16:11:50Z",
+  "tweets": [
+    {
+      "tweet_id": "2067671912038240487",
+      "author": "@claudeai",
+      "text": "New in Claude Code: Artifacts.\n\nInteractive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link.\n\nAvailable in beta on Team and Enterprise plans.",
+      "likes": 15239,
+      "retweets": 1081
+    },
+    {
+      "tweet_id": "2067679507126124858",
+      "author": "@jerryjliu0",
+      "text": "We built the fastest PDF -&gt; markdown parser in the world 🚀⚡️\n\nAND it’s more accurate than any other open-source, model-free parser (pymupdf4llm, opendataloader, pdf-inspector, markitdown) on 3 standardized benchmarks: olmOCR0-bench, opendataloader-bench, ParseBench\n\nIntroducing",
+      "likes": 811,
+      "retweets": 103
+    },
+    {
+      "tweet_id": "2067348517014946072",
+      "author": "@jerryjliu0",
+      "text": "Agentic search has moved from fixed RAG pipelines into flexible agent harnesses with access to a set of search tools: keyword search (bm25, grep regex) and semantic search.\n\nWhen you upload a collection of unstructured documents to LlamaParse, we expose all these tools for agents",
+      "likes": 69,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067343633406414942",
+      "author": "@hwchase17",
+      "text": "harbor is a great framework for running longer running, more stateful agent evals\n\nit underpins terminal bench 2 and is becoming industry standard\n\nLangSmith Sandboxes now integration with harbor!",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067504414437564875",
+      "author": "@VivekIntel",
+      "text": "🤖 Autonomous Pentesting &amp; AI Security: 400+ Resources in One Place\n\nA curated repository focused on the rapidly growing intersection of Cybersecurity, AI Agents, MCP Servers, Autonomous Pentesting, and Agent Security.\n\nInside you'll find:\n\n🧠 Agentic AI Security Research\n🔌",
+      "likes": 167,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2067944288483180595",
+      "author": "@quantscience_",
+      "text": "This is wild. \n\nSomeone just open-sourced a 1-person Wall Street AI agent that comes with:\n\n- Research Desk\n- Quant team\n- Trading floor\n- Risk Management\n\n100% open source:",
+      "likes": 77,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2067986056729993633",
+      "author": "@kepochnik",
+      "text": "Stanford has released a lecture that breaks down how to build AI agents from scratch\n\nsome people wrap a single prompt and call it an agent. others build a 10-step pipeline and call it the same thing\n\nin 90 minutes she breaks down exactly what separates a real agentic workflow",
+      "likes": 12,
+      "retweets": 2
+    }
+  ]
+}
