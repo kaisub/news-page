@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-20",
+  "slot": "02",
+  "generated_at": "2026-06-20T15:40:57Z",
+  "tweets": [
+    {
+      "tweet_id": "2067671912038240487",
+      "author": "@claudeai",
+      "text": "New in Claude Code: Artifacts.\n\nInteractive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link.\n\nAvailable in beta on Team and Enterprise plans.",
+      "likes": 17527,
+      "retweets": 1249
+    },
+    {
+      "tweet_id": "2067679507126124858",
+      "author": "@jerryjliu0",
+      "text": "We built the fastest PDF -&gt; markdown parser in the world 🚀⚡️\n\nAND it’s more accurate than any other open-source, model-free parser (pymupdf4llm, opendataloader, pdf-inspector, markitdown) on 3 standardized benchmarks: olmOCR0-bench, opendataloader-bench, ParseBench\n\nIntroducing",
+      "likes": 1534,
+      "retweets": 193
+    },
+    {
+      "tweet_id": "2068075256993169619",
+      "author": "@hwchase17",
+      "text": "it is indeed quite good!\n\ndon't try it in claude code/codex - those harnesses are overly tuned for their proprietary models\n\ndcode (deepagents code) is a model agnostic harness - try it there with @FireworksAI_HQ :\n\n```\ndcode --model fireworks:accounts/fireworks/models/glm-5p2",
+      "likes": 147,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2068297731005952307",
+      "author": "@TheTuringPost",
+      "text": "An open-source Agent Reinforcement Trainer (ART) – plugs GRPO into any Python app\n\n→ Your app defines the task and reward\n→ ART handles the RL loop: inference, trajectory scoring, GRPO optimization, checkpointing and LoRA updates\n\nSo agents learn through experience and",
+      "likes": 43,
+      "retweets": 7
+    }
+  ]
+}
