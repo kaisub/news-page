@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-20",
+  "slot": "01",
+  "generated_at": "2026-06-20T01:46:09Z",
+  "tweets": [
+    {
+      "tweet_id": "2067671912038240487",
+      "author": "@claudeai",
+      "text": "New in Claude Code: Artifacts.\n\nInteractive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link.\n\nAvailable in beta on Team and Enterprise plans.",
+      "likes": 16647,
+      "retweets": 1181
+    },
+    {
+      "tweet_id": "2068075256993169619",
+      "author": "@hwchase17",
+      "text": "it is indeed quite good!\n\ndon't try it in claude code/codex - those harnesses are overly tuned for their proprietary models\n\ndcode (deepagents code) is a model agnostic harness - try it there with @FireworksAI_HQ :\n\n```\ndcode --model fireworks:accounts/fireworks/models/glm-5p2",
+      "likes": 66,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067588262156501497",
+      "author": "@UnslothAI",
+      "text": "GLM-5.2 can now be run locally!🔥\n\nThe 2-bit model retains ~82% accuracy after we shrunk it from 1.51TB to 238GB (-84% size).\n\nRun on a 256GB Mac or RAM/VRAM setups.\n\nGLM-5.2 is the strongest open model to date.\n\nGuide: \nGGUF:",
+      "likes": 6518,
+      "retweets": 766
+    },
+    {
+      "tweet_id": "2068131019451166839",
+      "author": "@Hi_Mrinal",
+      "text": "Morning lads \n\nI was going through daytona's repository today which is Elastic sandbox infrastructure for running AI-generated code \n\ncool how its stack is somewhat simpler and its an open source alternative to modal and together sandbox",
+      "likes": 15,
+      "retweets": 2
+    }
+  ]
+}

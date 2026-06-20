@@ -1,0 +1,408 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-20",
+  "slot": "01",
+  "generated_at": "2026-06-20T01:46:09Z",
+  "tweets": [
+    {
+      "tweet_id": "2068029412209996191",
+      "author": "@PAPinformacje",
+      "text": "KPRP: prezydent Karol Nawrocki zdecydował o odebraniu Orderu Orła Białego prezydentowi Ukrainy",
+      "likes": 1653,
+      "retweets": 143
+    },
+    {
+      "tweet_id": "2067596944521011512",
+      "author": "@Macronextcom",
+      "text": "Dziś na Wall Street ostatnia sesja przed długim weekendem w USA 🇺🇸. \n\nW Chinach 🇨🇳 i Szwecji 🇸🇪 również piątek jest dniem wolnym.",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067914787380482406",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: od soboty do poniedziałku litr benzyny 95 ma kosztować nie więcej niż 5,94 zł, benzyny 98 - 6,61 zł, a oleju napędowego - 6,12 zł. (PAP)\n#PAPinformacje",
+      "likes": 23,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2067958755216494928",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: USA dały nam zielone światło do negocjacji ws. stałej bazy wojskowej w Polsce #PAPinformacje",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068027318577082459",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: pozyskaliśmy właśnie kilkaset pocisków PAC-2 GEM-T dla systemu Wisła\n#PAPinformacje",
+      "likes": 22,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067963604456886653",
+      "author": "@PAPinformacje",
+      "text": "Izrael i Hezbollah uzgodniły nowy rozejm, który wchodzi w życie w piątek o godz. 16 - źródła w rządzie USA.",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067881310631149796",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Produkcja przemysłowa wzrosła w maju silniej od prognoz (4,1%), jednak główną rolę odegrało górnictwo. Wyniki przetwórstwa są zdecydowanie słabsze (2,5%), a niska aktywność europejskich gospodarek pozostawia małą przestrzeń na poprawę.",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067873178395783675",
+      "author": "@GUS_STAT",
+      "text": "W maju 2026 r. produkcja sprzedana przemysłu była o 4,1% wyższa niż przed rokiem. Po wyeliminowaniu czynników sezonowych odnotowano jej wzrost o 4,4% rok do roku.\n\n🔗 \n\n#GUS #statystyki #produkcja #przemysł",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067561391326646458",
+      "author": "@GUS_STAT",
+      "text": "#PKD2025 wprowadza bardziej szczegółowy podział działalności, obejmujący m. in. odrębną klasę dla działalności logistycznej oraz nowe kategorie związane z pośrednictwem w #transport.\n\n🔎Sprawdź i zaktualizuj kody przed końcem 2026 r.\n\n🔗\n\n#GUS #logistyka",
+      "likes": 1,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067510580236132662",
+      "author": "@GUS_STAT",
+      "text": "W czerwcu 2026 r. odnotowano poprawę nastrojów konsumenckich (m/m), dotyczących zarówno obecnej, jak i przyszłej sytuacji. (BWUK) i większość jego składowych w czerwcu br. były wyższe niż w poprzednim miesiącu (+1,4 m/m).\n\n🔗\n\n#GUS #KoniunkturaKonsumencka",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067906148208947435",
+      "author": "@PAPinformacje",
+      "text": "Problemy Zbigniewa Ziobry. Sejm uchylił immunitet. W tle prywatny akt oskarżenia\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067511479784403317",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych przeciętne zatrudnienie w gospodarce narodowej w 2025 r. wyniosło 11,0 mln etatów i pozostało na zbliżonym poziomie w stosunku do poprzedniego roku. Najwięcej etatów (22,5%) było w sekcji Przetwórstwo przemysłowe.\n\n🔗\n\n#GUS",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067517526070665304",
+      "author": "@DGPrawna",
+      "text": "Członkini #RPP: Bazowym scenariuszem jest stabilizacja stóp procentowych w najbliższych miesiącach",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067491005876593126",
+      "author": "@DGPrawna",
+      "text": "Surowce tanieją. Ceny zbliżają się do poziomów sprzed wojny",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067938828375966111",
+      "author": "@trzaskowski_",
+      "text": "Zgodnie z zapowiedzią informuję Państwa o kolejnych decyzjach ws. Warszawskiego Szpitala Południowego.\n\nPodjąłem decyzję o odwołaniu w całości dotychczasowej Rady Nadzorczej szpitala. W jej miejsce powołany zostanie nowy skład Rady złożony z uznanych ekspertów i urzędników.",
+      "likes": 940,
+      "retweets": 212
+    },
+    {
+      "tweet_id": "2067861016357015745",
+      "author": "@ElzbietaSa27948",
+      "text": "🇵🇱 Nowa wiceminister obrony! \n\nMagdalena Sobkowiak-Czarnecka została właśnie powołana na stanowisko wiceminister obrony narodowej odpowiedzialnej za uzbrojenie polskiej armii. \n\nTo bardzo mocny ruch. Do tej pory jako pełnomocnik rządu prowadziła kluczowy unijny program SAFE –",
+      "likes": 569,
+      "retweets": 192
+    },
+    {
+      "tweet_id": "2067641547479265533",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info nr 2⃣ ze świata 🌎 g. 18:20\n-🇷🇺Moskwa:ciemno w dzień przez pożar rafinerii\n-📉nowy system GPW WATS 5 października\n-💸KNF nakłada 15 mln zł karty na mBank. Security\n-📦Allegro i InPost siądą do negocjacji\n- 🇵🇱 72% Polaków odkłada pieniądze\n-🇺🇸Trump: każdy kto sprzeda",
+      "likes": 354,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2067985405165650133",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info nr 2⃣ ze świata 🌏. Piątek godz. 17:00\n- 🪖Pentagon: wojna w Iranie kosztowała 80 mld$\n-🪙NBP: zasoby złota rosną do 613,9 tony\n-🇩🇪zarząd VW🚗 ocenia stan firmy na krytyczny\n-🇵🇱 rząd chce finansować 50% projektów Ai\n-🇺🇸Trump: nie zawarłem Porozumienia z desperacji",
+      "likes": 295,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2067661695347023893",
+      "author": "@Karol1669024",
+      "text": "BRAWA DLA POLSKI 🇵🇱\n\nORLEN potraja wydobycie w Norwegii. Polska rośnie w siłę na rynku energii\n\nORLEN Upstream Norway kupił od Vår Energi 20% udziałów w pięciu koncesjach na Morzu Barentsa, obejmujących min. złoże Goliat i zasoby Goliat Ridge. \n\nTo największe w ostatnich latach",
+      "likes": 201,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2067883733806366913",
+      "author": "@PL_2050",
+      "text": "Kolejny element naszej rewolucji mieszkaniowej domknięty 💪🏻\n\n✅ Sejm poparł projekt @McGramat. \n\nDeweloperzy będą publikować ceny mieszkań w jednym formacie - takim, który da się automatycznie przeszukać i porównać między firmami. Kto się nie dostosuje, odpowie przed UOKiK.",
+      "likes": 105,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2067487191111012409",
+      "author": "@skawinski_marek",
+      "text": "Wg nowych danych Eurostatu 🇪🇺 rzeczywista konsumpcja indywidualna (AIC), którą urząd uznaje za lepszą miarę dobrobytu niż PKB 🇵🇱 wysunęła się w 2025 r. na czoło regionu EŚW (88% średniej UE).\n\nMierzy ona dobra i usługi rynkowe oraz zapewnione przez państwo.\n\n📈Wyprzedziliśmy w",
+      "likes": 95,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2067918921924059406",
+      "author": "@ArkadiuszMyrcha",
+      "text": "Ustawa anty - SLAPP podpisana💪\n\nChronimy debatę publiczną przed nadużywaniem prawa w postaci pozwów „odstraszających” .\n\n#RobimyNieGadamy",
+      "likes": 91,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2067858771607531656",
+      "author": "@PolsatNewsPL",
+      "text": "Nowym wiceministrem obrony narodowej została Magdalena Sobkowiak-Czarnecka.",
+      "likes": 98,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2067536475646738922",
+      "author": "@veritasetius",
+      "text": "TSUE ogranicza jurysdykcję sądów krajowych. Nie każda krzywda historyczna może być dochodzona „u siebie”…\n👇👇👇\n\nTSUE w wyroku C-232/25 (Idziski) wyjaśnił zasady jurysdykcji w sprawach o naruszenie dóbr osobistych przez treści rozpowszechniane transgranicznie – zarówno w",
+      "likes": 62,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2067844750539956366",
+      "author": "@pse_pl",
+      "text": "Aktualne dane o mocy zainstalowanej #PV i farm wiatrowych w krajowym systemie elektroenergetycznym:\n☀️#PV - 27 083 MW\n🌬️Farmy wiatrowe - 11 191 MW\n#OZE",
+      "likes": 62,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2068014384547274811",
+      "author": "@Monitor807",
+      "text": "Zełenski stawia ultimatum Łukaszence: tydzień na wycofanie sprzętu z granicy\n\nZełenski: „Daję Łukaszence tydzień na wycofanie sprzętu wojskowego z granicy z Ukrainą, który jest wykorzystywany do korygowania ostrzału artyleryjskiego ludności ukraińskiej. W przeciwnym razie zrobimy",
+      "likes": 69,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067859724960182574",
+      "author": "@wirtualnapolska",
+      "text": "🔵Maciej Lasek odchodzi. Trzęsienie ziemi ws. CPK\n \nZgodnie z decyzją premiera pełnomocnik ds. CPK Maciej Lasek został  odwołany. Powołany na to stanowisko został dotychczasowy minister  infrastruktury odpowiedzialny za kolej Piotr Malepszak - powiedział w  radiu RMF FM szef",
+      "likes": 64,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067590303712702937",
+      "author": "@adam_banaszek",
+      "text": "💥POLSKA SIĘ ROZWIJA‼️\n\nWedług najnowszych danych GUS w Polsce jest obecnie ponad 100 tysięcy wolnych miejsc pracy. To nie propaganda, to twarde liczby.\n\nNajwięcej ofert czeka w przemyśle produkcyjnym, który ponownie stał się liderem rynku pracy. Firmy szukają pracowników,",
+      "likes": 35,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2067518010768711944",
+      "author": "@CBAgovPL",
+      "text": "Funkcjonariusze CBA rozbili układ korupcyjny w zakładach PESA Mińsk Mazowiecki. Zatrzymano siedem osób, w tym trzech pracowników spółki oraz czterech współpracujących z nią przedsiębiorców. Śledztwo nadzoruje Mazowiecki Wydział Zamiejscowy Departamentu ds. Przestępczości",
+      "likes": 44,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2067983663296344318",
+      "author": "@MFIPR_GOV_PL",
+      "text": "Do Komisji Europejskiej wysłaliśmy już przedostatni wniosek o płatność z 🇵🇱 #KPO na ok. 33 mld zł 💪\n➡️ Zainwestujemy je w projekty realizowane przez polskie firmy i samorządy, w takie obszary jak: cyfryzacja, edukacja, energetyka, rynek pracy, transport.\n✅ Ostatni - dziewiąty",
+      "likes": 27,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2067547654150668681",
+      "author": "@Czubakovic",
+      "text": "#GPW\n\nPolski paliwowy gigant #Orlen kupił 20% udziałów złóż „Goliat” w Norwegii (ropa i gaz) - 60 mln baryłek ropy 🛢️.\n\n🗓️ Dzienne wydobycie ma oscylować ~12k baryłek w ciągu paru lat.\n\n#PKN w odwrocie po wczorajszym odcięciu dywidendy oraz  mocnych wzrostach z ostatnich",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067624632866259455",
+      "author": "@_ZajacPiotr",
+      "text": "#LiczbyDnia czw:\n\n1) #WIG20 -1,6% do 3671\n2) #Modivo test 95\n3) #Asbis ATH 97,35; CEO\n4) #Vigo -6,9%; emisja\n5) #Unibep +5,2% test MA200\n6) #Mabion +5%; Novavax\n7) #Fed 0 pb i -1 dot\n8) #EURUSD&lt;1,15\n9) #oil WTI&lt;75\n10) ..?",
+      "likes": 38,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2068046947773198374",
+      "author": "@schmorgpl",
+      "text": "Ministerstwo Zdrowia odpowiedziało na interpelację posła @M_Jozefaciuk dotyczącą kryzysu zdrowia mężczyzn w Polsce.\n\nNie znaleźliśmy w niej zapowiedzi Narodowej Strategii Zdrowia Mężczyzn, androbusów ani zniesienia skierowań do urologa. Warto jednak odnotować działania, które",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067927432955404464",
+      "author": "@CERT_Polska",
+      "text": "‼️ Przygotowaliśmy pilne rekomendacje dla wszystkich instytucji korzystających z oprogramowania FortiGate.\n\n 🌍 Nasze zalecenia to odpowiedź na publikację informacji o wykryciu listy loginów i haseł do urządzeń FortiGate, która zawierała kilkadziesiąt tysięcy wpisów z całego",
+      "likes": 26,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067580562743710043",
+      "author": "@MarekJozefiak",
+      "text": "⚡️OZE-SROZE z mocnymi wynikami w czerwcu. \n\n⚡️OZE zapewniały nam do tej pory od 22 do 48% energii elektr. dziennie w Krajowym Systemie Elektroenergetycznym. \n\n⚡️Do tego dodajmy autokonsumpcję OZE (czyli użycie bezpośrednio u źródła), która obniża zapotrzebowanie na prąd z KSE💪",
+      "likes": 24,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067930962730561809",
+      "author": "@MSZ_RP",
+      "text": "💬 Europa Zachodnia zbyt długo czerpała korzyści z dywidendy pokojowej. Już 20 lat temu wprowadziliśmy specjalną ustawę, która przeznaczyła na nasze siły zbrojne 2% PKB. W tamtym czasie były to ogromne pieniądze.\n\nObecnie Polska przeznacza 4,8% PKB na obronę zbrojną oraz około 1%",
+      "likes": 19,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067506664681443519",
+      "author": "@GIS_gov",
+      "text": "Nowe przepisy dotyczące jakości wody już obowiązują. Co się zmienia? Szerszy zakres badań, szybsze wykrywanie zagrożeń i wyższe standardy dla laboratoriów. Woda w Polsce pozostaje bezpieczna, a system kontroli staje się jeszcze skuteczniejszy. Więcej:",
+      "likes": 12,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2067622441149456492",
+      "author": "@MZ_GOV_PL",
+      "text": "💼🏥 Bezpieczeństwo pacjentów i odpowiedzialne zarządzanie publicznymi środkami to fundamenty stabilnego systemu ochrony zdrowia.\n\nProjekt ustawy, który umożliwi Ministerstwu Zdrowia, NFZ oraz AOTMiT pozyskiwanie dokładniejszych i bardziej kompleksowych danych o wynagrodzeniach",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067637778075062747",
+      "author": "@LVinEU",
+      "text": "“The Latvian prime minister has pledged to continue Riga’s stalwart support for Ukraine, signing a drone deal with Kyiv in the first days of his premiership. Latvia is in the company of the EU’s top defense spenders and fellow Russia hawks Poland, Lithuania and Estonia”.",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067666247609880669",
+      "author": "@ME_GOV_PL",
+      "text": "💬 Minister Energii @motykamilosz w @Radio_ZET: Pierwsza elektrownia jądrowa jest na etapie negocjacji umowy wykonawczej z naszymi sojusznikami – chodzi o stronę finansową. Po naszej stronie jednoznacznie podnoszony jest postulat udziału polskich firm. Chcemy tę umowę podpisać do",
+      "likes": 18,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067446240921403489",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy - czwartek, 18.06.2026\n\n22:19–01:58\n🌍 Iran i USA domknęły MOU, ale Ormuz nie wraca do starej normalności\n\n• Biały Dom potwierdził podpisanie memorandum USA–Iran\n• z irańskiej strony pojawiły się też zdjęcia podpisu prezydenta Pezeszkiana\n• Iran przekazał, że",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068015961353982028",
+      "author": "@PISM_Poland",
+      "text": "Poland🇵🇱 and Germany🇩🇪 signed a military cooperation agreement that will replace the existing one from 2011. \n➡️ It envisages coordination and closer cooperation in areas such as:\n🔹 military mobility and interoperability, \n🔹 cybersecurity,\n🔹 space. \n➡️ The agreement will not",
+      "likes": 15,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2067853373039128969",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy — piątek, 19.06.2026\n\n21:36–22:11\n📊 Jen, kapitał i Big Tech\n\n• pojawiły się podejrzenia interwencji na jenie\n• długoterminowe przepływy kapitału do USA wyniosły 103,1 mld USD\n• łączne przepływy netto spadły do 26,1 mld USD\n• SpaceX otrzymał rating",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067598809824215228",
+      "author": "@CSIRT_KNF",
+      "text": "🚨 Uwaga na fałszywe strony podszywające się pod PKO BP (@PKOBP)!\n\nCyberprzestępcy przygotowali niebezpieczne witryny podszywające się pod serwis banku. Ich celem jest wyłudzenie danych, w tym:\n🔴 loginów i haseł do bankowości elektronicznej,\n🔴 danych kart płatniczych,\n🔴",
+      "likes": 13,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2067520644829286840",
+      "author": "@Rz_Policja",
+      "text": "Aktem oskarżenia skierowanym do sądu, zakończyła się sprawa inspektora Inspekcji Transportu Drogowego podejrzanego o przyjmowanie korzyści majątkowych w związku z pełnioną przez niego funkcją publiczną. Mężczyzna usłyszał 35 zarzutów. Sprawą zajmowali się funkcjonariusze z",
+      "likes": 15,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067602159357637014",
+      "author": "@UOKiKgovPL",
+      "text": "⚖️#UOKiK wygrywa w sądzie\n\nSąd Ochrony Konkurencji i Konsumentów potwierdził decyzję w sprawie zmowy przetargowej.\n\nSiedem spółek utworzyło konsorcjum, którego celem było uniknięcie rywalizacji w przetargach na odbiór odpadów w Poznaniu i okolicach.",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067649944639447314",
+      "author": "@Lukasz_on_GPW",
+      "text": "Zarząd #GPW ustalił datę produkcyjnego uruchomienia systemu GPW WATS na 5 października 2026 roku, a migracja z systemu UTP planowana jest na 3–4 października 2026 roku - podała GPW w komunikacie dotyczącym aktualizacji harmonogramu wdrożenia tego systemu. Więcej 👇",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067854398227656931",
+      "author": "@kwpkrakow",
+      "text": "Policjanci z Komendy Powiatowej Policji w Krakowie, specjalizujący się w zwalczaniu przestępczości gospodarczej wspólnie z funkcjonariuszami Wydziału Centralnego Biura Śledczego Policji w Częstochowie Zarządu w Katowicach,  udaremnili wprowadzenie do obrotu 3 500 000 sztuk",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067956213917110476",
+      "author": "@NFZ_GOV_PL",
+      "text": "🏍️ Karetka na dwóch kołach? Tak działają Motocyklowe Jednostki Ratunkowe.\n\n💪Docierają tam, gdzie tradycyjny ambulans może utknąć w korku — na zatłoczone ulice, imprezy masowe i w miejsca trudno dostępne.\n\nW 2026 roku NFZ finansuje 18 takich jednostek w Polsce.\n\n🗓️ Od 1 maja",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067855558279885016",
+      "author": "@RadioMaryja",
+      "text": "Ponad 70 proc. Polaków obawia się o prywatność swoich danych w związku z rozwojem sztucznej inteligencji – wynika z raportu firmy Future Mind. Wielu dostrzega też ryzyko dla demokracji związane z dezinformacją napędzaną przez AI.",
+      "likes": 8,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067605669138612413",
+      "author": "@uknf",
+      "text": "📌 Komisja Nadzoru Finansowego nałożyła na mBank SA kary pieniężne łącznie w wysokości 14,9 mln zł za naruszenia regulacji dotyczących obowiązków z zakresu zarządzania i bezpieczeństwa prowadzenia działalności, w tym zapewnienia jej zgodności z przepisami prawa:",
+      "likes": 7,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067857770280337436",
+      "author": "@wPolityce_pl",
+      "text": "Lasek nie będzie się już zajmował CPK! Został odwołany. Kto go zastąpi?",
+      "likes": 7,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067601875948511472",
+      "author": "@BGK_pl",
+      "text": "Polska energetyka z historycznym wsparciem. #BGK zakontraktował 67,2 mld zł – pełną pulę Funduszu Wsparcia Energetyki. \n\nPonad 61 mld zł z #KPO trafi na budowę i modernizację blisko 150 tys. km sieci elektroenergetycznych, a 6 mld zł na projekty transformacji energetycznej",
+      "likes": 6,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067976710885142734",
+      "author": "@RadioMaryja",
+      "text": "NBP: Na koniec maja br. zasoby złota wzrosły do 613,9 ton",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067928954002972991",
+      "author": "@CSIRT_KNF",
+      "text": "Cyberprzestępcy zamieszczają reklamy fałszywych inwestycji w mediach społecznościowych, w których wykorzystują wizerunki znanych osób czy instytucji. \n\nZespół @CSIRT_KNF zgłosił w maju 923 fałszywe reklamy i 631 niebezpiecznych domen, które związane były z fałszywymi",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067926024235503909",
+      "author": "@piotruhle",
+      "text": "Podpisana bardzo ważna ustawa przeciwko SLAPPom, czyli tłumieniem krytyki i partycypacji społecznej poprzez prawne slzastraszanie obywatelu oraz mediów.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2067648674277015640",
+      "author": "@Defence24eng",
+      "text": "🇵🇱🇩🇪 Warsaw and Berlin have signed a new defence agreement, reinforcing military cooperation at a time of heightened security concerns across Europe.\n\nThe move underscores the strategic importance of NATO’s eastern flank.",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}
