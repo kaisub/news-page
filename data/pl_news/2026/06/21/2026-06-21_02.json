@@ -1,0 +1,198 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-21",
+  "slot": "02",
+  "generated_at": "2026-06-21T15:37:03Z",
+  "tweets": [
+    {
+      "tweet_id": "2068339360290750470",
+      "author": "@PAPinformacje",
+      "text": "Ukraina/ Zełenski: dziś odesłałem Order Orła Białego prezydentowi Polski",
+      "likes": 149,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2068382627359232211",
+      "author": "@PAPinformacje",
+      "text": "Ukraińskie wojsko zaatakowało rafinerię na zachodzie Syberii\n#PAPInformacje",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2068466136094560374",
+      "author": "@PAPinformacje",
+      "text": "Prezydent USA: nie będzie żadnych opłat za tranzyt przez Ormuz, chyba że my będziemy je pobierać\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068648339772428461",
+      "author": "@PAPinformacje",
+      "text": "Wiceprezydent USA przybył do Szwajcarii na rozmowy z Iranem\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068441180786901165",
+      "author": "@PAPinformacje",
+      "text": "Dowództwo Centralne USA: Cieśnina Ormuz otwarta\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068662105838875120",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Iranu: nie dążymy do uzyskania bomby atomowej, ale nie zrezygnujemy ze wzbogacania uranu\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068226666606768209",
+      "author": "@DGPrawna",
+      "text": "PKP Intercity straci monopol na pociągi pośpieszne. Startują przygotowania do przetargów na przewozy",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068287326069911749",
+      "author": "@PAPinformacje",
+      "text": "Epidemia eboli w Demokratycznej Republice Konga. Władze podały nowy bilans zakażeń ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068332648691310813",
+      "author": "@PremierRP",
+      "text": "Chronimy uczestników debaty publicznej!\n\n✅ Podpisana ustawa wzmacnia ochronę osób zabierających głos w debacie publicznej.\n\n👉 Nowe przepisy mają przeciwdziałać wykorzystywaniu postępowań sądowych do wywierania presji na osoby, które uczestniczą w życiu publicznym.",
+      "likes": 98,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2068308576485990882",
+      "author": "@PremierRP",
+      "text": "Sprawniejsze wsparcie działań policji i służb!\n\n✅ Podpisana ustawa porządkuje zasady funkcjonowania lotnictwa służb porządku publicznego.\n\n👉 Nowe przepisy ułatwią wykorzystanie statków powietrznych w działaniach policji i innych służb odpowiedzialnych za bezpieczeństwo.",
+      "likes": 80,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2068661535447138510",
+      "author": "@PiotrKusznieruk",
+      "text": "Kontrakty warszawskich szpitali z NFZ opiewają dziś na 2,8 mld zł. Większość tych pieniędzy - ok. 80 proc. - pójdzie na płace lekarzy i personelu. Świadczeń można by udzielać więcej, gdyby więcej pieniędzy zostawało w szpitalach",
+      "likes": 83,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2068258210960605249",
+      "author": "@PremierRP",
+      "text": "Mniej formalności w sprawach podatkowych!\n\n✅ Podpisana ustawa upraszcza wybrane procedury podatkowe i ogranicza formalności po stronie podatników.\n\n👉 To kolejny krok w porządkowaniu przepisów i ułatwianiu kontaktu z administracją skarbową.",
+      "likes": 66,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2068347073720659970",
+      "author": "@Maciej__Czajka",
+      "text": "Polska, poprzez fundusz Vinci SA zarządzany przez państwowy Bank Gospodarstwa Krajowego (BGK), zainwestowała 11 milionów dolarów w ElevenLabs – jednego z najważniejszych graczy na globalnym rynku głosowej sztucznej inteligencji. \n\nTo nie jest tylko czysta inwestycja finansowa,",
+      "likes": 61,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068266203462660586",
+      "author": "@WojciechCPK",
+      "text": "✅Projektowanie \"Obiektów Wspierających\" - Lotnisko CPK\n\n✅Wczoraj @PortPolska_info podpisał umowę na opracowanie dokumentacji projektowej dla Obiektów Obsługi Naziemnej\n\n✅Wartość zakresu podstawowego to 3,8 mln zł netto\n✅Wartość zakresu opcjonalnego to 3,3 mln zł netto",
+      "likes": 55,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068323461122945343",
+      "author": "@Monitor807",
+      "text": "Irańskie wojsko (dowództwo Khatam al-Anbia) ogłosiło zamknięcie Cieśniny Ormuz dla ruchu statków, oskarżając Stany Zjednoczone o naruszenie porozumienia kończącego wojnę poprzez ciągłe łamanie zawieszenia broni przez Izrael, izraelskie ataki i zabójstwa w południowym Libanie oraz",
+      "likes": 54,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068227347988550081",
+      "author": "@MSWiA_GOV_PL",
+      "text": "📊 Wspólnie z @Straz_Graniczna  przygotowaliśmy dla Was tygodniowy raport z granicy (12-18.06) ⤵️ \n\n✅ nie odnotowano prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 5 przemytników ludzi\n✅ ponad 240 cudzoziemców opuściło Polskę –",
+      "likes": 34,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2068293029664899262",
+      "author": "@Lukasz_on_GPW",
+      "text": "Ciekawy artykuł w Financial Times, chwalący  dotychczasowy rozwój gospodarczy Polski 🇵🇱 i dalsze, dobre perspektywy. Poniżej tłumaczenie👇\n\nPolska jest na dobrej drodze do zakończenia korzystania z głównego programu pożyczek rozwojowych Banku Światowego,",
+      "likes": 42,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2068368619591831775",
+      "author": "@JarosMichal",
+      "text": "Pomimo globalnych napięć polska gospodarka przyspiesza! 🇵🇱\n\nDane GUS mówią jasno. Produkcja przemysłowa w maju wzrosła aż o 4,1% rok do roku. Mamy być z czego dumni.",
+      "likes": 29,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2068680337350386002",
+      "author": "@SztabGenWP",
+      "text": "🛡️Bursztynowy Obrońca-26\n#BursztynowyObrońca26 #WojskoPolskie #SGWP\nNowoczesne technologie zmieniają współczesne pole walki. Federacja ćwiczeń Bursztynowy Obrońca-26 jest również miejscem sprawdzania użyteczności bojowej innowacyjnych rozwiązań technologicznych ⚙️\n\nPodczas",
+      "likes": 26,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2068221063738069094",
+      "author": "@Longterm44",
+      "text": "🔥Czy to tylko ja zauważyłem że mieliśmy rekordowy pod względem wartości obrotów tydzień na #GPW?🤔 Łącznie 19,8 mld zł!😲Wychodzi prawie 4 mld zł na sesję! 💪Wiem że we wtorek było wielkie ABB na #Allegro ale przecież pakietówki za 4,4 mld zł nie są wliczane do oficjalnie",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068302535828402383",
+      "author": "@EmerytalnyPlan",
+      "text": "Kto by się spodziewał takiego układu sił w 2026 roku? 🤯\n\nPatrząc na wyniki od początku roku (YTD), warszawski parkiet uciera nosa globalnym gigantom technologicznie i amerykańskim blue chipom. \n\nSpójrzcie na liczby:\n🇵🇱 WIG20TR: +15,65%\n🇺🇸 Nasdaq Composite: +14,13%\n🇺🇸 S&amp;P 500",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068317945554473144",
+      "author": "@sprawdzamto_pl",
+      "text": "Prezes @UOKiKgovPL postawił zarzuty popularnemu serwisowi rezerwacyjnemu. Według urzędu użytkownicy nie byli informowani, czy opinie publikowane na platformie pochodzą od osób, które rzeczywiście skorzystały z noclegu.\n#sprawdzamto",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2068042978057158909",
+      "author": "@Lukasz_on_GPW",
+      "text": "Wynik indeksów #GPW po sesji z dnia 19.06 (Dane za GPW)",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068289917201813897",
+      "author": "@Lukasz_on_GPW",
+      "text": "Przybywa transakcji ABB na #GPW. W ostatnich tygodniach nastąpił prawdziwy wysyp. W 2025 r. transakcje ABB na GPW miały wartość ok. 15 mld zł, choć warto zauważyć, że miało wówczas miejsce kilka istotnych transakcji. W tym roku jest już niemal 9 mld zł, jeśli uwzględnimy",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068372904014688339",
+      "author": "@Piechocinski",
+      "text": "W 29 ogniskach ASF ślady obecności wirusa potwierdzono u 40 zwierząt. 22 ogniska dotyczyły dzików padłych, 6 dzików odstrzelonych, jedno zaś dzika zabitego w wypadku.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068370549378609377",
+      "author": "@Piechocinski",
+      "text": "Pierwsze ognisko ASF u świń na Węgrzech-  ferma 3000 sztuk",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068002436845805658",
+      "author": "@DNAGielda",
+      "text": "Wiedźmy wyciągnęły WIG20 na plus\n\nZa nami nietypowy tydzień na rynku akcji. O jego specyfice decydowała dzisiejsza sesja, po której wygasły czerwcowe serie kontraktów terminowych na indeksy i akcje. W przeszłości zdarzało się, że z tego powodu handel był chaotyczny szczególnie w",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

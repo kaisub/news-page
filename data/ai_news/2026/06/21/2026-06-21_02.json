@@ -1,0 +1,86 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-21",
+  "slot": "02",
+  "generated_at": "2026-06-21T15:37:03Z",
+  "tweets": [
+    {
+      "tweet_id": "2068075256993169619",
+      "author": "@hwchase17",
+      "text": "it is indeed quite good!\n\ndon't try it in claude code/codex - those harnesses are overly tuned for their proprietary models\n\ndcode (deepagents code) is a model agnostic harness - try it there with @FireworksAI_HQ :\n\n```\ndcode --model fireworks:accounts/fireworks/models/glm-5p2",
+      "likes": 177,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2068397522989826358",
+      "author": "@hwchase17",
+      "text": "Very cool work from @jit_infinity:\n\n🔥Leve: filesystem-first, durable agent framework built on LangGraph.\n\nYou describe an agent as a directory of files. Leve compiles that directory into an agent and runs it\n\nInspired by Vercel's Eve",
+      "likes": 110,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2068405008685539514",
+      "author": "@NousResearch",
+      "text": "Hermes Agent has a new Blank Slate setup mode.\n\nThe default Quick/Full setup modes work great for most, but if you would rather build your agent from the ground up you can now start with just a provider, model, file operations, and terminal, then manually add in anything else.",
+      "likes": 2395,
+      "retweets": 128
+    },
+    {
+      "tweet_id": "2068269036417495246",
+      "author": "@rammcodes",
+      "text": "Bruh... this AI skill actually makes AI-generated UIs look better 🤯\n\nTaste Skill is an open-source skill that helps AI coding agents generate cleaner, more polished frontends, and it's compatible with popular agents like Claude Code, Codex, Gemini, Cursor, Lovable, and more :)",
+      "likes": 637,
+      "retweets": 48
+    },
+    {
+      "tweet_id": "2068508557801329120",
+      "author": "@support_huihui",
+      "text": "New Model:\n\nhuihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2.5-v1-abliterated\n\nThis is an uncensored version of yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1 created with abliteration",
+      "likes": 233,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2068605123316560174",
+      "author": "@freeCodeCamp",
+      "text": "You may have heard about the Model Context Protocol and wondered how it lets AI tools connect to other tools, APIs, and systems.\n\nWell, it's all thanks to MCP servers.\n\nIn this guide, @manishmshiva explains how MCP servers work and helps you build your own with Python and the",
+      "likes": 211,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2068199041314562145",
+      "author": "@VivekIntel",
+      "text": "🤖 Pentest Copilot: AI Agent for Autonomous Penetration Testing\n\nWhat if you could simply describe a target and let an AI agent handle the enumeration, exploitation workflow, tool execution, and result analysis?\n\nPentest Copilot is an open-source AI-driven penetration testing",
+      "likes": 80,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2068670169237316080",
+      "author": "@alphabatcher",
+      "text": "Cat Wu, Head of Product for Claude Code:\n\n\"The strongest Claude users are building an environment around the model\"\n\nProjects carry the context\nMCP gives Claude GitHub, docs, browser, errors, and schemas\nSubagents keep research and logs out of the main thread\n/goal keeps long",
+      "likes": 57,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068213679066390748",
+      "author": "@huang_chao4969",
+      "text": "Excited to release UpSkill — a lightweight framework that continuously evolves skills, empowering your Flash Model to perform at the level of a Pro.\n\nAI Agents — Claude Code, Codex, Cursor, OpenClaw, Hermes, nanobot — are transforming how we build and automate. But one hard truth",
+      "likes": 38,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068684111183495368",
+      "author": "@sytaylor",
+      "text": "I love this! Santander has open-sourced its open-source AI initiatives.\n\nThe bank pushed 11 repos, live this week under Apache-2.0 on the code, but the data synthetic or anonymised  only.\n\nQuite a moment for a bank this size, putting its AI control layer on the open internet for",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2068682232386970072",
+      "author": "@computeseal",
+      "text": "Python SDK for ComputeSeal is officially live.\n\nDevelopers asked us to make Python a priority, so we shipped the first release.\n\nThe package is now available on PyPI and can be installed directly with:\n\npip install computeseal==1.0.0\n\nThis brings ComputeSeal closer to the",
+      "likes": 20,
+      "retweets": 4
+    }
+  ]
+}
