@@ -1,0 +1,338 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-21",
+  "slot": "01",
+  "generated_at": "2026-06-21T01:49:39Z",
+  "tweets": [
+    {
+      "tweet_id": "2067859101212664121",
+      "author": "@RadekPyffel",
+      "text": "Nie jest dobrze. Rozmowy między USA, a Iranem w sprawie wdrożenia 14-punktowego porozumienia mającego na celu zakończenie wojny, które miały się dziś odbyć, zostały odwołane, o czym poinformował szwajcarski MSZ. \n\nOdwołanie rozmów nastąpiło nagle, powodem- jak podały irańskie",
+      "likes": 28,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2067927964721807569",
+      "author": "@OSW_pl",
+      "text": "Według ministra gospodarki Ołeksija Sobołewa 1,3 mln osób podlegających mobilizacji korzysta –  często dzięki korupcji – z odroczenia lub zwolnienia od służby; ich  liczba wzrosła w ciągu roku o 300 tys.",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2067952023249506682",
+      "author": "@RadekPyffel",
+      "text": "Japonia nałoży cła antydumpingowe na niektóre rodzaje wyrobów stalowych importowanych z Chin Kontynentalbych i Tajwanu już od lipca. \n\nOpłaty wyniosą do około 45% dla produktów z ChRL i do około 21% dla produktów z Tajwanu.  \n\nImport z Chin Kontynentalnych stanowi około 1/5",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2067865872513867832",
+      "author": "@RadekPyffel",
+      "text": "Tymczasem niemieckie wojsko nie zasypuje gruszek w popiele i ogłasza, iż weźmie udział misji rozminowywania Cieśniny Ormuz.\n\nPierwsze statki miały już zdążyć przekroczyć Suez i płyną w stronę Ormuz. \n\nMinisterstwo Obrony stwierdziło, że \"misja wciąż jest hipotetyczna\" i niezbędne",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2067899181025390853",
+      "author": "@FedorovMykhailo",
+      "text": "Ukraine launches TrophyLab: we are opening access to captured Russian weapon technologies for our global partners. Every missile, drone, and vehicle seized on the battlefield is now a source of knowledge for the free world. \n\nThrough this secure platform, allied governments,",
+      "likes": 30427,
+      "retweets": 5602
+    },
+    {
+      "tweet_id": "2068027427788333081",
+      "author": "@prezydentpl",
+      "text": "Decyzja Prezydenta RP Karola Nawrockiego w sprawie odebrania Orderu Orła Białego Prezydentowi Ukrainy Wołodymyrowi Zełenskiemu.",
+      "likes": 29330,
+      "retweets": 4266
+    },
+    {
+      "tweet_id": "2068393653752455616",
+      "author": "@ZelenskyyUa",
+      "text": "Our long-range sanctions have reached Russia’s Tyumen region – another oil-processing facility, over 2,000 kilometers from our state border. An effective strike. \n\nThe job was carried out by the new, upgraded FP drones that can now reach targets at distances of 3,000 kilometers.",
+      "likes": 15388,
+      "retweets": 2505
+    },
+    {
+      "tweet_id": "2067894767258587553",
+      "author": "@visegrad24",
+      "text": "🇨🇺 Cuba begins its largest economic reform since the 1959 revolution\n\nThe country's parliament unanimously approved radical reforms that provide for the privatization of a significant part of the economy.\n\nThe plan provides for private real estate development, the creation of",
+      "likes": 6643,
+      "retweets": 1011
+    },
+    {
+      "tweet_id": "2068318897464357178",
+      "author": "@414magyarbirds",
+      "text": "Magyar’s update on the health of Crimea’s gas infrastructure:\n\nGas infrastructure in Crimea, the bridge across the Henichesk Strait, fuel, and military logistics in the TOT. The USF Birds are putting logistics in order in the enemy’s operational depth.\n\nOn the night of June 20,",
+      "likes": 1865,
+      "retweets": 352
+    },
+    {
+      "tweet_id": "2067879334891651151",
+      "author": "@Domanski_Andrz",
+      "text": "Produkcja przemysłowa w maju wzrosła o 4,1% - wyraźnie powyżej oczekiwań analityków. Pomimo globalnych napięć polska gospodarka przyspiesza.",
+      "likes": 1300,
+      "retweets": 367
+    },
+    {
+      "tweet_id": "2068334665102999748",
+      "author": "@ChrisO_wiki",
+      "text": "1/ A fuel crisis is growing in Russia, with soaring costs for gasoline, quotas on how much can be bought, and long queues at the pumps. Miroslava Reginskaya, wife of the imprisoned Igor 'Strelkov' Girkin, highlights how shortages have become widespread and severe. ⬇️",
+      "likes": 1274,
+      "retweets": 248
+    },
+    {
+      "tweet_id": "2068471051642949715",
+      "author": "@ItsTheEnforcer",
+      "text": "🚨BREAKING: Ukraine has attacked Kerch Port in Russian-occupied Crimea. Major explosions have been reported.\n\nThe attack is less than 5 miles from the Kerch bridge. Russia has declared an emergency.",
+      "likes": 1021,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2068330794008076311",
+      "author": "@Indianinfoguide",
+      "text": "🚨India and Russia have set an target to increase annual bilateral trade to $100 billion by 2030, up from over $68 billion in FY25.",
+      "likes": 994,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2067925673176715757",
+      "author": "@XH_Lee23",
+      "text": "China built the Port of Chancay in Peru, and opened it last June a year ago.\n\nDirect route from Chancay to Shanghai has made Peruvian agricultural exports to China grew by 63.5% in 2025, and bilateral trade surpass $50 billion for the first time.",
+      "likes": 716,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2067925267759427685",
+      "author": "@RussiasPivot",
+      "text": "China-Russia Trade Up 23% In 5M 2026\n\nRussia-China bilateral trade has grown 23% year on year in the period January-May 2026, as the trade mix diversifies. This data suggests total bilateral trade for the year will reach just over US$280 billion.",
+      "likes": 602,
+      "retweets": 272
+    },
+    {
+      "tweet_id": "2068041120991584623",
+      "author": "@KobeissiLetter",
+      "text": "Global equity markets have never been this concentrated:\n\nThe average market cap of the top 20 stocks in the MSCI All-Country World Index (ACWI) is now 60 times larger than the average stock among the remaining ~2,500 constituents.\n\nThis ratio has DOUBLED over the last 7 years,",
+      "likes": 695,
+      "retweets": 108
+    },
+    {
+      "tweet_id": "2068407390811099585",
+      "author": "@aidefranceukr",
+      "text": "🇫🇷🇮🇹 On Thursday, Emmanuel Macron will welcome Giorgia Meloni to France for their first bilateral summit since she took office in 2022. The meeting will focus on strengthening Franco-Italian cooperation in several strategic areas, particularly defence.",
+      "likes": 662,
+      "retweets": 118
+    },
+    {
+      "tweet_id": "2068345126011736386",
+      "author": "@Maciej__Czajka",
+      "text": "W politycznej bańce na X: \"Zaraz zbankrutujemy, przemysł upada, jesteśmy na dnie!\"\n\nTymczasem w realnym świecie (według najnowszego raportu Bloomberga):\nTajwański gigant Foxconn zainwestuje ponad 1 MLD dolarów w polski projekt aut elektrycznych (EV).\nPolska przestaje być \"tylko",
+      "likes": 554,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2068033754505863526",
+      "author": "@wjakobik",
+      "text": "Ukraina daje Białorusi tydzień na usunięcie rosyjskiego sprzętu wspierającego ataki dronów z Rosji oraz blokadę dostaw paliw uzupełniających niedobory rosyjskie. - Inaczej sami się tym zajmiemy - ostrzega Żeleński. Latający spodek w Moskwie jest dobrym argumentem siły. Film:UNIAN",
+      "likes": 602,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2067934596235133336",
+      "author": "@visegrad24",
+      "text": "Scandal in the EU: Head of the European Council António Costa tried to establish a communication channel with Moscow without coordination.\n\nAccording to Politico, Costa instructed his assistant to contact the Russian side twice without consulting Germany, France, and the Baltic",
+      "likes": 470,
+      "retweets": 114
+    },
+    {
+      "tweet_id": "2068076529884467586",
+      "author": "@SemiAnalysis_",
+      "text": "Everyone's talking about Elon Musk's AI1 satellite this week. Almost nobody noticed: China moved on space-based AI compute a week BEFORE he did.\n\nLast week, Beijing quietly launched its first Space Computing Industry Innovation Center. Government-chartered, led by BUPT, a top",
+      "likes": 493,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2068377923887796440",
+      "author": "@jurgen_nauditt",
+      "text": "The offer of a personal meeting with Putin remains on the table – Zelenskyy.\n\nFurther statements by the President:\n\nUkraine has already deployed new, modernized FPV drones with a range of up to 3,000 km. It was precisely these drones that attacked the refinery in Tyumen.\n\nKyiv",
+      "likes": 444,
+      "retweets": 107
+    },
+    {
+      "tweet_id": "2068182076378001454",
+      "author": "@Cointelegraph",
+      "text": "🇯🇵 LATEST: Japan targets $2.3T in AI, chips and space investment by 2040.",
+      "likes": 484,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2068410436970557743",
+      "author": "@LloydsList",
+      "text": "Vessels continued to enter and exit the Middle East Gulf on June 20, data from Lloyd's List Intelligence shows. Despite Iran claiming it was closing the strait, traffic was seen moving with AIS on via the northern route and also the southern route for the first time in weeks",
+      "likes": 369,
+      "retweets": 178
+    },
+    {
+      "tweet_id": "2068136825886032322",
+      "author": "@SMO_VZ",
+      "text": "🚨🇷🇺🇫🇮 Russia Builds New War Belt Against NATO\n\nThe Russian Armed Forces have significantly expanded their infrastructure along the border with Finland, as part of a broader effort to reinforce the country's northwestern flank.\n\nSatellite images reveal new barracks, warehouses,",
+      "likes": 326,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2067928359279997249",
+      "author": "@EU_Commission",
+      "text": "Europe has the talent, infrastructure and industrial capacity to build advanced AI systems.\n\nWe've chosen the EUROPA consortium to build an open-source frontier AI model in all 24 official EU languages↓",
+      "likes": 327,
+      "retweets": 82
+    },
+    {
+      "tweet_id": "2068230873942544707",
+      "author": "@KyivIndependent",
+      "text": "Russian metallurgical plants that supply the country’s defense industry during Russia’s war against Ukraine have imported EU-made equipment despite the restrictions aimed at preventing it.\n\nAn intermediary, set up in Turkey and owned by a Dutch national, helped supply the banned",
+      "likes": 247,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2068043702648385634",
+      "author": "@Reuters",
+      "text": "France opposes return hubs for migrants in third countries, Macron says",
+      "likes": 212,
+      "retweets": 71
+    },
+    {
+      "tweet_id": "2068233467364532383",
+      "author": "@PernotLeplay",
+      "text": "🇪🇺🇫🇷 Mistral is not alone anymore: OVH wants to become a major AI player too.\n\nThe demand for European AI is growing and OVH acquired 2 French startups in LLMs &amp; speech-to-text.\n\nOVH wants to start with specialized open source models.\n\nGreat news for the European AI ecosystem.",
+      "likes": 195,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2068074570083610922",
+      "author": "@KirkLubimov",
+      "text": "New: Canada announces 10% tariff on imports of canned vegetables for the next 200 days.\n\nIt will not ⁠apply to canned vegetables from Mexico, Israel, ​Chile and developing countries due to Canadian trade ​obligations.\n\nWho will it apply to then and how is it suppose to make",
+      "likes": 143,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2068241217112908197",
+      "author": "@business",
+      "text": "German Economy Minister Katherina Reiche said Turkey understands the European Union’s position that gas imported under new contracts with the bloc must not originate in Russia",
+      "likes": 134,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2068261059883139568",
+      "author": "@Teo_Sinamin",
+      "text": "China is tightening #indium (metal) exports now. Same playbook as tungsten. \n\nChinese customs are slowing indium export approvals, demanding end-user information from buyers who've never been asked before. \n\nIf you've been watching tungsten, the shape of this is familiar. Almost",
+      "likes": 130,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2068231271180874135",
+      "author": "@POLITICOEurope",
+      "text": "Germany warned the United States yesterday that an investigation into its drug pricing policies could jeopardize a trade deal between the EU and U.S. that foresees a 15 percent tariff cap.",
+      "likes": 97,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2068016168028541142",
+      "author": "@Normal_2610",
+      "text": "China cut tungsten powder exports to Japan by 70% since February 2025 and two of Japan biggest WF6 producers, Kanto Denka and Central Glass, will permanently stop making it by July 2026\n\nWF6 is gas used to deposit tungsten inside every advanced chip below 7nm and in 3D NAND with",
+      "likes": 99,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2068197333724987536",
+      "author": "@UKDefJournal",
+      "text": "British F-35 Lightnings have flown over Finland for the first time to deter Russia after being launched from HMS Prince of Wales as part of Ramstein Flag 26. Click image for more.",
+      "likes": 93,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2067857754845552686",
+      "author": "@ViiV_333",
+      "text": "🇰🇷🇰🇵South Korea Announces Plan to Move Civilian Control Line 2 km Closer to North Korea  \n\nThe Lee Jae-myung government appears eager to move closer to North Korea. \n\nOn June 17, 2026, South Korea's Ministry of National Defense announced plans to shift the Civilian Control Line",
+      "likes": 68,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2068178128313201116",
+      "author": "@ProvidentQuant",
+      "text": "🚀 Barcelona and the Imminent Revolution: The Quantum Future is Already Here\nThe news has just been confirmed: the largest quantum computing center in southern Europe is landing in Barcelona. With a 92 million euro investment led by the British company OQC (Oxford Quantum",
+      "likes": 57,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2067950530710954151",
+      "author": "@nexusasian",
+      "text": "🇪🇺🇨🇳 Europe is hardening its trade stance on China.\n\nGermany has reportedly backed France's proposal to give the EU faster tariff powers against Chinese imports, reflecting growing concerns over state subsidies, industrial overcapacity, and unfair competition.\n\nThe move marks a",
+      "likes": 76,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2068503582803197993",
+      "author": "@jukan05",
+      "text": "South Korea Preliminary Exports (June 1–20)\n\n- MLCC: +24% YoY, +23% MoM\n- Semiconductor Manufacturing Equipment: +38% YoY, +43% MoM",
+      "likes": 74,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2067976998006206804",
+      "author": "@OficjalneZero",
+      "text": "Punkt zwrotny w polityce migracyjnej Unii Europejskiej. Parlament Europejski zatwierdził w ustawę, która ma przyspieszyć odsyłanie migrantów niemających prawa pobytu w UE. Akt przyjęto dzięki poparciu ugrupowań centroprawicowych i skrajnie prawicowych. Co więcej Parlament",
+      "likes": 56,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068315428389077449",
+      "author": "@Market_Mind_",
+      "text": "Government Spending on Space Programs (2024)\n\n🇺🇸 USA — $79.7B\n🇨🇳 China — $19.9B\n🇯🇵 Japan — $6.8B\n🇫🇷 France — $4.0B\n🇷🇺 Russia — $3.7B\n🇪🇺 EU — $3.0B\n🇩🇪 Germany — $2.8B\n🇮🇳 India — $2.7B",
+      "likes": 45,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2067879692594504111",
+      "author": "@jackprandelli",
+      "text": "Europe's gas storage.\n\nThat red line on the chart is 2026.\n\nEvery other year is higher right now.\n\nEU gas storage today: 45.56%\n\nIn a normal June, storage is 60-70% and climbing toward the 90% winter target.\n\nThis year we're starting summer injection season 20 percentage points",
+      "likes": 35,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2067997301243531671",
+      "author": "@Levant_24_",
+      "text": "Syria and Turkey signed a memorandum of understanding to enhance healthcare cooperation, focusing on digital transformation, system development, and professional training.\n\nThe agreement includes plans to build a cancer center in Aleppo and collaborate on hospital management,",
+      "likes": 45,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2067994592805322935",
+      "author": "@Reuters",
+      "text": "US launches trade investigation into Germany over drug pricing",
+      "likes": 29,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2068431360218308826",
+      "author": "@jackprandelli",
+      "text": "🌏 The next era of oil demand isn't a China story. \n\nIt's an India story.\n\nOPEC's long-term outlook has world demand rising 19 mb/d by 2050.\n\nStrip it apart and the engine is clear: \n\nIndia adds +8.1 mb/d, more than any other region on earth. \n\nChina adds just +1.1 and",
+      "likes": 31,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2068418409709051914",
+      "author": "@tassagency_en",
+      "text": "The European Union will insist that the gas that Turkey will supply to the union's countries under new contracts should not be of Russian origin, Bloomberg quoted German Economy Minister Katherina Reiche as saying:",
+      "likes": 25,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2068354318407716989",
+      "author": "@LukasKobierski",
+      "text": "🇪🇺Komisja Europejska planuje nałożyć cła na chińskie🇨🇳 samochody hybrydowe, poinformował dziennik Handelsblatt, powołując się na wysoko postawionych urzędników UE.\n\n@J_Jakobowski @boguszmichal @Piechocinski @a_fedorska @MazurKrzysztof @FilippDM",
+      "likes": 16,
+      "retweets": 3
+    }
+  ]
+}

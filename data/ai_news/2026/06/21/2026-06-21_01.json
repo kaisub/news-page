@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-21",
+  "slot": "01",
+  "generated_at": "2026-06-21T01:49:39Z",
+  "tweets": [
+    {
+      "tweet_id": "2068075256993169619",
+      "author": "@hwchase17",
+      "text": "it is indeed quite good!\n\ndon't try it in claude code/codex - those harnesses are overly tuned for their proprietary models\n\ndcode (deepagents code) is a model agnostic harness - try it there with @FireworksAI_HQ :\n\n```\ndcode --model fireworks:accounts/fireworks/models/glm-5p2",
+      "likes": 173,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2068397522989826358",
+      "author": "@hwchase17",
+      "text": "Very cool work from @jit_infinity:\n\n🔥Leve: filesystem-first, durable agent framework built on LangGraph.\n\nYou describe an agent as a directory of files. Leve compiles that directory into an agent and runs it\n\nInspired by Vercel's Eve",
+      "likes": 61,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2067941596306231421",
+      "author": "@VikParuchuri",
+      "text": "We're open sourcing a 9B model that extracts structured data from documents at near-frontier performance.\n\n- 90.2% on our bench, vs Gemini 3.5 Flash at 91.3%\n- Leads extraction models like NuExtract3 (81.5%)\n- 9.5s p50 timings\n- Pass JSON schema",
+      "likes": 2873,
+      "retweets": 248
+    },
+    {
+      "tweet_id": "2068382433599439282",
+      "author": "@alaymanguy",
+      "text": "Introducing agentcn 🤖 by @shadcnlabs\n\n&gt; Built on Eve by @vercel and @flueai\n&gt; Zero config, one command setup.\n&gt;@shadcn /ui compatible (simply copy-paste)\n&gt; 10+ production-ready agent recipes\n&gt; Fully customizable\n\n100% free and open-source.",
+      "likes": 240,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2068454078938521689",
+      "author": "@DanKornas",
+      "text": "AI agents are easy to demo. They’re harder to operate.\n\nNasiko is an open-source developer control plane for building, deploying, and managing AI agents.\n\nIt helps you move from scattered agent scripts to a centralized system by combining an agent registry, Docker/Kubernetes",
+      "likes": 10,
+      "retweets": 3
+    }
+  ]
+}
