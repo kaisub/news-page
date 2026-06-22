@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-22",
+  "slot": "01",
+  "generated_at": "2026-06-22T01:58:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2068466136094560374",
+      "author": "@PAPinformacje",
+      "text": "Prezydent USA: nie będzie żadnych opłat za tranzyt przez Ormuz, chyba że my będziemy je pobierać\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068690101903790198",
+      "author": "@PAPinformacje",
+      "text": "Pożar w fabryce aerozoli. „Istnieje ryzyko zdarzeń o charakterze wybuchowym”\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2068798633995128980",
+      "author": "@PAPinformacje",
+      "text": "Trump zagroził Iranowi zniszczeniem, jeśli ponownie zamknie cieśninę Ormuz\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068678062036684979",
+      "author": "@PAPinformacje",
+      "text": "Trzeci dzień obławy na byłego policjanta podejrzanego o zabójstwo\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068648339772428461",
+      "author": "@PAPinformacje",
+      "text": "Wiceprezydent USA przybył do Szwajcarii na rozmowy z Iranem\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068441180786901165",
+      "author": "@PAPinformacje",
+      "text": "Dowództwo Centralne USA: Cieśnina Ormuz otwarta\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068662105838875120",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Iranu: nie dążymy do uzyskania bomby atomowej, ale nie zrezygnujemy ze wzbogacania uranu\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068226666606768209",
+      "author": "@DGPrawna",
+      "text": "PKP Intercity straci monopol na pociągi pośpieszne. Startują przygotowania do przetargów na przewozy",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068739020885033402",
+      "author": "@PAPinformacje",
+      "text": "Burze nad Polską. Strażacy interweniowali ponad tysiąc razy\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068721874939388182",
+      "author": "@thepolandnews_",
+      "text": "Tragiczny finał interwencji policji na warszawskiej Białołęce. \n\nFunkcjonariusze zostali wezwani do agresywnego 37-latka, który miał wcześniej zażyć nieznane środki. Mężczyzna użył gazu wobec policjantów, uciekł z mieszkania i ukrył się w pobliskim garażu. Podczas zatrzymania",
+      "likes": 688,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2068417941956182022",
+      "author": "@Galluswen",
+      "text": "Polskie wojsko oficjalnie zbanowało już chińskie samochody na terenie jednostek, bo... mogą nas szpiegować i blokować ruch w razie wojny. Policja podobno ma zrobić to samo. 🤡\n\nSkoro te auta to realne zagrożenie wywiadowcze (potwierdzone przez czeski Narodowy Urząd ds.",
+      "likes": 323,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2068661535447138510",
+      "author": "@PiotrKusznieruk",
+      "text": "Kontrakty warszawskich szpitali z NFZ opiewają dziś na 2,8 mld zł. Większość tych pieniędzy - ok. 80 proc. - pójdzie na płace lekarzy i personelu. Świadczeń można by udzielać więcej, gdyby więcej pieniędzy zostawało w szpitalach",
+      "likes": 180,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2068332648691310813",
+      "author": "@PremierRP",
+      "text": "Chronimy uczestników debaty publicznej!\n\n✅ Podpisana ustawa wzmacnia ochronę osób zabierających głos w debacie publicznej.\n\n👉 Nowe przepisy mają przeciwdziałać wykorzystywaniu postępowań sądowych do wywierania presji na osoby, które uczestniczą w życiu publicznym.",
+      "likes": 102,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2068308576485990882",
+      "author": "@PremierRP",
+      "text": "Sprawniejsze wsparcie działań policji i służb!\n\n✅ Podpisana ustawa porządkuje zasady funkcjonowania lotnictwa służb porządku publicznego.\n\n👉 Nowe przepisy ułatwią wykorzystanie statków powietrznych w działaniach policji i innych służb odpowiedzialnych za bezpieczeństwo.",
+      "likes": 82,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2068258210960605249",
+      "author": "@PremierRP",
+      "text": "Mniej formalności w sprawach podatkowych!\n\n✅ Podpisana ustawa upraszcza wybrane procedury podatkowe i ogranicza formalności po stronie podatników.\n\n👉 To kolejny krok w porządkowaniu przepisów i ułatwianiu kontaktu z administracją skarbową.",
+      "likes": 68,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2068735559955308616",
+      "author": "@bfialek",
+      "text": "Przejrzałem europejskie dane dotyczące wynagrodzeń lekarzy specjalistów w przeliczeniu na jeden równoważnik etatu.\n\nW większości krajów Europy lekarze specjaliści zatrudnieni na etacie zarabiają ok. 3–5 średnich krajowych, a samozatrudnieni najczęściej ok. 5–7 średnich krajowych.",
+      "likes": 63,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2068347073720659970",
+      "author": "@Maciej__Czajka",
+      "text": "Polska, poprzez fundusz Vinci SA zarządzany przez państwowy Bank Gospodarstwa Krajowego (BGK), zainwestowała 11 milionów dolarów w ElevenLabs – jednego z najważniejszych graczy na globalnym rynku głosowej sztucznej inteligencji. \n\nTo nie jest tylko czysta inwestycja finansowa,",
+      "likes": 63,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068206310257226007",
+      "author": "@Defence_Index",
+      "text": "Poland has stripped Ukrainian President Zelensky of its highest state honour after Kyiv named a military unit after the controversial UPA movement.\n\nThe decision has sparked a major diplomatic clash between two of Ukraine’s closest allies.\n\nSource: BBC",
+      "likes": 60,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068682094428238241",
+      "author": "@16Dywizja",
+      "text": "Nowoczesne technologie zmieniają współczesne pole walki, a Wojsko Polskie rozwija swoje zdolności!\nĆwiczenie Dzielny Dzik 26 #16DZ wprowadza innowacje. Jedną z nich jest dron lądowy Goblin - służy do do prowadzeniu rozpoznania oraz ewakuacji rannych z pola walki!",
+      "likes": 55,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068213673659621643",
+      "author": "@DPolicja",
+      "text": "🚨 Wycelował broń i strzelił w stronę policjantów. Szybka reakcja funkcjonariuszy zapobiegła tragedii 🚔\n\nTo była jedna z tych interwencji, podczas których o bezpieczeństwie ludzi decydują sekundy.\n\nPolicjanci ze Środy Śląskiej zostali skierowani do zgłoszenia dotyczącego",
+      "likes": 52,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2068266203462660586",
+      "author": "@WojciechCPK",
+      "text": "✅Projektowanie \"Obiektów Wspierających\" - Lotnisko CPK\n\n✅Wczoraj @PortPolska_info podpisał umowę na opracowanie dokumentacji projektowej dla Obiektów Obsługi Naziemnej\n\n✅Wartość zakresu podstawowego to 3,8 mln zł netto\n✅Wartość zakresu opcjonalnego to 3,3 mln zł netto",
+      "likes": 55,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068323461122945343",
+      "author": "@Monitor807",
+      "text": "Irańskie wojsko (dowództwo Khatam al-Anbia) ogłosiło zamknięcie Cieśniny Ormuz dla ruchu statków, oskarżając Stany Zjednoczone o naruszenie porozumienia kończącego wojnę poprzez ciągłe łamanie zawieszenia broni przez Izrael, izraelskie ataki i zabójstwa w południowym Libanie oraz",
+      "likes": 56,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068680337350386002",
+      "author": "@SztabGenWP",
+      "text": "🛡️Bursztynowy Obrońca-26\n#BursztynowyObrońca26 #WojskoPolskie #SGWP\nNowoczesne technologie zmieniają współczesne pole walki. Federacja ćwiczeń Bursztynowy Obrońca-26 jest również miejscem sprawdzania użyteczności bojowej innowacyjnych rozwiązań technologicznych ⚙️\n\nPodczas",
+      "likes": 43,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068227347988550081",
+      "author": "@MSWiA_GOV_PL",
+      "text": "📊 Wspólnie z @Straz_Graniczna  przygotowaliśmy dla Was tygodniowy raport z granicy (12-18.06) ⤵️ \n\n✅ nie odnotowano prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 5 przemytników ludzi\n✅ ponad 240 cudzoziemców opuściło Polskę –",
+      "likes": 35,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2068245489426833550",
+      "author": "@MSWiA_OLiOC_GOV",
+      "text": "🚨 Ruszył #KrajowyTreningPierwszejPomocy! Czeka na Ciebie ponad 1000 punktów treningowych w całej Polsce📍\n\nPrzyjdź i naucz się jak ratować życie swoje i bliskich. ❤️🚑 #OLiOC",
+      "likes": 26,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2068368619591831775",
+      "author": "@JarosMichal",
+      "text": "Pomimo globalnych napięć polska gospodarka przyspiesza! 🇵🇱\n\nDane GUS mówią jasno. Produkcja przemysłowa w maju wzrosła aż o 4,1% rok do roku. Mamy być z czego dumni.",
+      "likes": 29,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2068601820767768765",
+      "author": "@Lukasz_on_GPW",
+      "text": "#Text: Już w najbliższy piątek, tj. 26.06 poznamy wyniki spółki za rok obr. 25/26. Gdyby ktoś się zastanawiał jak może wyglądac konsensus, to w załączeniu podsylam jedna z prognoz BM PKO BP, która jest nastepujaca:\n\n👉 Przychody 331 mln zl\n👉 Ebitda 152 mln zł\n👉 Ebit 126 mln zł",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068302535828402383",
+      "author": "@EmerytalnyPlan",
+      "text": "Kto by się spodziewał takiego układu sił w 2026 roku? 🤯\n\nPatrząc na wyniki od początku roku (YTD), warszawski parkiet uciera nosa globalnym gigantom technologicznie i amerykańskim blue chipom. \n\nSpójrzcie na liczby:\n🇵🇱 WIG20TR: +15,65%\n🇺🇸 Nasdaq Composite: +14,13%\n🇺🇸 S&amp;P 500",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068683954010406964",
+      "author": "@RazemSlask",
+      "text": "13 czerwca Koleje Śląskie zlikwidowały wygodną ofertę turystyczną w postaci biletu EuroSilesia24, który pozwalał na nielimitowane podróże pociągami regionalnymi na terenie województwa śląskiego i kraju morawsko-śląskiego w ciągu 24 godzin. To bardzo zła wiadomość dla ruchu",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2068221063738069094",
+      "author": "@Longterm44",
+      "text": "🔥Czy to tylko ja zauważyłem że mieliśmy rekordowy pod względem wartości obrotów tydzień na #GPW?🤔 Łącznie 19,8 mld zł!😲Wychodzi prawie 4 mld zł na sesję! 💪Wiem że we wtorek było wielkie ABB na #Allegro ale przecież pakietówki za 4,4 mld zł nie są wliczane do oficjalnie",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068681094157762728",
+      "author": "@Piechocinski",
+      "text": "Deficyt sektora finansów publicznych w 2025 r. osiągnął 7,3% PKB, to drugi najwyższy wynik w Unii Europejskiej. Dług publiczny (metodologia unijna) wyniósł 59,7% PKB i najprawdopodobniej już przekroczył 60-procentowy próg z Traktatu z Maastricht.",
+      "likes": 16,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068204594727977179",
+      "author": "@PawelWojcikVOT",
+      "text": "Newsy tygodnia #kredytobiorcy:\n- 23.06 posiedzenie #Senat ws. #ustawafrankowa\n- 24.06 uchwała #SN ws. klauzuli średni kurs NBP+marża\n- #NBP: ryzyko prawne istotne dla sektora, ale #SKD nie zagrozi stabilności\n- #RF: banki czekając na zmianę w sądach ws. SKD, proszą się o kłopoty.",
+      "likes": 15,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2068732373475234100",
+      "author": "@TheGreyPatriot_",
+      "text": "🇵🇱 Today's river crossing training of our troops from 9th Braniewska Armored Cavalry Brigade on our new K2GF tanks.\n\n#Poland #Polska #Today #Military #Army #Training #Tactical #Combat #K2GF #Korea #Korean #ROK #Engineers #River",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068762608409198635",
+      "author": "@Karol1669024",
+      "text": "Będą łapać oszustów :)\n\nGminy wprowadzają kody QR. System wskaże winnych złej segregacji\n\nWiedziałeś o tym, że coraz więcej gmin w Polsce wprowadza kody QR na workach po to, by dokładnie ustalić, kto źle segreguje śmieci a w kolejnych etapach wystawiać za to mandaty? \n\nSamorządy",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2068289917201813897",
+      "author": "@Lukasz_on_GPW",
+      "text": "Przybywa transakcji ABB na #GPW. W ostatnich tygodniach nastąpił prawdziwy wysyp. W 2025 r. transakcje ABB na GPW miały wartość ok. 15 mld zł, choć warto zauważyć, że miało wówczas miejsce kilka istotnych transakcji. W tym roku jest już niemal 9 mld zł, jeśli uwzględnimy",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068681536438681605",
+      "author": "@Piechocinski",
+      "text": "Od 2019 r. wydatki publiczne Polski wzrosły o 9,5 pkt proc. PKB. Natomiast dochody w tym samym okresie zaledwie o 2,7 pkt proc. Ta wyrwa między wydatkami a dochodami siłą rzeczy musiała doprowadzić do tak wysokich deficytów jak obserwujemy obecnie.",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068612211652583685",
+      "author": "@LukaszFinanse",
+      "text": "\"Rozbicka zwróciła uwagę, że w latach 2006-2025 liczba gospodarstw domowych w Polsce wzrosła z 12,7 mln do 15,5 mln.\"\n\nTo jeden z powodów dlaczego mimo wybudowania setek tysięcy mieszkań dalej istnieje popyt na nowe nieruchomości. \n\nNawet przy tej samej liczbie mieszkańców",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068372904014688339",
+      "author": "@Piechocinski",
+      "text": "W 29 ogniskach ASF ślady obecności wirusa potwierdzono u 40 zwierząt. 22 ogniska dotyczyły dzików padłych, 6 dzików odstrzelonych, jedno zaś dzika zabitego w wypadku.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068451323738300584",
+      "author": "@tvp_info",
+      "text": "Podtopienia na Dolnym Śląsku po burzach i ulewach, które przeszły nad regionem. W Jakuszycach kobieta została rażona piorunem.",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2068370549378609377",
+      "author": "@Piechocinski",
+      "text": "Pierwsze ognisko ASF u świń na Węgrzech-  ferma 3000 sztuk",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}

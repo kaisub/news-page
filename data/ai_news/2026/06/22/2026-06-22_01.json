@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-22",
+  "slot": "01",
+  "generated_at": "2026-06-22T01:58:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2068766309425504672",
+      "author": "@jerryjliu0",
+      "text": "We parsed this SpaceX equity research PDF faster than the time it took for Screen Studio to zoom in ⚡️🔥\n\nliteparse is now the best open-source document parsing tool out there. There’s no reason to not use it as a first pass, even if you do have docs that require heavier VLM",
+      "likes": 136,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2068397522989826358",
+      "author": "@hwchase17",
+      "text": "Very cool work from @jit_infinity:\n\n🔥Leve: filesystem-first, durable agent framework built on LangGraph.\n\nYou describe an agent as a directory of files. Leve compiles that directory into an agent and runs it\n\nInspired by Vercel's Eve",
+      "likes": 118,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2068382433599439282",
+      "author": "@alaymanguy",
+      "text": "Introducing agentcn 🤖 by @shadcnlabs\n\n&gt; Built on Eve by @vercel and @flueai\n&gt; Zero config, one command setup.\n&gt;@shadcn /ui compatible (simply copy-paste)\n&gt; 10+ production-ready agent recipes\n&gt; Fully customizable\n\n100% free and open-source.",
+      "likes": 682,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2068269036417495246",
+      "author": "@rammcodes",
+      "text": "Bruh... this AI skill actually makes AI-generated UIs look better 🤯\n\nTaste Skill is an open-source skill that helps AI coding agents generate cleaner, more polished frontends, and it's compatible with popular agents like Claude Code, Codex, Gemini, Cursor, Lovable, and more :)",
+      "likes": 643,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2068861630327443966",
+      "author": "@SakanaAILabs",
+      "text": "Introducing Sakana Fugu: A full multi-agent orchestration system accessible via a single model API.\n\nOur ‘Fugu Ultra’ model matches the performance of Fable and Mythos, delivering frontier capability without the risk of export controls.\n\nTry it:  🐡",
+      "likes": 306,
+      "retweets": 101
+    },
+    {
+      "tweet_id": "2068199041314562145",
+      "author": "@VivekIntel",
+      "text": "🤖 Pentest Copilot: AI Agent for Autonomous Penetration Testing\n\nWhat if you could simply describe a target and let an AI agent handle the enumeration, exploitation workflow, tool execution, and result analysis?\n\nPentest Copilot is an open-source AI-driven penetration testing",
+      "likes": 81,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2068213679066390748",
+      "author": "@huang_chao4969",
+      "text": "Excited to release UpSkill — a lightweight framework that continuously evolves skills, empowering your Flash Model to perform at the level of a Pro.\n\nAI Agents — Claude Code, Codex, Cursor, OpenClaw, Hermes, nanobot — are transforming how we build and automate. But one hard truth",
+      "likes": 38,
+      "retweets": 9
+    }
+  ]
+}
