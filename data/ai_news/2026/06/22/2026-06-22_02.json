@@ -1,0 +1,65 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-22",
+  "slot": "02",
+  "generated_at": "2026-06-22T16:31:16Z",
+  "tweets": [
+    {
+      "tweet_id": "2068700213783724191",
+      "author": "@hwchase17",
+      "text": "\"Build your own Claude Code with Deep Agents\"\n\nGood article by the community showing how to build a Claude Code-like agent using Deep Agents\n\nEspecially relevant given how strong GLM-5.2 seems to be!",
+      "likes": 253,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2068766309425504672",
+      "author": "@jerryjliu0",
+      "text": "We parsed this SpaceX equity research PDF faster than the time it took for Screen Studio to zoom in ⚡️🔥\n\nliteparse is now the best open-source document parsing tool out there. There’s no reason to not use it as a first pass, even if you do have docs that require heavier VLM",
+      "likes": 240,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2068397522989826358",
+      "author": "@hwchase17",
+      "text": "Very cool work from @jit_infinity:\n\n🔥Leve: filesystem-first, durable agent framework built on LangGraph.\n\nYou describe an agent as a directory of files. Leve compiles that directory into an agent and runs it\n\nInspired by Vercel's Eve",
+      "likes": 122,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2068861630327443966",
+      "author": "@SakanaAILabs",
+      "text": "Introducing Sakana Fugu: A full multi-agent orchestration system accessible via a single model API.\n\nOur ‘Fugu Ultra’ model matches the performance of Fable and Mythos, delivering frontier capability without the risk of export controls.\n\nTry it:  🐡",
+      "likes": 26974,
+      "retweets": 4383
+    },
+    {
+      "tweet_id": "2069044405722644828",
+      "author": "@Raullen",
+      "text": "open-weight flagship, GLM 5.2, is officially LIVE on QuickSilver Pro. It’s hitting a massive ≈74% on agentic coding, closing in on Claude Opus 4.8 territory—but without the premium price tag.\n⚡️ 1M context window \n🧠 Configurable reasoning efforts (Max",
+      "likes": 191,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2069039170451091878",
+      "author": "@Arcane_Aii",
+      "text": "🚨 SOMEONE JUST BUILT a Claude Code skill called /brag that turns any side project into a fire ~20-second launch video in seconds\n\nYou just tell Claude “hey, let’s /brag about this” and it instantly generates a polished trailer — complete with music, smooth motion, sound effects,",
+      "likes": 55,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2069027633464307769",
+      "author": "@ModelScope2022",
+      "text": "Meet Boogu-Image-0.1 from @BooguTeam , an open-source unified image generation and editing model series from Boogu team. Apache 2.0. 🚀\n🤖 \n\n🖼️ Photorealistic generation with natural lighting and consistent spatial relationships\n\n📝 Bilingual text rendering",
+      "likes": 32,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069040810524381207",
+      "author": "@RaulJuncoV",
+      "text": "Every AI agent in production runs on the same 6 patterns.\n\nReal systems mix them:\n\n1. Autonomous agent → the LLM acts in a feedback loop\n2. Prompt chaining → one model output feeds the next step\n3. Routing → each task gets sent to the right model or workflow\n4. Parallelization",
+      "likes": 25,
+      "retweets": 3
+    }
+  ]
+}
