@@ -1,0 +1,338 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-23",
+  "slot": "01",
+  "generated_at": "2026-06-23T01:39:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2069091466039668913",
+      "author": "@PAPinformacje",
+      "text": "Prezydent nie weźmie udziału w Konferencji na rzecz Odbudowy Ukrainy\n#PAPinformacje",
+      "likes": 79,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2069005775029018955",
+      "author": "@PAPinformacje",
+      "text": "Ukraina/ W Puźnikach rozpoczął się drugi etap poszukiwań zbiorowych pochówków Polaków zamordowanych przez UPA. (PAP)\n#PAPInformacje",
+      "likes": 55,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2069079247986024670",
+      "author": "@Macronextcom",
+      "text": "Ropa WTI 73,33 USD (-4,16%).\n\nRopa jest najtańsza od początku marca i o prawie 1/4 tańsza niż miesiąc temu.",
+      "likes": 35,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068938360974983327",
+      "author": "@Macronextcom",
+      "text": "Analitycy Citi podwyższyli rekomendację dla akcji #Pepco do \"kupuj\" z \"neutralnie\", jednocześnie podnosząc cenę docelową do 40 zł z 31 zł.\n\n\"Pepco Target Raised to PLN40.00 From PLN31.00 by Citi\"\n\nW piątek akcje Pepco kosztowały 34,73 zł.",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069016186008846628",
+      "author": "@Macronextcom",
+      "text": "Alan Greenspan zmarł w wieku 100 lat.\n\nALAN GREENSPAN, ECONOMIST AND LONGTIME HEAD OF THE FEDERAL RESERVE, DIES AT 100 - NBC NEWS\n#fed",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069057167399813488",
+      "author": "@PAPinformacje",
+      "text": "USA zawiesiły sankcje naftowe na Iran na 60 dni. (PAP)\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069131817093832779",
+      "author": "@PAPinformacje",
+      "text": "Polska Grupa Zbrojeniowa rozpoczęła współpracę z Łódzką Specjalną Strefą Ekonomiczną\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2068961373229318548",
+      "author": "@GUS_STAT",
+      "text": "Przeciętne miesięczne #wynagrodzenie brutto w sektorze przedsiębiorstw w maju 2026 r. było o 5,8% wyższe niż w maju 2025 r.\n\n🔗 \n\n#GUS #statystyki #RynekPracy",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069090590365503952",
+      "author": "@PAPinformacje",
+      "text": "Keir Starmer podał się do dymisji. Burnham z deklaracją ws. wyścigu o fotel brytyjskiego premiera\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068914260550337021",
+      "author": "@DGPrawna",
+      "text": "Własność bez gruntu. Rząd szykuje rewolucję. Nowe przepisy mają umożliwić realizację inwestycji nad i pod infrastrukturą taką jak tory kolejowe, drogi czy tunele.",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069000065264263287",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 5,98 zł, benzyny 98 - 6,69 zł, a oleju napędowego - 6,11 zł. (PAP)\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068960283633021333",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych w maju 2026 r. ceny produkcji sprzedanej przemysłu wzrosły w porównaniu z majem 2025 r. o 2,4%.\n\n🔗 \n\n#GUS #statystyki #przemysł #produkcja",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068960129152614541",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych produkcja budowlano-montażowa w maju 2026 r. była wyższa  o 3,9% w stosunku do maja 2025 r. Po wyeliminowaniu czynników sezonowych odnotowano jej wzrost o 4,8% w stosunku do maja 2025 r.\n\n🔗 \n\n#GUS #statystyki #gospodarka",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068986140577652926",
+      "author": "@GUS_STAT",
+      "text": "W okresie styczeń - maj 2026 roku oddano do użytkowania o 0,5% mniej mieszkań niż w analogicznym okresie 2025 roku. Spadła również liczba mieszkań, których budowę rozpoczęto.  \n\n🔗 \n\n#GUS #statystyki #budownictwo #mieszkania",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068960908538204590",
+      "author": "@GUS_STAT",
+      "text": "Sprzedaż detaliczna w cenach stałych w maju 2026 r. była wyższa niż przed rokiem o 3,0%. Wzrost sprzedaży detalicznej r/r odnotowano w większości grup.\n\n🔗 \n\n#GUS #statystyki #SprzedażDetaliczna",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068960727176486975",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych w maju 2026 r. ceny produkcji budowlano-montażowej były o 5,5% wyższe niż rok wcześniej.\n\n🔗\n\n#GUS #statystyki #budownictwo",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068959871781806555",
+      "author": "@GUS_STAT",
+      "text": "W czerwcu 2026 r. wskaźniki w większości prezentowanych sektorów wskazują na stabilizację lub pogorszenie #KoniunkturaGospodarcza.\nNajbardziej znaczące poprawe koniunktury obserwuje sie w sekcji #zakwaterowanie i #gastronomia.\n\n🔗\n\n#GUS",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069009250420965451",
+      "author": "@RadioZET_NEWS",
+      "text": "Sztuczna inteligencja może podnieść PKB Polski o 12 proc. do 2035 r. Z raportu Banku Światowego wynika, że AI może obniżyć liczbę miejsc pracy do 2035 r. nawet o ponad 340 tys.",
+      "likes": 224,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068998416525303907",
+      "author": "@Lukasz_Malin",
+      "text": "‼️ CPK/ Port Polska będzi większe od samego początku. 44 mln pasażerów przepustowości 😀\n@PortPolska_info podaje trzy powody: dobre prognozy ruchu lotniczego, szybki  rozwój @LOTPLAirlines oraz kwestie współpracy z instytucjami finansującymi. \n#CPK #PortPolska",
+      "likes": 179,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2068979535576445267",
+      "author": "@PremierRP",
+      "text": "📱 Mniej biurokracji, więcej wygody. Rząd przyjął pierwszą w historii Strategię Cyfryzacji Państwa do 2035 roku. Jest to kompleksowy plan, dzięki któremu Polska znajdzie się wśród europejskich liderów cyfryzacji.\n\nZgodnie ze Strategią, do 2030 roku: \n▶️ 100% kluczowych usług",
+      "likes": 82,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2068682094428238241",
+      "author": "@16Dywizja",
+      "text": "Nowoczesne technologie zmieniają współczesne pole walki, a Wojsko Polskie rozwija swoje zdolności!\nĆwiczenie Dzielny Dzik 26 #16DZ wprowadza innowacje. Jedną z nich jest dron lądowy Goblin - służy do do prowadzeniu rozpoznania oraz ewakuacji rannych z pola walki!",
+      "likes": 91,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2069046921126109666",
+      "author": "@WojciechCPK",
+      "text": "✅Podpisano umowę na budowę fundamentów pod Terminal @PortPolska_info \n\n✅Wykonawca to @BudimexSA \n\n✅Prace ziemne i wbijanie pali ruszy we wrześniu, po wydaniu pozwolenia na budowę\n\n✅W licpu planowane jest wykonanie pierwszych pali próbnych\n\n✅To realny początek budowy CPK👍",
+      "likes": 86,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2068956161932460444",
+      "author": "@_Trader21_",
+      "text": "W 2026 roku Narodowemu Funduszowi Zdrowia (NFZ) według szacunków zabraknie około 23 mld zł. Przychody NFZ zaplanowano na 217,4 mld zł, podczas gdy realne potrzeby szacowane są na około 240 mld zł.\n\nSkąd ta dziura? Do systemu wpływa rekordowo dużo pieniędzy, ale koszty, głównie",
+      "likes": 74,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068599990205784368",
+      "author": "@Piechocinski",
+      "text": "W 2025 roku obywatele Ukrainy założyli w Polsce 31,4 tys. JDG, co daje 12 proc. wszystkich nowych firm, czyli już co ósmą rejestrację.\nZ analiz PIE wynika, że ponad połowa nowych ukraińskich firm powstaje w woj. mazowieckim, dolnośląskim i małopolskim.\nNajczęściej wybierane",
+      "likes": 57,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068681094157762728",
+      "author": "@Piechocinski",
+      "text": "Deficyt sektora finansów publicznych w 2025 r. osiągnął 7,3% PKB, to drugi najwyższy wynik w Unii Europejskiej. Dług publiczny (metodologia unijna) wyniósł 59,7% PKB i najprawdopodobniej już przekroczył 60-procentowy próg z Traktatu z Maastricht.",
+      "likes": 38,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2068963332309053594",
+      "author": "@Pekao_Analizy",
+      "text": "🇵🇱 Sprzedaż detaliczna przyspieszyła w maju do 3% r/r i jesteśmy bliżej precyzyjnego pomiaru siły polskiego konsumenta niż w marcu (+8,7% r/r) i kwietniu (+1,3% r/r). \n\nSkończyło się tankowanie paliw pod korek, pogoda pomogła sprzedaży odzieży i obuwia, sprzedaż dóbr trwałych",
+      "likes": 44,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2068681396390871184",
+      "author": "@Piechocinski",
+      "text": "W 2025 r. mieliśmy drugi najwyższy deficyt w całej UE, przed nami była tylko Rumunia, gdzie deficyt wyniósł 7,9 proc. PKB. Taka sama kolejność była także w 2024 r. Deficyt w Polsce w 2025 r. był ponad dwukrotnie większy niż średnia w UE (3,1 proc. PKB) czy strefie euro jako",
+      "likes": 32,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2068980168526299372",
+      "author": "@MON_GOV_PL",
+      "text": "Wizyta szefa MON w Hiszpanii\n-\nW dniach 22-23 czerwca 2026 r., W. @KosiniakKamysz,  wicepremier, minister obrony narodowej oraz @magdasobkowiak, sekretarz stanu w MON będą przebywać w Madrycie, gdzie spotkają się z Margaritą Robles Minister Obrony Hiszpanii oraz wezmą udział w",
+      "likes": 31,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068732373475234100",
+      "author": "@TheGreyPatriot_",
+      "text": "🇵🇱 Today's river crossing training of our troops from 9th Braniewska Armored Cavalry Brigade on our new K2GF tanks.\n\n#Poland #Polska #Today #Military #Army #Training #Tactical #Combat #K2GF #Korea #Korean #ROK #Engineers #River",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2068989448851750963",
+      "author": "@szejnfeld",
+      "text": "Wynagrodzenia w górę! 📈\n\n📊 Dane GUS: średnie wynagrodzenie w maju wyniosło 9173,24 zł brutto - to wzrost aż o 5,8% r/r❗️",
+      "likes": 18,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069131142570135955",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (22.06) za isbiznes. pl\n\n🧬 #Pure_Biologics – spółka podpisała umowę plasowania emisji do 50 mln akcji serii S z Ipopema Securities i DM INC. Ostateczna liczba akcji i cena zostaną ustalone po procesie budowy księgi popytu.",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068940570173518319",
+      "author": "@BiuroRPO",
+      "text": "Ta ustawa dotyczy informowania Ministerstwa Zdrowia o tym, ile poszczególni lekarze zarabiają. Według aktualnego stanu prawnego MZ nie dysponuje jednoznaczną informacją dotyczącą zarobków lekarzy wynikających z różnych etatów i z pracy w różnych placówkach. I jak rozumiem, ta",
+      "likes": 14,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2069166486761930764",
+      "author": "@STANISKRAPIVNIK",
+      "text": "South Korea has become one of the fastest-growing arms exporters in the world and the second-largest supplier of weapons to NATO countries. The United States holds the top spot. A key driver of this growth is deals with Poland.\n\nThe development of Seoul's defense industry was",
+      "likes": 10,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2069002518546292740",
+      "author": "@CERT_Polska",
+      "text": "⚠️ Wraz z Rzecznikiem Finansowym ostrzegamy - przestępcy nagminnie wykorzystują pretekst zwrotu pieniędzy i inne socjotechniki!\n\n🔗‍️ Więcej informacji znajdziecie pod adresem: \n\nZgłaszając nam podejrzane wiadomości pomagacie chronić siebie i innych ✅️",
+      "likes": 10,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069161289079799936",
+      "author": "@rynekzdrowia",
+      "text": "Po kontroli NFZ kara dla Szpitala Południowego może wynieść nawet 4 mln zł. Sprawą zajmuje się także prokuratura, która nie wyklucza przesłuchania prezydenta Warszawy Rafała Trzaskowskiego ⬇️",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2068935890525626840",
+      "author": "@zus_pl",
+      "text": "W marcu podwyższyliśmy świadczenia emerytalno-rentowe o 5,3 proc. Jak to wpłynęło na strukturę wypłacanych przez ZUS emerytur❓\n\n👛 Największy odsetek osób (ponad 9⃣ proc.) otrzymuje emeryturę w przedziale od 3 tys. zł do 3,4 tys. zł.\n\nW marcu nastąpił duży wzrost liczby osób,",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069024804116525254",
+      "author": "@forsalpl",
+      "text": "📊 AI może mocno zmienić polską gospodarkę.\n➡️ PKB Polski może wzrosnąć o 12% do 2035 r.\n➡️ Ale jednocześnie zniknąć może ponad 340 tys. miejsc pracy.\nRaport @WorldBankGroup pokazuje szanse i ryzyka rewolucji AI",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069057596007371219",
+      "author": "@JudgesSsp",
+      "text": "📊🇪🇺Czego dowiadujemy się z corocznego zestawienia #Justicescorboard?\n\n🔢 Liczba spraw stale rośnie. Polska jest w pierwszej dziesiątce obciążenia sądów sprawami cywilnymi i gospodarczymi.\n\n🔢 Jesteśmy w europejskiej średniej jeśli chodzi o możliwość odbycia rozprawy online. Dużo",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069082182124003585",
+      "author": "@EmerytalnyPlan",
+      "text": "Rozwarstwienie emerytalne w Polsce osiąga poziomy, które trudno zignorować. \n\nDane ZUS po ostatniej waloryzacji pokazują brutalną prawdę o państwowym systemie:\n\n🔴 Ponad 460 TYSIĘCY osób pobiera dziś groszowe emerytury (poniżej minimalnej). Rekord? 2 grosze miesięcznie.\n\n🟢 Na",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069111871781613752",
+      "author": "@NaPierwszejLini",
+      "text": "#KRAJ 🇵🇱\n[TYLKO U NAS!🚨] Lotnicze Pogotowie Ratunkowe ogłosiło przetarg na zakup nowych śmigłowców. Jakich i ile?🇵🇱💉🚁🚑🇵🇱\nSzczegóły w poniższym linku:\n- \n***\n#LPR #LotniczePogotowieRatunkowe #śmigłowiec #MZ #MinisterstwoZdrowia #PRM #RM",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069062777474347130",
+      "author": "@BiznesAlert",
+      "text": "Energa-Operator kończy przebudowę linii wysokiego napięcia w Wielkopolsce, wspieraną przez unijne fundusze odbudowy, przyspieszając integrację OZE.\n\nEnerga-Operator modernizuje sieć za 133 mln PLN\n👉",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2068935065409654901",
+      "author": "@TVN24BiS",
+      "text": "Zdaniem ministra energii termin rozpoczęcia działania pierwszej elektrowni jądrowej w kraju, ustalony na 2036 rok, \"jest realny\".",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069000146919023097",
+      "author": "@GPW_WSExchange",
+      "text": "🎓 25 spółek ukończyło drugą edycję #GPWIPOAcademy.\n\n Przez pięć miesięcy przedstawiciele firm z całej Polski pracowali nad przygotowaniem swoich organizacji do wejścia na rynek publiczny. Być może część z tych firm zobaczymy w przyszłości na warszawskim parkiecie. \n\n#GPW #IPO",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069006845327400964",
+      "author": "@BeateG8",
+      "text": "Rozpoczął się bezterminowy protest rolników na drodze ekspresowej S3 między Szczecinem a Pyrzycami. Blokada ma być całodobowa i obejmuje oba psy ruchu. Protestujący domagają się  ograniczenia importu towarów z Mercosuru i Ukrainy.",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069147819189948521",
+      "author": "@Straz_Graniczna",
+      "text": "W związku z doniesieniami pojawiającymi się w mediach społecznościowych dotyczącymi przyjmowania wniosków o ochronę międzynarodową na granicy z Białorusią podkreślamy, że Straż Graniczna realizuje swoje ustawowe zadania ściśle na podstawie i w granicach prawa.\n\nKażda sprawa jest",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069079178645835931",
+      "author": "@EmerytalnyPlan",
+      "text": "🔴 Poniedziałek pod dyktando sprzedających na GPW.\n\nWszystkie główne indeksy zakończyły sesję pod kreską:\n📉 WIG: -0,56%\n📉 WIG20: -0,53%\n📉 mWIG40: -0,84%\n📉 sWIG80: -0,11%\n\nPonad 47% spółek zakończyło dzień na minusie, a najsłabiej wypadł WIG20USD (-1,15%).\n\nNajbardziej",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069081039331275212",
+      "author": "@BlogiBossaPL",
+      "text": "WIG20 otwiera tydzień z 3700 pkt. w roli oporu. /a",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

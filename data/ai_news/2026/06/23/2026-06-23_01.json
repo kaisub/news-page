@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-23",
+  "slot": "01",
+  "generated_at": "2026-06-23T01:39:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2068573831103463504",
+      "author": "@_vmlops",
+      "text": "NVIDIA DROPPED SOMETHING BIG FOR AI AGENTS\n\nNvidia open-sourced a catalog of 110+ verified \"agent skills\" portable instruction sets that teach ai agents how to use cuda-x libraries and platform tools correctly\n\n→ covers cuopt, nemo, dynamo, rag, deepstream, medical ai, physical",
+      "likes": 991,
+      "retweets": 147
+    },
+    {
+      "tweet_id": "2069202121208308004",
+      "author": "@drmapavone",
+      "text": "Today we're releasing @nvidia AlpaGym, our new open-source reinforcement learning (RL) framework for end-to-end autonomous driving.\n\nA key challenge for #Physical #AI is enabling policies to learn from the consequences of their actions. While supervised learning can teach a model",
+      "likes": 13,
+      "retweets": 6
+    }
+  ]
+}
