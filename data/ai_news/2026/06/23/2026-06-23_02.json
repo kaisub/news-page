@@ -1,0 +1,156 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-23",
+  "slot": "02",
+  "generated_at": "2026-06-23T15:51:41Z",
+  "tweets": [
+    {
+      "tweet_id": "2069121360744550796",
+      "author": "@sama",
+      "text": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
+      "likes": 6225,
+      "retweets": 411
+    },
+    {
+      "tweet_id": "2069202270168772997",
+      "author": "@reach_vb",
+      "text": "This is now fixed along with the latest release of Codex!\n\nMake sure to upgrade your codex installation to the latest version via npm or bash installer\n\nThanks again to all of you for raising this issue and to the goated (jif) codex team",
+      "likes": 2100,
+      "retweets": 149
+    },
+    {
+      "tweet_id": "2069409802782908448",
+      "author": "@leerob",
+      "text": "Both of these things are true:\n\n1. Remote work is hard and can be a bad fit for many\n2. Office culture can be great and more productive\n\nRather than ignoring nuance, just don't hire the person who needs office culture remotely, or vice versa.",
+      "likes": 486,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2068766309425504672",
+      "author": "@jerryjliu0",
+      "text": "We parsed this SpaceX equity research PDF faster than the time it took for Screen Studio to zoom in ⚡️🔥\n\nliteparse is now the best open-source document parsing tool out there. There’s no reason to not use it as a first pass, even if you do have docs that require heavier VLM",
+      "likes": 261,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2069110672886002140",
+      "author": "@reach_vb",
+      "text": "We’re expanding OpenAI Daybreak to help defenders move faster from vulnerabilities to fixes.\n\n&gt; Codex Security is now easier to use across the CLI, plugins, and the Codex app - scanning code, building threat models, validating findings, generating patches, and exporting results",
+      "likes": 210,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069014960722845780",
+      "author": "@sentient_agency",
+      "text": "A 17-year-old in Spain can open an old laptop after school, search “Stanford CS229,” and start learning machine learning from Andrew Ng before she ever applies to university.\n\nYou don't need admission letter, visa, and also $80,000 campus bill.\n\nJust lectures, notes, assignments,",
+      "likes": 153,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2069314845598519662",
+      "author": "@reach_vb",
+      "text": "You can just build things!",
+      "likes": 172,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069364401132474422",
+      "author": "@svpino",
+      "text": "I have a 20-year-old and a 10-year-old. The idea that I could do any work at an office is like a total fantasy.\n\nOffices are designed to take your soul away and turn you into a modern slave.",
+      "likes": 174,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069066932381487286",
+      "author": "@svpino",
+      "text": "If you are reviewing 100% of your AI-generated code by hand, you aren't moving fast enough.\n\nIt's just impossible.\n\nReviewing code has become the biggest bottleneck in software.\n\nHere is how to make this better:",
+      "likes": 66,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069148652459761912",
+      "author": "@hwchase17",
+      "text": "have been thinking a bunch about model routing and related things\n\ncurrent thoughts here, would love feedback:\n\n1/ there is a difference between \"model routing\" and \"model council\"\n\n\"model routing\" = route to one best model. i think only real reason to do this is cost\n\n\"model",
+      "likes": 58,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2068759403038191766",
+      "author": "@reach_vb",
+      "text": "happy summer solstice to all those who celebrate 🙌",
+      "likes": 54,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2068736324064927964",
+      "author": "@hwchase17",
+      "text": "Yes, is model agnostic and general purpose",
+      "likes": 44,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069144229532533050",
+      "author": "@hwchase17",
+      "text": "Something we’re thinking a bunch about as well\n\nWould love thoughts!",
+      "likes": 43,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069254017264554108",
+      "author": "@hwchase17",
+      "text": "you need docs built for agents",
+      "likes": 26,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069120736439193690",
+      "author": "@svpino",
+      "text": "You could make a living by helping companies fix their evals.\n\nYou wouldn't need anything else:\n\n1. Show me how you are evaluating your product\n2. This is how you can make it better\n\nI'm always hearing the same story:\n\n• Someone picks a benchmark early on\n• Everyone becomes",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069419593798496353",
+      "author": "@reach_vb",
+      "text": "Excited to chat about Code reliability, Codex and the future of Agents with Tom in an hour!\n\nWe’ll discuss how we approach hard technical challenges and our own Codex setups chat with the listeners\n\nJoin in, it’s going to be a fun one! ;)",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069344040370450895",
+      "author": "@sentient_agency",
+      "text": "10 GITHUB REPOS THAT EXPOSE WHO'S WATCHING YOU ONLINE\n\nBookmark every single one. The tracking was built to stay invisible. These drag every company watching you into the light.\n\n1. \n\nThe engine behind The Markup's Blacklight scanner. Type in any website",
+      "likes": 9,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069443268593537470",
+      "author": "@hwchase17",
+      "text": "🧠Self-Harness: Harnesses that improve themselves\n\nNew paper on agents shaping their own harnesses to improve over time. Not from LangChain, but builds on top of DeepAgents! Three key steps:\n\n1/ Weakness mining: find failure modes from traces\n2/ Harness proposal: suggest changes",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069437877168320522",
+      "author": "@svpino",
+      "text": "We don't need another dashboard.\n\nNobody has time to check a dashboard to see if their agents are working.\n\nA dashboard is more work. It's one more thing to check, one more place to look, one more problem on my plate.\n\nI don't want more work. Just tell me what's broken.\n\nWe need",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069433051156042126",
+      "author": "@svpino",
+      "text": "The token bill of one of my clients tripled over the last couple of weeks.\n\nThere was nothing broken.\n\nThe better these agents get, the more tokens they are eating.\n\nYou ask your agent to refactor a function. It looks like a simple request, but behind the scenes, the agent is",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069168739569062343",
+      "author": "@jerryjliu0",
+      "text": "This is a reminder that we are co-hosting a massive pickleball tournament 🏓 next Tuesday June 30th, as folks are in town for the @aiDotEngineer World Fair.\n\nCome check it out!",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}
