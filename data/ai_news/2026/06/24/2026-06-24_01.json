@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-24",
+  "slot": "01",
+  "generated_at": "2026-06-24T01:29:29Z",
+  "tweets": [
+    {
+      "tweet_id": "2069468693017268244",
+      "author": "@claudeai",
+      "text": "Introducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work.",
+      "likes": 15745,
+      "retweets": 1093
+    },
+    {
+      "tweet_id": "2069121360744550796",
+      "author": "@sama",
+      "text": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
+      "likes": 6500,
+      "retweets": 428
+    },
+    {
+      "tweet_id": "2069547676849557725",
+      "author": "@karpathy",
+      "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory,",
+      "likes": 5629,
+      "retweets": 443
+    },
+    {
+      "tweet_id": "2069474681749754272",
+      "author": "@bcherny",
+      "text": "We're launching Claude Tag today. Tag Claude into Slack and it works in channel with you. It’s proactive, multiplayer, with its own identity and memory.\n\nBut it’s not just a bot in Slack. Over the last few months, it’s totally changed how we use Claude",
+      "likes": 3224,
+      "retweets": 154
+    },
+    {
+      "tweet_id": "2069202270168772997",
+      "author": "@reach_vb",
+      "text": "This is now fixed along with the latest release of Codex!\n\nMake sure to upgrade your codex installation to the latest version via npm or bash installer\n\nThanks again to all of you for raising this issue and to the goated (jif) codex team",
+      "likes": 2238,
+      "retweets": 158
+    },
+    {
+      "tweet_id": "2069409802782908448",
+      "author": "@leerob",
+      "text": "Both of these things are true:\n\n1. Remote work is hard and can be a bad fit for many\n2. Office culture can be great and more productive\n\nRather than ignoring nuance, just don't hire the person who needs office culture remotely, or vice versa.",
+      "likes": 925,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2069452348708335975",
+      "author": "@svpino",
+      "text": "I sent this to the entire team I’m currently working with.\n\nIt’s a very good team, but they are still on a 10-year-old process with project managers that can’t read code, specialized developers, and a full QA team.\n\nI don’t think you can afford writing software using a 10-yo",
+      "likes": 374,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2069474683372839253",
+      "author": "@bcherny",
+      "text": "This is the start of Claude Everywhere. It’s Claude Code under the hood so it’s just as good at writing code. 65% of our product team’s new code is created by our internal version of Claude Tag",
+      "likes": 335,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069364401132474422",
+      "author": "@svpino",
+      "text": "I have a 20-year-old and a 10-year-old. The idea that I could do any work at an office is like a total fantasy.\n\nOffices are designed to take your soul away and turn you into a modern slave.",
+      "likes": 304,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2069443268593537470",
+      "author": "@hwchase17",
+      "text": "🧠Self-Harness: Harnesses that improve themselves\n\nNew paper on agents shaping their own harnesses to improve over time. Not from LangChain, but builds on top of DeepAgents! Three key steps:\n\n1/ Weakness mining: find failure modes from traces\n2/ Harness proposal: suggest changes",
+      "likes": 186,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2069314845598519662",
+      "author": "@reach_vb",
+      "text": "You can just build things!",
+      "likes": 215,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069110672886002140",
+      "author": "@reach_vb",
+      "text": "We’re expanding OpenAI Daybreak to help defenders move faster from vulnerabilities to fixes.\n\n&gt; Codex Security is now easier to use across the CLI, plugins, and the Codex app - scanning code, building threat models, validating findings, generating patches, and exporting results",
+      "likes": 212,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069482272403914760",
+      "author": "@reach_vb",
+      "text": "Codex Mobile iOS updates:\n\n- set a Friendly or Pragmatic personality for each host\n- edit /goal directly from the composer\n- jump from forked conversations back to the original thread\n- separate side chats above the composer\n- better autocomplete for commands, skills, and plugins",
+      "likes": 208,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2069014960722845780",
+      "author": "@sentient_agency",
+      "text": "A 17-year-old in Spain can open an old laptop after school, search “Stanford CS229,” and start learning machine learning from Andrew Ng before she ever applies to university.\n\nYou don't need admission letter, visa, and also $80,000 campus bill.\n\nJust lectures, notes, assignments,",
+      "likes": 153,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2069556247339126803",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to look at your past PRs/ sessions and update your global agents md with your developer workflow details\n\nbranch naming conventions, commit messages, attribution, testing plan and more\n\ncodex will get much faster turn around per requests",
+      "likes": 103,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069474684610195914",
+      "author": "@bcherny",
+      "text": "Claude is really proactive with Claude Tag. You don’t need to prompt it to do work, it can do work proactively based on your instructions. It has excellent memory and access to your data, so it can behave differently per channel",
+      "likes": 84,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069474691010707486",
+      "author": "@bcherny",
+      "text": "That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers. More surfaces coming soon!\n\nLearn more:",
+      "likes": 79,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069066932381487286",
+      "author": "@svpino",
+      "text": "If you are reviewing 100% of your AI-generated code by hand, you aren't moving fast enough.\n\nIt's just impossible.\n\nReviewing code has become the biggest bottleneck in software.\n\nHere is how to make this better:",
+      "likes": 72,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069516491473440947",
+      "author": "@reach_vb",
+      "text": "Looking forward to seeing all of you later this year!\n\nI’m particularly excited about:\n\n“Later this year, we're bringing DevDay Exchanges to Bengaluru, Tokyo, Seoul, Paris, Berlin, London, São Paulo, and Mexico City.”\n\nWhere we recreate the magic of DevDay in a city near you!",
+      "likes": 77,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069148652459761912",
+      "author": "@hwchase17",
+      "text": "have been thinking a bunch about model routing and related things\n\ncurrent thoughts here, would love feedback:\n\n1/ there is a difference between \"model routing\" and \"model council\"\n\n\"model routing\" = route to one best model. i think only real reason to do this is cost\n\n\"model",
+      "likes": 64,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069474688619958517",
+      "author": "@bcherny",
+      "text": "I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.\n\nTo set it up, just add @.Claude to a channel and ask it to do this^, in natural language.",
+      "likes": 70,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069474687323893796",
+      "author": "@bcherny",
+      "text": "I tag Claude many times a day to write PRs, address user feedback, investigate incidents, do data analyses, summarize information, etc.\n\nUse it as your company's search engine. \"What's the status on X?\" \"Who owns this service?\" It answers your questions instead of just returning",
+      "likes": 63,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069474685948186797",
+      "author": "@bcherny",
+      "text": "We’ve worked hard to make it secure at every level. 1/ At the model training stage, 2/ the classifiers on top of our models and things like auto mode, 3/ we protect what Claude has access to (websites it can access and it can’t see the credential secrets it uses), and 4/",
+      "likes": 54,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069494516621730114",
+      "author": "@svpino",
+      "text": "Claude Code can parse the whole Internet using Apify actors.\n\nAnd with MCP connectors, you can talk to servers and have your agents perform operations behind paywalls.\n\nExample (see the video here): Analyze a YouTube video and write the summary in a Notion page.\n\nAnother example:",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069144229532533050",
+      "author": "@hwchase17",
+      "text": "Something we’re thinking a bunch about as well\n\nWould love thoughts!",
+      "likes": 44,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069467520474501544",
+      "author": "@hwchase17",
+      "text": "One thing we’ve seen pretty consistently: shipping the first version is only a small part of the work\n\nA key part of building reliable agents is having a repeatable lifecycle for improving them over time\n\nHere’s what that looks like:\n\n1/ Build. Start with the agent, tools,",
+      "likes": 36,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069499863805337688",
+      "author": "@nauczymycieAI",
+      "text": "Claude właśnie zabił rozwój polskiego startupu z największą w historii rundą A.\n\nMowa o Viktor, czyli autonomicznym współpracowniku AI, działającym z poziomu Slacka. Który pozyskał niedawno rundę inwestycyjną wartą 280 mln zł.\n\nTwórcy Viktora mieli rację.\n\nLudzie nie chcą",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069254017264554108",
+      "author": "@hwchase17",
+      "text": "you need docs built for agents",
+      "likes": 33,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069344040370450895",
+      "author": "@sentient_agency",
+      "text": "10 GITHUB REPOS THAT EXPOSE WHO'S WATCHING YOU ONLINE\n\nBookmark every single one. The tracking was built to stay invisible. These drag every company watching you into the light.\n\n1. \n\nThe engine behind The Markup's Blacklight scanner. Type in any website",
+      "likes": 26,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069460796678005163",
+      "author": "@svpino",
+      "text": "So many tech people think they can ChatGPT their way through life.\n\nSince AI is good at writing for loops, it must be good at everything else.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069437877168320522",
+      "author": "@svpino",
+      "text": "We don't need another dashboard.\n\nNobody has time to check a dashboard to see if their agents are working.\n\nA dashboard is more work. It's one more thing to check, one more place to look, one more problem on my plate.\n\nI don't want more work. Just tell me what's broken.\n\nWe need",
+      "likes": 23,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2069419593798496353",
+      "author": "@reach_vb",
+      "text": "Excited to chat about Code reliability, Codex and the future of Agents with Tom in an hour!\n\nWe’ll discuss how we approach hard technical challenges and our own Codex setups chat with the listeners\n\nJoin in, it’s going to be a fun one! ;)",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069433051156042126",
+      "author": "@svpino",
+      "text": "The token bill of one of my clients tripled over the last couple of weeks.\n\nThere was nothing broken.\n\nThe better these agents get, the more tokens they are eating.\n\nYou ask your agent to refactor a function. It looks like a simple request, but behind the scenes, the agent is",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069120736439193690",
+      "author": "@svpino",
+      "text": "You could make a living by helping companies fix their evals.\n\nYou wouldn't need anything else:\n\n1. Show me how you are evaluating your product\n2. This is how you can make it better\n\nI'm always hearing the same story:\n\n• Someone picks a benchmark early on\n• Everyone becomes",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069535193216532906",
+      "author": "@nauczymycieAI",
+      "text": "To jest profil o AI i to się nie zmieni. Ale czasami są sprawy, o których nie wolno milczeć.\n\nKażdy kto miał do czynienia z NFZ-em wie, jak głęboko przeżarty i zdegenerowany jest ten system.\n\nCzas uderzyć pięścią w stół",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069168739569062343",
+      "author": "@jerryjliu0",
+      "text": "This is a reminder that we are co-hosting a massive pickleball tournament 🏓 next Tuesday June 30th, as folks are in town for the @aiDotEngineer World Fair.\n\nCome check it out!",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069244042349535252",
+      "author": "@itsolelehmann",
+      "text": "i'm obsessed with AI DIY projects\n\nmy favorite one right now is this guy who built an AI system that listens for birds outside his apartment, figures out what species they are, and paints them on his wall.\n\nhere's how the whole thing works:\n\n1. a cheap usb mic on his balcony",
+      "likes": 4556,
+      "retweets": 309
+    },
+    {
+      "tweet_id": "2068896568779100485",
+      "author": "@birdabo",
+      "text": "‼️BREAKING: a tiny lab in Tokyo just built a model that matches the performance of Fable and Mythos.\n\nthe numbers are real too - 54.2 on SWE-Pro, 95.1 on GPQA-D, 93.2 on LiveCodeBench v6. it edges out Opus, Gemini 3.1, and GPT 5.4 on each one and because it’s just coordinating",
+      "likes": 3727,
+      "retweets": 359
+    },
+    {
+      "tweet_id": "2069143097586700794",
+      "author": "@GeminiApp",
+      "text": "Gemini Spark is your 24/7 personal AI agent, handling the heavy lifting from start to finish under your direction.\n\nHere are some ways our team has been using Gemini Spark to make their lives easier and more productive. 🧵",
+      "likes": 2642,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2069247481364226331",
+      "author": "@Polymarket",
+      "text": "JUST IN: Japanese startup Sakana AI claims its new “Fugu Ultra” model matches Claude’s Fable &amp; Mythos performance without the risk of export controls.",
+      "likes": 2580,
+      "retweets": 196
+    }
+  ]
+}
