@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-24",
+  "slot": "02",
+  "generated_at": "2026-06-24T15:43:25Z",
+  "tweets": [
+    {
+      "tweet_id": "2069135495297126793",
+      "author": "@laskowski_pl",
+      "text": "Roczny budżet szpitala w Łosicach to 40 mln rocznie.\n\nTego się nie da skomentować.",
+      "likes": 1065,
+      "retweets": 151
+    },
+    {
+      "tweet_id": "2069691444651086327",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w maju 2026 r. nowe zamówienia w przemyśle wzrosły o 143,3% r/r. 📈\n\nkwiecień: +1,7% r/r\nmarzec: -7,3% r/r\nluty: +3,2% r/r\nstyczeń: +0,6% r/r",
+      "likes": 119,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069374254521442690",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Ojcostwo w Polsce*:\n\n🔸 mężczyzna zostaje ojcem w wieku ponad 33 lat;\n🔸 przeciętny ojciec 2h dziennie opiekuje się dzieckiem, w opiekę angażuje się 59,5% ojców;\n🔸 mniej młodych ojców: 5x mniej (niż 2010) ojców &lt;20 lat i 4x mniej w wieku 20-24 lat.\n\n* dane @GUS_STAT (2025r.)",
+      "likes": 97,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2069307926330687660",
+      "author": "@laskowski_pl",
+      "text": "Lekarz zarządza szpitalem i w nim pracuje podpisując umowę i negocjując stawki sam ze sobą. \nWłaściciel - powiat - zgadza się, bo są miejsca w RN i leczenie poza kolejnością. \n\nJaki był krzyk gdy PiS chciał przejąć zarządzenie szpitalami powiatowymi poprzez państwową agencję.",
+      "likes": 90,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2069310668877033764",
+      "author": "@laskowski_pl",
+      "text": "Jak chcesz zarabiać publiczne pieniądze, to musisz się pogodzić z jawnością.\nJak nie chcesz, to sektor prywatny czeka, tam ci zapłacą za samo bycie pociotkiem polityka, prawda? 😉",
+      "likes": 82,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2069745354120028651",
+      "author": "@PAPinformacje",
+      "text": "Spotkanie grupy E5 w Berlinie. Oto tematy rozmów\n#PAPinformacje",
+      "likes": 48,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2069788237225214169",
+      "author": "@Macronextcom",
+      "text": "Ktoś tu nie wytrzymał ciśnienia:\n\n🔻KGHM -6,23%\n🔻Tauron -5,52%\n🔻Orlen -4,82%\n🔻PGE -4,44%\n🔻Kęty -3,71% (jutro wyniki)\n🔻Allegro -3,57%",
+      "likes": 51,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069770936048336898",
+      "author": "@Macronextcom",
+      "text": "Złoto poniżej 4000 USD. Pierwszy raz od listopada.\n\nOd styczniowego szczytu złoto straciło 29%.",
+      "likes": 50,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069662606118318396",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli masowe wdrożenie AI ma spowodować, że bogaci będą jeszcze bogatsi, to dajmy sobie z tym spokój, niech wdraża USA.",
+      "likes": 43,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069782140363890812",
+      "author": "@Macronextcom",
+      "text": "BUM! Ropa WTI 69,93 USD (-4,48%) 📉\n\nKtoś jeszcze pamięta ropę po 120 USD? 🤔",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069758197561164132",
+      "author": "@PAPinformacje",
+      "text": "Tusk: mam nadzieję, że konferencja w Gdańsku będzie sposobem na obniżenie emocji\n#PAPinformacje",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069684721399767163",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w V 2026 r. Stopa bezrobocia rejestrowanego: 5,9% 📉 (prognoza: 5,9%; poprzednio: 6,0%)",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069742110132039977",
+      "author": "@Macronextcom",
+      "text": "Gra \"GTA6\" będzie kosztowała 79,99 USD, a w wersji \"Ultimate Edition\" 99,99 USD.\n\nStart przedsprzedaży 25 czerwca, a premiera 19 listopada 2026.",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069762161669222596",
+      "author": "@PAPinformacje",
+      "text": "Szef MSZ Ukrainy nie przyjedzie na konferencję URC w Gdańsku #PAPinformacje",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069339364438466720",
+      "author": "@Macronextcom",
+      "text": "Indeksy PMI wprawdzie nie są tak emocjonujące jak upalne temperatury za oknem ☀️🥵, ale warto na nie zerknąć. Bo ochłodziło się tam w czerwcu. 🙃",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069390129307734402",
+      "author": "@Macronextcom",
+      "text": "Bank Węgier 🇭🇺 obniżył stopy proc. o 25 pb. \n\nDecyzja jest zgodna z oczekiwaniami. Po dzisiejszej obniżce główna stopa proc. na Węgrzech spadła do 6,00%.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069123486728044956",
+      "author": "@laskowski_pl",
+      "text": "Dwie rzeczy są niezmienne w zjednoczonym, póki jeszcze co, królestwie.\nMonarchia i Larry 👍",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069293169431232605",
+      "author": "@Macronextcom",
+      "text": "23 czerwca - Dzień Ojca.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069724229776384063",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w czwartek litr benzyny 95 ma kosztować nie więcej niż 5,96 zł, benzyny 98 - 6,67 zł, a oleju napędowego - 6,11 zł #PAPinformacje",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069731365604528635",
+      "author": "@PAPinformacje",
+      "text": "Zgłoszono 12 spraw dotyczących przypadków zgonów w Szpitalu Południowym\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069508971396808987",
+      "author": "@laskowski_pl",
+      "text": "Są pieniądze na wszystko. Nawet na luksusowe niemieckie limuzyny .",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069478213575651445",
+      "author": "@laskowski_pl",
+      "text": "Jak się wzmocni \"bezpieczeństwo energetyczne\" Polski, poprzez zakup importowanego surowca z wysoce niestabilną ceną, do tego z regionów mocno zapalnych lub nieprzewidywalnych 🤔",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069392995254706278",
+      "author": "@GUS_STAT",
+      "text": "Z okazji #DzieńOjca wszystkim Tatom życzymy zdrowia, szczęścia, spełnienia marzeń i wielu powodów do dumy każdego dnia. Dziękujemy za Waszą siłę, troskę i wsparcie. 👨‍👧‍👦\n\n#GUS",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069395990096822457",
+      "author": "@GUS_STAT",
+      "text": "Czy wiesz, że miesięcznik naukowy „Wiadomości Statystyczne. The Polish Statistician” ma już 70 lat?\n\nZajrzyj na stronę 🔗  aby poznać najważniejsze fakty z historii czasopisma.\n\n#GUS",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069666463489679562",
+      "author": "@laskowski_pl",
+      "text": "\"AI widać wszędzie, z wyjątkiem statystyk produktywności\"\n\nParadoks Solowa odżywa po 40 latach, tylko zamiast komputerów mamy AI.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069781087216103473",
+      "author": "@laskowski_pl",
+      "text": "W szeregach KO nie widzę żadnego lidera zmiany, ale może się mylę i kryją się tam jakieś diamenty🤔",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069769120262864908",
+      "author": "@PAPinformacje",
+      "text": "Premier: będziemy wyjaśniali każdy element w sprawie Szpitala Południowego\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069782181010973101",
+      "author": "@PAPinformacje",
+      "text": "Trump jasno ws. cieśniny Ormuz: bez opłat od statków\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069770020712783916",
+      "author": "@PAPinformacje",
+      "text": "Rosja reaguje po ukraińskich uderzeniach. Systemy obrony przeniesione\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069287660460310581",
+      "author": "@GUS_STAT",
+      "text": "Jak wzmacniać jakość danych i odpowiadać na wyzwania związane ze spadającymi wskaźnikami odpowiedzi w badaniach społecznych? \nTo jeden z tematów 23. posiedzenia #OECD_Stat, podczas którego Hanna Strzelecka, Wiceprezes #GUS przedstawiła prezentację dot. doświadczeń Polski.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069288366512738749",
+      "author": "@DGPrawna",
+      "text": "Komisja Europejska pracuje nad przygotowaniem Europejskiej Strategii Bezpieczeństwa. Ma ona wytyczyć nie tylko sposoby obrony kontynentu, ale też stać się podstawą do osiągnięcia niezależności przemysłowej, technologicznej czy energetycznej.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069692725914407237",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VI 2026 r. Indeks instytutu #Ifo 85,6 pkt. (prognoza: 85,6 pkt.; poprzednio: 85,0 pkt.) \n\nKalendarz wydarzeń gospodarczych:",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069759875622605011",
+      "author": "@PAPinformacje",
+      "text": "Będą kolejne decyzje w sprawie Szpitala Południowego. Wiceminister zdrowia zapowiada\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069746648750698819",
+      "author": "@PAPinformacje",
+      "text": "Andrij Sybiha omówił z szefem MSZ Niemiec  przygotowania do URC-2026 w Gdańsku\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069718093463425113",
+      "author": "@PAPinformacje",
+      "text": "Główny negocjator Iranu: umowa z USA jest „aktem porażki Ameryki”\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069685683778666819",
+      "author": "@GUS_STAT",
+      "text": "Opublikowaliśmy #BiuletynStatystyczny 05/2026, zawierający najnowsze #dane dotyczące m. in. #RynkuPracy, #przemysłu i #cen. Zachęcamy do zapoznania się z publikacją.\n\n🔗 \n\n#GUS #statystyki",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069777100496662689",
+      "author": "@laskowski_pl",
+      "text": "Za PiS też było źle? Skoro nic się nie zmieniło, to znów trzeba kogoś zmienić.\n\n\"Szczególnie ta ostatnia linia argumentacji jest bałamutna. Bo gdyby ktoś potraktował ją poważnie, musiałby spytać: a czy nie po to zmieniamy władzę, żeby coś się zmieniło, a nie żeby było tak jak",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069759584269418760",
+      "author": "@PAPinformacje",
+      "text": "Zatrzymana w Libii polska aktywistka odzyskała wolność\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069746574394093674",
+      "author": "@PAPinformacje",
+      "text": "Kiedy powrót do rozmów USA z Iranem? Padł termin\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069723083066282222",
+      "author": "@GUS_STAT",
+      "text": "👤 Kim jest ankieter GUS?\nTo nie telemarketer ani sprzedawca. Ankieterzy GUS realizują badania, dzięki którym poznajemy sytuację społeczną i gospodarczą Polski. \n\nMasz wątpliwości? Sprawdź tożsamość ankietera.\n\n🔗\n\n#GUS #AnkieterGUS #BadaniaAnkietowe",
+      "likes": 0,
+      "retweets": 2
+    }
+  ]
+}
