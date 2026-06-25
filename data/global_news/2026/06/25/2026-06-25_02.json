@@ -1,0 +1,289 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-25",
+  "slot": "02",
+  "generated_at": "2026-06-25T16:00:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2069832094772064486",
+      "author": "@OSW_pl",
+      "text": "W Czechach jakiś czas temu wybuchły kontrowersje związane ze zjazdem wysiedlonych Niemców po II wojnie światowej. O czesko-niemieckiej historii i o problematyce roli ziomkostw w Niemczech opowiadają @DebiecKrzysztof i @KamilFrymark.",
+      "likes": 28,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069746444077027770",
+      "author": "@OSW_pl",
+      "text": "„22 czerwca Ukraińcy uszkodzili zakłady Mikron w Woroneżu, produkujące mikroelektronikę m. in. do rosyjskich rakiet Iskander”.",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070063579487776847",
+      "author": "@OSW_pl",
+      "text": "„Chiny mają jasny cel: zmniejszyć swoją zależność od Zachodu, jednocześnie robiąc wszystko, by to Zachód był jak najbardziej zależny od Pekinu” - zaznacza @MKalwasinski.",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069483654061883629",
+      "author": "@OSW_pl",
+      "text": "Siły ukraińskie zintensyfikowały ataki na połączenia drogowe i kolejowe z okupowanym Krymem oraz infrastrukturę krytyczną na tym półwyspie, poważnie utrudniając zaopatrywanie go w paliwo.",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070098103382708467",
+      "author": "@OSW_pl",
+      "text": "„Jest sześć klastrów negocjacyjnych, ale by otworzyć następne, najpierw trzeba było otworzyć najtrudniejszy, czyli pierwszy klaster dotyczący praw podstawowych. To tutaj są walka z korupcją czy rządy prawa” - zaznacza Tadeusz Iwański.",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069807282838212795",
+      "author": "@RadekPyffel",
+      "text": "Zełeński zmasakrował polskie mapy mentalne... Być może kiedyś będziemy mu za to wdzięczni.\n\nBliski Wschód, Azja, Ukraina, polityka globalna.\n\nZapraszam na Cyfrową Sicz (ale tylko ludzi o mocnych nerwach):",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069764590603325695",
+      "author": "@OSW_pl",
+      "text": "„Die Linke może przypaść rola języczka u wagi po jesiennych wyborach do landtagów Saksonii-Anhalt i Meklemburgii-Pomorza Przedniego”.",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069451162584043941",
+      "author": "@OSW_pl",
+      "text": "Niemiecka Lewica (Die Linke) przyjęła stanowisko, w który  w którym stwierdza, że po 2023 r. izraelska armia dopuściła się ludobójstwa. \n\nPrzyjęcie stanowiska poprzedziła długa i kontrowersyjna debata, a temat nadal dzieli członków partii.",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070078814814605655",
+      "author": "@OSW_pl",
+      "text": "Badania opinii publicznej konsekwentnie wskazują na malejące zaufanie do korporacji technologicznych jako takich, a także do ich produktów – jak media społecznościowe czy sztuczna inteligencja.\n\nWięcej w tekście @aj_kohut ⬇️",
+      "likes": 13,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069533111403118771",
+      "author": "@RadekPyffel",
+      "text": "Per saldo działania w Zatoce się USA zapewne opłaciły (marże na eksporcie surowców, których ceny wzrosły) jednak przedstawiciele Pentagonu subtelnie i nieformalnie mieli poinformować senatorów, że amerykańskie wojsko potrzebuje około 80 mld dolarów dodatkowych środków, głównie na",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069663588843708673",
+      "author": "@RadekPyffel",
+      "text": "Za chwilę poranek RDC Ii polityka globalna w  rozmowie z red Grzegorzem Chlastą @gchlasta\n\nNa pewno będzieny musieli porozmawiać między innymi o wizycie Marco Rubio, w Abu Zabi, która rozpoczęła tour po krajach Zatoki Perskiej. \n\nCelem serii wizyt będzie przyspieszenie realizacji",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070160435769176281",
+      "author": "@OSW_pl",
+      "text": "▪️Co się dzieje w Albanii?\n▪️Czym jest rewolucja flamingów?\n▪️Czego od Bałkanów chce Donald Trump?\nNa te i inne pytania w #podcastOSW odpowiada @Mich_Kucharski",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070171012189102435",
+      "author": "@RadekPyffel",
+      "text": "Rosja w Azji\nJuż za chwilę za zaczynamy spotkanie z @GSlubowski i @mar_luniewski w Bibliotece na Koszykowej.\n\nLink do transmisji NA ŻYWO;",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070108659028250891",
+      "author": "@RadekPyffel",
+      "text": "Wyglądało na to, że tak jak Prezes Czarnych Zabrze byłem za słaby do sportu i wracam do geopolityki 😉\n\nAle jednak dostałem jeszcze jedną szansę 😉\n\nFajnie poromawialiśmy z Radkiem Majdanem, Markiem Jóźwiakiem i Martinsem Ekwueme w Misja Mundial o meczach Brazylii, Maroko,",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070165690632343659",
+      "author": "@RadekPyffel",
+      "text": "No Proszę Państwa... Myślę, że żaden koneser wielkiego futbolu i kultury Azji nie powinien przegapić ostatniej \"Misji Mundial\" 😉",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069488820806996111",
+      "author": "@ZelenskyyUa",
+      "text": "The majority in Russia is already taking issue with Putin because there is no end in sight to his war. And all the hardships Russians are facing today should bring them closer to the realization that their war is real, that it's not just \"stones falling from the sky,” and that",
+      "likes": 23726,
+      "retweets": 3729
+    },
+    {
+      "tweet_id": "2070072920886370681",
+      "author": "@ZelenskyyUa",
+      "text": "Our long-range operations are consistent, precise responses to Russia dragging out the war and attacking Ukrainian cities and communities.\n\nLast night, Defense Forces units struck the Poltavska oil depot in the Krasnodar region. The target was approximately 300 kilometers from",
+      "likes": 18982,
+      "retweets": 3033
+    },
+    {
+      "tweet_id": "2070055751972716845",
+      "author": "@WarMonitors",
+      "text": "⚡️Venezuela: Before and After a devastating earthquake",
+      "likes": 13769,
+      "retweets": 2395
+    },
+    {
+      "tweet_id": "2069998132092649554",
+      "author": "@narendramodi",
+      "text": "Deeply saddened by the devastation caused by the severe earthquakes in Venezuela.\n\nOn behalf of the people of India, I extend our heartfelt condolences to the Government and people of Venezuela, especially to the families who have lost their loved ones. We pray for the speedy",
+      "likes": 10398,
+      "retweets": 2078
+    },
+    {
+      "tweet_id": "2069458151343091890",
+      "author": "@jalle51",
+      "text": "You honestly have to love the absolute state of Russian military logistics right now, with Chief of Staff Valery Gerasimov frantically preparing an emergency report to tell Putin that the army has officially run out of gas.. 🇷🇺⛽️🚨\n\nA massive internal crisis has erupted within",
+      "likes": 8344,
+      "retweets": 2133
+    },
+    {
+      "tweet_id": "2069671856597020938",
+      "author": "@jalle51",
+      "text": "You honestly have to stand up and give a slow clap for the absolute strategic genius of Vladimir Putin. He launched a three-day war to completely \"demilitarize\" Ukraine and turn it into a defenseless buffer zone. 1,600 days later, he has accidentally created the most lethal,",
+      "likes": 7173,
+      "retweets": 1860
+    },
+    {
+      "tweet_id": "2070054659532677308",
+      "author": "@Osint613",
+      "text": "Crazy footage out of Venezuela after the earthquake.",
+      "likes": 7554,
+      "retweets": 1380
+    },
+    {
+      "tweet_id": "2069699221314257388",
+      "author": "@WhaleScan",
+      "text": "ALBANIAN PROTESTERS JUST PUBLISHED EXACTLY WHAT THEY WANT STOPPED BEFORE IT DESTROYS THEIR COASTLINE FOREVER\n\nNot vague threats. Not \"we oppose occupation.\" NAMED PROJECTS. SPECIFIC LOCATIONS. Site by site.\n\n🇦🇱 Sazan Island — former Albanian military base → $4,000,000,000",
+      "likes": 5444,
+      "retweets": 2028
+    },
+    {
+      "tweet_id": "2069488364571836670",
+      "author": "@ImJulianAssange",
+      "text": "Canada is no longer a Free Market Economy, Mark Carney’s economic strategy is a shift from traditional free-market principles toward \"economic nationalism\" and state-directed capitalism. Corporatism is deeply associated with fascism, serving as the core economic and political",
+      "likes": 5493,
+      "retweets": 1653
+    },
+    {
+      "tweet_id": "2069505682773332012",
+      "author": "@OficjalneZero",
+      "text": "❗️ @K_Stanowski czyta całą wiadomość na komunikatorze WhatsApp Dr Emila Jędrzejewskiego (byłego ordynatora w Warszawskim Szpitalu Południowym) do prezydenta Warszawy Rafała Trzaskowskiego w związku z tragiczną sytuacją w Szpitalu Południowym w Warszawie:\n\n\"[..] Zarządzanie",
+      "likes": 5996,
+      "retweets": 928
+    },
+    {
+      "tweet_id": "2069745918262247571",
+      "author": "@ZelenskyyUa",
+      "text": "Report by Chief of the Defense Intelligence of Ukraine Oleh Ivashchenko. First of all, we discussed the implementation of our plan for long-range sanctions against Russia over this war and the steps needed to bring peace closer. In particular, among the recent successful target",
+      "likes": 5838,
+      "retweets": 1082
+    },
+    {
+      "tweet_id": "2069783351524049394",
+      "author": "@Handre",
+      "text": "Germany, 1948. The Reichsmark is worthless. Cigarettes function as currency. Factory output sits at half its 1936 level, and the Allied occupation runs a price-control regime so absurd that farmers feed grain to livestock rather than sell it at the dictated price. Then Ludwig",
+      "likes": 4999,
+      "retweets": 1406
+    },
+    {
+      "tweet_id": "2070067064069624186",
+      "author": "@narendramodi",
+      "text": "A great meeting with Mr. Andy Jassy. I welcome Amazon's record $48 billion investment in India. This will create new opportunities for our youth. At the same time, it shows the growing interest across the world to invest in India!\n\n@amazon",
+      "likes": 4908,
+      "retweets": 1117
+    },
+    {
+      "tweet_id": "2070103292483367253",
+      "author": "@JayinKyiv",
+      "text": "Is Ukraine's land invasion of Crimea beginning?\n\nUkrainian troops have raised the national flag over the Kinburn Spit in Mykolaiv Oblast, a territory that had been under Russian occupation since 2022.\n\nAccording to the military, Russian forces retreated under heavy fire and are",
+      "likes": 4799,
+      "retweets": 882
+    },
+    {
+      "tweet_id": "2069618085703934223",
+      "author": "@SoSoValueCrypto",
+      "text": "SoSoValue Flash: Global AI Supply Chain Rattled by KOSPI Crash, Softening Geopolitical Risks Pivot Focus to Hot PMI\n\n💥 Core Catalyst:\nKorean \"Black Tuesday\": The global AI supply chain suffered a heavy blow. As South Korea weighed taxing unrealized equity gains, alongside local",
+      "likes": 4522,
+      "retweets": 840
+    },
+    {
+      "tweet_id": "2070053491213488138",
+      "author": "@GlobalDiss",
+      "text": "🚨🇪🇺 BREAKING: The Digital Euro is a TRAP. €3,000 LIMIT - per person. No interest. No savings. Adjusted by Brussels - cut when crisis hits.\n\nThey don’t want you to own money. They want you to ask permission.\n\nThe END of financial FREEDOM!",
+      "likes": 3682,
+      "retweets": 1659
+    },
+    {
+      "tweet_id": "2069727261515727356",
+      "author": "@GuntherEagleman",
+      "text": "🚨 BREAKING: RADICAL LEFT JUST TOOK OVER THE DEMOCRATS!\n\nMamdani and the far-left socialists CRUSHED the establishment last night, big losses for Hakeem Jeffries and Nancy Pelosi's handpicked candidates!\n\nLoud BOOS erupted when Jeffries appeared on screen. The Democrat Party is",
+      "likes": 3835,
+      "retweets": 1336
+    },
+    {
+      "tweet_id": "2069919527958131181",
+      "author": "@BRICSinfo",
+      "text": "JUST IN: 🇻🇪 7.1 magnitude earthquake strikes Venezuela causing multiple buildings to collapse.",
+      "likes": 3723,
+      "retweets": 1062
+    },
+    {
+      "tweet_id": "2069699587594440921",
+      "author": "@IndianTechGuide",
+      "text": "🚨 The Indian government has asked ICANN to set up an internet root server in the country.",
+      "likes": 3984,
+      "retweets": 266
+    },
+    {
+      "tweet_id": "2070025483618804136",
+      "author": "@MeghUpdates",
+      "text": "🚨 BREAKING NEWS \n\nIndia is expected to have 4 OPERATIONAL semiconductor plants by the end of 2026 🔥",
+      "likes": 3178,
+      "retweets": 420
+    },
+    {
+      "tweet_id": "2069928766902591678",
+      "author": "@NorthrnPrspectv",
+      "text": "🚨 CARNEY MISSING IN ACTION 🚨\nThe U.S. ambassador says Canada and the U.S. are “not anywhere close” to a trade framework.\n\nNow Mexico’s economy secretary says Canada was absent from negotiations.\n\nSo what exactly has Mark Carney been doing?",
+      "likes": 2710,
+      "retweets": 871
+    },
+    {
+      "tweet_id": "2069838580474658902",
+      "author": "@EdoMarcin",
+      "text": "Słowacja staje po stronie  Polski.\nPremier Słowacji Robert Fico wzywa do zerwania wszelkiej współpracy z Zełenskim, dopóki Ukraina nie przestanie gloryfikować banderowców.\nDodajmy, że bestialskie bandy UPA, dopuszczały się mordów i prześladowań także na ludności słowackiej. Choć",
+      "likes": 2759,
+      "retweets": 649
+    },
+    {
+      "tweet_id": "2069932527679160813",
+      "author": "@visegrad24",
+      "text": "Massive destruction in Venezuela after tonight’s 7.5 magnitude earthquake.\n\nThe death toll will likely be high as a large number of large buildings have collapsed",
+      "likes": 2542,
+      "retweets": 594
+    },
+    {
+      "tweet_id": "2070159391110643748",
+      "author": "@ZelenskyyUa",
+      "text": "Our intelligence has obtained important findings regarding the situation in Crimea and in our other territories currently under Russian occupation. Ukraine’s Foreign Intelligence Service has obtained data indicating that the crisis with fuel, military logistics, and governance in",
+      "likes": 2436,
+      "retweets": 446
+    },
+    {
+      "tweet_id": "2069667147316371674",
+      "author": "@jalle51",
+      "text": "You honestly have to love the absolute boss energy coming from Sweden right now. While the Kremlin is busy issuing loud, useless protests, the Swedish military has quietly been preparing a welcoming committee in the skies.. 🇸🇪⚓️✈️\n\nSVT just dropped a massive exclusive today",
+      "likes": 2447,
+      "retweets": 413
+    }
+  ]
+}

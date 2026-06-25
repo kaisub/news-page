@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-25",
+  "slot": "02",
+  "generated_at": "2026-06-25T16:00:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2069468693017268244",
+      "author": "@claudeai",
+      "text": "Introducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work.",
+      "likes": 26846,
+      "retweets": 2004
+    },
+    {
+      "tweet_id": "2069547676849557725",
+      "author": "@karpathy",
+      "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory,",
+      "likes": 20213,
+      "retweets": 1654
+    },
+    {
+      "tweet_id": "2069775531831161063",
+      "author": "@leerob",
+      "text": "Personal update, I'm starting a new role at Cursor!\n\nI'm moving into ML, working on training Composer. I'll be researching how to improve model behavior and personality.",
+      "likes": 7179,
+      "retweets": 97
+    },
+    {
+      "tweet_id": "2069474681749754272",
+      "author": "@bcherny",
+      "text": "We're launching Claude Tag today. Tag Claude into Slack and it works in channel with you. It’s proactive, multiplayer, with its own identity and memory.\n\nBut it’s not just a bot in Slack. Over the last few months, it’s totally changed how we use Claude",
+      "likes": 4596,
+      "retweets": 267
+    },
+    {
+      "tweet_id": "2069904679551611080",
+      "author": "@leerob",
+      "text": "You can now try GLM 5.2 in Cursor!\n\nExcited to see more useful open models, thank you to Fireworks for partnering here. Results from our evals ↓",
+      "likes": 2378,
+      "retweets": 125
+    },
+    {
+      "tweet_id": "2069745560538452459",
+      "author": "@svpino",
+      "text": "Are we honestly calling a Slack bot “a new paradigm”? Have we lost all decency?",
+      "likes": 1877,
+      "retweets": 76
+    },
+    {
+      "tweet_id": "2069474683372839253",
+      "author": "@bcherny",
+      "text": "This is the start of Claude Everywhere. It’s Claude Code under the hood so it’s just as good at writing code. 65% of our product team’s new code is created by our internal version of Claude Tag",
+      "likes": 529,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2069452348708335975",
+      "author": "@svpino",
+      "text": "I sent this to the entire team I’m currently working with.\n\nIt’s a very good team, but they are still on a 10-year-old process with project managers that can’t read code, specialized developers, and a full QA team.\n\nI don’t think you can afford writing software using a 10-yo",
+      "likes": 396,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2069556247339126803",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to look at your past PRs/ sessions and update your global agents md with your developer workflow details\n\nbranch naming conventions, commit messages, attribution, testing plan and more\n\ncodex will get much faster turn around per requests",
+      "likes": 336,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069772472862298385",
+      "author": "@reach_vb",
+      "text": "holy shitt!",
+      "likes": 296,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069482272403914760",
+      "author": "@reach_vb",
+      "text": "Codex Mobile iOS updates:\n\n- set a Friendly or Pragmatic personality for each host\n- edit /goal directly from the composer\n- jump from forked conversations back to the original thread\n- separate side chats above the composer\n- better autocomplete for commands, skills, and plugins",
+      "likes": 279,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2069856656335556766",
+      "author": "@hwchase17",
+      "text": "a lot of agent memory follows a simple three step process:\n\n- run agent\n- run some process to look at those traces and analyze them\n- update memory based on that\n\nwe show how to do that!",
+      "likes": 234,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2070049240018022483",
+      "author": "@reach_vb",
+      "text": "woke up, opened Codex\n\nchecked PRs for Codex, written by Codex\n\nreviewed suggestions from Codex\n\nasked Codex to action them\n\nlife is good",
+      "likes": 267,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069760954594918599",
+      "author": "@svpino",
+      "text": "What happens to society’s collective intelligence after two or three years of everyone outsourcing their thinking to a chatbot?\n\nHow many orders of magnitude dumber are we going to get?\n\nCan we start talking about that yet, or nah?",
+      "likes": 199,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2069791414964367442",
+      "author": "@svpino",
+      "text": "We should build a church for people who open-source their code so everyone can learn from it.\n\nHere is the complete source code of a RAG assistant to navigate airline policies.\n\nYou get the complete source code and video from @lenadroid, walking you through everything she did",
+      "likes": 184,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2069825393201483849",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked Mistral OCR against other frontier and open-weight models on ParseBench 📊\n\nFor a model at its price point, it is quite competitive! \n- It wins on semantic formatting - understanding strikethroughs, superscripts/subscripts, title hierarchy, links\n- It is",
+      "likes": 187,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2069924710524346692",
+      "author": "@jerryjliu0",
+      "text": "Unlimited OCR is a great model on table parsing and understanding proper reading order.\n\nHowever it does struggle a little on semantic formatting, charts (it does decent at bounding boxes).\n\nAttaching the results below to compare against PaddleOCR-VL-1.6.\n\nOverall it's still a",
+      "likes": 152,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2069846836270211514",
+      "author": "@svpino",
+      "text": "The architecture of this new world model is one of the most interesting things I've seen lately:\n\nLet me first explain how most world models work:\n\nThey predict and render one frame at a time. If you are navigating in one of these worlds, and you look left, the model draws",
+      "likes": 142,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2069516491473440947",
+      "author": "@reach_vb",
+      "text": "Looking forward to seeing all of you later this year!\n\nI’m particularly excited about:\n\n“Later this year, we're bringing DevDay Exchanges to Bengaluru, Tokyo, Seoul, Paris, Berlin, London, São Paulo, and Mexico City.”\n\nWhere we recreate the magic of DevDay in a city near you!",
+      "likes": 145,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069474684610195914",
+      "author": "@bcherny",
+      "text": "Claude is really proactive with Claude Tag. You don’t need to prompt it to do work, it can do work proactively based on your instructions. It has excellent memory and access to your data, so it can behave differently per channel",
+      "likes": 148,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070122343729692904",
+      "author": "@svpino",
+      "text": "If you are a software engineer still using an IDE or a CLI to build software, you ain’t gonna make it.\n\nIf you are writing prompts, or using skills, you ain’t gonna make it.\n\nSlack is the paradigm. That’s the only way forward. /s",
+      "likes": 137,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069857129272627626",
+      "author": "@hwchase17",
+      "text": "🧠LangSmith Engine as Sleep Time Compute\n\nMemory for agents is often described as “sleep time compute” or “dreaming”\n\nThis involves running a background process to analyze agent trajectories and update a memory store\n\nToday, we show how to do that in LangSmith:\n\n1. Trace all",
+      "likes": 111,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2069474688619958517",
+      "author": "@bcherny",
+      "text": "I also have Claude monitoring Slack channels to proactively respond to people to answer their questions and draft PRs, and to react with specific emojis like ✅❌ when a thread is resolved.\n\nTo set it up, just add @.Claude to a channel and ask it to do this^, in natural language.",
+      "likes": 118,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070094854256836750",
+      "author": "@reach_vb",
+      "text": "Computer Use, Chrome Extension and Plugins is incredibly underrated\n\nI’ve automated processes that would typically take ages to load/ run and now they just run in the background without me even thinking about it\n\nOh yes and they work both on Mac and Windows",
+      "likes": 116,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2069474691010707486",
+      "author": "@bcherny",
+      "text": "That's it. Point it at a channel, give it a task, and let it work. It's in beta on Slack today for Claude Enterprise and Team customers. More surfaces coming soon!\n\nLearn more:",
+      "likes": 113,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069474687323893796",
+      "author": "@bcherny",
+      "text": "I tag Claude many times a day to write PRs, address user feedback, investigate incidents, do data analyses, summarize information, etc.\n\nUse it as your company's search engine. \"What's the status on X?\" \"Who owns this service?\" It answers your questions instead of just returning",
+      "likes": 109,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069923636497276968",
+      "author": "@jerryjliu0",
+      "text": "We've provided some updated results on Mistral OCR that make use of the annotation feature for charts.\n\nThe overall score is ahead of GPT-5.5 and just behind Gemini 3.1 Pro, which is quite impressive for a model at its price range. \n\nIt does a great job on content faithfulness,",
+      "likes": 97,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2069474685948186797",
+      "author": "@bcherny",
+      "text": "We’ve worked hard to make it secure at every level. 1/ At the model training stage, 2/ the classifiers on top of our models and things like auto mode, 3/ we protect what Claude has access to (websites it can access and it can’t see the credential secrets it uses), and 4/",
+      "likes": 104,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069927496800153833",
+      "author": "@reach_vb",
+      "text": "codex tip: you can turn off memories in chats/ threads in codex via ‘/memories’\n\nhelpful for temporary chats and one off requests",
+      "likes": 97,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069494516621730114",
+      "author": "@svpino",
+      "text": "Claude Code can parse the whole Internet using Apify actors.\n\nAnd with MCP connectors, you can talk to servers and have your agents perform operations behind paywalls.\n\nExample (see the video here): Analyze a YouTube video and write the summary in a Notion page.\n\nAnother example:",
+      "likes": 74,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2069829229022515290",
+      "author": "@rpl_0x",
+      "text": "Zobaczymy jak wyjdzie ale plan wygląda tak\n\nRuszamy z Suwałk, na Litwę wzdłuż obwodu kalingrackiego nad morze w okolicy Kłajpedy i dalej linia brzegowa planujemy wjechać na Łotwe, potem Estonia, w talinie chcemy promem do Helsinek\n\nW Finlandii dalej wzdłuż baltyku i potem promy",
+      "likes": 77,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069499863805337688",
+      "author": "@nauczymycieAI",
+      "text": "Claude właśnie zabił rozwój polskiego startupu z największą w historii rundą A.\n\nMowa o Viktor, czyli autonomicznym współpracowniku AI, działającym z poziomu Slacka. Który pozyskał niedawno rundę inwestycyjną wartą 280 mln zł.\n\nTwórcy Viktora mieli rację.\n\nLudzie nie chcą",
+      "likes": 50,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069535193216532906",
+      "author": "@nauczymycieAI",
+      "text": "To jest profil o AI i to się nie zmieni. Ale czasami są sprawy, o których nie wolno milczeć.\n\nKażdy kto miał do czynienia z NFZ-em wie, jak głęboko przeżarty i zdegenerowany jest ten system.\n\nCzas uderzyć pięścią w stół",
+      "likes": 49,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069848248202715205",
+      "author": "@svpino",
+      "text": "Welcome to the 3rd Reich of Slop.",
+      "likes": 48,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069874437281939888",
+      "author": "@hwchase17",
+      "text": "awesome launch",
+      "likes": 37,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2069460796678005163",
+      "author": "@svpino",
+      "text": "So many tech people think they can ChatGPT their way through life.\n\nSince AI is good at writing for loops, it must be good at everything else.",
+      "likes": 41,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069835909877399922",
+      "author": "@svpino",
+      "text": "If you are comparing an LLM to a calculator to say “well, we didn’t stop thinking when we invented calculators”, I’m going to assume you are already beyond salvation.",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069708058666926446",
+      "author": "@sentient_agency",
+      "text": "THE BEST PROMPT-ENGINEERING COURSE ON EARTH IS FREE, AND IT'S JUST THE LEAKED INSTRUCTIONS BEHIND EVERY MAJOR AI\n\nit's a github repo called system_prompts_leaks, sitting at 45,000 stars.\n\neveryone's paying for \"master prompting\" courses. meanwhile the actual gold is right here:",
+      "likes": 22,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2069876969622368651",
+      "author": "@svpino",
+      "text": "I'm curious about the claims about persistent memory on this agent.\n\nI've used a ton of different agents, and most forget everything as soon as you do something else.\n\nEven ChatGPT and Claude feel very rudimentary when it comes to remembering past context (sometimes they forget",
+      "likes": 29,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070083355752972364",
+      "author": "@sentient_agency",
+      "text": "Resume builders lock the download button until you pay.\n\nSomeone built one that's free forever, needs no account, and never touches your data.\n\nIt's called Reactive Resume, and it's sitting at 39,000 stars.\n\nYou know the trap. You spend an hour filling out a resume on some site,",
+      "likes": 15,
+      "retweets": 13
+    }
+  ]
+}
