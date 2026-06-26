@@ -1,0 +1,394 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-26",
+  "slot": "02",
+  "generated_at": "2026-06-26T15:55:11Z",
+  "tweets": [
+    {
+      "tweet_id": "2070093667621126568",
+      "author": "@mbank_research",
+      "text": "💡Umiejętności migrantów spoza krajów zachodnich silnie zbliżają się do umiejętności ludności rodzimej; różnice między grupami w zakresie matematyki i języka zmniejszają się o 60–70% w ciągu jednego pokolenia.",
+      "likes": 23,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2070399431677980767",
+      "author": "@Macronextcom",
+      "text": "🇰🇷 Indeks KOSPI:\n\ndziś: -7,45%\nwczoraj: +5,42%\n24.06: +3,26%\n23.06: -9,99%",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070112269380309183",
+      "author": "@Macronextcom",
+      "text": "Analitycy Citigroup podnieśli ceny docelowe kilku spółek:\n\nMicron Technology: 1200 $ ➡️ 1400 $\nSandisk: 2025 $ ➡️ 2500 $\nQualcomm: 160 $ ➡️ 198 $",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070083738436878702",
+      "author": "@Macronextcom",
+      "text": "Za tydzień, w czwartek 2 lipca, zostaną opublikowane czerwcowe dane z rynku pracy w USA 🇺🇸. \n\nDane zostaną opublikowane niestandarodow w czwartek, ponieważ piątek (3 lipca) jest dniem wolnym w związku z obchodami Dnia Niepodległości.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070451065959461105",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: od soboty do poniedziałku litr benzyny 95 ma kosztować nie więcej niż 6,02 zł, benzyny 98 - 6,70 zł, a oleju napędowego - 6,17 zł. #PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070486928181366836",
+      "author": "@PAPinformacje",
+      "text": "P.o. prezydenta Wenezueli: co najmniej 589 osób zginęło w środowych trzęsieniach ziemi, ponad 2980 zostało rannych. #PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047620773384372",
+      "author": "@GUS_STAT",
+      "text": "W ostatnim dniu stycznia 2026 r. w #GospodarkaNarodowa pracowało 15,0 mln osób (o 0,9% mniej niż w ostatnim dniu grudnia 2025 r.). Najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe (18,1 %).\n\n🔗 \n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047504830185606",
+      "author": "@GUS_STAT",
+      "text": "W 1 kw. 2026 r. odnotowano wzrost ruchu granicznego cudzoziemców o 1,4%, a Polaków o 3,0% w stosunku do analogicznego okresu poprzedniego roku.\n\n🔗\n\n#GUS #statystyki #granica",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070370416317575257",
+      "author": "@DGPrawna",
+      "text": "Rewolucja w psychiatrii. Szpitale ustąpią miejsca opiece środowiskowej i pojawi się nowy personel",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047098314141929",
+      "author": "@GUS_STAT",
+      "text": "Na koniec 2024 r. 83,1% badanych przedsiębiorstw o liczbie pracujących 10 i więcej osób wykonywała funkcje biznesowe całkowicie wewnątrz swojego przedsiębiorstwa.\n\n🔗\n\n#GUS #statystyki #przedsiębiorstwa",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070124187872563215",
+      "author": "@DGPrawna",
+      "text": "Mobilizacja na Białorusi. Od początku roku ćwiczą na potęgę",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070037610961969280",
+      "author": "@DGPrawna",
+      "text": "PIP będzie wydawać interpretacje. Zanim złożysz wniosek, zabezpiecz się",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070409562998407247",
+      "author": "@GUS_STAT",
+      "text": "Wartość aktywów ogółem zgromadzonych przez towarzystwa funduszy inwestycyjnych na koniec 2025 r. wyniosła 4,0 mld zł i była wyższa o 4,9% w stosunku do wartości z końca roku poprzedniego.  \n\n🔗\n\n#GUS #Statystyki #TFI #FunduszeInwestycyjne",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070409448112210362",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. długość sieci kanalizacyjnej wzrosła o 5,0 tys. km (o 2,7%), a liczba przyłączy kanalizacyjnych do budynków mieszkalnych o 116,9 tys. sztuk (o 2,9%).\n\n🔗\n\n#GUS #woda #infrastruktura",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070048647744553271",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. wartość sprzedaży leków na receptę wyniosła 33,4 mld zł (wzrost o 13,1% r/r). Liczba zrealizowanych recept osiągnęła poziom 515,6 mln. Aż 97,8% stanowiły recepty elektronicznie.\n\n🔗\n\n#GUS #recepta #zdrowie #leki",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070120563209556164",
+      "author": "@wolski_jaros",
+      "text": "Jeszcze o wczorajszym zakupie MSBS Grot A3.\nCzyli ilość karabinków i ich cena. \n\nDo tej pory SZ RP zamówiły i otrzymały 237 tys karabinków rodziny Grot.  Kilkanaście tysięcy najstarszych A0 otrzymała Ukraina. Można zatem szacować stan SZ RP na około 220 tys. Grotów. \nWczoraj",
+      "likes": 949,
+      "retweets": 103
+    },
+    {
+      "tweet_id": "2069809509317452144",
+      "author": "@Maciej__Czajka",
+      "text": "A teraz spójrzcie na dane.\nZamówienia przemysłowe w Polsce za maj: ponad 140% r/r. Najwyższy odczyt w historii dostępnych danych GUS.\nCały ten skok to zamówienia krajowe. Dokładnie to, o czym pisałem w maju. 120 mld zł zakontraktowane w polskim przemyśle zbrojeniowym i",
+      "likes": 676,
+      "retweets": 201
+    },
+    {
+      "tweet_id": "2070212447001284790",
+      "author": "@SztabGenWP",
+      "text": "Drony nie są już dodatkiem do działań operacyjnych - stają się ich integralną częścią. Inteligentna Granica to więcej technologii tam, gdzie do tej pory potrzebny był człowiek.\n„Kuna” wspiera obserwację i rozpoznanie, a „Bluszcz” pokazuje, jak bezzałogowe systemy przejmują",
+      "likes": 642,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2070074570241917355",
+      "author": "@NSTRIKE1231",
+      "text": "🇵🇱 🇺🇦 Poland anticipates Ukrainian drone production technology transfer in return for supplying additional MiG-29 fighters, per Defense Minister Kosiniak-Kamysz.\n\nPoland is expecting the transfer of unmanned aerial vehicle production technologies in exchange for supplying",
+      "likes": 371,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2070233225763389775",
+      "author": "@GPW_Trader2022",
+      "text": "Dla inwestorów GPW 📈, a szczególnie JSW⚒️. Analiza Allegro 🛍️ sprzed chwili na kanale subs. Przekaż dalej, jeżeli jesteś zainteresowany napisz #JSW . Aktualnie JSW wszystkich akcji jakie były do pożyczenia było 6 531 000, a już z tego pożyczono 6 020 000. Dane do 5 dni",
+      "likes": 207,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2070151399749366029",
+      "author": "@MichalSzczerba",
+      "text": "Ustawa uchwalona. Senat przyjął bez poprawek ustawę o statusie osoby najbliższej w związku i umowie o wspólnym pożyciu. Ważny krok dla równości w Polsce!",
+      "likes": 181,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2070163627965891015",
+      "author": "@k_berenda",
+      "text": "Przełomowe orzeczenie wydał dziś Trybunał Konstytucyjny w wersji Bogdana Święczkowskiego.\n\n1. Uznał że Konstytucja jest sprzeczna z Konstytucją;\n\n2. Dał Prezydentowi podkładkę do publikowania i uznawania przez swoje uniwersum dokumentów bez jakiejkolwiek kontrasygnaty Premiera.",
+      "likes": 111,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2070145727284518953",
+      "author": "@Oli_Oli_crypto",
+      "text": "🚨 Polska policja + FBI zgarnęli grupę kradnącą krypto\n\nSIM swap nie jest teorią. Właśnie zgarnęli grupę, która się tym zajmowała w Polsce👀🫣\n\nCBZC zatrzymało 4 osoby ze zorganizowanej grupy przestępczej.\nWsparcia w akcji udzieliło FBI i HSI, śledztwo nadzoruje Prokuratura",
+      "likes": 92,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070474595446976786",
+      "author": "@Krakoski_Broker",
+      "text": "Rząd pracuje nad zakazem pobierania prowizji przez pośredników nieruchomości od obu stron. Już czytam komentarze moich kolegów, że przerzucą wszystko na sprzedających. Wielu z Was jedzie na prowizji 3,69% od strony. Siedzę już w tym po uszy od 20 lat i mam dla Was złą informację:",
+      "likes": 72,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2070241796903317865",
+      "author": "@Piechocinski",
+      "text": "UOKiK nałożył ponad 3 mln zł kary na Neonet za deklarowanie szybkiej wysyłki i dostępności produktów, których firma faktycznie nie posiadała. Regulator uznał, że praktyki stosowane na platformie Allegro mogły wprowadzać konsumentów w błąd.",
+      "likes": 62,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070459127290106233",
+      "author": "@WerderJacek",
+      "text": "W nawiązaniu do mojego porannego wpisu: właśnie mamy praktyczny przykład, po co systemowi magazyny energii.\n\nW środku dnia wysyłamy za granicę niemal 3 GW bardzo taniej energii z PV. Wieczorem ceny wzrosną do niemal 1700 zł/MWh, bo system będzie musiał sięgnąć po drogie źródła",
+      "likes": 44,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2070061556570710294",
+      "author": "@ZaPLMundurem",
+      "text": "Funkcjonariusze Straży Granicznej i Policji przeprowadzili kolejne działania wymierzone w organizatorów nielegalnej migracji na granicy polsko-litewskiej. W ciągu jednej doby zatrzymano 46 migrantów oraz 7 osób podejrzanych o pomoc w nielegalnym przekroczeniu granicy.🇬🇪 i jednego",
+      "likes": 31,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2069852125065048235",
+      "author": "@Lukasz_on_GPW",
+      "text": "GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (24.06) za isbiznes. pl\n\n🧬 #Bioceltix – 15,12 mln zł dofinansowania z NCBR na projekt „InnoBioVet” (lek biologiczny dla weterynarii) w ramach FENG 2021–2027.\n\n🏢 #Atal – uchwała WZ: dywidenda 194,67 mln zł (4,50 zł/akcję),",
+      "likes": 43,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070443735507181862",
+      "author": "@TrysteroBlog",
+      "text": "Coś dla miłośników NewConnect.\n\nWczoraj KNF zażądała od GPW odwieszenia notowań spółki Fintech. Zakończyła postępowanie nadzorcze w sprawie podejrzenia manipulacji.\n\nGPW to polecenie zrealizowała i dziś rano ruszył handel. Całkiem szybko. Pan widłowy otworzył na -54%.\n\nAle po",
+      "likes": 37,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070222971860373868",
+      "author": "@Piechocinski",
+      "text": "Ukraina jest poza czołową dziesiątką, jeśli chodzi o wartość importu do Polski. Zamykająca w ubiegłym roku to zestawienie Turcja wysłała do Polski towary za 33,4 mld zł, natomiast wartość ukraińskich towarów trafiających do Polski przekroczyła 19,7 mld zł. Z danych GUS wynika",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070038743285686713",
+      "author": "@WojciechCPK",
+      "text": "W związku z zakończeniem Kolejowego Programu Dobrowolnych Nabyć dla linii KDP Warszawa-Łódź:\n- spółka CPK dokonuje ostatecznych uzupełnień wniosków o wydanie decyzji lokalizacyjnych\n- Wojewoda wszczyna postępowania administracyjne w sprawie wydania decyzji lokalizacyjnych \n\nTutaj",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069835905926344743",
+      "author": "@ING_EconomicsPL",
+      "text": "💥 Dlaczego złoty słabnie? To miks globalnych i lokalnych czynników 👇\n🌍 1. Siła dolara = presja na EM\n➡️ Historycznie: spadek EUR/USD = słabsze waluty EM, w tym CEE.\n➡️ Dziś?\n💵 USD najsilniejszy wobec EUR od ponad roku. Dolara wspierają:\n📊 solidne dane makro z USA\n🏦 Kevin",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070464630179102836",
+      "author": "@DemagogPL",
+      "text": "➡️ Według raportu @OECD „Health at a Glance 2025” jeśli weźmie się pod uwagę stosunek do średniej krajowej wynagrodzenia polskich lekarzy POZ, zajmują oni 2. miejsce w Europie (na równi z Hiszpanią). W przypadku lekarzy ze specjalizacją jest to miejsce 5.\nPo przeliczeniu na",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069826497871786324",
+      "author": "@JJPiszczatowska",
+      "text": "Europejskie ceny prądu na rynku dnia następnego rosną wraz z nasilającym się upałem. \n\nW samej Francji z powodu ekstremalnych temperatur do systemu nie wejdzie jutro około 5 GW z elektrowni jądrowych.\n\nWarto jednak zaznaczyć, że polski operator - PSE informuje o stabilnej",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070033097186299981",
+      "author": "@Piechocinski",
+      "text": "GUS: Obcokrajowcy pochodzący z ponad 150 krajów świata stanowili ok. 6,9% wszystkich wykonujących pracę w Polsce (stan na 2025 r.)",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070034340747129051",
+      "author": "@Piechocinski",
+      "text": "GUS: Na koniec grudnia 2025 r. obywatele Ukrainy stanowili 67,6% ogólnej liczby cudzoziemców wykonujących pracę w Polsce",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070158986146451932",
+      "author": "@MFIPR_GOV_PL",
+      "text": "📢 W #Gdańsk trwa międzynarodowa Konferencja na rzecz Odbudowy Ukrainy #URC2026 z udziałem przedstawicieli blisko 7️⃣0️⃣ państw i szefów międzynarodowych instytucji finansowych 🇵🇱🇪🇺🇺🇦\n\n💬 W lipcu ruszą pierwsze nabory z #FBiO, za ich obsługę będzie odpowiadać @BGK_pl. Te pieniądze",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070529983424970895",
+      "author": "@mordownik4u",
+      "text": "🚨Emerytowany ukraiński generał próbował skorumpować polskiego urzędnika w centrum Warszawy\n\n5 czerwca 2026 na Placu Bankowym w Warszawie ABW zatrzymała 62-letniego Wołodymyra Bedrykiwśkiego – emerytowanego generała pułkownika ukraińskiej policji. W przeszłości kierował HUBOZ-em",
+      "likes": 10,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070392013359374553",
+      "author": "@Straz_Graniczna",
+      "text": "2⃣5⃣ czerwca podczas tymczasowego przywrócenia kontroli granicznej na granicy z Litwą🇱🇹:\n✅skontrolowano ponad 4,3 tys. osób,\n✅skontrolowano ponad 2,6 tys. środków transportu,\n✅zatrzymano 30 osób, w tym:\n🔸odmówiono wjazdu na terytorium RP🇵🇱 2 osobom,\n🔸przekazano w ramach",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070510876130447494",
+      "author": "@WojciechCPK",
+      "text": "▶️KOLEJ↙️\n👉Linia IGREK:\n- Tunel w Lodzi - trwają przygotowania do rozpoczęcia drążenia, umowa podpisana w 2025\n- Zaawansowane prace projektowe dla 480 km\n- Wydane decyzje środowiskowe dla LK85 odc. Warszawa-CPK-Łódź\n- Ogłoszono pierwsze 2 dialogi konkurencyjne na projektowanie",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070007696938475825",
+      "author": "@Longterm44",
+      "text": "🔥Ropa🛢️ WTI -0,72% i jest poniżej 70$ po raz pierwszy od 02.03 czyli pierwszej sesji od ataku na Iran🇮🇷! Po wczorajszej spłuczce o 4,6% jest już tylko 3,6% droższa niż przed wojną! 👏Pisałem już wcześniej że każdy spadek baryłki o 10$ jest ekwiwalentem obniżki stóp FED o 25-50",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069876350496751654",
+      "author": "@Piechocinski",
+      "text": "Niemal 15 mln zł kar nałożyła na mBank Komisja Nadzoru Finansowego . KNF zarzuca bankowi niezapewnienie klientom należytej ochrony, czy naruszenie obowiązków z zakresu bezpieczeństwa prowadzenia działalności. Kary nie są prawomocne.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070069663069790584",
+      "author": "@DNAGielda",
+      "text": "Pepco przyspiesza wzrost w kierunku 40 zł\n\nDo czołówki dzisiejszych spółek wzrostowych wchodzących w skład indeksu WIG20, których kurs rośnie powyżej 3%, dołącza obecnie Pepco. Walor wyraźnie przyspiesza wzrost i dziś jest już najwyżej od ok. 3 lat, kiedy w czerwcu 2023 roku",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070034974271565958",
+      "author": "@Piechocinski",
+      "text": "GUS: Liczba obywateli Indii wykonujących pracę w Polsce wzrosła o 9,1% pod koniec 2025 r. względem grudnia 2024 r.",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070175191271887206",
+      "author": "@CyberDefence24",
+      "text": "Kolejne miasto na Dolnym Śląsku ofiarą ransomware 🖥️\n\nCyberprzestępcy zaszyfrowali dane Urzędu Miasta; incydent objął także środowisko do obsługi systemów informatycznych urzędu. Niewykluczone, że uzyskano dostęp do danych 🕵️\n\n🔗Link: \n\n@oskarklimczuk \nfot.",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069875889681338560",
+      "author": "@Piechocinski",
+      "text": "W ostatnim roku centra danych w Polsce przyczyniły się do zwiększenia PKB o 10,6 mld zł brutto i zapłaciły 4,3 mld zł podatków. Sektor ten utrzymuje też blisko 41 tys. miejsc pracy – wynika z raportu „Napędzając gospodarkę. Gospodarczy wpływ sektora centrów danych w Polsce”,",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070034610860253198",
+      "author": "@Piechocinski",
+      "text": "GUS: obywatele Białorusi według stanu na 31 grudnia 2025 r. stanowili 10,4% ogólnej liczby cudzoziemców wykonujących pracę w Polsce, tj. 118,9 tys. osób.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069872710902014062",
+      "author": "@Piechocinski",
+      "text": "Statystyczny Polak produkuje 377 kg odpadów komunalnych – o ok. 109 kg (40,6 proc.) więcej niż dekadę temu, jak wynika z danych GUS. W 2024 roku produkcja odpadów wzrosła o 20 kg na osobę (5,6 proc. w przeliczeniu na mieszkańca) – to najsilniejszy roczny skok od kilku lat,",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070058714799690095",
+      "author": "@OlaKrugly",
+      "text": "🇺🇸 USA przyjęły pierwszy od ponad 30 lat duży pakiet mieszkaniowy! 21st Century ROAD to Housing Act ma ok. 380 stron i szerokie poparcie obu partii. Celem jest zwiększenie budowy mieszkań i domów, ograniczenie części barier administracyjnych, poprawa finansowania i utrudnienie",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070421244294345044",
+      "author": "@rzetelnik_pl",
+      "text": "Polska otrzymała dziś kolejną partię 36 czołgów M1A2 SEPv3 Abrams oraz 7 wozów ewakuacyjnych M88A2 Hercules. \n\nŁącznie dostarczono już 182 z 250 zamówionych SEPv3. Wraz z 116 M1A1 FEP do końca roku Wojsko Polskie będzie mieć 366 Abramsów. \n\nCały program (czołgi + wsparcie)",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070409225629483200",
+      "author": "@starsandstripes",
+      "text": "The Polish port city of Szczecin could be where thousands of American soldiers call home if plans for a new permanent base in the country come to fruition, Deputy Defense Minister Stanislaw Wziatek said this week. (from @john_vandiver)",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070436075940499901",
+      "author": "@MSWiA_OLiOC_GOV",
+      "text": "🚨 W sytuacji kryzysowej liczą się sekundy, a dobre decyzje zaczynają się od wiedzy.\n\nRuszyły zapisy na bezpłatne Powszechne Warsztaty Ochrony Ludności🟧 Dowiesz się, jak reagować w sytuacjach zagrożenia, udzielić pierwszej pomocy i przygotować siebie oraz bliskich🆘\n\n⬇️ Link⬇️",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070386619711131660",
+      "author": "@SmartKapital001",
+      "text": "🚨 NEWS: Azjatyckie giełdy w dół\n\nAzjatyckie giełdy zaliczyły potężne spadki, na czele z rynkami w Korei Południowej i Japonii. Inwestorzy masowo realizowali zyski po niedawnym \"rajdzie AI\", a winę zwala się na Apple, które podniosło ceny swoich produktów.\n\n🍎 Efekt Apple",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070022375383400803",
+      "author": "@BlogiBossaPL",
+      "text": "👉WIG20 spadł wczoraj o 2,45% i zamknął się poniżej dołka z początku czerwca. Po raz pierwszy od marca zamknął się poniżej 50-sesyjnej średniej. Spadek cen metali i ropy oraz umocnienie dolara okazały się silniejszymi impulsami niż poprawa nastrojów na globalnych rynkach akcji.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069817027938734310",
+      "author": "@koloslonka4",
+      "text": "Spojrzenie na ASF w Europie. Przypadki u dzików od stycznia do połowy maja 2026. \nBez liczb z Białorusi i Rosji ale może ktoś wie jak tam wygląda?\n\nŹródło - FACE.",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-26",
+  "slot": "02",
+  "generated_at": "2026-06-26T15:55:11Z",
+  "tweets": [
+    {
+      "tweet_id": "2070192611894456634",
+      "author": "@hwchase17",
+      "text": "Technical blog on how we built SmithDB (our database purpose built for agent traces)",
+      "likes": 35,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070220404162285712",
+      "author": "@hwchase17",
+      "text": "deployment cookbook for langchain agents!",
+      "likes": 32,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070524994116047232",
+      "author": "@svpino",
+      "text": "New paradigm for deep research models!\n\nApodex-1.0-H is a new model that introduces a completely new way of working. Apodex comes in several flavors, including an open-weight Apodex-1.0-mini and 0.8B, 2B, and 4B Smol series of models.\n\nThis is what's new with Apodex:\n\n1. The",
+      "likes": 13,
+      "retweets": 1
+    }
+  ]
+}
