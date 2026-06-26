@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-26",
+  "slot": "01",
+  "generated_at": "2026-06-26T01:34:37Z",
+  "tweets": [
+    {
+      "tweet_id": "2070111316702806098",
+      "author": "@PAPinformacje",
+      "text": "W Warszawie rusza społeczna inicjatywa odwołania prezydenta miasta #PAPinformacje",
+      "likes": 966,
+      "retweets": 141
+    },
+    {
+      "tweet_id": "2069691444651086327",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w maju 2026 r. nowe zamówienia w przemyśle wzrosły o 143,3% r/r. 📈\n\nkwiecień: +1,7% r/r\nmarzec: -7,3% r/r\nluty: +3,2% r/r\nstyczeń: +0,6% r/r",
+      "likes": 151,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2069788237225214169",
+      "author": "@Macronextcom",
+      "text": "Ktoś tu nie wytrzymał ciśnienia:\n\n🔻KGHM -6,23%\n🔻Tauron -5,52%\n🔻Orlen -4,82%\n🔻PGE -4,44%\n🔻Kęty -3,71% (jutro wyniki)\n🔻Allegro -3,57%",
+      "likes": 154,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070123053560827971",
+      "author": "@PAPinformacje",
+      "text": "URC Gdańsk/ PGE, Orlen, Enea i Tauron podpisały list intencyjny ws. odbudowy energetyki Ukrainy. #PAPinformacje",
+      "likes": 91,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2069782140363890812",
+      "author": "@Macronextcom",
+      "text": "BUM! Ropa WTI 69,93 USD (-4,48%) 📉\n\nKtoś jeszcze pamięta ropę po 120 USD? 🤔",
+      "likes": 85,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070133200068735117",
+      "author": "@PAPinformacje",
+      "text": "Kaczyński: zwrócę przyznany mi ukraiński Order Księcia Jarosława Mądrego #PAPinformacje",
+      "likes": 71,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2070111580902052295",
+      "author": "@PAPinformacje",
+      "text": "URC Gdańsk/ Orlen podpisał porozumienia rozszerzające współpracę z Naftohazem, w tym dot. handlu LNG #PAPinformacje",
+      "likes": 60,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2069770936048336898",
+      "author": "@Macronextcom",
+      "text": "Złoto poniżej 4000 USD. Pierwszy raz od listopada.\n\nOd styczniowego szczytu złoto straciło 29%.",
+      "likes": 73,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070109969899298984",
+      "author": "@PAPinformacje",
+      "text": "Senat za ustawami dot. statusu osoby najbliższej w związku i umowy o wspólnym pożyciu. Teraz trafią one do prezydenta. (PAP)\n#PAPInformacje",
+      "likes": 42,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2069662606118318396",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli masowe wdrożenie AI ma spowodować, że bogaci będą jeszcze bogatsi, to dajmy sobie z tym spokój, niech wdraża USA.",
+      "likes": 46,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2069684721399767163",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w V 2026 r. Stopa bezrobocia rejestrowanego: 5,9% 📉 (prognoza: 5,9%; poprzednio: 6,0%)",
+      "likes": 35,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070018707191984246",
+      "author": "@laskowski_pl",
+      "text": "I to się nazywa jawność 😁\nTemat tak boli polityków, że planują ograniczyć dostęp do jawnych, co do zasady, ksiąg wieczystych.",
+      "likes": 22,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070093667621126568",
+      "author": "@mbank_research",
+      "text": "💡Umiejętności migrantów spoza krajów zachodnich silnie zbliżają się do umiejętności ludności rodzimej; różnice między grupami w zakresie matematyki i języka zmniejszają się o 60–70% w ciągu jednego pokolenia.",
+      "likes": 19,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2069742110132039977",
+      "author": "@Macronextcom",
+      "text": "Gra \"GTA6\" będzie kosztowała 79,99 USD, a w wersji \"Ultimate Edition\" 99,99 USD.\n\nStart przedsprzedaży 25 czerwca, a premiera 19 listopada 2026.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070195472967332019",
+      "author": "@PAPinformacje",
+      "text": "Zełenski rozmawiał z Von der Leyen: to ważny sygnał wsparcia\n#PAPinformacje",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2069666463489679562",
+      "author": "@laskowski_pl",
+      "text": "\"AI widać wszędzie, z wyjątkiem statystyk produktywności\"\n\nParadoks Solowa odżywa po 40 latach, tylko zamiast komputerów mamy AI.",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070091336984723931",
+      "author": "@PAPinformacje",
+      "text": "Sprawa dotyczy kart zgonu 20 osób\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069847125010096302",
+      "author": "@laskowski_pl",
+      "text": "Mała spółdzielnia mieszkaniowa w Gdańsk  około 1700 członków. Walne w grupach podzielone na trzy dni.\n\nWe wszystkich grupach wzięło udział 40 członków!!!\n\nI potem macie pretensje, że zarząd spółdzielni robi co chce, do kogo? Tylko do siebie!",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070210664384090287",
+      "author": "@PAPinformacje",
+      "text": "Minister Żurek: Ukraina walczy z korupcją mimo trwającej wojny\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070167577377083715",
+      "author": "@PAPinformacje",
+      "text": "Afera w warszawskim szpitalu. Minister zdrowia zabrała głos\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070123162411364566",
+      "author": "@PAPinformacje",
+      "text": "Wystawę fotograficzną pt. „Ukraine in Focus”, przygotowaną wspólnie przez Polską Agencję Prasową oraz ukraińską agencję @UKRINFORM,\nzaprezentowano w trakcie Konferencji na rzecz Odbudowy Ukrainy (Ukraine Recovery Conference – URC 2026).",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070088383372677301",
+      "author": "@DGPrawna",
+      "text": "🟥 SONDAŻ DGP | Za nowy spór o UPA odpowiada Zełenski",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070112269380309183",
+      "author": "@Macronextcom",
+      "text": "Analitycy Citigroup podnieśli ceny docelowe kilku spółek:\n\nMicron Technology: 1200 $ ➡️ 1400 $\nSandisk: 2025 $ ➡️ 2500 $\nQualcomm: 160 $ ➡️ 198 $",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070083738436878702",
+      "author": "@Macronextcom",
+      "text": "Za tydzień, w czwartek 2 lipca, zostaną opublikowane czerwcowe dane z rynku pracy w USA 🇺🇸. \n\nDane zostaną opublikowane niestandarodow w czwartek, ponieważ piątek (3 lipca) jest dniem wolnym w związku z obchodami Dnia Niepodległości.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069781087216103473",
+      "author": "@laskowski_pl",
+      "text": "W szeregach KO nie widzę żadnego lidera zmiany, ale może się mylę i kryją się tam jakieś diamenty🤔",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070036761607119343",
+      "author": "@mbank_research",
+      "text": "Czas goni nas goni nas\nGoni nas goni cały czas\nCały czas goni nas goni nas\nGoni nas dogoni zgubi nas\nNie ma dla nas szans\nNie ma żalu i litości\nPodły czas goni nas\nCoraz prędzej coraz prędzej\nCzasie pozwól żyć\nProszę wolniej czasie wolniej\nProszę wolniej!\n\n[Akurat]",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069692725914407237",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VI 2026 r. Indeks instytutu #Ifo 85,6 pkt. (prognoza: 85,6 pkt.; poprzednio: 85,0 pkt.) \n\nKalendarz wydarzeń gospodarczych:",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070229332987883865",
+      "author": "@PAPinformacje",
+      "text": "Wenezuela zmaga się z podwójnym trzęsieniem ziemi. Rośnie liczba ofiar\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070176904691261633",
+      "author": "@PAPinformacje",
+      "text": "Papież wysłał pierwszą pilną pomoc do Wenezueli #PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070090664033829164",
+      "author": "@PAPinformacje",
+      "text": "P.o. prezydenta Wenezueli: co najmniej 164 osoby zginęły w trzęsieniach ziemi, a ponad 970 zostało rannych #PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070248995230793803",
+      "author": "@PAPinformacje",
+      "text": "Rubio: nie było żadnego porozumienia z Rosją na Alasce\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070195336648282164",
+      "author": "@PAPinformacje",
+      "text": "URC. Eksperci o wnioskach z wojny: przemysłowi zbrojeniowemu potrzebna jest elastyczność\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069723083066282222",
+      "author": "@GUS_STAT",
+      "text": "👤 Kim jest ankieter GUS?\nTo nie telemarketer ani sprzedawca. Ankieterzy GUS realizują badania, dzięki którym poznajemy sytuację społeczną i gospodarczą Polski. \n\nMasz wątpliwości? Sprawdź tożsamość ankietera.\n\n🔗\n\n#GUS #AnkieterGUS #BadaniaAnkietowe",
+      "likes": 0,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2069685683778666819",
+      "author": "@GUS_STAT",
+      "text": "Opublikowaliśmy #BiuletynStatystyczny 05/2026, zawierający najnowsze #dane dotyczące m. in. #RynkuPracy, #przemysłu i #cen. Zachęcamy do zapoznania się z publikacją.\n\n🔗 \n\n#GUS #statystyki",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070003478932381783",
+      "author": "@DGPrawna",
+      "text": "Politycy Koalicji Obywatelskiej są przerażeni po szokujących doniesieniach na temat Szpitala Południowego. - Możemy za to zapłacić władzą - mówi polityk obozu rządowego.",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2069779792824594609",
+      "author": "@laskowski_pl",
+      "text": "Popatrz @czardam \nZgodnie z harmonogramem prace projektowe potrwają do 2026 roku, roboty budowlane zaplanowano na lata 2026-2028, a cała inwestycja zakończy się w 2029 roku.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2069777100496662689",
+      "author": "@laskowski_pl",
+      "text": "Za PiS też było źle? Skoro nic się nie zmieniło, to znów trzeba kogoś zmienić.\n\n\"Szczególnie ta ostatnia linia argumentacji jest bałamutna. Bo gdyby ktoś potraktował ją poważnie, musiałby spytać: a czy nie po to zmieniamy władzę, żeby coś się zmieniło, a nie żeby było tak jak",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070106001945014612",
+      "author": "@PAPinformacje",
+      "text": "Sąd Najwyższy oddalił kasację prokuratury ws. „Skóry”; uniewinnienie Roberta J. – ostateczne. #PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047620773384372",
+      "author": "@GUS_STAT",
+      "text": "W ostatnim dniu stycznia 2026 r. w #GospodarkaNarodowa pracowało 15,0 mln osób (o 0,9% mniej niż w ostatnim dniu grudnia 2025 r.). Najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe (18,1 %).\n\n🔗 \n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047504830185606",
+      "author": "@GUS_STAT",
+      "text": "W 1 kw. 2026 r. odnotowano wzrost ruchu granicznego cudzoziemców o 1,4%, a Polaków o 3,0% w stosunku do analogicznego okresu poprzedniego roku.\n\n🔗\n\n#GUS #statystyki #granica",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
