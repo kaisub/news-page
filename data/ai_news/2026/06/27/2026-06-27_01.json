@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-27",
+  "slot": "01",
+  "generated_at": "2026-06-27T01:44:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2070192611894456634",
+      "author": "@hwchase17",
+      "text": "Technical blog on how we built SmithDB (our database purpose built for agent traces)",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070220404162285712",
+      "author": "@hwchase17",
+      "text": "deployment cookbook for langchain agents!",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070545716532154803",
+      "author": "@jerryjliu0",
+      "text": "You can now equip your n8n workflows with the world's best parsing/extraction over your most complex documents 📃💫\n\nWe're excited to announce that LlamaParse is now an officially verified community node for n8n. This includes all our core capabilities: Parse, Extract, Classify,",
+      "likes": 36,
+      "retweets": 1
+    }
+  ]
+}

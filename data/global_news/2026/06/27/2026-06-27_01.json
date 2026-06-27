@@ -1,0 +1,135 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-27",
+  "slot": "01",
+  "generated_at": "2026-06-27T01:44:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2070581884732522674",
+      "author": "@OSW_pl",
+      "text": "Na Krymie ogłoszono reżim sytuacji nadzwyczajnej. To efekt ukraińskich ataków.\n\nWięcej szczegółów omawiamy w filmie:",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070168099077181616",
+      "author": "@Propeertys",
+      "text": "Na Węgrzech wraz  z byłym posłem Fideszu, Búsem Balázs, aresztowano tych, którzy decydowali o 17-miliardowych nielegalnych funduszach NKA. \nTo taka polska afera NCBiR",
+      "likes": 2672,
+      "retweets": 539
+    },
+    {
+      "tweet_id": "2070219685396971789",
+      "author": "@AdityaRajKaul",
+      "text": "India’s Commerce Minister on US-India Trade Deal:\n\nIndia Won't Activate US Trade Deal Until Competitive Edge Is Secured especially in South Asia and South East Asia.",
+      "likes": 2239,
+      "retweets": 280
+    },
+    {
+      "tweet_id": "2070531455382384705",
+      "author": "@Gerashchenko_en",
+      "text": "Moscow Times media has compiled a map of the Russian fuel crisis.\n\nIt's from yesterday, so more regions might have joined the rationing party since then.",
+      "likes": 1414,
+      "retweets": 343
+    },
+    {
+      "tweet_id": "2070505010429907030",
+      "author": "@KamilCaus",
+      "text": "🇲🇩🇷🇺Mołdawia nie wpuściła na swoje terytorium „kuriera” wiozącego „pocztę dyplomatyczną” z Rosji do Kiszyniowa. W reakcji Rosja wezwała ambasadora mołdawskiego w Moskwie i wręczyła mu notę protestacyjną. Rosja twierdzi, że kurier został zatrzymany, a jego bagaż poddany",
+      "likes": 1361,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2070582263712997806",
+      "author": "@clashreport",
+      "text": "Türkiye is dispatching two A400M aircraft carrying around 60 personnel — including AFAD rescue experts, military Humanitarian Aid Brigade members, Red Crescent staff, medics, and search dogs — to Venezuela after a devastating magnitude 7.5 earthquake.",
+      "likes": 1154,
+      "retweets": 153
+    },
+    {
+      "tweet_id": "2070127388390719805",
+      "author": "@KyivIndependent",
+      "text": "⚡️ France seizes Russian shadow fleet vessel in Mediterranean.\n\n\"We will not allow the shadow fleet to evade sanctions and fund Russia's war effort. Europe is determined,\" French President Emmanuel Macron wrote on X on June 25.",
+      "likes": 573,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2070396326445973603",
+      "author": "@JavierBlas",
+      "text": "PHOTOS OF THE DAY: Saudi Arabia is loading simultaneously 4 supertankers in the Persian Gulf. Two started loading yesterday at the single-point moorings of Ju’aymah (see post below) with their AIS visible (and a 3rd is waiting nearby). This morning, two others appear to be",
+      "likes": 529,
+      "retweets": 99
+    },
+    {
+      "tweet_id": "2070450748480237687",
+      "author": "@Reuters",
+      "text": "South Korea will rapidly expand its drone and counter-drone capabilities to counter North Korea, including by training 500,000 'drone warriors' and distributing tens of thousands of unmanned systems across frontline units",
+      "likes": 298,
+      "retweets": 68
+    },
+    {
+      "tweet_id": "2070442727313957173",
+      "author": "@NetZeroWatch",
+      "text": "Britain has been forced to pay 17 times more to import energy from Europe during the heatwave. The UK paid nearly £1,400 per megawatt hour on Wednesday evening to obtain emergency supplies from the Continent, in a move set to add £11m to bills, after a shortfall in energy",
+      "likes": 166,
+      "retweets": 111
+    },
+    {
+      "tweet_id": "2070415420473884917",
+      "author": "@WarNewsPL1",
+      "text": "🇺🇦🇪🇺🇷🇺\n❗️Komisja Europejska oficjalnie zaproponowała przedłużenie o kolejny rok programu ochrony Ukraińców w UE, wykluczając z niego mężczyzn podlegających poborowi, - komisarz ds. migracji w Komisji Europejskiej, Marcus Brunner\n\nNowe obostrzenia nie dotyczą osób, które otrzymały",
+      "likes": 256,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2070345954310357333",
+      "author": "@Defence_Index",
+      "text": "🇰🇷 BREAKING: South Korea Is Preparing an Army of 500,000 Drone Warriors 🛸\n\nSouth Korea has announced plans to train 500,000 \"drone warriors\" and manufacture 110,000 drones by 2029, signaling one of the world's most ambitious military drone expansion programs.\n\nFrom",
+      "likes": 206,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2070586643958857885",
+      "author": "@Reuters",
+      "text": "Europe and Canada are conducting Arctic Sentry drills with some 30,000 troops in Norway to prove they can defend NATO's northern flank, as Trump threatens to quit the alliance and Russia races ahead on Arctic defense",
+      "likes": 126,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2070367053593125328",
+      "author": "@AP",
+      "text": "Shares in Asia tumble, led by heavy losses in Japan and South Korea, as traders sell to lock in gains from recent rallies in stocks related to artificial intelligence.",
+      "likes": 99,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2070563504168300640",
+      "author": "@business",
+      "text": "China stripped six military lawmakers of their seats in the national parliament in the latest sign that President Xi Jinping is continuing with a purge of key defense establishment personnel",
+      "likes": 88,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2070508662754287873",
+      "author": "@business",
+      "text": "Saudi Arabia is boosting crude shipments, opening up its Persian Gulf ports that were shuttered by the Iran war while also increasing loadings at Red Sea outlets",
+      "likes": 64,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2070102848067588330",
+      "author": "@GudadzeLevan",
+      "text": "Meanwhile, French President Macron announced the seizure of the tanker *Deliver* in the Mediterranean, a vessel allegedly linked to Russia's \"shadow fleet.\"\n\n\"On Tuesday, the French Navy intercepted the tanker *Deliver* as it was transiting off the coast of Sicily in violation of",
+      "likes": 21,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2070412953212670194",
+      "author": "@IGR_Media",
+      "text": "#IGR: North Korean leader Kim Jong Un has overseen tests of a \"special mission\" warhead designed for a tactical ballistic missile, state media KCNA reported on Friday, as Pyongyang ramps up its military posture along the border with South Korea.",
+      "likes": 13,
+      "retweets": 1
+    }
+  ]
+}

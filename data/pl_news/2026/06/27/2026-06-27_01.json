@@ -1,0 +1,310 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-27",
+  "slot": "01",
+  "generated_at": "2026-06-27T01:44:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2070399431677980767",
+      "author": "@Macronextcom",
+      "text": "🇰🇷 Indeks KOSPI:\n\ndziś: -7,45%\nwczoraj: +5,42%\n24.06: +3,26%\n23.06: -9,99%",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070093667621126568",
+      "author": "@mbank_research",
+      "text": "💡Umiejętności migrantów spoza krajów zachodnich silnie zbliżają się do umiejętności ludności rodzimej; różnice między grupami w zakresie matematyki i języka zmniejszają się o 60–70% w ciągu jednego pokolenia.",
+      "likes": 23,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2070433570330435664",
+      "author": "@PAPinformacje",
+      "text": "Ponad 50 tys. nazwisk na liście zaginionych po trzęsieniu ziemi w Wenezueli\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070112269380309183",
+      "author": "@Macronextcom",
+      "text": "Analitycy Citigroup podnieśli ceny docelowe kilku spółek:\n\nMicron Technology: 1200 $ ➡️ 1400 $\nSandisk: 2025 $ ➡️ 2500 $\nQualcomm: 160 $ ➡️ 198 $",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070486928181366836",
+      "author": "@PAPinformacje",
+      "text": "P.o. prezydenta Wenezueli: co najmniej 589 osób zginęło w środowych trzęsieniach ziemi, ponad 2980 zostało rannych. #PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070451065959461105",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: od soboty do poniedziałku litr benzyny 95 ma kosztować nie więcej niż 6,02 zł, benzyny 98 - 6,70 zł, a oleju napędowego - 6,17 zł. #PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070083738436878702",
+      "author": "@Macronextcom",
+      "text": "Za tydzień, w czwartek 2 lipca, zostaną opublikowane czerwcowe dane z rynku pracy w USA 🇺🇸. \n\nDane zostaną opublikowane niestandarodow w czwartek, ponieważ piątek (3 lipca) jest dniem wolnym w związku z obchodami Dnia Niepodległości.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070421851679883325",
+      "author": "@GUS_STAT",
+      "text": "📊 #EUSILC 2026 (20.04–30.06)\n\nBadanie ma na celu zgromadzenie porównywalnych z krajami #UE danych m. in. o zdrowiu, aktywności ekonomicznej czy warunkach mieszkaniowych.\n\n🔗\n\nTożsamość ankietera sprawdzisz: 🔗\n\n#GUS",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070047620773384372",
+      "author": "@GUS_STAT",
+      "text": "W ostatnim dniu stycznia 2026 r. w #GospodarkaNarodowa pracowało 15,0 mln osób (o 0,9% mniej niż w ostatnim dniu grudnia 2025 r.). Najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe (18,1 %).\n\n🔗 \n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070047504830185606",
+      "author": "@GUS_STAT",
+      "text": "W 1 kw. 2026 r. odnotowano wzrost ruchu granicznego cudzoziemców o 1,4%, a Polaków o 3,0% w stosunku do analogicznego okresu poprzedniego roku.\n\n🔗\n\n#GUS #statystyki #granica",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070229457747521632",
+      "author": "@PAPinformacje",
+      "text": "Atak w szpitalu w Jastrzębiu-Zdroju. Cztery osoby poszkodowane\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070409562998407247",
+      "author": "@GUS_STAT",
+      "text": "Wartość aktywów ogółem zgromadzonych przez towarzystwa funduszy inwestycyjnych na koniec 2025 r. wyniosła 4,0 mld zł i była wyższa o 4,9% w stosunku do wartości z końca roku poprzedniego.  \n\n🔗\n\n#GUS #Statystyki #TFI #FunduszeInwestycyjne",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070047098314141929",
+      "author": "@GUS_STAT",
+      "text": "Na koniec 2024 r. 83,1% badanych przedsiębiorstw o liczbie pracujących 10 i więcej osób wykonywała funkcje biznesowe całkowicie wewnątrz swojego przedsiębiorstwa.\n\n🔗\n\n#GUS #statystyki #przedsiębiorstwa",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070037610961969280",
+      "author": "@DGPrawna",
+      "text": "PIP będzie wydawać interpretacje. Zanim złożysz wniosek, zabezpiecz się",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070586731674411509",
+      "author": "@PAPinformacje",
+      "text": "Przedstawiciele Libanu, Izraela i USA podpisali porozumienie ramowe\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070409448112210362",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. długość sieci kanalizacyjnej wzrosła o 5,0 tys. km (o 2,7%), a liczba przyłączy kanalizacyjnych do budynków mieszkalnych o 116,9 tys. sztuk (o 2,9%).\n\n🔗\n\n#GUS #woda #infrastruktura",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070048647744553271",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. wartość sprzedaży leków na receptę wyniosła 33,4 mld zł (wzrost o 13,1% r/r). Liczba zrealizowanych recept osiągnęła poziom 515,6 mln. Aż 97,8% stanowiły recepty elektronicznie.\n\n🔗\n\n#GUS #recepta #zdrowie #leki",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070529983424970895",
+      "author": "@mordownik4u",
+      "text": "🚨Emerytowany ukraiński generał próbował skorumpować polskiego urzędnika w centrum Warszawy\n\n5 czerwca 2026 na Placu Bankowym w Warszawie ABW zatrzymała 62-letniego Wołodymyra Bedrykiwśkiego – emerytowanego generała pułkownika ukraińskiej policji. W przeszłości kierował HUBOZ-em",
+      "likes": 1540,
+      "retweets": 551
+    },
+    {
+      "tweet_id": "2070120563209556164",
+      "author": "@wolski_jaros",
+      "text": "Jeszcze o wczorajszym zakupie MSBS Grot A3.\nCzyli ilość karabinków i ich cena. \n\nDo tej pory SZ RP zamówiły i otrzymały 237 tys karabinków rodziny Grot.  Kilkanaście tysięcy najstarszych A0 otrzymała Ukraina. Można zatem szacować stan SZ RP na około 220 tys. Grotów. \nWczoraj",
+      "likes": 985,
+      "retweets": 107
+    },
+    {
+      "tweet_id": "2070212447001284790",
+      "author": "@SztabGenWP",
+      "text": "Drony nie są już dodatkiem do działań operacyjnych - stają się ich integralną częścią. Inteligentna Granica to więcej technologii tam, gdzie do tej pory potrzebny był człowiek.\n„Kuna” wspiera obserwację i rozpoznanie, a „Bluszcz” pokazuje, jak bezzałogowe systemy przejmują",
+      "likes": 719,
+      "retweets": 94
+    },
+    {
+      "tweet_id": "2070407648126627849",
+      "author": "@poznan_moment",
+      "text": "Mail o bombie i ewakuacja Regionalnego Centrum Krwiodawstwa na Marcelinskiej",
+      "likes": 362,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2070466896919437632",
+      "author": "@Thorkill65",
+      "text": "Sytuacja w rejonie Charivne (Orichiw).\n\nSytuacja w rejonie Charivne 15 km na wsch od Orichiwa jest podobna do tej z rejonu Wołczańska, opisanej przeze mnie kilka dni temu. Tutaj także ukr linie obrony utrzymywane są za pomocą częściowo lub całkowicie okrążonych grupek ukr",
+      "likes": 279,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2070032014674125254",
+      "author": "@PolsatNewsPL",
+      "text": "- Niektóre szpitale pokazują, że nawet 100 proc. ich budżetu przeznacza się na wynagrodzenia - powiedziała minister zdrowia Jolanta Sobierańska-Grenda.",
+      "likes": 265,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2070431370875400217",
+      "author": "@deZeZed",
+      "text": "Trwa wyjaśnianie przyczyn pojawienia się białej piany na rzece Witówka, którą zauważono we wtorek wieczorem. \n\nŚlady doprowadziły śledczych do zamkniętego zakładu chemicznego Libella sp. z o.o., gdzie odkryto dwa otwarte zbiorniki typu mauzer z nieznaną substancją. \n\nIstnieje",
+      "likes": 259,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070056866634150201",
+      "author": "@iggnacy",
+      "text": "Tak SAFE wlał się do gospodarki. Zamówienia w przemyśle +143%.\n\nAle to jest bardzo specyficzna sytuacja. Rząd musiał w maju podpisać umowy na zamówienia na sprzęt kupowany przez jeden kraj. Więc to była nadzwyczajna kumulacja. Te kontrakty rozłożą się na lata.\n\nWciąż wielką",
+      "likes": 155,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2070196528090620278",
+      "author": "@piotrkaszuwara",
+      "text": "🇺🇦 Niebiesko-żółta flaga na Mierzei Kinburskiej!\n\nUkraińskie Siły Obrony Południa zmusiły Rosjan do wycofania się z zajmowanych pozycji. Trwa ewakuacja ocalałego personelu, a armia Putina opuszcza swoje linie obrony\n\n💥 Był to najdalej wysunięty przyczółek Rosjan w obwodzie",
+      "likes": 153,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2070145727284518953",
+      "author": "@Oli_Oli_crypto",
+      "text": "🚨 Polska policja + FBI zgarnęli grupę kradnącą krypto\n\nSIM swap nie jest teorią. Właśnie zgarnęli grupę, która się tym zajmowała w Polsce👀🫣\n\nCBZC zatrzymało 4 osoby ze zorganizowanej grupy przestępczej.\nWsparcia w akcji udzieliło FBI i HSI, śledztwo nadzoruje Prokuratura",
+      "likes": 95,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070241796903317865",
+      "author": "@Piechocinski",
+      "text": "UOKiK nałożył ponad 3 mln zł kary na Neonet za deklarowanie szybkiej wysyłki i dostępności produktów, których firma faktycznie nie posiadała. Regulator uznał, że praktyki stosowane na platformie Allegro mogły wprowadzać konsumentów w błąd.",
+      "likes": 65,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070443735507181862",
+      "author": "@TrysteroBlog",
+      "text": "Coś dla miłośników NewConnect.\n\nWczoraj KNF zażądała od GPW odwieszenia notowań spółki Fintech. Zakończyła postępowanie nadzorcze w sprawie podejrzenia manipulacji.\n\nGPW to polecenie zrealizowała i dziś rano ruszył handel. Całkiem szybko. Pan widłowy otworzył na -54%.\n\nAle po",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070464630179102836",
+      "author": "@DemagogPL",
+      "text": "➡️ Według raportu @OECD „Health at a Glance 2025” jeśli weźmie się pod uwagę stosunek do średniej krajowej wynagrodzenia polskich lekarzy POZ, zajmują oni 2. miejsce w Europie (na równi z Hiszpanią). W przypadku lekarzy ze specjalizacją jest to miejsce 5.\nPo przeliczeniu na",
+      "likes": 29,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070170096836682055",
+      "author": "@oko_press",
+      "text": "Senat przegłosował ustawę o statusie osoby najbliższej. A co zrobi prezydent? @AngelikaPiton",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070510876130447494",
+      "author": "@WojciechCPK",
+      "text": "▶️KOLEJ↙️\n👉Linia IGREK:\n- Tunel w Lodzi - trwają przygotowania do rozpoczęcia drążenia, umowa podpisana w 2025\n- Zaawansowane prace projektowe dla 480 km\n- Wydane decyzje środowiskowe dla LK85 odc. Warszawa-CPK-Łódź\n- Ogłoszono pierwsze 2 dialogi konkurencyjne na projektowanie",
+      "likes": 22,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070038743285686713",
+      "author": "@WojciechCPK",
+      "text": "W związku z zakończeniem Kolejowego Programu Dobrowolnych Nabyć dla linii KDP Warszawa-Łódź:\n- spółka CPK dokonuje ostatecznych uzupełnień wniosków o wydanie decyzji lokalizacyjnych\n- Wojewoda wszczyna postępowania administracyjne w sprawie wydania decyzji lokalizacyjnych \n\nTutaj",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070033097186299981",
+      "author": "@Piechocinski",
+      "text": "GUS: Obcokrajowcy pochodzący z ponad 150 krajów świata stanowili ok. 6,9% wszystkich wykonujących pracę w Polsce (stan na 2025 r.)",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070034340747129051",
+      "author": "@Piechocinski",
+      "text": "GUS: Na koniec grudnia 2025 r. obywatele Ukrainy stanowili 67,6% ogólnej liczby cudzoziemców wykonujących pracę w Polsce",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070392013359374553",
+      "author": "@Straz_Graniczna",
+      "text": "2⃣5⃣ czerwca podczas tymczasowego przywrócenia kontroli granicznej na granicy z Litwą🇱🇹:\n✅skontrolowano ponad 4,3 tys. osób,\n✅skontrolowano ponad 2,6 tys. środków transportu,\n✅zatrzymano 30 osób, w tym:\n🔸odmówiono wjazdu na terytorium RP🇵🇱 2 osobom,\n🔸przekazano w ramach",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070149587575181603",
+      "author": "@GIS_gov",
+      "text": "#Ostrzeżenie publiczne dotyczące żywności: podwyższony poziom akryloamidu w określonej partii herbatników",
+      "likes": 5,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2070472467215266244",
+      "author": "@UODOgov_pl",
+      "text": "Naczelny Sąd Administracyjny oddalił skargę kasacyjną spółki na decyzję Prezesa Urzędu Ochrony Danych Osobowych i potwierdził, że administrator danych już w dniu rozpoczęcia stosowania RODO, powinien regularnie mierzyć i testować wdrożone środki bezpieczeństwa.\nSprawa dotyczy",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070034974271565958",
+      "author": "@Piechocinski",
+      "text": "GUS: Liczba obywateli Indii wykonujących pracę w Polsce wzrosła o 9,1% pod koniec 2025 r. względem grudnia 2024 r.",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070175191271887206",
+      "author": "@CyberDefence24",
+      "text": "Kolejne miasto na Dolnym Śląsku ofiarą ransomware 🖥️\n\nCyberprzestępcy zaszyfrowali dane Urzędu Miasta; incydent objął także środowisko do obsługi systemów informatycznych urzędu. Niewykluczone, że uzyskano dostęp do danych 🕵️\n\n🔗Link: \n\n@oskarklimczuk \nfot.",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070501812482806145",
+      "author": "@SN_RP_",
+      "text": "Sąd Najwyższy w uchwale o zażaleniu do sądu drugiej instancji na postanowienie sądu upadłościowego o zabezpieczeniu powództwa syndyka masy upadłości.",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070422483581247616",
+      "author": "@tvn24",
+      "text": "Trybunał Konstytucyjny orzekł w sprawie kontrasygnaty premiera dla skuteczności decyzji prezydenta o mianowaniu asesorów sądowych, a także obsady niektórych stanowisk w Sądzie Najwyższym.",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070577319278719401",
+      "author": "@Drone_Wars_",
+      "text": "DroneShield has launched a strategic initiative in Poland aimed at expanding cooperation with local industry and strengthening its European supply chain for counter-UAS systems. The company described Poland as a key market amid rising European defense investments. #DroneShield",
+      "likes": 7,
+      "retweets": 1
+    }
+  ]
+}
