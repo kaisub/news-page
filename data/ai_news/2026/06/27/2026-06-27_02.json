@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-27",
+  "slot": "02",
+  "generated_at": "2026-06-27T15:27:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2070259449755787321",
+      "author": "@reach_vb",
+      "text": "Codex Thursday™️\n\n- Remote goes GA w/ authenticated 1:1 QR pairing\n- Digital Ocean plugin to provision, SSH and build w/ VMs",
+      "likes": 160,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070545716532154803",
+      "author": "@jerryjliu0",
+      "text": "You can now equip your n8n workflows with the world's best parsing/extraction over your most complex documents 📃💫\n\nWe're excited to announce that LlamaParse is now an officially verified community node for n8n. This includes all our core capabilities: Parse, Extract, Classify,",
+      "likes": 51,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070220404162285712",
+      "author": "@hwchase17",
+      "text": "deployment cookbook for langchain agents!",
+      "likes": 34,
+      "retweets": 5
+    }
+  ]
+}

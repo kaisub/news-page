@@ -1,0 +1,86 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-06-27",
+  "slot": "02",
+  "generated_at": "2026-06-27T15:27:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2070499861510676946",
+      "author": "@IndianTechGuide",
+      "text": "🚨 Government of India is planning to transfer PSLV rocket tech to private sector.",
+      "likes": 5344,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2070204497226297734",
+      "author": "@LukaszBok",
+      "text": "Wołodymyr Zełenski poinformował, że zatwierdził 40-dniową operację SBU, która ma na celu zmusić Rosję do zakończenia wojny.",
+      "likes": 4773,
+      "retweets": 151
+    },
+    {
+      "tweet_id": "2070168099077181616",
+      "author": "@Propeertys",
+      "text": "Na Węgrzech wraz  z byłym posłem Fideszu, Búsem Balázs, aresztowano tych, którzy decydowali o 17-miliardowych nielegalnych funduszach NKA. \nTo taka polska afera NCBiR",
+      "likes": 2936,
+      "retweets": 599
+    },
+    {
+      "tweet_id": "2070215577205866767",
+      "author": "@frontlinekit",
+      "text": "VIVA LA FRANCE 🇫🇷\n\nMacron: As for Ukraine, I believe that what has happened in recent days is very important. For the first time in 18 months, all G7 members have signed the same joint text. And the USA, together with us, confirmed their support for Ukraine's territorial",
+      "likes": 1707,
+      "retweets": 353
+    },
+    {
+      "tweet_id": "2070525893554921848",
+      "author": "@LukaszBok",
+      "text": "Rosyjskie władze na okupowanym Krymie wprowadziły stan wyjątkowy, by lepiej sobie poradzić ze skutkami ukraińskich ataków, które wywołują między innymi kryzys paliwowy.",
+      "likes": 1340,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2070771851601617279",
+      "author": "@Maks_NAFO_FELLA",
+      "text": "🇫🇮 Stubb signed a law that will allow the storage of nuclear weapons in Finland\n\nThe law will come into force on July 1 and will repeal the current ban on such operations.\n\nThus, nuclear weapons of NATO allies could potentially appear near Russia's borders.",
+      "likes": 724,
+      "retweets": 118
+    },
+    {
+      "tweet_id": "2070552745090941107",
+      "author": "@annabrylka",
+      "text": "Nie udało się przekonać europejskich stolic do \"odwróconego członkostwa\" więc Komisja Europejska przygotowuje nowy plan dla państw kandydujących do UE. Program oferowałby przywileje przed przystąpieniem do UE, ale bez zobowiązań tzw. \"membership-lite\". Oczywiście chodzi o Ukrainę",
+      "likes": 341,
+      "retweets": 74
+    },
+    {
+      "tweet_id": "2070450748480237687",
+      "author": "@Reuters",
+      "text": "South Korea will rapidly expand its drone and counter-drone capabilities to counter North Korea, including by training 500,000 'drone warriors' and distributing tens of thousands of unmanned systems across frontline units",
+      "likes": 341,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2070442727313957173",
+      "author": "@NetZeroWatch",
+      "text": "Britain has been forced to pay 17 times more to import energy from Europe during the heatwave. The UK paid nearly £1,400 per megawatt hour on Wednesday evening to obtain emergency supplies from the Continent, in a move set to add £11m to bills, after a shortfall in energy",
+      "likes": 202,
+      "retweets": 129
+    },
+    {
+      "tweet_id": "2070586643958857885",
+      "author": "@Reuters",
+      "text": "Europe and Canada are conducting Arctic Sentry drills with some 30,000 troops in Norway to prove they can defend NATO's northern flank, as Trump threatens to quit the alliance and Russia races ahead on Arctic defense",
+      "likes": 265,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2070496531749405174",
+      "author": "@BullTheoryio",
+      "text": "S&amp;P 500 futures indicate a -0.5% open amid the Asian tech selloff.\n\nAsian markets ended sharply lower overnight: South Korea -5.8%, Japan -4.1%, China -2.2%.\n\nLooks like Asia's selloff is about to get dragged into US markets as well.",
+      "likes": 226,
+      "retweets": 50
+    }
+  ]
+}
