@@ -1,0 +1,219 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-28",
+  "slot": "01",
+  "generated_at": "2026-06-28T01:42:26Z",
+  "tweets": [
+    {
+      "tweet_id": "2070665903440871779",
+      "author": "@AnthropicAI",
+      "text": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical",
+      "likes": 27874,
+      "retweets": 2945
+    },
+    {
+      "tweet_id": "2070607488274358364",
+      "author": "@sama",
+      "text": "Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price.\n\nBad news: at the request of the US government, it is launching today in",
+      "likes": 17278,
+      "retweets": 1072
+    },
+    {
+      "tweet_id": "2070612055225483692",
+      "author": "@sama",
+      "text": "in other news, we updated the 5.5 instant model used in chatgpt this week.\n\ni like its vibes.",
+      "likes": 5688,
+      "retweets": 121
+    },
+    {
+      "tweet_id": "2070614666288795703",
+      "author": "@sama",
+      "text": "team cooked, spicily",
+      "likes": 4262,
+      "retweets": 126
+    },
+    {
+      "tweet_id": "2070528961235575278",
+      "author": "@AnthropicAI",
+      "text": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. \n\nHourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude, and how perceptions of AI's impact may be changing.",
+      "likes": 2601,
+      "retweets": 342
+    },
+    {
+      "tweet_id": "2070608004500857256",
+      "author": "@sama",
+      "text": "Also, I am happy to answer questions if people have some.",
+      "likes": 2065,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2070556105403482387",
+      "author": "@reach_vb",
+      "text": "Introducing GPT-5.6: Sol, Terra and Luna.\n\n☀️ Sol is our strongest model yet\n🌍 Terra delivers performance competitive with GPT-5.5 at half the price\n🌙 Luna brings strong capabilities at lowest cost\n\nSol Ultra sets a new state of the art on Terminal-Bench 2.1 with a score of",
+      "likes": 946,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2070441756324401352",
+      "author": "@sentient_agency",
+      "text": "10 BOOKS SERIOUS AI RESEARCHERS ACTUALLY RECOMMEND (NOT THE ONES EVERYONE POSTS)\n\nEvery AI reading list says the same five names. The people actually building these systems read deeper than that. Here's the shelf they point to when nobody's performing for an audience.\n\n1.",
+      "likes": 503,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2070774095642263558",
+      "author": "@reach_vb",
+      "text": "PSA: We’re giving all codex users a reset across plans! \n\nTeam combed through the reports and applied mitigations where necessary, and are continuing to monitor the situation\n\nEnjoy building ;)",
+      "likes": 543,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2070848145437704542",
+      "author": "@reach_vb",
+      "text": "True story: I stopped thinking about context since GPT 5.3 Codex\n\nSingle project focused threads with the recent capability of codex to spinoff new threads is goated!\n\nCodex continues and goes through compaction but remembers all the important stuff and if not, it’ll look up",
+      "likes": 459,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2070577381392482732",
+      "author": "@hwchase17",
+      "text": "\"If I had to choose just one metric, I'd argue that the KV-cache hit rate is the single most important metric for a production-stage AI agent.\" - Manus AI\n\nprompt caching is important! read about how we do it with deep agents",
+      "likes": 236,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2070480951201968265",
+      "author": "@svpino",
+      "text": "The stickiness of Claude Tag will be like anything before.\n\nClaude Tag is designed to absorb every last bit of information from your company, and it will lock you out unless you keep paying them whatever they demand for eternity.\n\nYou are paying Big AI to become hostage forever.",
+      "likes": 225,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2070949768688181342",
+      "author": "@reach_vb",
+      "text": "We shipped yet another batch of Codex quality-of-life improvements this week:\n\n- Smoother long threads with position preservation and jump navigation\n- Better Settings search and organization\n- Zoom-safe UI positioning\n- Faster thread switching and deeper local history\n- Easier",
+      "likes": 197,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070808089033601427",
+      "author": "@sentient_agency",
+      "text": "10 FREE TOOLS BUILT BY UNIVERSITIES THAT BEAT MOST PAID SAAS\n\nBookmark every single one. Universities quietly fund software that outperforms products companies charge a fortune for, then give it away to anyone. Most people have no idea these exist.\n\n1.",
+      "likes": 159,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2070678464114692583",
+      "author": "@hwchase17",
+      "text": "&gt; Better Caching – Cache misses are the easiest way to drive your cost up. All of our requests are cache aware, so we’re reusing a warm cache wherever possible.\n\nWe do this for you in Deep Agents - see our blog on it here:",
+      "likes": 163,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2070950766815428898",
+      "author": "@hwchase17",
+      "text": "🧑‍🏫3hr Long Deep Agents Course\n\nGreat course from a member of the community on Deep Agents\n\nCovers task planning, file systems for context management, subagent-spawning, and long-term memory",
+      "likes": 121,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2070886667653705931",
+      "author": "@reach_vb",
+      "text": "Update: Sub-60; not too bad considering it was 30 degrees and absolutely humid!\n\nWas a bit reckless to pull this off with little to no training but a good motivation to get back into it with mind and body",
+      "likes": 129,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070412953812164642",
+      "author": "@rpl_0x",
+      "text": "W Tym regionie litwy bieda piszczy\nPierwsza połowa trasy to były pustki \nNa jednego spotkanego człowieka przypadało 10 bocianów i 20 krów 😉\n\nNie widzieliśmy żadnego nowego domu. Dopiero w drugiej połowie dnia zaczęły się pojawiać większe miejscowości, w porównaniu z Polską nadal",
+      "likes": 117,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070990891192299954",
+      "author": "@reach_vb",
+      "text": "you are not your job\nyou are not your github profile\n\nbut, you are the top 5 prompts you send to codex",
+      "likes": 110,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070909551365464500",
+      "author": "@jerryjliu0",
+      "text": "From playing around with /goal \n\nIt feels like there's less and less of a need to build any type of workflow manually (whether through code, drag and drop, or a prompt). Instead, specify the goal, let the model intelligence figure out the underlying steps.\n\nIf the task is",
+      "likes": 97,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070850887027945687",
+      "author": "@svpino",
+      "text": "We are in skill hell.\n\nWe already need skills to discover other skills.\n\n2020: Yet Another JavaScript Library.\n2026: Yet Another Skill.",
+      "likes": 90,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070905612238758217",
+      "author": "@jerryjliu0",
+      "text": "LiteParse is unreasonably good for document parsing\n\n✅ It is the fastest document parsing tool out there - average parse time per page is 3ms ⚡️⚡️\n✅ Now that we support markdown, it tops opendataloader-bench, OlmOCR-bench, and ParseBench in terms of accuracy\n✅ It supports 50+",
+      "likes": 82,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2070623503754375222",
+      "author": "@hwchase17",
+      "text": "💪deep agents harness",
+      "likes": 58,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2070524994116047232",
+      "author": "@svpino",
+      "text": "New paradigm for deep research models!\n\nApodex-1.0-H is a new model that introduces a completely new way of working. Apodex comes in several flavors, including an open-weight Apodex-1.0-mini and 0.8B, 2B, and 4B Smol series of models.\n\nThis is what's new with Apodex:\n\n1. The",
+      "likes": 53,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2070571770852290953",
+      "author": "@nauczymycieAI",
+      "text": "Nowy, potężny GPT 5.6 właśnie ma swoją premierę. Tyle, że praktycznie nikt nie może z niego korzystać.\n\nZgodnie z tym, o czym piszę od dawna - wchodzimy w erę AI dwóch (trzech?) prędkości.\n\nTak jak w przypadku Mythosa, najpierw do modelu dostają dostęp wyselekcjonowane,",
+      "likes": 59,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070754486830662034",
+      "author": "@rpl_0x",
+      "text": "Udało nam się dojechać na wybrzeże\nW zasadzie cały dzień jechaliśmy jedna drogą, 141 do Szylokarczmy. Litwa piękna, dużo lasów, ale trasa była nieco nudna.\nCały czas plasko ale wiatr cały czas wiał w ryj przez co tak jakbyśmy jechali pod górę.\n\nKrajobraz niewiele się zmienial aż",
+      "likes": 60,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070545716532154803",
+      "author": "@jerryjliu0",
+      "text": "You can now equip your n8n workflows with the world's best parsing/extraction over your most complex documents 📃💫\n\nWe're excited to announce that LlamaParse is now an officially verified community node for n8n. This includes all our core capabilities: Parse, Extract, Classify,",
+      "likes": 54,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070946537211855260",
+      "author": "@reach_vb",
+      "text": "anyone here connect me to a16z folks in London/ Europe? Ideally developer/ tooling focused",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070760551672594631",
+      "author": "@nauczymycieAI",
+      "text": "Mythos z powrotem dostępny dla wybranego grona partnerów.\n\nTak jak przewidywałem - wyłącznie w USA.\n\nAI kilku prędkości konsekwentnie się spełnia",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070612946687078763",
+      "author": "@nauczymycieAI",
+      "text": "Porównanie możliwości GPT 5.6 i Mythosa.\n\nKonkluzja - OpenAI dogonilo w wybranych benchmarkach Anthropic.\n\nAlbo Gemini uderzy czymś mocnym - albo czeka nas duopol",
+      "likes": 14,
+      "retweets": 0
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-28",
+  "slot": "01",
+  "generated_at": "2026-06-28T01:42:26Z",
+  "tweets": [
+    {
+      "tweet_id": "2070431994354307341",
+      "author": "@laskowski_pl",
+      "text": "Warszawski Szpital Południowy zapłacił 725 tys. zł za przygotowanie wniosku o dofinansowanie z Krajowego Planu Odbudowy. Inne szpitale płaciły po 25-35 tys. zł.\n\nCo za dziwna korelacja... Może dlatego Pani ministra milczy 🤔",
+      "likes": 45,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2070422326357721281",
+      "author": "@laskowski_pl",
+      "text": "Tak działają e-doręczenia w praktyce. Nie dość, że ciężko znaleźć adres (nie ma go na oficjalnych stronach urzędów) to jeszcze mają obowiązek głęboko w d...",
+      "likes": 44,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070472298734174224",
+      "author": "@PAPinformacje",
+      "text": "Badaniem @NIKgovPL objęto 10 szpitali klinicznych\n#PAPInformacje",
+      "likes": 36,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2070399431677980767",
+      "author": "@Macronextcom",
+      "text": "🇰🇷 Indeks KOSPI:\n\ndziś: -7,45%\nwczoraj: +5,42%\n24.06: +3,26%\n23.06: -9,99%",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070779240014909870",
+      "author": "@laskowski_pl",
+      "text": "Dopóki politycy mają szybką ścieżkę leczenia (nie w szpitalu południowym tylko w rządowej klinice MSWiA), to się nie zmieni.  \n\nDlaczego ministra zdrowia powiedziała, że opieka zdrowotna działa dobrze? Bo dla niej i jej rodziny działa wyśmienicie.",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070756939038880193",
+      "author": "@laskowski_pl",
+      "text": "Powiedziała to Pani, która się leczy w rządowym szpitalu MSWiA, bez kolejek, bez problemów.",
+      "likes": 25,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2070479200796967298",
+      "author": "@laskowski_pl",
+      "text": "Tak, jutro rząd powinien sięgnąć po dane wszystkich, którzy dostają pieniądze z naszych podatków. \nPowiem więcej, nie tylko sięgnąć, ale opublikować na powszechnie dostępnym portalu z API. \nJak się Panu Jankowskiemu z @NaczelnaL nie podoba, to niech pracuje prywatnie.",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070747898359304580",
+      "author": "@laskowski_pl",
+      "text": "Ministra porażka.\nNiemal 6 na 10 Polaków uważa, że w związku z aferą w Szpitalu Południowym w Warszawie stanowisko minister zdrowia powinna stracić Jolanta Sobierańska-Grenda.",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070895883940503627",
+      "author": "@PAPinformacje",
+      "text": "Marszałek Czarzasty: stosunki polsko-ukraińskie być może trzeba „zresetować” #PAPinformacje",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070792796672319667",
+      "author": "@laskowski_pl",
+      "text": "\"Ludzie stołecznej Platformy mają eldorado, bo nie muszą zabiegać o wyborców. W najbardziej liberalnym polskim mieście mają gwarantowane zwycięstwa we wszelkich wyborach. To sprawiło, że w stołecznych strukturach PO puściły wszelkie hamulce\" \n\nWładza absolutna deprawuje",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070921948868100215",
+      "author": "@PAPinformacje",
+      "text": "Teorie spiskowe dotyczące sterowania pogodą przez rząd światowy oraz przypominanie historycznych rekordów temperatury, by bagatelizować obecne - to dwie dezinformujące narracje, pojawiające się w kontekście obecnych upałów. \n@sprawdzamto_pl",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070464902997606732",
+      "author": "@PAPinformacje",
+      "text": "Szwajcarska prasa: Polska i Ukraina walczą na niewłaściwym froncie\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070791752835879029",
+      "author": "@laskowski_pl",
+      "text": "W co piątym niemieckim gospodarstwie domowym już działa urządzenie klimatyzacyjne. Oznacza to dwukrotny wzrost popularności klimatyzacji w ciągu zaledwie trzech lat. Z czego to wynika? Między innymi z rosnącej popularności pomp ciepła, które mogą obniżać temperaturę pomieszczeń w",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070490278264201258",
+      "author": "@PAPinformacje",
+      "text": "Ponad połowa Polaków uważa, że szkoła zmierza w złym kierunku. Sondaż IBRiS\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070490139822850181",
+      "author": "@PAPinformacje",
+      "text": "Wiceszef MC: polskie sektory satelitarne i fotoniki mogą mieć duże znaczenie w odbudowie Ukrainy\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070403587973239221",
+      "author": "@mbank_research",
+      "text": "Mocną stroną prof. Javorcik jest spójność przemyśleń, ich głebokość i zniuansowanie, pojawiające się naturalnie ciekawostki i bardzo wysoka jakość prezentacji. Serio, polecamy kiedyś posłuchać na żywo (lub porozmawiać).",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070751767575384223",
+      "author": "@laskowski_pl",
+      "text": "Podatek cyfrowy: Francja, Włochy, Hiszpania, Austria, Węgry, Dania, Portugalia, UK, Szwajcaria, Turcja. \n\nO ile się zakładamy, że nasz @prezydentpl nie podpisze ustawy wprowadzającej podatek cyfrowy w Polsce? 😁\n(tak to jest jak ma się pacynkę USA za prezydenta)",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070854188796436959",
+      "author": "@PAPinformacje",
+      "text": "Atak izraelskiego drona w Libanie kilkanaście godzin po ogłoszeniu porozumienia\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070744533973840197",
+      "author": "@PAPinformacje",
+      "text": "Ekstremalnie wysokie temperatury w weekend. Cały kraj objęty ostrzeżeniami II i III stopnia\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070486928181366836",
+      "author": "@PAPinformacje",
+      "text": "P.o. prezydenta Wenezueli: co najmniej 589 osób zginęło w środowych trzęsieniach ziemi, ponad 2980 zostało rannych. #PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070894510624649358",
+      "author": "@Macronextcom",
+      "text": "Za tydzień w USA 🇺🇲 znowu będzie długi trzydniowy weekend (3-5 lipca). \n\nOstatni był tydzień temu (19-21 czerwca), a poprzedni miesiąc temu (23-24 maja). \n\nW Polsce 🇵🇱 na pierwsze święto w środku tygodnia zaczekamy do 11 listopada.\n\nDni wolne na giełdach:",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070377152344654138",
+      "author": "@laskowski_pl",
+      "text": "Niech pracuje, oby tylko nie skończyło się jak z #localconten , dużo bicia piany, dużo hałasu, pohukiwania premiera, a efekty żadne.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070924322428850650",
+      "author": "@PAPinformacje",
+      "text": "Władze Wenezueli: bilans ofiar śmiertelnych trzęsień ziemi wzrósł do 1430 #PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070443934807912717",
+      "author": "@GUS_STAT",
+      "text": "Rozpoczynają się #wakacje! Z tej okazji przyglądamy się danym dotyczącym letniego ruchu turystycznego w Polsce.\n\nWszystkim życzymy udanego, bezpiecznego wypoczynku oraz wielu niezapomnianych chwil podczas odkrywania uroków Polski i świata. 🌞 ✈️ 🏖️\n\n#GUS #statystyki #turystyka",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070412999731642754",
+      "author": "@Macronextcom",
+      "text": "#TEXT \n\n26 czerwca - wyniki za rok 2025/2026 (po sesji)\n2 lipca - KPI za I kw. 2026/2027\n3 lipca - webinar\n28 sierpnia - wyniki za I kw. 2026/2027",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070781363301581194",
+      "author": "@laskowski_pl",
+      "text": "I co teraz napiszesz Lisie? 😁",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070748200131026967",
+      "author": "@Macronextcom",
+      "text": "#TEXT - wyniki za IV kw. 2025/2026 praktycznie zgodne z prognozami. 👇 \n\nTEXT chce wypłacić łącznie 4,26 zł dywidendy na akcję (stopa dywidendy to 10,3%). \n\nW czwartek TEXT opublikuje kluczowe wskaźniki za I kw. 2026/2027.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070539058460147968",
+      "author": "@PAPinformacje",
+      "text": "Ekspert: wsparcie ukraińskich uderzeń na cele w Rosji amerykańską bronią nadal mało prawdopodobne\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070972512066834806",
+      "author": "@PAPinformacje",
+      "text": "IMGW odnotowało najwyższą w historii pomiarów temperaturę w czerwcu #PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070836750629401065",
+      "author": "@PAPinformacje",
+      "text": "Wimbledon - broniąca tytułu Świątek pod rankingową presją\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070350350305960094",
+      "author": "@laskowski_pl",
+      "text": "Klimatyzacja to nie jest luksus, to standard, a dla osób zagrożonych wysokimi temperaturami, to kwestia życia lub śmierci.",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070937714166268413",
+      "author": "@laskowski_pl",
+      "text": "Trump nigdy nie był w wojsku, dekownik.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070470886696628435",
+      "author": "@PAPinformacje",
+      "text": "Wspólne oświadczenie USA i państw arabskich. Iran odpowiada\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070428354658832748",
+      "author": "@GUS_STAT",
+      "text": "Jak powstały „Wiadomości Statystyczne. The Polish Statistician”? Jak zmieniały się przez 70 lat swojego istnienia?\n\nZajrzyj na stronę 🔗  aby poznać historię naszego czasopisma.\n\n#GUS",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070421851679883325",
+      "author": "@GUS_STAT",
+      "text": "📊 #EUSILC 2026 (20.04–30.06)\n\nBadanie ma na celu zgromadzenie porównywalnych z krajami #UE danych m. in. o zdrowiu, aktywności ekonomicznej czy warunkach mieszkaniowych.\n\n🔗\n\nTożsamość ankietera sprawdzisz: 🔗\n\n#GUS",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070367833289109802",
+      "author": "@DGPrawna",
+      "text": "Uczniowie rozliczają MEN. Minister Barbara Nowacka \"bez promocji do następnej klasy\"",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070465344670740860",
+      "author": "@Macronextcom",
+      "text": "1 lipca w Sintrze w Portugalii 🇵🇹",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070934761200107729",
+      "author": "@laskowski_pl",
+      "text": "Ło Panie!",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070788670194417719",
+      "author": "@laskowski_pl",
+      "text": "Jak PiS dojdzie do władzy, to pokaże @Obywatelska_KO jak wyglądają rozliczenia.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070586731674411509",
+      "author": "@PAPinformacje",
+      "text": "Przedstawiciele Libanu, Izraela i USA podpisali porozumienie ramowe\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
