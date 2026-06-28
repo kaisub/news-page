@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-06-28",
+  "slot": "02",
+  "generated_at": "2026-06-28T15:29:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2071216679153963254",
+      "author": "@PAPinformacje",
+      "text": "Zełenski: nikt nie będzie nam mówił, jakich bohaterów szanować\n#PAPInformacje",
+      "likes": 192,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2070779240014909870",
+      "author": "@laskowski_pl",
+      "text": "Dopóki politycy mają szybką ścieżkę leczenia (nie w szpitalu południowym tylko w rządowej klinice MSWiA), to się nie zmieni.  \n\nDlaczego ministra zdrowia powiedziała, że opieka zdrowotna działa dobrze? Bo dla niej i jej rodziny działa wyśmienicie.",
+      "likes": 30,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2070756939038880193",
+      "author": "@laskowski_pl",
+      "text": "Powiedziała to Pani, która się leczy w rządowym szpitalu MSWiA, bez kolejek, bez problemów.",
+      "likes": 27,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2071182374306476080",
+      "author": "@PAPinformacje",
+      "text": "Plaże nad Bałtykiem zapełniły się turystami, np. w Świnoujściu. @imgwmeteopolska ostrzega jednak przed burzami w północnej części kraju — możliwe są silny wiatr, intensywne opady i lokalny grad. @rcbgovpl ostrzega: unikajmy słońca, pijmy wodę i ograniczajmy wysiłek fizyczny.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070747898359304580",
+      "author": "@laskowski_pl",
+      "text": "Ministra porażka.\nNiemal 6 na 10 Polaków uważa, że w związku z aferą w Szpitalu Południowym w Warszawie stanowisko minister zdrowia powinna stracić Jolanta Sobierańska-Grenda.",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070895883940503627",
+      "author": "@PAPinformacje",
+      "text": "Marszałek Czarzasty: stosunki polsko-ukraińskie być może trzeba „zresetować” #PAPinformacje",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070921948868100215",
+      "author": "@PAPinformacje",
+      "text": "Teorie spiskowe dotyczące sterowania pogodą przez rząd światowy oraz przypominanie historycznych rekordów temperatury, by bagatelizować obecne - to dwie dezinformujące narracje, pojawiające się w kontekście obecnych upałów. \n@sprawdzamto_pl",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070972512066834806",
+      "author": "@PAPinformacje",
+      "text": "IMGW odnotowało najwyższą w historii pomiarów temperaturę w czerwcu #PAPinformacje",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070792796672319667",
+      "author": "@laskowski_pl",
+      "text": "\"Ludzie stołecznej Platformy mają eldorado, bo nie muszą zabiegać o wyborców. W najbardziej liberalnym polskim mieście mają gwarantowane zwycięstwa we wszelkich wyborach. To sprawiło, że w stołecznych strukturach PO puściły wszelkie hamulce\" \n\nWładza absolutna deprawuje",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070791752835879029",
+      "author": "@laskowski_pl",
+      "text": "W co piątym niemieckim gospodarstwie domowym już działa urządzenie klimatyzacyjne. Oznacza to dwukrotny wzrost popularności klimatyzacji w ciągu zaledwie trzech lat. Z czego to wynika? Między innymi z rosnącej popularności pomp ciepła, które mogą obniżać temperaturę pomieszczeń w",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070894510624649358",
+      "author": "@Macronextcom",
+      "text": "Za tydzień w USA 🇺🇲 znowu będzie długi trzydniowy weekend (3-5 lipca). \n\nOstatni był tydzień temu (19-21 czerwca), a poprzedni miesiąc temu (23-24 maja). \n\nW Polsce 🇵🇱 na pierwsze święto w środku tygodnia zaczekamy do 11 listopada.\n\nDni wolne na giełdach:",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071120648361984495",
+      "author": "@PAPinformacje",
+      "text": "Wenezuela po trzęsieniu. Trwa walka o uratowanie jak największej liczby osób\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070924322428850650",
+      "author": "@PAPinformacje",
+      "text": "Władze Wenezueli: bilans ofiar śmiertelnych trzęsień ziemi wzrósł do 1430 #PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070751767575384223",
+      "author": "@laskowski_pl",
+      "text": "Podatek cyfrowy: Francja, Włochy, Hiszpania, Austria, Węgry, Dania, Portugalia, UK, Szwajcaria, Turcja. \n\nO ile się zakładamy, że nasz @prezydentpl nie podpisze ustawy wprowadzającej podatek cyfrowy w Polsce? 😁\n(tak to jest jak ma się pacynkę USA za prezydenta)",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071214474430652423",
+      "author": "@PAPinformacje",
+      "text": "Katastrofa samolotu we Francji. Jest 11 ofiar śmiertelnych #PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071120539003781473",
+      "author": "@PAPinformacje",
+      "text": "Trump grozi Iranowi: przestanie istnieć, jeśli nie będzie przestrzegać rozejmu\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070854188796436959",
+      "author": "@PAPinformacje",
+      "text": "Atak izraelskiego drona w Libanie kilkanaście godzin po ogłoszeniu porozumienia\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070744533973840197",
+      "author": "@PAPinformacje",
+      "text": "Ekstremalnie wysokie temperatury w weekend. Cały kraj objęty ostrzeżeniami II i III stopnia\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070937714166268413",
+      "author": "@laskowski_pl",
+      "text": "Trump nigdy nie był w wojsku, dekownik.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070781363301581194",
+      "author": "@laskowski_pl",
+      "text": "I co teraz napiszesz Lisie? 😁",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071200323415204100",
+      "author": "@PAPinformacje",
+      "text": "Francja/ Jedenaście osób zginęło w katastrofie cywilnego samolotu w Tomblaine na północnym wschodzie kraju. #PAPInformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070748200131026967",
+      "author": "@Macronextcom",
+      "text": "#TEXT - wyniki za IV kw. 2025/2026 praktycznie zgodne z prognozami. 👇 \n\nTEXT chce wypłacić łącznie 4,26 zł dywidendy na akcję (stopa dywidendy to 10,3%). \n\nW czwartek TEXT opublikuje kluczowe wskaźniki za I kw. 2026/2027.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071165454559711545",
+      "author": "@PAPinformacje",
+      "text": "Iran wstrzyma rozmowy z USA? Gwardia Rewolucyjna grozi Stanom\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071150770305552537",
+      "author": "@PAPinformacje",
+      "text": "Dziś niedziela handlowa. Następna w ostatni weekend wakacji\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070836750629401065",
+      "author": "@PAPinformacje",
+      "text": "Wimbledon - broniąca tytułu Świątek pod rankingową presją\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071150676399243621",
+      "author": "@PAPinformacje",
+      "text": "Słupki mogą wskazać ponad 40 stopni! Alerty przed upałem i burzami\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070934761200107729",
+      "author": "@laskowski_pl",
+      "text": "Ło Panie!",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070788670194417719",
+      "author": "@laskowski_pl",
+      "text": "Jak PiS dojdzie do władzy, to pokaże @Obywatelska_KO jak wyglądają rozliczenia.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071150491577225334",
+      "author": "@PAPinformacje",
+      "text": "MŚ 2026. Koniec fazy grupowej, Iran poza turniejem, kolejny wyczyn Messiego [SYNTEZA]\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2070910451332886895",
+      "author": "@PAPinformacje",
+      "text": "Co najmniej 44 obcokrajowców zginęło w podwójnym trzęsieniu ziemi w Wenezueli #PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070723616723833272",
+      "author": "@DGPrawna",
+      "text": "Była wicepremier Ukrainy: Zełenski popełnił błąd, nie przyjeżdżając do Gdańska [WYWIAD DGP]",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071251525301604683",
+      "author": "@Macronextcom",
+      "text": "Jako, że macie sjestę 🙃 to kilka wykresów pokazujących sytuację na rynku pracy w Polsce 🇵🇱.\n\n#zatrudnienie #bezrobocie #płace",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071150975675404712",
+      "author": "@PAPinformacje",
+      "text": "Historyczka sztuki: surrealizm to nie nurt czy kierunek, a stan ducha [WYWIAD]\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070814138247401495",
+      "author": "@laskowski_pl",
+      "text": "Już wiemy od kogo się uczył @NawrockiKn 😁",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070529983424970895",
+      "author": "@mordownik4u",
+      "text": "🚨Emerytowany ukraiński generał próbował skorumpować polskiego urzędnika w centrum Warszawy\n\n5 czerwca 2026 na Placu Bankowym w Warszawie ABW zatrzymała 62-letniego Wołodymyra Bedrykiwśkiego – emerytowanego generała pułkownika ukraińskiej policji. W przeszłości kierował HUBOZ-em",
+      "likes": 2538,
+      "retweets": 891
+    },
+    {
+      "tweet_id": "2070790592552956045",
+      "author": "@Dariusz45309181",
+      "text": "Składki zdrowotne nie są prywatnym folwarkiem. Polacy mają prawo wiedzieć, kto i za co dostaje pieniądze z publicznego systemu. Jeśli ktoś dostaje wynagrodzenie z NFZ, to rozliczalność jest standardem. Panika przed jawnością rodzi tylko jedno pytanie: czego tak naprawdę boicie",
+      "likes": 2494,
+      "retweets": 682
+    },
+    {
+      "tweet_id": "2070623194684260432",
+      "author": "@KoronaWarszawa",
+      "text": "Musicie to zobaczyć bo to się po prostu nie mieści w głowie. Tak wygląda granica 🇵🇱-🇺🇦, czyli szczere pole po którym każdy może sobie przejść.\n\nKontrola granicy? Patrol pieszo z psami.\n\nIle broni Ukraina może przerzucać do Polski przez takie pola?",
+      "likes": 1702,
+      "retweets": 463
+    },
+    {
+      "tweet_id": "2070851779785294320",
+      "author": "@PolicjaZGora",
+      "text": "Policjanci Wydziału Kryminalnego Komendy Miejskiej Policji w Zielonej Górze zatrzymali wczoraj 36-letniego obywatela Ukrainy, który za pośrednictwem internetu, publicznie kierował groźby pod adresem Prezydenta Polski. Po otrzymaniu informacji o publikowanych treściach policjanci",
+      "likes": 723,
+      "retweets": 122
+    },
+    {
+      "tweet_id": "2070795737642807496",
+      "author": "@FinansowyUmysl",
+      "text": "GUS przeciętne wynagrodzenie za maj 2026:  \n\nBrutto: 9 173 zł \nKoszt pracodawcy: 11 051 zł \nNa rękę: 6 583 zł",
+      "likes": 544,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2070843812461662247",
+      "author": "@GotfrydKarol",
+      "text": "Wczoraj w godzinach pracy wyłączono klimatyzację na dolnych siedmiu kondygnacjach siedziby Komisji Europejskiej.\n\n2 tysiące urzędników walczyło o demokrację i o tlen.",
+      "likes": 486,
+      "retweets": 33
+    }
+  ]
+}
