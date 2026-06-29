@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-29",
+  "slot": "02",
+  "generated_at": "2026-06-29T16:14:37Z",
+  "tweets": [
+    {
+      "tweet_id": "2070950766815428898",
+      "author": "@hwchase17",
+      "text": "🧑‍🏫3hr Long Deep Agents Course\n\nGreat course from a member of the community on Deep Agents\n\nCovers task planning, file systems for context management, subagent-spawning, and long-term memory",
+      "likes": 396,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2070905612238758217",
+      "author": "@jerryjliu0",
+      "text": "LiteParse is unreasonably good for document parsing\n\n✅ It is the fastest document parsing tool out there - average parse time per page is 3ms ⚡️⚡️\n✅ Now that we support markdown, it tops opendataloader-bench, OlmOCR-bench, and ParseBench in terms of accuracy\n✅ It supports 50+",
+      "likes": 158,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2071612536957685797",
+      "author": "@hwchase17",
+      "text": "it's never been easier to turn langgraph agents into voice agents!\n\ngreat tutorial on how to do so, featuring @pipecat_ai",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070988288979034511",
+      "author": "@DanKornas",
+      "text": "Stop learning LLM internals from random one-off tutorials.\n\nLLM Internals is a step-by-step GitHub learning repo for understanding how large language models work under the hood.\n\nIt helps you build a cleaner mental model by organizing blogs and videos from tokenization to",
+      "likes": 1292,
+      "retweets": 232
+    },
+    {
+      "tweet_id": "2071209502527873116",
+      "author": "@pauliusztin_",
+      "text": "Microsoft just open-sourced one of the most interesting agent engineering projects I've seen this year...\n\n→ \n\nMost engineers assume improving an AI agent requires:\n\nBetter models\nMore data\nMore fine-tuning\n\nSkillOpt takes a completely different approach.",
+      "likes": 139,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2070945718723031531",
+      "author": "@VivekIntel",
+      "text": "🤖 PentestGPT – AI-Powered Autonomous Penetration Testing Agent\n\nPentestGPT is an open-source AI penetration testing agent, published at USENIX Security 2024, that assists with authorized security assessments and CTFs. It features autonomous testing workflows, session",
+      "likes": 111,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2071195517145489891",
+      "author": "@bhavesharora02",
+      "text": "Build LLMs from Scratch 🚀\n\nFound this gem from Vizuara, a 43-lecture series that actually delivers on its promise: building Large Language Models from the ground up.\n\nMost people use ChatGPT.\nVery few actually understand how it works behind the scenes.\n\nThis playlist breaks it",
+      "likes": 68,
+      "retweets": 31
+    }
+  ]
+}
