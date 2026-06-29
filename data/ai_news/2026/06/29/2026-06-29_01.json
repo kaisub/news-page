@@ -1,0 +1,205 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-29",
+  "slot": "01",
+  "generated_at": "2026-06-29T01:44:16Z",
+  "tweets": [
+    {
+      "tweet_id": "2071379474277613732",
+      "author": "@bcherny",
+      "text": "As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future. For example, when I look at the Claude Code team I see what I think is five archetypes:\n\n1. Prototyper: comes up with brand new ideas; churns out",
+      "likes": 3901,
+      "retweets": 376
+    },
+    {
+      "tweet_id": "2070774095642263558",
+      "author": "@reach_vb",
+      "text": "PSA: We’re giving all codex users a reset across plans! \n\nTeam combed through the reports and applied mitigations where necessary, and are continuing to monitor the situation\n\nEnjoy building ;)",
+      "likes": 553,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2070848145437704542",
+      "author": "@reach_vb",
+      "text": "True story: I stopped thinking about context since GPT 5.3 Codex\n\nSingle project focused threads with the recent capability of codex to spinoff new threads is goated!\n\nCodex continues and goes through compaction but remembers all the important stuff and if not, it’ll look up",
+      "likes": 531,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2070808089033601427",
+      "author": "@sentient_agency",
+      "text": "10 FREE TOOLS BUILT BY UNIVERSITIES THAT BEAT MOST PAID SAAS\n\nBookmark every single one. Universities quietly fund software that outperforms products companies charge a fortune for, then give it away to anyone. Most people have no idea these exist.\n\n1.",
+      "likes": 377,
+      "retweets": 78
+    },
+    {
+      "tweet_id": "2070950766815428898",
+      "author": "@hwchase17",
+      "text": "🧑‍🏫3hr Long Deep Agents Course\n\nGreat course from a member of the community on Deep Agents\n\nCovers task planning, file systems for context management, subagent-spawning, and long-term memory",
+      "likes": 376,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2070990891192299954",
+      "author": "@reach_vb",
+      "text": "you are not your job\nyou are not your github profile\n\nbut, you are the top 5 prompts you send to codex",
+      "likes": 283,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070949768688181342",
+      "author": "@reach_vb",
+      "text": "We shipped yet another batch of Codex quality-of-life improvements this week:\n\n- Smoother long threads with position preservation and jump navigation\n- Better Settings search and organization\n- Zoom-safe UI positioning\n- Faster thread switching and deeper local history\n- Easier",
+      "likes": 269,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2071204466653827480",
+      "author": "@svpino",
+      "text": "This is all open source, and it's probably the direction we'll be automating a ton of tasks in the future:\n\n1. Record yourself using a web browser doing something you want to automate.\n\n2. The system takes the recording and cleans it by removing retries, dead ends, and anything",
+      "likes": 250,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2071228938983018744",
+      "author": "@reach_vb",
+      "text": "They were granted by our lord and savior, @thsottiaux.\n\nFirst of his name.\nGiver of resets.\nBreaker of stuck runs.\nProtector of the codex users.\nLord Commander of the GPTs.\nKeeper of the sacred tokens.\n\nLong may his resets reign.",
+      "likes": 253,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2070905612238758217",
+      "author": "@jerryjliu0",
+      "text": "LiteParse is unreasonably good for document parsing\n\n✅ It is the fastest document parsing tool out there - average parse time per page is 3ms ⚡️⚡️\n✅ Now that we support markdown, it tops opendataloader-bench, OlmOCR-bench, and ParseBench in terms of accuracy\n✅ It supports 50+",
+      "likes": 154,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2070909551365464500",
+      "author": "@jerryjliu0",
+      "text": "From playing around with /goal \n\nIt feels like there's less and less of a need to build any type of workflow manually (whether through code, drag and drop, or a prompt). Instead, specify the goal, let the model intelligence figure out the underlying steps.\n\nIf the task is",
+      "likes": 150,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2070886667653705931",
+      "author": "@reach_vb",
+      "text": "Update: Sub-60; not too bad considering it was 30 degrees and absolutely humid!\n\nWas a bit reckless to pull this off with little to no training but a good motivation to get back into it with mind and body",
+      "likes": 140,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2070850887027945687",
+      "author": "@svpino",
+      "text": "We are in skill hell.\n\nWe already need skills to discover other skills.\n\n2020: Yet Another JavaScript Library.\n2026: Yet Another Skill.",
+      "likes": 108,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2071352671865299412",
+      "author": "@reach_vb",
+      "text": "Of course that’s your contention.\n\nYou’re a first-week agentic coding enjoyer. You just watched a tasteful terminal demo - dark theme, three panes, someone whispering “autonomy” like it’s a Gregorian chant.\n\nYou’re gonna believe that until next Thursday, when Codex Mobile lets",
+      "likes": 89,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2071165811671134451",
+      "author": "@rpl_0x",
+      "text": "Ostatnia nocka to był horror\nChyba najgorsza nocka na dziko w życiu.\n\nDzień zaczęliśmy od mierzeji kurońskiej, potem klajpeda i dalej nadmorskie litewskie kurorty.\nWszystko zaskoczyło nas bardzo pozytywnie, zarówno atrakcje przyrodnicze na mierzeji, jak i sama klajpeda po której",
+      "likes": 78,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2070754486830662034",
+      "author": "@rpl_0x",
+      "text": "Udało nam się dojechać na wybrzeże\nW zasadzie cały dzień jechaliśmy jedna drogą, 141 do Szylokarczmy. Litwa piękna, dużo lasów, ale trasa była nieco nudna.\nCały czas plasko ale wiatr cały czas wiał w ryj przez co tak jakbyśmy jechali pod górę.\n\nKrajobraz niewiele się zmienial aż",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071105417820934451",
+      "author": "@jerryjliu0",
+      "text": "Agreed with this. There's a lot of value in both agents and software (i don't think SaaS is dead), but the product interfaces are different: \n\n1. An agent is like a human. There are a core set of interfaces for communication, and they can be relatively simple (chat, voice, slack)",
+      "likes": 52,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2070946537211855260",
+      "author": "@reach_vb",
+      "text": "anyone here connect me to a16z folks in London/ Europe? Ideally developer/ tooling focused",
+      "likes": 57,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071294688875958305",
+      "author": "@hwchase17",
+      "text": "Harness: ✅ (DeepAgents)\nSandboxes: ✅ (LangSmith Sandboxes)\nEval: ✅ (LangSmith Sandboxes\nModel: integrate with all the popular models and providers\n\nPlus we have the engine that helps you turn this flywheel: LangSmith Engine \n\nown your agents!",
+      "likes": 46,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2071236031836504337",
+      "author": "@hwchase17",
+      "text": "Dcode does a bunch of work to standardize message format, making it easy to switch providers mid thread",
+      "likes": 45,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2071302502406898059",
+      "author": "@rpl_0x",
+      "text": "Koszmar ostatniej nocki pasuje sobie wynagrodzić perfekcyjna nocką dziś\n\nJūrkalne 🌎",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071233345737076945",
+      "author": "@svpino",
+      "text": "Cina's AI ecosystem is different from everyone else:\n\nEvery company wants to release its own SOTA model, but they are all going open source.\n\nThey are competing but sharing openly with the world.\n\nI wish the US were trying to do the same.",
+      "likes": 41,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071306189846257665",
+      "author": "@hwchase17",
+      "text": "Fleet agents can be shared in channels where your company is already doing work. Slack, Teams, etc\n\nVideo from Caspar showing how to bring them into Slack!",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071303945788539075",
+      "author": "@nauczymycieAI",
+      "text": "Tego zupełnie nie rozumieją hejterzy AI.\n\nCzęsto w komentarzach czytam o tym, że ta technologia do niczego się nie nadaje. Że to bańka - technologiczna i finansowa.\n\nNatomiast to co się liczy to dane, a nie opinie. A te są jednoznacze. \n\nW tym, co liczy się najbardziej - nie",
+      "likes": 22,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2070760551672594631",
+      "author": "@nauczymycieAI",
+      "text": "Mythos z powrotem dostępny dla wybranego grona partnerów.\n\nTak jak przewidywałem - wyłącznie w USA.\n\nAI kilku prędkości konsekwentnie się spełnia",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071373847237206138",
+      "author": "@hwchase17",
+      "text": "harbor is a great way to run evals that require sandboxing: \n\nself hosted sandboxes coming soon",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071227195339456865",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info ze świata nr 2⃣. Niedziela g.16:00\n-🇮🇶 Czystki w Iraku. Aresztowano 47 deputowanych i wysokich urzędników, zwolenników Iranu\n-🎂Elon Musk ma urodziny. Kończy 5⃣5⃣ lat. Napisz co sądziesz o jego platformie X i nim samym\n-🇸🇦 katastrofa helikoptera Saudi Aramco .14 ofiar",
+      "likes": 318,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2071294151694458961",
+      "author": "@Toolekw",
+      "text": "Achtung! Achtung! Ukraiński propagandysta odkrył spiseq!!! Sztuczna inteligencja jest przeciw ukraińskiej wersji historii! Co będzie kiedy Suszko dowie się, że Open AI to w połowie Polacy?",
+      "likes": 321,
+      "retweets": 21
+    }
+  ]
+}
