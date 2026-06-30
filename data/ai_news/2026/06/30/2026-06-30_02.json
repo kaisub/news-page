@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-06-30",
+  "slot": "02",
+  "generated_at": "2026-06-30T15:52:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2071379474277613732",
+      "author": "@bcherny",
+      "text": "As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future. For example, when I look at the Claude Code team I see what I think is five archetypes:\n\n1. Prototyper: comes up with brand new ideas; churns out",
+      "likes": 18540,
+      "retweets": 2163
+    },
+    {
+      "tweet_id": "2071647677591466098",
+      "author": "@bcherny",
+      "text": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work\n\nIf you want your agent to run in the foreground, just tell Claude",
+      "likes": 8538,
+      "retweets": 351
+    },
+    {
+      "tweet_id": "2071653958905467027",
+      "author": "@claudeai",
+      "text": "Claude in Microsoft Foundry is now generally available, hosted on Azure.\n\nAzure customers get Claude Opus 4.8 and Claude Haiku 4.5, with Azure authentication, billing, and commitment retirement.",
+      "likes": 4945,
+      "retweets": 336
+    },
+    {
+      "tweet_id": "2071840864159285672",
+      "author": "@reach_vb",
+      "text": "PSA: We’ve reset Codex limits across plans and have added an additional banked reset!\n\nTeam spent the last 48 hours combing through each and every possibility and found a few issues:\n\n&gt; Auto-review and background suggestions were triggering too much unintended work, including",
+      "likes": 667,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2071628258307977499",
+      "author": "@svpino",
+      "text": "Harnesses matter way more than people think.\n\nCline ran a couple of experiments on a set of coding tasks using GLM 5.2:\n\n• 57.3% using their harness with reasoning turned off.\n• 68.5% with their harness with reasoning turned up.\n\nThat's a difference of 11.2 percentage points!",
+      "likes": 300,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2071656056934072406",
+      "author": "@reach_vb",
+      "text": "who is working on making tool calls faster? whats the bleeding edge?",
+      "likes": 182,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071352671865299412",
+      "author": "@reach_vb",
+      "text": "Of course that’s your contention.\n\nYou’re a first-week agentic coding enjoyer. You just watched a tasteful terminal demo - dark theme, three panes, someone whispering “autonomy” like it’s a Gregorian chant.\n\nYou’re gonna believe that until next Thursday, when Codex Mobile lets",
+      "likes": 146,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2071729856900215261",
+      "author": "@jerryjliu0",
+      "text": "We're excited to introduce the Retrieval Harness in LlamaParse - which is the 2026 version of RAG over documents\n\nGeneralized agents need the right set of tools to scalably search and read through an arbitrary corpus of data (from 10 docs to 1m+ docs). They can already",
+      "likes": 139,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2071647715998454244",
+      "author": "@reach_vb",
+      "text": "Excited for this!!!",
+      "likes": 115,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071633874736804066",
+      "author": "@hwchase17",
+      "text": "Dynamic subagents in deepagents!\n\nLets you spin up subagents programmatically\n\nWe highlight 6 diff use cases for this",
+      "likes": 67,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2071656695470919841",
+      "author": "@svpino",
+      "text": "Oh wow, this makes a ton of sense:\n\nScout is a platform that automatically creates agents based on a KPI you want to measure.\n\nYou aren't building the agents; the platform is.\nYour input is not code; it's a goal.\n\nThis is going to be a hit. It makes so much sense when you see it.",
+      "likes": 66,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2071949548298101105",
+      "author": "@reach_vb",
+      "text": "Codex for autonomously optimising your work:",
+      "likes": 69,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071618375084835321",
+      "author": "@svpino",
+      "text": "How to measure whether using an agent is worth it:\n\nInstead of focusing on whether agents can do this or that, focus on \"value per token dollar\".\n\nBasically, take the value an agent produced and divide it by what you spent on tokens to produce it.\n\nTreat this value as a ratio:",
+      "likes": 58,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2071302502406898059",
+      "author": "@rpl_0x",
+      "text": "Koszmar ostatniej nocki pasuje sobie wynagrodzić perfekcyjna nocką dziś\n\nJūrkalne 🌎",
+      "likes": 63,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071737452323303750",
+      "author": "@jerryjliu0",
+      "text": "This is a neat idea around doing model routing and sub-agent delegation while ensuring cache hits on accumulated context for all agents. \n\nIt makes a lot of sense: you want to ensure that all subagents can also make use of accumulated context in their cache",
+      "likes": 52,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071538650425528367",
+      "author": "@sentient_agency",
+      "text": "10 FREE TOOLS THAT LET YOU BUILD YOUR OWN AI AGENTS WITHOUT WRITING A SINGLE LINE OF CODE\n\nBookmark every single one. In 2026, you no longer need to be a developer to build an AI that works for you. You drag, you drop, you connect. Here's where to start.\n\n1.",
+      "likes": 35,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2071963841009942671",
+      "author": "@hwchase17",
+      "text": "a common pattern for (a part of) memory that we see:\n\nWiki Memory\n\nExamples:\n- DeepWiki (@cognition)\n- AutoWiki (@FactoryAI)\n- LLM Wiki (@karpathy)",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071303945788539075",
+      "author": "@nauczymycieAI",
+      "text": "Tego zupełnie nie rozumieją hejterzy AI.\n\nCzęsto w komentarzach czytam o tym, że ta technologia do niczego się nie nadaje. Że to bańka - technologiczna i finansowa.\n\nNatomiast to co się liczy to dane, a nie opinie. A te są jednoznacze. \n\nW tym, co liczy się najbardziej - nie",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071680100538716453",
+      "author": "@svpino",
+      "text": "LinkedIn better do something if they don't want to become the next StackOverflow.",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071690018079277167",
+      "author": "@rpl_0x",
+      "text": "Dotarliśmy pod Rygę, po drodze pękła mi szprycha ale pożyczyłem klucze w lokalnym miasteczku i udało się ogarnąć.\n\nJechaliśmy przez ciekawe miasta w wielu z nich były zamki rycerzy krzyża.\n\nJutro zwiedzamy Rygę i kierujemy się w stronę Estonii.\n\nPodobno ten fragment jest bardzo",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071659594829410538",
+      "author": "@nauczymycieAI",
+      "text": "Wiemy już na jakim poziomie są modele Open Source w pracy biurowej.\n\nBardzo, bardzo blisko obecnie dostępnych modeli Closed Source. Ale jednocześnie - wyraźnie za Claude Fable / Mythosem.\n\nOpen source jest już na tyle blisko, że w wielu firmach realnie warto się na niego",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071935422033428499",
+      "author": "@hwchase17",
+      "text": "Showing how to display dynamic subagents was tricky - this is what we aligned on",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071876558483005554",
+      "author": "@svpino",
+      "text": "I agree with this, although it’s easier said than done.\n\nEvery model has its quirks, so swapping them is never as easy as it sounds.\n\nSo far, every time I’ve had to swap a model, I’ve also had to update many of the prompts to adapt them to the new model.\n\nThat being said, your",
+      "likes": 20,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2071914179003589053",
+      "author": "@sentient_agency",
+      "text": "10 DATASETS SO DETAILED THEY FEEL LIKE SPYING. ALL OF THEM ARE LEGAL AND FREE.\n\nBookmark every single one. These are public, open-licensed datasets anyone can download right now. The detail is genuinely unsettling, and none of it crosses a line.\n\n1. Overture Maps building",
+      "likes": 15,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2071974139926294897",
+      "author": "@hwchase17",
+      "text": "harbor is a great framework for running evals for long running, stateful agents\n\nits becoming industry standard, powering benchmarks like terminal bench 2\n\nwe've integrated deeply with harbor: across LangSmith, Sandboxes, and Deep Agents",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071975885570441658",
+      "author": "@svpino",
+      "text": "End-to-end example of a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nHere are 3 patterns you'll learn from this example:\n\n1. How to implement a durable state machine that persists over time.\n\n2. How to build",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071922619578773942",
+      "author": "@rpl_0x",
+      "text": "Na przeciwko ambasady rosyjskiej w rydze jest wielki plakat putina-czaszki\n\nUlicy na której jest ta ambasada zmieniono nazwę na niepodległej Ukrainy.\n\nBlisko 40% mieszkańców Rygi to etniczni Rosjanie.\n\nWszędzie wiszą flagi ukraińskie...",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071979236659966105",
+      "author": "@hwchase17",
+      "text": "this may be ai generated, but is true - the hardest part of wikis (and memory in general) is the process that condenses raw data into learnings/memory",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071802591147901339",
+      "author": "@jerryjliu0",
+      "text": "Come for the Germany games, stay for the Raising Canes 🇺🇸🇺🇸🦅",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071735844793385020",
+      "author": "@jerryjliu0",
+      "text": "Which AI engineer is GOATed at pickleball? \n\nCome find out tomorrow!",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071660912214458461",
+      "author": "@sentient_agency",
+      "text": "When your product is literally called Magic Patterns, you don’t run normal ads.\n\nYou hire a magician. Respect.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071752389183647758",
+      "author": "@XDevelopers",
+      "text": "Announcing the hosted X MCP.\n\nAgents now have access to the best real-time information source in the world.\n\nConnect Grok, Cursor, or any MCP-compatible AI tool to the X API without any setup!\n\nCheck it out here:",
+      "likes": 8050,
+      "retweets": 1144
+    },
+    {
+      "tweet_id": "2071649423042412597",
+      "author": "@AnatoliKopadze",
+      "text": "Spotify Chief Architect, Niklas Gustavsson:\n\n\"Once we implemented loops in our workflow, our agent success rate went from 20-30% to 80%.\"\n\n26 minutes with Claude Code creator Boris Cherny on how Spotify runs AI agents across 20 million lines of code.\n\nToday 73% of their code is",
+      "likes": 1893,
+      "retweets": 183
+    },
+    {
+      "tweet_id": "2071398345017323714",
+      "author": "@SemiAnalysis_",
+      "text": "Transformer’s Attention mechanism has come a long way. We’d like to thank the researchers and the engineers in the open-source community for continuing to make high-performance AI accessible. Please celebrate with us by sharing this post, tagging more contributors, and sharing",
+      "likes": 1486,
+      "retweets": 151
+    },
+    {
+      "tweet_id": "2071293386724982947",
+      "author": "@Mho_23",
+      "text": "I just cracked the code on AI animation ads 🤯\n\nevery one of these cost me 12 cents and under 20 seconds to make\n\nGemini Omni + Claude Code is f*cking wild.\n\ni built a system that turns any product into an end-to-end AI animated ad in ANY style you want.. claymation, pixar-style",
+      "likes": 1113,
+      "retweets": 431
+    },
+    {
+      "tweet_id": "2071569265946210809",
+      "author": "@TommiPedruzzi",
+      "text": "• Not Grok\n• Not Gemini\n• Not ChatGPT\n\nClaude is the most powerful money-making tool on the internet.\n\nI've compiled all my AI publishing prompts into a 53-page document.\n\nThese are the same prompts I use to build a publishing business generating $50,000/month.\n\nLike this post",
+      "likes": 1042,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2071269974673637870",
+      "author": "@WeijiaShi2",
+      "text": "Defended my PhD recently!\n\nGrateful to my advisors @LukeZettlemoyer and @nlpnoah, committee members Colin and @lucyluwang, and the many mentors, collaborators, and the @uwnlp community for all the support and friendship along the way ❤️\n\nSlides: Break the language model monolith",
+      "likes": 865,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2071953518907261074",
+      "author": "@bridgemindai",
+      "text": "Claude Sonnet 5 is showing up in the model selector.\n\nThis is dropping today.\n\nThe AI winter is about to be over.",
+      "likes": 864,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2071832672066830847",
+      "author": "@polydao",
+      "text": "THIS DOCUMENT FROM ANTHROPIC WILL LITERALLY GET YOU PROMOTED\n\n&gt; the fastest way to reach a senior position is to automate your current job\n\nthis technical paper shows how to encode your daily workflows into Claude\n\nbuild custom \"Skills\" to force the AI to do the heavy lifting:\n&gt;",
+      "likes": 554,
+      "retweets": 79
+    },
+    {
+      "tweet_id": "2071639897669267922",
+      "author": "@Saboo_Shubham_",
+      "text": "This is HOW you run a one-person AI Agent company in 2026.\n\n7 AI agents. 10 cron jobs. 0 human employees.\n\nEvery role is a folder. Every job description is a md file. No standups. No Slack. No payroll.\n\nEach agent review, retro and self-improve in the LOOP.",
+      "likes": 471,
+      "retweets": 78
+    }
+  ]
+}
