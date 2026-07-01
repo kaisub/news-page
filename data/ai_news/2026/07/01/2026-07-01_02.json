@@ -1,0 +1,72 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-01",
+  "slot": "02",
+  "generated_at": "2026-07-01T16:07:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2071975885570441658",
+      "author": "@svpino",
+      "text": "End-to-end example of a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nHere are 3 patterns you'll learn from this example:\n\n1. How to implement a durable state machine that persists over time.\n\n2. How to build",
+      "likes": 152,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2072003684415000802",
+      "author": "@hwchase17",
+      "text": "Tutorial on using Gemini live to build a voice agent\n\nUses deepagents as a tool: offload complex work to this subagent, use Gemini live for the naturalness/latency",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071995953566077010",
+      "author": "@svpino",
+      "text": "Summary of how your agents can pay for themselves using the x402 protocol:\n\n1. You give your agent a task\n2. The agent finds the tools it wants to use\n3. It sends a signed HTTP request\n4. The tool sends back an HTTP 402 \"Payment Required\" response\n5. The agent authorizes payment",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072335227142427117",
+      "author": "@svpino",
+      "text": "AG-UI makes building agentic applications dramatically easier.\n\nHere's how it works.\n\nThis is a model for a simple chatbot:\n\nUser → LLM → Response\n\nBut interactive agents that render UI, pause for approvals, and ask users for input need a much more complex model.\n\nWhen building",
+      "likes": 22,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072344890755977571",
+      "author": "@hwchase17",
+      "text": "More and more developers turning to glm5.2 as a daily driver for coding\n\nHere’s how to use it with deepagents code",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071815099535552828",
+      "author": "@shivsakhuja",
+      "text": "Announcing Meta Ads skills in Claude 🦢\n\nThis is a suite of skills that turns Claude into a Meta Ads expert.\n\nYou invoke it with a single command /gooseworks and Claude can now access skills and APIs like an expert ad team.\n\nHere's what it can do 👇\n\n---\n\nTo use it, run npx",
+      "likes": 624,
+      "retweets": 65
+    },
+    {
+      "tweet_id": "2072326622590730604",
+      "author": "@erin_catto",
+      "text": "I’m happy to announce the release of a new open source 3D physics engine called Box3D. I’ve been working on this project for a few years now, but it represents over 20 years of experience writing physics engines for games. Read more here:",
+      "likes": 297,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2072058250841801176",
+      "author": "@PyTorch",
+      "text": "Built on PyTorch, Ray, SGLang, and NVIDIA Megatron-LM, Miles is an open source framework from RadixArk for large-scale LLM reinforcement learning post-training.\n\nMiles uses PyTorch for models, numerics, profiling, and extensibility; Ray for orchestration; SGLang for rollout",
+      "likes": 139,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2072221173505822869",
+      "author": "@GithubProjects",
+      "text": "500+ self-contained AI agent projects organized by framework and industry, each runnable with a single command.\n\n- Agents for LangGraph, CrewAI, AutoGen, and Agno frameworks\n- Industry-specific use cases for healthcare, finance, education, and cybersecurity\n- Every agent includes",
+      "likes": 63,
+      "retweets": 5
+    }
+  ]
+}
