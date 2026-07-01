@@ -1,0 +1,352 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-01",
+  "slot": "01",
+  "generated_at": "2026-07-01T01:49:00Z",
+  "tweets": [
+    {
+      "tweet_id": "2071856209074774242",
+      "author": "@laskowski_pl",
+      "text": "Od 1 lipca 2026 roku w Polsce wzrosną minimalne wynagrodzenia dla personelu medycznego. \n\nPodwyżki wyniosą 8,82% w stosunku do roku 2025. \n\nPrzypominam, że ta ustawa nadal obowiązuje i nikt nie chce jej zmieniać, żadna partia, łącznie z opozycją.",
+      "likes": 513,
+      "retweets": 112
+    },
+    {
+      "tweet_id": "2071853611940708544",
+      "author": "@PAPinformacje",
+      "text": "Prok. Skiba: umorzono śledztwo w sprawie „dwóch wież”. #PAPinformacje",
+      "likes": 59,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2071880094180663550",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Z najnowszego opracowania NBP na temat rynku nieruchomości wynika, że konsument powinien być obecnie obojętny mając do wyboru kupno nieruchomości na kredyt vs. wynajem. Bardzo możliwe, że niebawem koszt obsługi kredytu będzie niższy niż koszt wynajmu.",
+      "likes": 55,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071851230914392158",
+      "author": "@Macronextcom",
+      "text": "BIEC: Mniej bezrobotnych, więcej ofert w Internecie.\n\n #Polska 🇵🇱: w VI 2026 Wskaźnik Rynku Pracy wg BIEC: 76,9 pkt. (poprzednio: 77,4 pkt.) \n\nKalendarz:",
+      "likes": 41,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2071488841039708523",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VI 2026 r. Wskaźnik Wyprzedzający Koniunktury wg #BIEC: 175,0 pkt. 📈 (poprzednio: 174,1 pkt.)\n\nNastroje przedsiębiorców gorsze niż \"twarde\" dane, ale pomimo tego Wskaźnik Wyprzedzający Koniunktury najwyżej w historii.",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071506186931691679",
+      "author": "@Macronextcom",
+      "text": "Deficyt budżetowy na Węgrzech może przekroczyć 7% PKB.\n\nHUNGARY PM 🇭🇺 MAGYAR:\n🔸2026 BUDGET DEFICIT WOULD HAVE EXCEEDED 8% OF GDP WITHOUT AGREEMENT ON EU FUNDS\n🔸2026 BUDGET DEFICIT CAN EXCEED 7% OF GDP EVEN WITH EU FUNDS",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071958263692697788",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w VI 2026 r. Indeks zaufania konsumentów wg @Conferenceboard: 91,2 pkt. (prognoza: 94,6 pkt.; poprzednio: 90,6 pkt.) \n\nKalendarz makro (USA):",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071685588877545816",
+      "author": "@PAPinformacje",
+      "text": "Blisko 260 pociągów odwołanych, służby kolejowe usuwają awarie spowodowane przez upały\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071999806071779807",
+      "author": "@PAPinformacje",
+      "text": "Dekret Trumpa unieważniony przez Sąd Najwyższy. Chodzi o prawo do obywatelstwa\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071859429461328144",
+      "author": "@GUS_STAT",
+      "text": "Według stanu na 31 grudnia 2025 r. lasy zajmowały 29,6% powierzchni kraju (9290,8 tys. ha). Wykonano odnowienia lasów na 60,3 tys. ha, a zalesienia objęły 0,8 tys. ha. Pozyskanie drewna ogółem spadło o 3,5% do 39,8 mln m³.\n\n🔗 \n\n#GUS",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071861306433376750",
+      "author": "@GUS_STAT",
+      "text": "Według stanu na koniec 2025 r. z usług przedsiębiorstw leasingowych korzystało ogółem 1 180 tys. leasingobiorców, którzy wzięli w leasing 2 768 tys. przedmiotów (środków) o wartości 171,9 mld zł\n\n🔗\n\n#GUS #statystyki #leasing #przedsiębiorstwa",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071859861097206058",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. pobór wody zmniejszył się o ok. 5%, a ilość wytworzonych ścieków przemysłowych i komunalnych o ok. 6%. Zebrano ponad 6 mln ton odpadów komunalnych (+6%), przy spadku ilości wytworzonych odpadów ogółem o ok. 4%.\n\n🔗 \n\n#GUS",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071859333722198238",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. zasięg zagrożenia ubóstwem skrajnym wyniósł 5,3% osób w gospodarstwach domowych i był zbliżony do wartości oszacowanej dla 2024 r. (5,2%).\nZasięg zagrożenia ubóstwem relatywnym wyniósł 13,5% wobec 13,3% w 2024 r.\n\n🔗\n\n#GUS #statystyki",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071806299734511977",
+      "author": "@DGPrawna",
+      "text": "Od 1 lipca busy z tachografami. Nie wszyscy są gotowi na rewolucję",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071476168620913043",
+      "author": "@DGPrawna",
+      "text": "Bessa na rynku złota. Wycena rezerw NBP spadła o 10 mld zł",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071602753604845993",
+      "author": "@pigmalion55",
+      "text": "Łowcy cieni zatrzymali Krzysztofa A., gangstera poszukiwanego  za brutalne pobicie Wojciecha Kwaśniaka, wiceszefa KNF w Kirgistanie!",
+      "likes": 1291,
+      "retweets": 416
+    },
+    {
+      "tweet_id": "2071540027524362428",
+      "author": "@Piechocinski",
+      "text": "W Klinice Otolaryngologii, Chirurgii Głowy i Szyi UCK WUM prawie 70 proc. pacjentów było przyjmowanych poza kolejnością. NFZ nałożył na placówkę prawie 300 tys. zł. kary. Szpital został za to ukarany kolejny raz. Sprawa jest zgłoszona prokuraturze.",
+      "likes": 1077,
+      "retweets": 169
+    },
+    {
+      "tweet_id": "2071839305266307387",
+      "author": "@NOELreports",
+      "text": "❗️Poland will not transfer MiG-29 fighters to Ukraine after Kyiv refused to share drone production technologies, Defense Minister Władysław Kosiniak-Kamysz said. Warsaw had proposed “MiGs in exchange for drones,” offering aircraft in return for access to Ukrainian UAV know-how",
+      "likes": 915,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2071564113378005454",
+      "author": "@cuprwarszawa",
+      "text": "⚠️🍪 Biedronka wycofuje herbatniki Bonitki Petit Beurre produkcji ukriańskiej (partia 6104037121 01-10, ważne do 13.04.2027). Podwyższony poziom akryloamidu – groźny dla zdrowia. Sprawdź – nie jedz! #Biedronka #GIS #Wycofanie #Herbatniki #Bezpieczeństwo",
+      "likes": 596,
+      "retweets": 299
+    },
+    {
+      "tweet_id": "2071622190416756999",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info nr 2⃣. Poniedziałek g.18:00\n-🇶🇦 Rozmowy USA-Iran w Katarze jutro, Iran 🇮🇷 zaprzecza doniesieniom USA. Nie ma rozmów\n-⚖️KNF cofa pozwolenie dla mPay. Płatności\n-🇺🇸USA anulują OZE wiatr i słońce za 121 mld $\n- 🇩🇪Volkswagen: cięcia etatów będą dużo większe.\n-🇩🇪5 ofiar w",
+      "likes": 482,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2071945715094261807",
+      "author": "@United24media",
+      "text": "A new report reveals Russia’s ongoing hybrid warfare against Poland from 2020–2025, including sabotage, cyberattacks, espionage, and weaponized migration. \n\n🧵 1/9",
+      "likes": 246,
+      "retweets": 137
+    },
+    {
+      "tweet_id": "2071859768512143634",
+      "author": "@KyivIndependent",
+      "text": "⚡️Ukraine backed off from MiGs-for-drones deal, Polish minister claims.\n\n\"The Ukrainians initially accepted it but did not follow through, so there are no MiGs for Ukraine because there are no drones, or drone capabilities, for Poland,\" Polish Defense Minister Wladyslaw",
+      "likes": 238,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2071974868443095100",
+      "author": "@motykamilosz",
+      "text": "❗️Polska elektrownia jądrowa wchodzi w kolejny etap realizacji ⚛️\n\n✅ @PEJ_PL otrzymały kluczowe pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy. Już w lipcu ruszą prace przy przygotowaniu terenu, budowie dróg, zaplecza technicznego i niezbędnej",
+      "likes": 206,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2071934230159061385",
+      "author": "@Straz_Graniczna",
+      "text": "2️⃣9️⃣ czerwca z lotniska w Krakowie-Balicach wojskowym samolotem deportowano 9️⃣ obywateli Pakistanu 🇵🇰. Cudzoziemcy zostali przymusowo zobowiązani do powrotu z powodu braku dokumentów pobytowych oraz nielegalnego przekroczenia granicy polsko 🇵🇱 - białoruskiej 🇧🇾.\n\nOperację",
+      "likes": 145,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2071992615218684409",
+      "author": "@MarWojRP",
+      "text": "Wicepremier-minister obrony narodowej Władysław Kosiniak-Kamysz wręczył dziś kmdr. por. Łukaszowi Rumkowskiemu akt mianowania na stanowisko Dowódcy Dywizjonu Okrętów Podwodnych. 💪👏\nSerdecznie gratulujemy Panu Komandorowi i życzymy żołnierskiego szczęścia oraz samych pomyślnych",
+      "likes": 63,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2071553132799115581",
+      "author": "@Puls_Medycyny",
+      "text": "Średnio tylko 23 proc. budżetu szpitali jest przeznaczane na wynagrodzenia lekarzy, a 55 proc. na pensje wszystkich medyków - wyliczyli @Rezydenci, powołując się na dane z ogólnopolskiego badania.\n@VKraevski @S_Goncerz @MZ_GOV_PL @zwiazekszpitali @OZPSP1",
+      "likes": 44,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2071507174891585879",
+      "author": "@uknf",
+      "text": "🔸 Komisja Nadzoru Finansowego cofnęła zezwolenie na świadczenie przez \"mPay\" spółkę akcyjną usług płatniczych w charakterze krajowej instytucji płatniczej za niezapewnianie ostrożnego i stabilnego zarządzania działalnością w zakresie usług płatniczych:",
+      "likes": 42,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2071686803896074521",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (29.06) za isbiznes. pl\n\n🏠 #Sanok_Rubber_Company S.A.\nZwyczajne walne zgromadzenie przeznaczyło 27,4 mln zł na dywidendę, co daje 1,2 zł na akcję. Dzień dywidendy: 10 września 2026, wypłata: 24 września 2026.\n\n🏘️ #Robyg S.A.",
+      "likes": 48,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071541644323696956",
+      "author": "@PietruszynskiJ",
+      "text": "🏗️ Wakacyjny radar inwestycyjny\n\nPolska firma Global Energy zdobyła 3 nowe kontrakty OZE w Niemczech, bo Niemcy dalej budują u siebie wiatraki\n\nGlobal Energy zrobi 11 fundamentów pod nowe lądowe wiatraki\n\nLokalizacje:\n\n📍Frielinghausen-Höringhausen\n📍Wustermark\n📍 Eichwald",
+      "likes": 41,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071829955843903556",
+      "author": "@Policja_KRPII",
+      "text": "🚨👮‍♂️Ponad 131 kilogramów narkotyków o czarnorynkowej wartości około 6,7 mln zł zabezpieczyli mokotowscy kryminalni. \n\nTo efekt wielotygodniowej, intensywnej pracy operacyjnej, skrupulatnej analizy zgromadzonych informacji oraz precyzyjnie zaplanowanej realizacji. \n\nPolicjanci",
+      "likes": 31,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2071606880124768657",
+      "author": "@defense_news",
+      "text": "Under a separate deal, Warsaw aims to urgently acquire a “gap filler” boat for its Baltic Sea operations that will be used to train its sailors.",
+      "likes": 30,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2071857716730146936",
+      "author": "@Straz_Graniczna",
+      "text": "Funkcjonariusze z #PlacówkaSGwGołdapi, dzięki współpracy z #PlacówkaSGwSejnach, zatrzymali w powiecie ełckim 29-letniego obywatela Ukrainy 🇺🇦, który przewoził 4️⃣ obywateli Afganistanu 🇦🇫. Trzech cudzoziemców podróżowało na tylnym siedzeniu, a czwarty w bagażniku. Wszyscy",
+      "likes": 31,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072041701858787649",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (30.06) za isbiznes. pl\n\n💻 #NTT System – spółka przeznaczy 2,98 mln zł na dywidendę, czyli 0,22 zł na akcję. Pozostała część zysku zasili kapitał zapasowy.\n\n📺 #Digital_Network – akcjonariusze zdecydowali o wypłacie 22,83",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071923213911855287",
+      "author": "@Straz_Graniczna",
+      "text": "2️⃣7️⃣ czerwca w miejscowości Wróblik Szlachecki na Podkarpaciu funkcjonariusze z #PlacówkaSGwSanoku zatrzymali 4️⃣ obywateli Palestyny 🇵🇸. Cudzoziemcy ukryli się w naczepie samochodu ciężarowego i nielegalnie przekroczyli granicę ze Słowacją 🇸🇰. Nie posiadali dokumentów",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071590273356795957",
+      "author": "@Nordic_News",
+      "text": "Poland inks order for three submarines from Sweden's Saab for $4.8 billion (🔒)",
+      "likes": 19,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2071856443402092694",
+      "author": "@CERT_Polska",
+      "text": "🔍 Rzekomy zwrot podatku może być próbą wyłudzenia danych. \n\nDo CERT Polska trafiają zgłoszenia dotyczące kampanii phishingowej wykorzystującej wizerunek Krajowej Administracji Skarbowej. Przestępcy informują o rzekomym zwrocie podatku i zachęcają do przejścia na stronę, na",
+      "likes": 18,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2071884299465281770",
+      "author": "@strefainw",
+      "text": "🟢 Liftero juz notowane na rynku NewConnect @GPW_WSExchange \n\nKurs na solidnym plusie 👏👏👏",
+      "likes": 20,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072010237050073419",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie dnia — wtorek, 30.06.2026\n\n08:02  \n📊 Wielka Brytania rośnie, Niemcy odbijają\n\n• brytyjski PKB wzrósł w I kwartale o 0,6% k/k  \n• usługi zwiększyły aktywność o 0,8%  \n• sprzedaż detaliczna w Niemczech wzrosła w maju o 1,1% m/m  \n• niemiecki konsument wypadł",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071497397167878262",
+      "author": "@UOKiKgovPL",
+      "text": "Prezes UOKiK postawił Rapiomed Group zarzuty wprowadzania konsumentów w błąd w sprawie konsultacji lekarskich online.\n\nKwestionuje też deklarowane czasy realizacji usług.\n\nSzczegóły",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071591736619438269",
+      "author": "@CentrumeZdrowia",
+      "text": "Od 1 lipca mammografia, test HPV HR oraz wizyty kardiologiczne w ramach NFZ będą umawiane wyłącznie przez centralną e-rejestrację.\n\n❓Co centralna e-rejestracja oznacza dla placówek?\n✅ Łatwiejsze umawianie wizyt (w sposób tradycyjny lub online), co pomoże w odciążeniu",
+      "likes": 12,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2071505083590725900",
+      "author": "@CBAgovPL",
+      "text": "Funkcjonariusze CBA zatrzymali cztery osoby w związku ze śledztwem dotyczącym nieprawidłowości przy organizacji i przeprowadzaniu postępowań o udzielenie zamówień publicznych na zakup autobusów elektrycznych dla jednostek samorządu terytorialnego. Postępowanie nadzoruje",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2071640187935891574",
+      "author": "@RMF24pl",
+      "text": "W poniedziałek Sąd Najwyższy USA odrzucił wniosek Donalda Trumpa o rozpatrzenie jego skargi na wyrok z 2023 roku, który przyznał publicystce E. Jean Carroll 5 milionów dolarów odszkodowania za napaść seksualną i zniesławienie. Decyzja ta oznacza, że wyrok pozostanie w mocy. Do",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071927801037369841",
+      "author": "@ME_GOV_PL",
+      "text": "📍 Montreal | Spotkania bilateralne polskiej delegacji z @IEA, Kanadą i Wielką Brytanią\nPodczas wizyty w Montrealu Minister Energii @motykamilosz  spotkał się z Ministrem Energii i Zasobów Naturalnych Kanady @TimHodgsonMT 🇨🇦\n\n➡️ Główne tematy rozmów:\n▪️ bezpieczeństwo dostaw gazu",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071956591197229256",
+      "author": "@Polska_Zbrojna",
+      "text": "Obrona przed pojazdami opancerzonymi, drony i ewakuacja szpitala polowego, czyli szkolenie Critical Knowledge Exchange\n\n@MON_GOV_PL @DGeneralneRSZ @DowOperSZ @SztabGenWP @terytorialsi",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071887081089962183",
+      "author": "@bezprawnik",
+      "text": "Czy można otworzyć produkt w sklepie przed zapłaceniem za niego? UOKiK wyjaśnia\n\nOtwieranie pudełka ze słuchawkami czy zrywanie folii z kosmetyku przed podejściem do kasy to dla wielu osób nawyk. Urząd Ochrony Konkurencji i Konsumentów przypomina jednak o podstawowej zasadzie:",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071986141759229967",
+      "author": "@GPW_WSExchange",
+      "text": "Warszawa do Liftero… baza NewConnect ustanowiona… rozpoczynamy notowania! 🚀\n\nTak przywitaliśmy trzecią spółkę sektora #spacetech na warszawskiej Giełdzie. @lifterospace zadebiutowało na NewConnect jako 6. debiut w 2026 roku i 336. spółka notowana na tym rynku. \n\n#IPO #GPW",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2071613709948948498",
+      "author": "@piotr_borys",
+      "text": "🌊W Głogowie zaczynamy wyjazdowe posiedzenie Komisji Nadzwyczajnej do spraw działań przeciwpowodziowych i usuwania skutków powodzi z 2024 roku.\n\n🤝Przedstawiliśmy działania Ministerstwa Sportu i Turystyki na rzecz odbudowy infrastruktury zniszczonej przez powódź. To konkretna",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071867016777023851",
+      "author": "@Wbalcerzak87",
+      "text": "Dzisiejsza aktywacja okresów przywołania na rynku mocy przez Polskie Sieci Elektroenergetyczne nie jest zdarzeniem awaryjnym, ale jest czytelnym sygnałem operacyjnym dotyczącym stanu pracy systemu elektroenergetycznego w warunkach podwyższonego stresu.\n\nSystem nie przestaje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071869854643028210",
+      "author": "@StockWatchPL",
+      "text": "💰 36 spółek z #GPW wypłaci dywidendę w lipcu. Przedstawiamy 5 z nich, które podzielą się zyskiem już na początku miesiąca 🔜 Termin na zakup: dziś lub jutro 👇\n\n#dywidenda #akcje",
+      "likes": 5,
+      "retweets": 0
+    }
+  ]
+}

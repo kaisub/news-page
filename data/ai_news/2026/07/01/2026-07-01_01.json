@@ -1,0 +1,58 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-01",
+  "slot": "01",
+  "generated_at": "2026-07-01T01:49:00Z",
+  "tweets": [
+    {
+      "tweet_id": "2071729856900215261",
+      "author": "@jerryjliu0",
+      "text": "We're excited to introduce the Retrieval Harness in LlamaParse - which is the 2026 version of RAG over documents\n\nGeneralized agents need the right set of tools to scalably search and read through an arbitrary corpus of data (from 10 docs to 1m+ docs). They can already",
+      "likes": 147,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2071975885570441658",
+      "author": "@svpino",
+      "text": "End-to-end example of a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nHere are 3 patterns you'll learn from this example:\n\n1. How to implement a durable state machine that persists over time.\n\n2. How to build",
+      "likes": 114,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2072003684415000802",
+      "author": "@hwchase17",
+      "text": "Tutorial on using Gemini live to build a voice agent\n\nUses deepagents as a tool: offload complex work to this subagent, use Gemini live for the naturalness/latency",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071752389183647758",
+      "author": "@XDevelopers",
+      "text": "Announcing the hosted X MCP.\n\nAgents now have access to the best real-time information source in the world.\n\nConnect Grok, Cursor, or any MCP-compatible AI tool to the X API without any setup!\n\nCheck it out here:",
+      "likes": 9698,
+      "retweets": 1376
+    },
+    {
+      "tweet_id": "2071989946827624801",
+      "author": "@GoogleAIStudio",
+      "text": "gemini omni flash is here: our high-quality, cost-efficient model for video generation and conversational editing\n\ndesigned to support multimodal workflows, it enables you to refine videos using natural language and simple prompting\n\nstart building with it today via ai studio and",
+      "likes": 2745,
+      "retweets": 280
+    },
+    {
+      "tweet_id": "2071973177480097972",
+      "author": "@tan_stack",
+      "text": "TanStack AI runs coding agents in a sandbox now 📦\n\nAgents: Grok build, Claude Code, Codex, OpenCode, or any ACP agent\n\nSandboxes: Cloudflare, Docker, Local, Daytona or Vercel sandboxes\n\nFully configurable sandboxes with skills, mcps and more! 🚀",
+      "likes": 263,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2071858592354009593",
+      "author": "@VivekIntel",
+      "text": "PentestAgent – AI-Powered Penetration Testing Assistant 🤖💀\n\nPentestAgent is an open-source AI-powered penetration testing framework that combines large language models with real security tools to assist authorized security assessments. It supports guided assistance, autonomous",
+      "likes": 59,
+      "retweets": 4
+    }
+  ]
+}
