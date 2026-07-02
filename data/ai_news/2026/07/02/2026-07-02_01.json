@@ -1,0 +1,114 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-02",
+  "slot": "01",
+  "generated_at": "2026-07-02T01:38:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2072000214634742243",
+      "author": "@bcherny",
+      "text": "You asked, we listened. Claude Desktop on Linux is here!\n\nDownload link:",
+      "likes": 4225,
+      "retweets": 247
+    },
+    {
+      "tweet_id": "2072375664314081287",
+      "author": "@hwchase17",
+      "text": "wikis for memory are all the rage - we wrote about this yesterday\n\ntoday we're releasing an open source example for doing this code bases",
+      "likes": 217,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2071975885570441658",
+      "author": "@svpino",
+      "text": "End-to-end example of a long-running AI agent that pauses, resumes, and never loses context.\n\nIt simulates the onboarding of a new employee.\n\nHere are 3 patterns you'll learn from this example:\n\n1. How to implement a durable state machine that persists over time.\n\n2. How to build",
+      "likes": 154,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2072335227142427117",
+      "author": "@svpino",
+      "text": "AG-UI makes building agentic applications dramatically easier.\n\nHere's how it works.\n\nThis is a model for a simple chatbot:\n\nUser → LLM → Response\n\nBut interactive agents that render UI, pause for approvals, and ask users for input need a much more complex model.\n\nWhen building",
+      "likes": 74,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2072377816780624266",
+      "author": "@hwchase17",
+      "text": "\"agentic map reduce\" is a nice name\n\nspawning subagents programatically allows you to do these advanced agent patterns, where you want some determinism to control how agents are created/run\n\ncheck out dynamic subagents in deepagents for a way to do this:",
+      "likes": 64,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072326622590730604",
+      "author": "@erin_catto",
+      "text": "I’m happy to announce the release of a new open source 3D physics engine called Box3D. I’ve been working on this project for a few years now, but it represents over 20 years of experience writing physics engines for games. Read more here:",
+      "likes": 2753,
+      "retweets": 412
+    },
+    {
+      "tweet_id": "2072394812301480067",
+      "author": "@NVIDIAAI",
+      "text": "We took a 30B model and split it in two to write tokens in parallel instead of one at a time.\n\nIntroducing Nemotron-Labs-TwoTower: a diffusion language model from NVIDIA Research adapted from Nemotron-3-Nano-30B-A3B. Here’s how it works: one half holds the context, the other",
+      "likes": 2444,
+      "retweets": 279
+    },
+    {
+      "tweet_id": "2071815099535552828",
+      "author": "@shivsakhuja",
+      "text": "Announcing Meta Ads skills in Claude 🦢\n\nThis is a suite of skills that turns Claude into a Meta Ads expert.\n\nYou invoke it with a single command /gooseworks and Claude can now access skills and APIs like an expert ad team.\n\nHere's what it can do 👇\n\n---\n\nTo use it, run npx",
+      "likes": 656,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2072383318516187380",
+      "author": "@RampLabs",
+      "text": "Introducing PorTAL: Portable Task Adapters for LLMs. A novel recipe to cheaply port fine-tuning between models. It matches per task LoRA accuracy at half the cost, lowering the switching overhead of adapting tasks across LLMs.\n\nAt Ramp, every new model release used to mean",
+      "likes": 390,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2072311886566261219",
+      "author": "@pdiscoveryio",
+      "text": "Today we're launching \n\nIt gives any AI agent ready-to-use security context for thousands of open source projects, built from each project's commit history of security fixes and its disclosed CVEs.\n\nUseful whether your agent is writing code or reviewing it",
+      "likes": 336,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2072351886846640167",
+      "author": "@rabi_guha",
+      "text": "Today we're launching OpenUI Cloud\n\nWe've spent months arguing AI deserves more than text.\nThe uncomfortable truth is Generative UI in production needs much more than just rendering.\n\nThe boring parts - validation, error correction, fallbacks, versioning, audit trails - eat up",
+      "likes": 224,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2072401264688996728",
+      "author": "@vercel_dev",
+      "text": "We've open-sourced 𝚔𝚘𝚗𝚜𝚒𝚜𝚝𝚎𝚗𝚝, the same CLI linter that AI SDK and Chat SDK use to enforce structural conventions in TS codebases, so that agents and humans build APIs consistently.",
+      "likes": 229,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2071951218889339131",
+      "author": "@HuggingPapers",
+      "text": "Microsoft just released a new GUI agent on Hugging Face\n\nSico-Evolution jumps from 39.8% to 82.9% Task Success Rate\n\nOutperforming GPT-5.4, Claude Opus 4.6, and Claude Opus 4.7\n\nAll from a 4B parameter model",
+      "likes": 171,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2072372217254649934",
+      "author": "@aman_unsiloed",
+      "text": "Hermes MoA might be the best thing to build review agents on\n\nWe built a Contract Reviewer on it, Here's how it works:\n→ a sandbox serves the doc from a URL\n→ the parser turns the PDF into clean text: columns, defined terms, cross-references\n→ MoA judges it: GPT-5.5 and",
+      "likes": 80,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2071896173573726679",
+      "author": "@CodeByPoonam",
+      "text": "damn.. someone just open-sourced a Gamma alternative.\n\nPresenton runs locally, exports to PowerPoint, and works with Claude, GPT, and Gemini.\n\nhere's what it actually does:\n→ generates full presentations from a prompt or document\n→ exports to PPTX and PDF\n→ works with Claude,",
+      "likes": 36,
+      "retweets": 4
+    }
+  ]
+}

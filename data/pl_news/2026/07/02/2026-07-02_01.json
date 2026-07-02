@@ -1,0 +1,317 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-02",
+  "slot": "01",
+  "generated_at": "2026-07-02T01:38:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2071856209074774242",
+      "author": "@laskowski_pl",
+      "text": "Od 1 lipca 2026 roku w Polsce wzrosną minimalne wynagrodzenia dla personelu medycznego. \n\nPodwyżki wyniosą 8,82% w stosunku do roku 2025. \n\nPrzypominam, że ta ustawa nadal obowiązuje i nikt nie chce jej zmieniać, żadna partia, łącznie z opozycją.",
+      "likes": 523,
+      "retweets": 117
+    },
+    {
+      "tweet_id": "2072375945852318181",
+      "author": "@PAPinformacje",
+      "text": "Warszawski sąd okręgowy utrzymał tymczasowy areszt wobec b. szefa MS Zbigniewa Ziobry - rzeczniczka sądu. (PAP)\n#PAPinformacje",
+      "likes": 133,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2072273058128167415",
+      "author": "@PAPinformacje",
+      "text": "Ministerstwo Finansów: koszt programu CPN wyniósł około 4,7 mld zł. (PAP)\n#PAPInformacje",
+      "likes": 57,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2071880094180663550",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Z najnowszego opracowania NBP na temat rynku nieruchomości wynika, że konsument powinien być obecnie obojętny mając do wyboru kupno nieruchomości na kredyt vs. wynajem. Bardzo możliwe, że niebawem koszt obsługi kredytu będzie niższy niż koszt wynajmu.",
+      "likes": 56,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071851230914392158",
+      "author": "@Macronextcom",
+      "text": "BIEC: Mniej bezrobotnych, więcej ofert w Internecie.\n\n #Polska 🇵🇱: w VI 2026 Wskaźnik Rynku Pracy wg BIEC: 76,9 pkt. (poprzednio: 77,4 pkt.) \n\nKalendarz:",
+      "likes": 41,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072184075511538067",
+      "author": "@Macronextcom",
+      "text": "Złoto miało najgorszy kwartał od 13 lat!\n\n🔻-28,4% (od szczytu ze stycznia 2026)\n🔻-14,1% (w Q2 2026, najgorszy kwartał od 13 lat)\n🔻-7,2% (od początku roku)\n🔻4. miesiąc spadków, pierwsza taka seria od 2022\n\nWczoraj złoto było najtańsze od  listopada 2025, ale wciąż +19% r/r.",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072281858939769070",
+      "author": "@PAPinformacje",
+      "text": "ZUS: Liwiusz Laska nowym prezesem Zakładu Ubezpieczeń Społecznych. (PAP)\n#PAPinformacje",
+      "likes": 30,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072415559845597215",
+      "author": "@PAPinformacje",
+      "text": "Amerykańscy kongresmeni domagają się wysłania wstrzymanych wojsk do Polski, grożą blokadą środków #PAPinformacje",
+      "likes": 22,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072214544093450335",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VI 2026 r. Indeks #PMI dla przemysłu: 46,1 pkt. (prognoza: 49,4 pkt.; poprzednio: 49,4 pkt.) \n\n\"W czerwcu warunki gospodarcze w przemyśle pogarszają  się w najszybszym tempie od niemal roku\"\n\nKalendarz:",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072221598065508386",
+      "author": "@GUS_STAT",
+      "text": "W styczniu 2026 r. mediana wynagrodzeń miesięcznych brutto w #GospodarkaNarodowa wyniosła 7447,16 zł i była niższa o 20,4% od przeciętnego miesięcznego wynagrodzenia brutto.\n\n🔗\n\n#GUS #statystyki #wynagrodzenia",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2071958263692697788",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w VI 2026 r. Indeks zaufania konsumentów wg @Conferenceboard: 91,2 pkt. (prognoza: 94,6 pkt.; poprzednio: 90,6 pkt.) \n\nKalendarz makro (USA):",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072222255929606342",
+      "author": "@GUS_STAT",
+      "text": "W roku szkolnym 2025/26 do placówek oświatowych uczęszczało 6,7 mln osób (17,9% populacji). 👧👦 Najwięcej uczniów uczęszczało do szkół podstawowych – 3,3 mln.\n\n🔗\n\n#GUS #statystyki #edukacja #szkoła #nauczyciele #uczniowie #oświata",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071861306433376750",
+      "author": "@GUS_STAT",
+      "text": "Według stanu na koniec 2025 r. z usług przedsiębiorstw leasingowych korzystało ogółem 1 180 tys. leasingobiorców, którzy wzięli w leasing 2 768 tys. przedmiotów (środków) o wartości 171,9 mld zł\n\n🔗\n\n#GUS #statystyki #leasing #przedsiębiorstwa",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072265379003392460",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Nowa edycja monitora długu jest już dostępna. W niej między innymi rekordowe zakupy polskich obligacji przez inwestorów zagranicznych w maju.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071806299734511977",
+      "author": "@DGPrawna",
+      "text": "Od 1 lipca busy z tachografami. Nie wszyscy są gotowi na rewolucję",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072376472027992221",
+      "author": "@LukaszBok",
+      "text": "Według danych GUS na koniec 2025 roku w Polsce przebywało ok. 38,8 mln osób (o blisko 40 tys. więcej niż rok wcześniej). \n\nWśród nich ok. 2,3 mln osób (wzrost o niemal 215 tys.) posiadających obce obywatelstwo, z czego 73% stanowili obywatele Ukrainy. Udział cudzoziemców wyniósł",
+      "likes": 1982,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2071839305266307387",
+      "author": "@NOELreports",
+      "text": "❗️Poland will not transfer MiG-29 fighters to Ukraine after Kyiv refused to share drone production technologies, Defense Minister Władysław Kosiniak-Kamysz said. Warsaw had proposed “MiGs in exchange for drones,” offering aircraft in return for access to Ukrainian UAV know-how",
+      "likes": 982,
+      "retweets": 90
+    },
+    {
+      "tweet_id": "2071859768512143634",
+      "author": "@KyivIndependent",
+      "text": "⚡️Ukraine backed off from MiGs-for-drones deal, Polish minister claims.\n\n\"The Ukrainians initially accepted it but did not follow through, so there are no MiGs for Ukraine because there are no drones, or drone capabilities, for Poland,\" Polish Defense Minister Wladyslaw",
+      "likes": 258,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2072198782335209667",
+      "author": "@PremierRP",
+      "text": "Polska elektrownia jądrowa wchodzi w kolejny etap realizacji! 🇵🇱⚛️\n\nSpółka @PEJ_PL otrzymała kluczowe pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy. Już w lipcu ruszą prace związane z przygotowaniem terenu, budową dróg, zaplecza technicznego oraz niezbędnej",
+      "likes": 209,
+      "retweets": 83
+    },
+    {
+      "tweet_id": "2072221246788452423",
+      "author": "@UOKiKgovPL",
+      "text": "Chcesz coś z Avonu? \n\nW wirtualnym świecie to popularny mem, w rzeczywistym – wiele firm z sektora MŚP odpowie na to pytanie, że chce należnych im pieniędzy. \n\nPrezes UOKiK, za tworzenie zatorów płatniczych, nałożył na Avon Cosmetics Polska karę ponad 1,1 mln zł.\n\nSzczegóły",
+      "likes": 124,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2072097633389486188",
+      "author": "@First_Ender_",
+      "text": "29 czerwca 2026 Sąd Najwyższy USA odmówił rozpatrzenia apelacji Trumpa - &gt; wyrok z 2023 r. jest ostateczny. \n\nWyrok z maja 2023: uznany przez ławę przysięgłych w procesie cywilnym za odpowiedzialnego za seksualne nadużycie wobec E. Jean Carroll. Ława przysięgłych przyznała",
+      "likes": 63,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2072301153757380611",
+      "author": "@JolantaOjczyk",
+      "text": "Znamy budżet @NFZ_GOV_PL na 2027 r. Nie ma się z czego cieszyć. Będą cięcia, dłuższe kolejki droższe prywatne wizyty. @LKKozlowski @Public_PolicyPL. Jutro plan opiniuje sejmowa KZ. @MGolbik @aK_Sojka @jciesz",
+      "likes": 53,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2072041701858787649",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (30.06) za isbiznes. pl\n\n💻 #NTT System – spółka przeznaczy 2,98 mln zł na dywidendę, czyli 0,22 zł na akcję. Pozostała część zysku zasili kapitał zapasowy.\n\n📺 #Digital_Network – akcjonariusze zdecydowali o wypłacie 22,83",
+      "likes": 48,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072335701195030900",
+      "author": "@_ZajacPiotr",
+      "text": "#LiczbyDnia śrd:\n\n1) #WIG20 +0,7% do 3611\n2) #Modivo +3,9%\n3) #Synektik 10 sesja na +\n4) #Polimex -2,8%; CEO\n5) #Scanway +10%; próg\n6) #Genomtec +7%; patent\n7) #Liftero max 69\n8) #PMI PL 46,1 prog. 49,4\n9) #SPX przy 7500\n10) #oil WTI&lt;69\n11) ?",
+      "likes": 40,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071948224911282327",
+      "author": "@WBGroup_PL",
+      "text": "\"@WBGroup_PL and @Saab are expanding their industrial and research and development cooperation, focusing on projects that will strengthen defence capabilities and military interoperability across the Baltic Sea region. Under the agreement, the companies will focus their",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072225063412093207",
+      "author": "@CERT_Polska",
+      "text": "Uważaj na powiadomienia o nieudanym doręczeniu paczki! \n\n📩 Obserwujemy kolejną odsłonę kampanii phishingowej, w której oszuści podszywają się pod firmę kurierską DPD. Tym razem ofiary otrzymują wiadomości o rzekomo nieudanej próbie dostarczenia przesyłki. Komunikaty od oszustów",
+      "likes": 24,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072205910122938846",
+      "author": "@najemcy",
+      "text": "Raport NBP \n\nInwestycja w mieszkanie gorsza od lokaty",
+      "likes": 26,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072010237050073419",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie dnia — wtorek, 30.06.2026\n\n08:02  \n📊 Wielka Brytania rośnie, Niemcy odbijają\n\n• brytyjski PKB wzrósł w I kwartale o 0,6% k/k  \n• usługi zwiększyły aktywność o 0,8%  \n• sprzedaż detaliczna w Niemczech wzrosła w maju o 1,1% m/m  \n• niemiecki konsument wypadł",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071856443402092694",
+      "author": "@CERT_Polska",
+      "text": "🔍 Rzekomy zwrot podatku może być próbą wyłudzenia danych. \n\nDo CERT Polska trafiają zgłoszenia dotyczące kampanii phishingowej wykorzystującej wizerunek Krajowej Administracji Skarbowej. Przestępcy informują o rzekomym zwrocie podatku i zachęcają do przejścia na stronę, na",
+      "likes": 19,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072335913451958781",
+      "author": "@hqmncne",
+      "text": "Starting July 1, #NATO will implement the transition of land command responsibilities in Latvia and Estonia. Following the ceremony on the Latvian-Estonian border, #MNCNE transferred this task to @1GENLCorps and will now focus on Lithuania and Poland.\n\n🔗",
+      "likes": 19,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072295715133366520",
+      "author": "@MZ_GOV_PL",
+      "text": "Łatwiejsza realizacja recept dla pacjentów i nowe wsparcie dla lekarzy - to zmiany, które od 1 lipca wchodzą do systemu ochrony zdrowia. ✅\n\nW Ministerstwie Zdrowia odbyło się dziś spotkanie poświęcone rozwiązaniom, które usprawnią realizację e-recept i proces ich wystawiania. W",
+      "likes": 14,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2072304786624434580",
+      "author": "@CERT_Polska",
+      "text": "🚗 Nieopłacony parking? Uważaj na oszustów!\n\n💰 Przestępcy podszywają się pod operatorów stref płatnego parkowania i wysyłają wiadomości tekstowe z informacją o nieuregulowanej należności. Link zawarty w treści kieruje do strony internetowej przypominającej oficjalny serwis",
+      "likes": 13,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072355921213247672",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie dnia środa, 01.07.2026\n\n06:51  \n🏛️ Tajwan obejmuje kryptowaluty pełnym nadzorem\n\n• platformy, giełdy i firmy przechowujące aktywa będą potrzebowały licencji FSC  \n• emitenci stablecoinów muszą posiadać pełne, oddzielone i regularnie kontrolowane rezerwy  \n•",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072206462651072854",
+      "author": "@LukaszFinanse",
+      "text": "\"Kredyty mieszkaniowe - kolejny miesiąc z ponad 13 mld zł akcji kredytowej\n\nBanki udzieliły w maju br. o 46,9% więcej kredytów mieszkaniowych w porównaniu do maja 2025 r., a w relacji do kwietnia br. o 5,3% mniej. Wzrost wartości przyznanych kredytów mieszkaniowych osiągnął 58,8%",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072286870524895475",
+      "author": "@zus_pl",
+      "text": "📢 Premier @donaldtusk powołał 1 lipca Liwiusza Laskę na stanowisko prezesa Zakładu Ubezpieczeń Społecznych.\n\nDotychczasowy przewodniczący Rady Nadzorczej ZUS oraz dyrektor generalny @MRPiPS_GOV__PL zastąpi na tym fotelu Zbigniewa Derdziuka, który został odwołany z powodu",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072323804827656275",
+      "author": "@USEmbassyWarsaw",
+      "text": "A stronger U.S.-Poland partnership starts with stronger defense cooperation. \n@BAESystemsInc and HCP-WZM signed an MOU in Poznań to explore future production of the M88A2 HERCULES Armored Recovery Vehicle in Poland. The partnership will strengthen defense capabilities, support",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072385811975119050",
+      "author": "@marcinpodlacki",
+      "text": "WYPŁATY W JSW ZAGROŻONE! #JSW #FINTWITT\n\n\"📷 WAŻNY KOMUNIKAT !!! 📷\nW dniu dzisiejszym odbyło się spotkanie Zarządu JSW KOKS S.A. ze stroną społeczną, podczas którego pracodawca przekazał krytyczne informacje dotyczące sytuacji finansowej spółki i wypłaty najbliższych pensji.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072000923971555769",
+      "author": "@AbabeelMilitary",
+      "text": "🇵🇱🛡️ Poland is reinforcing NATO's eastern shield.\n\nWarsaw has signed a $988 million agreement to acquire PAC-2 GEM-T interceptor missiles for its Patriot air defense system, significantly expanding its ability to counter aircraft, cruise missiles, drones, and selected ballistic",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2071976528569565335",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 +0,69%; poziom 3587\n#Kruk +4,43%; rekomendacja \"kupuj\" od Citi na 525 zł\n#Budimex +4,21%; umowa z PKP PLK\n#KGHM +3,19%; oddech na surowcach\n#Atrem +7,21%; projekty biometanowe coraz bliżej\n#Vigo Photonics +4,26%; dofinansowanie projektu badawczego ze środków",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072372923298439664",
+      "author": "@RadekPyffel",
+      "text": "Sąd Najwyższy orzekł, że dzieci urodzone w USA mają konstytucyjne prawo do obywatelstwa, odrzucając tym samym wniosek Donalda Trumpa o zakończenie obowiązującej od 150 lat polityki ius soli (prawa ziemi).\n\nOrzeczenie podtrzymujące zasady uchwalone w 14. poprawce jest poważnym",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072303706389786820",
+      "author": "@BlogiBossaPL",
+      "text": "To był dobry początek roku na GPW. W I półroczu WIG zyskał 15,7%.\n\nWśród głównych indeksów wygrał mWIG40TR: +19,4%. Wyraźnie słabsze były małe spółki: sWIG80TR zyskał 5,1%.\n\nW ujęciu sektorowym wygrały paliwa, czyli Orlen, oraz części samochodowe. Najsłabiej wypadły „ubranka”.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2071904114229780916",
+      "author": "@MilitaryMechs",
+      "text": "Saab lands a $4.9B contract to build three A26 stealth submarines for Poland, with final delivery in 2038.\n\n\n#A26Submarine #PolandNavy #BalticDefense",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072199800137588985",
+      "author": "@BlogiBossaPL",
+      "text": "Strojenie okienek wypadło okazale.\n\n👉WIG20 zyskał 0,7%, zamknął się 1,4% powyżej minimów sesji i pozostał w granicach kilkudniowej konsolidacji 3550–3600 punktów.\n\n👉S&amp;P 500 wzrósł o 0,7%, Nasdaq zyskał 1,7%, a DJIA wzrósł o 0,3% i zamknął się na nowym ATH.\nRosły zarówno",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072263539494883731",
+      "author": "@GPW_WSExchange",
+      "text": "Nowy miesiąc, nowe otwarcia na GPW! \n\n 🔔Adatex po 13 latach na NewConnect przeniósł się na #GłównyRynek GPW. To 8. debiut na głównym parkiecie w 2026 r. i 105. przejście z NC na GPW.\n\n🔔Na #Catalyst zadebiutowały obligacje SGI Finance o wartości 60 mln zł.\n\n#GPW #RynekKapitałowy",
+      "likes": 5,
+      "retweets": 0
+    }
+  ]
+}
