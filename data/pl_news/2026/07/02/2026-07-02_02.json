@@ -1,0 +1,317 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-02",
+  "slot": "02",
+  "generated_at": "2026-07-02T16:07:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2072639290882826635",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 \"Samo gęste\" serwuje dziś GUS. #RynekPracy\n\nW jakich zawodach pracuje największy odsetek ludzi:\n\n1. Sprzedawcy sklepowi i kasjerzy (5,3%)\n2. Kierowcy samochodów ciężarowych (3%)\n\n(1/5)",
+      "likes": 151,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072415559845597215",
+      "author": "@PAPinformacje",
+      "text": "Amerykańscy kongresmeni domagają się wysłania wstrzymanych wojsk do Polski, grożą blokadą środków #PAPinformacje",
+      "likes": 43,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2072184075511538067",
+      "author": "@Macronextcom",
+      "text": "Złoto miało najgorszy kwartał od 13 lat!\n\n🔻-28,4% (od szczytu ze stycznia 2026)\n🔻-14,1% (w Q2 2026, najgorszy kwartał od 13 lat)\n🔻-7,2% (od początku roku)\n🔻4. miesiąc spadków, pierwsza taka seria od 2022\n\nWczoraj złoto było najtańsze od  listopada 2025, ale wciąż +19% r/r.",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072612629709791399",
+      "author": "@Macronextcom",
+      "text": "Stopa bezrobocia w Polsce vs. UE - maj 2026:\n\nbezrobocie: 🇵🇱 3,1% 🆚 5,9% 🇪🇺\nbezrobocie (mężczyźni): 🇵🇱 2,9% 🆚 5,7% 🇪🇺\nbezrobocie (kobiety): 🇵🇱 3,3% 🆚 6,2% 🇪🇺\nbezrobocie (poniżej 25 lat): 🇵🇱 12,4% 🆚 15,2% 🇪🇺\n\nWszystkie dane (Eurostat):",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072214544093450335",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VI 2026 r. Indeks #PMI dla przemysłu: 46,1 pkt. (prognoza: 49,4 pkt.; poprzednio: 49,4 pkt.) \n\n\"W czerwcu warunki gospodarcze w przemyśle pogarszają  się w najszybszym tempie od niemal roku\"\n\nKalendarz:",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072607871338963288",
+      "author": "@PAPinformacje",
+      "text": "Marszałek Sejmu powołał Janusza Krasonia na Głównego Inspektora Pracy. (PAP)\n#PAPInformacje",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072221598065508386",
+      "author": "@GUS_STAT",
+      "text": "W styczniu 2026 r. mediana wynagrodzeń miesięcznych brutto w #GospodarkaNarodowa wyniosła 7447,16 zł i była niższa o 20,4% od przeciętnego miesięcznego wynagrodzenia brutto.\n\n🔗\n\n#GUS #statystyki #wynagrodzenia",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072659166192165375",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 USA: rynek pracy - czerwiec 2026: \n\n🔸bezrobocie: 4,2% (prognoza: 4,3%)\n🔸NFP: +57 tys. (prognoza: +110 tys.)\n\n➡️",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072582999623798986",
+      "author": "@PAPinformacje",
+      "text": "Stała obecność wojsk USA w Polsce. Przydacz: Biały Dom dał „zielone światło”\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072265379003392460",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Nowa edycja monitora długu jest już dostępna. W niej między innymi rekordowe zakupy polskich obligacji przez inwestorów zagranicznych w maju.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072583814195433901",
+      "author": "@GUS_STAT",
+      "text": "Ceny lokali mieszkalnych w Polsce w I kw. 2026 r. wzrosły o 6,0% w porównaniu z I kw. 2025 r., a w stosunku do IV kw. 2025 r. wzrosły o 2,3%. \n\n🔗\n\n#GUS #statystyki #CenyMieszkań #ceny #budownictwo #GospodarkaMieszkaniowa",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072662653227372978",
+      "author": "@DGPrawna",
+      "text": "TSUE potwierdza: przedawnienie roszczeń banku rozpoczyna się po zakwestionowaniu umowy frankowej",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072712422901649873",
+      "author": "@PAPinformacje",
+      "text": "Prezydent zawetował ustawę o zapobieganiu zanieczyszczaniu morza przez statki\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072376472027992221",
+      "author": "@LukaszBok",
+      "text": "Według danych GUS na koniec 2025 roku w Polsce przebywało ok. 38,8 mln osób (o blisko 40 tys. więcej niż rok wcześniej). \n\nWśród nich ok. 2,3 mln osób (wzrost o niemal 215 tys.) posiadających obce obywatelstwo, z czego 73% stanowili obywatele Ukrainy. Udział cudzoziemców wyniósł",
+      "likes": 2580,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2072263046362275990",
+      "author": "@DrabinskiAriel",
+      "text": "Właśnie GUS opublikował dane na temat liczby osób przebywających w Polsce, na podstawie śladów życia.\n\nWedług tej metodologi na koniec 2025 miało w Polsce przebywać 38,8 miliona osób w tym 2,3 miliona obcokrajowców (wzrost o 215 tysięcy).\n\nPoniżej liczba osób przebywających w",
+      "likes": 385,
+      "retweets": 61
+    },
+    {
+      "tweet_id": "2072010349167931485",
+      "author": "@GotfrydKarol",
+      "text": "Z powodu zmian klimatycznych Volkswagen zwolni 100 tys. pracowników i zamknie 4 zakłady w Niemczech.\n\n\"Klimat dla biznesu bardzo się zmienił,\" powiedział prezes korporacji.",
+      "likes": 396,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2072198782335209667",
+      "author": "@PremierRP",
+      "text": "Polska elektrownia jądrowa wchodzi w kolejny etap realizacji! 🇵🇱⚛️\n\nSpółka @PEJ_PL otrzymała kluczowe pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy. Już w lipcu ruszą prace związane z przygotowaniem terenu, budową dróg, zaplecza technicznego oraz niezbędnej",
+      "likes": 233,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2072436559576449354",
+      "author": "@WojciechCPK",
+      "text": "Terminal Pasażerski CPK będzie gigantyczny!\n\n- Powierzchnia użytkowa ogółem 281 828,46 m²\n- Wysokość 33,80 m\n- Kubatura brutto 4,9 mln m³\n- przepustowość 44 mln pasażerów rocznie\n- szerokość pirsów 34 m",
+      "likes": 179,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072221246788452423",
+      "author": "@UOKiKgovPL",
+      "text": "Chcesz coś z Avonu? \n\nW wirtualnym świecie to popularny mem, w rzeczywistym – wiele firm z sektora MŚP odpowie na to pytanie, że chce należnych im pieniędzy. \n\nPrezes UOKiK, za tworzenie zatorów płatniczych, nałożył na Avon Cosmetics Polska karę ponad 1,1 mln zł.\n\nSzczegóły",
+      "likes": 140,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2072598653802512565",
+      "author": "@PremierRP",
+      "text": "⚡ 70 mld zł z KPO na modernizację polskiej energetyki!\n\nTo największy program wsparcia energetyki w historii Polski. Dzięki inwestycjom powstaną nowoczesne sieci, wzrośnie liczba przyłączeń OZE, a tysiące prosumentów zyskają stabilniejsze działanie instalacji fotowoltaicznych.",
+      "likes": 90,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2072317549862084854",
+      "author": "@KlubJagiellonsk",
+      "text": "⌛️ „Stracony czas jest niestety nie do odzyskania” – napisał niedawno na X Maciej Wilk, prezes Stowarzyszenia TAK dla CPK.\n\n💸 Jego słowa odnoszą się do faktu, że umowę na palowanie fundamentów pod terminal CPK (obecnie Port Polska) podpisano dopiero w czerwcu 2026 r. – czyli",
+      "likes": 72,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2072097633389486188",
+      "author": "@First_Ender_",
+      "text": "29 czerwca 2026 Sąd Najwyższy USA odmówił rozpatrzenia apelacji Trumpa - &gt; wyrok z 2023 r. jest ostateczny. \n\nWyrok z maja 2023: uznany przez ławę przysięgłych w procesie cywilnym za odpowiedzialnego za seksualne nadużycie wobec E. Jean Carroll. Ława przysięgłych przyznała",
+      "likes": 63,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2072420958661407172",
+      "author": "@Lukasz_on_GPW",
+      "text": "W czerwcu 2026 roku analitycy wydali łącznie 27 nowych rekomendacji dla spółek z #GPW. Wśród nich dominowały zalecenia pozytywne – „kupuj”, „akumuluj” i „przeważaj” – ale pojawiło się też kilka mocnych sygnałów ostrzegawczych w handlu detalicznym, grach oraz surowcach.\nWięcej 👇",
+      "likes": 79,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072614269623930960",
+      "author": "@Straz_Graniczna",
+      "text": "🟢‼️Międzynarodowa grupa przestępcza przemycająca narkotyki z Tajlandii 🇹🇭 do Europy 🇪🇺 rozbita przez funkcjonariuszy z @Morski_SG .\n\n✅1⃣1⃣9⃣4⃣ kg marihuany zabezpieczone,\n✅blisko 4⃣8⃣ mln zł szacunkowej wartości przejętych narkotyków,\n✅8⃣ zatrzymanych osób w wieku od 29 do 57",
+      "likes": 60,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2072596452006625720",
+      "author": "@MarekWoch2",
+      "text": "\"Znamy budżet NFZ na 2027 rok. Zabraknie 20 mld zł. Projekt 2 lipca w Sejmie \n\n237,3 mld zł - tyle mają wynieść koszty ogółem NFZ na 2027 rok. Mimo podwyższenia dotacji z 26 mld zł do 35 mld zł, w projekcie planu finansowego Funduszu wciąż będzie brakować pieniędzy. Eksperci",
+      "likes": 48,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2072066747608260893",
+      "author": "@OKonserwa",
+      "text": "Polska w TOP 10 światowych posiadaczy złota ‼️\n\n🏦 Narodowy Bank Polski zgromadził już więcej złota niż Europejski Bank Centralny, Portugalia czy Wielka Brytania. Polska dysponuje obecnie największymi rezerwami walutowymi i największymi rezerwami złota w regionie Europy",
+      "likes": 49,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072041701858787649",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (30.06) za isbiznes. pl\n\n💻 #NTT System – spółka przeznaczy 2,98 mln zł na dywidendę, czyli 0,22 zł na akcję. Pozostała część zysku zasili kapitał zapasowy.\n\n📺 #Digital_Network – akcjonariusze zdecydowali o wypłacie 22,83",
+      "likes": 49,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072636522810003533",
+      "author": "@PremierRP",
+      "text": "🌿 #WłączamyDobryKlimat blisko Ciebie!\n\nTak zmieniamy Polskę: 👇\n\n🔹 53,5 mld zł z Funduszu Modernizacyjnego na rozwój OZE, elektromobilności i modernizację sieci energetycznych.\n🔹 500 mln zł na likwidację nielegalnych wysypisk – usunięto już ponad 17 tys. ton odpadów.\n🔹 3,78",
+      "likes": 30,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2072269757789732944",
+      "author": "@DawidParzyk",
+      "text": "\"Jeszcze w lutym prawie 60 proc. deweloperów liczyło na dalszy wzrost sprzedaży mieszkań – w czerwcu ten odsetek skurczył się do 18 proc. Indeks Nastrojów Deweloperów portalu Tabelaofert po raz pierwszy od listopada 2024 r. sygnalizuje spowolnienie, a rynek czeka na impuls,",
+      "likes": 36,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072335913451958781",
+      "author": "@hqmncne",
+      "text": "Starting July 1, #NATO will implement the transition of land command responsibilities in Latvia and Estonia. Following the ceremony on the Latvian-Estonian border, #MNCNE transferred this task to @1GENLCorps and will now focus on Lithuania and Poland.\n\n🔗",
+      "likes": 29,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072531165152498015",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy — czwartek, 02.07.2026\n\n22:12  \n🤖 SoftBank chce pożyczyć 10 mld USD pod udziały w OpenAI\n\n• japońska grupa rozmawia o pożyczce zabezpieczonej udziałami w OpenAI  \n• finansowanie ma obejmować gwarancję spłaty  \n• w konsorcjum banków mają znaleźć się Goldman",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072225063412093207",
+      "author": "@CERT_Polska",
+      "text": "Uważaj na powiadomienia o nieudanym doręczeniu paczki! \n\n📩 Obserwujemy kolejną odsłonę kampanii phishingowej, w której oszuści podszywają się pod firmę kurierską DPD. Tym razem ofiary otrzymują wiadomości o rzekomo nieudanej próbie dostarczenia przesyłki. Komunikaty od oszustów",
+      "likes": 24,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072010237050073419",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie dnia — wtorek, 30.06.2026\n\n08:02  \n📊 Wielka Brytania rośnie, Niemcy odbijają\n\n• brytyjski PKB wzrósł w I kwartale o 0,6% k/k  \n• usługi zwiększyły aktywność o 0,8%  \n• sprzedaż detaliczna w Niemczech wzrosła w maju o 1,1% m/m  \n• niemiecki konsument wypadł",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072304786624434580",
+      "author": "@CERT_Polska",
+      "text": "🚗 Nieopłacony parking? Uważaj na oszustów!\n\n💰 Przestępcy podszywają się pod operatorów stref płatnego parkowania i wysyłają wiadomości tekstowe z informacją o nieuregulowanej należności. Link zawarty w treści kieruje do strony internetowej przypominającej oficjalny serwis",
+      "likes": 15,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072620315553755510",
+      "author": "@NASK_pl",
+      "text": "📣Dzięki NASK Polska dołącza do elitarnego grona państw z dostępem do GPT-5.5-Cyber – specjalistycznego modelu AI stworzonego przez @OpenAI  z myślą o wykrywaniu i analizie cyberzagrożeń.\n\nTo przełom dla polskiego cyberbezpieczeństwa i olbrzymie możliwości dla @CERT_Polska .",
+      "likes": 13,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072206462651072854",
+      "author": "@LukaszFinanse",
+      "text": "\"Kredyty mieszkaniowe - kolejny miesiąc z ponad 13 mld zł akcji kredytowej\n\nBanki udzieliły w maju br. o 46,9% więcej kredytów mieszkaniowych w porównaniu do maja 2025 r., a w relacji do kwietnia br. o 5,3% mniej. Wzrost wartości przyznanych kredytów mieszkaniowych osiągnął 58,8%",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072323804827656275",
+      "author": "@USEmbassyWarsaw",
+      "text": "A stronger U.S.-Poland partnership starts with stronger defense cooperation. \n@BAESystemsInc and HCP-WZM signed an MOU in Poznań to explore future production of the M88A2 HERCULES Armored Recovery Vehicle in Poland. The partnership will strengthen defense capabilities, support",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072048292691652783",
+      "author": "@Lukasz_on_GPW",
+      "text": "Wyniki indeksów #GPW po sesji z dnia 30.06 wraz z wynikami YTD na półmetku roku 2026 (Dane za GPW)",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072303706389786820",
+      "author": "@BlogiBossaPL",
+      "text": "To był dobry początek roku na GPW. W I półroczu WIG zyskał 15,7%.\n\nWśród głównych indeksów wygrał mWIG40TR: +19,4%. Wyraźnie słabsze były małe spółki: sWIG80TR zyskał 5,1%.\n\nW ujęciu sektorowym wygrały paliwa, czyli Orlen, oraz części samochodowe. Najsłabiej wypadły „ubranka”.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072199800137588985",
+      "author": "@BlogiBossaPL",
+      "text": "Strojenie okienek wypadło okazale.\n\n👉WIG20 zyskał 0,7%, zamknął się 1,4% powyżej minimów sesji i pozostał w granicach kilkudniowej konsolidacji 3550–3600 punktów.\n\n👉S&amp;P 500 wzrósł o 0,7%, Nasdaq zyskał 1,7%, a DJIA wzrósł o 0,3% i zamknął się na nowym ATH.\nRosły zarówno",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072615904391606699",
+      "author": "@opole_meteo",
+      "text": "W okolicach #Baborów na Opolszczyźnie po wczoraj są podtopienia i zalania, spadło tam miejscami ponad 50 mm w krótkim czasie. Jeden budynek mieszkalny został ewakuowany.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072654457205109015",
+      "author": "@tbardzilowski",
+      "text": "ROBYG wraca na GPW. Witamy! 🔔 Po 8 latach spółka jest ponownie notowana na warszawskim parkiecie i udowadnia, że warto być na @GPW_WSExchange. Oferta o wartości blisko 1,2 mld zł to największe IPO od początku roku. Gratuluję👏",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072607715214406006",
+      "author": "@Karo_Petka",
+      "text": "TSUE wydał dziś ważny wyrok w sprawach C-261/25 i C-262/25. Trybunał potwierdził, że kluczowe znaczenie ma moment, w którym konsument po raz pierwszy zakwestionuje wobec banku postanowienia umowy. To kolejne istotne rozstrzygnięcie porządkujące spory dotyczące kredytów frankowych",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072657432711421972",
+      "author": "@Zaufana3Strona",
+      "text": "Wakacje za pasem, a system rezerwacyjny wielu polskich hoteli zaliczył wyciek danych - tak przynajmniej wynika z wiadomości wysyłanych przez jeden z hoteli do jego klientów.",
+      "likes": 4,
+      "retweets": 0
+    }
+  ]
+}

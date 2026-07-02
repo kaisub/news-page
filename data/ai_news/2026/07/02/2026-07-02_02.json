@@ -1,0 +1,79 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-02",
+  "slot": "02",
+  "generated_at": "2026-07-02T16:07:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2072694781285986625",
+      "author": "@hwchase17",
+      "text": "big week at langchain, with a lot of launches:\n\n1/ OpenWiki - auto generate a wiki of a github repo\n2/ two different voice agent tutorials\n3/ Harbor integration and tutorial for long running, stateful evals\n4/ programatic subagents in deepagents (RLM like)\n\n🧵with details",
+      "likes": 40,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2071995953566077010",
+      "author": "@svpino",
+      "text": "Summary of how your agents can pay for themselves using the x402 protocol:\n\n1. You give your agent a task\n2. The agent finds the tools it wants to use\n3. It sends a signed HTTP request\n4. The tool sends back an HTTP 402 \"Payment Required\" response\n5. The agent authorizes payment",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072243850182270976",
+      "author": "@sentient_agency",
+      "text": "Omegle used to be where you talked to strangers.\n\nNow it's where a repo called Deep-Live-Cam lets you show up as literally anyone.\n\nLoad one image as your source face. Hit \"Live.\" Your webcam becomes that person for the entire conversation, tracked frame by frame in real time.",
+      "likes": 17,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2072394812301480067",
+      "author": "@NVIDIAAI",
+      "text": "We took a 30B model and split it in two to write tokens in parallel instead of one at a time.\n\nIntroducing Nemotron-Labs-TwoTower: a diffusion language model from NVIDIA Research adapted from Nemotron-3-Nano-30B-A3B. Here’s how it works: one half holds the context, the other",
+      "likes": 4022,
+      "retweets": 497
+    },
+    {
+      "tweet_id": "2072326622590730604",
+      "author": "@erin_catto",
+      "text": "I’m happy to announce the release of a new open source 3D physics engine called Box3D. I’ve been working on this project for a few years now, but it represents over 20 years of experience writing physics engines for games. Read more here:",
+      "likes": 3819,
+      "retweets": 572
+    },
+    {
+      "tweet_id": "2072382087638954079",
+      "author": "@spt4d",
+      "text": "Introducing GameBlocks: open-source building blocks that help coding agents prototype any 3D games with @threejs \n\n3D behavior is hard to specify in natural language. GameBlocks turns fragile spatial logic into inspectable implementations with clear semantics, so agents can build",
+      "likes": 765,
+      "retweets": 76
+    },
+    {
+      "tweet_id": "2072383318516187380",
+      "author": "@RampLabs",
+      "text": "Introducing PorTAL: Portable Task Adapters for LLMs. A novel recipe to cheaply port fine-tuning between models. It matches per task LoRA accuracy at half the cost, lowering the switching overhead of adapting tasks across LLMs.\n\nAt Ramp, every new model release used to mean",
+      "likes": 546,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2072477489612664926",
+      "author": "@Baconbrix",
+      "text": "Just open sourced a template for using the new Grok Voice Agents in Expo\n\n⬦ Dynamic Rive animations from Vercel AI Elements \n⬦ AI SDK v7 and Tailwind\n⬦ Custom Grok voices and personalities\n\nSource below ↓",
+      "likes": 371,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2072462757379612916",
+      "author": "@MoonDevOnYT",
+      "text": "i just made my entire trading agent suite open source so you can build your own autonomous firm for free.\n\nstop paying for closed models and copy this architecture to run an army of 20+ specialized trading agents in python.\n\nforget manual trading and steal the exact github repo i",
+      "likes": 136,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2072614040635908314",
+      "author": "@MervinPraison",
+      "text": "has officially released GLM 5.2, an open-source AI model built for coding and software engineering.\n\n- 1M-token context window for large repositories and long-running tasks.\n- Strong performance across coding benchmarks.\n- MIT licensed for unrestricted use",
+      "likes": 42,
+      "retweets": 4
+    }
+  ]
+}
