@@ -1,0 +1,86 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-03",
+  "slot": "01",
+  "generated_at": "2026-07-03T01:26:01Z",
+  "tweets": [
+    {
+      "tweet_id": "2072694781285986625",
+      "author": "@hwchase17",
+      "text": "big week at langchain, with a lot of launches:\n\n1/ OpenWiki - auto generate a wiki of a github repo\n2/ two different voice agent tutorials\n3/ Harbor integration and tutorial for long running, stateful evals\n4/ programatic subagents in deepagents (RLM like)\n\n🧵with details",
+      "likes": 116,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2072243850182270976",
+      "author": "@sentient_agency",
+      "text": "Omegle used to be where you talked to strangers.\n\nNow it's where a repo called Deep-Live-Cam lets you show up as literally anyone.\n\nLoad one image as your source face. Hit \"Live.\" Your webcam becomes that person for the entire conversation, tracked frame by frame in real time.",
+      "likes": 17,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2072394812301480067",
+      "author": "@NVIDIAAI",
+      "text": "We took a 30B model and split it in two to write tokens in parallel instead of one at a time.\n\nIntroducing Nemotron-Labs-TwoTower: a diffusion language model from NVIDIA Research adapted from Nemotron-3-Nano-30B-A3B. Here’s how it works: one half holds the context, the other",
+      "likes": 4380,
+      "retweets": 549
+    },
+    {
+      "tweet_id": "2072416088785359189",
+      "author": "@Teknium",
+      "text": "Hermes Agent v0.18.0 is here. The Judgement Release.\n\nThis release includes a lot of powerful new features:\n\n- Mixture of Agents as a first class virtual model, to take you beyond the frontier\n- /learn to teach your agent anything from open ended sources\n- Journey to visualize",
+      "likes": 1778,
+      "retweets": 177
+    },
+    {
+      "tweet_id": "2072699094040998064",
+      "author": "@randall_balestr",
+      "text": "Oops, SIGReg did it again! Large scale (CC12M-&gt;Datacomp-L) vision-language JEPA pretraining beats CLIP and SigLIP objectives! Thanks to SIGReg, our LeVLJEPA has no collapse, no EMA, no stop-gradient, no negatives, no problem! Checkpoints/demo are live:",
+      "likes": 194,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2072712459857645721",
+      "author": "@AIHighlight",
+      "text": "🚨 A SENIOR ANTHROPIC ENGINEER JUST DROPPED AN 11-PAGE PDF ON LOOP ENGINEERING.\n\nThe core shift: stop prompting the agent. Build the system that prompts it.\n\nInside the autonomous loop:\n\n- Discover → Finds its own work (failing CI, open issues).\n- Isolate → Uses separate git",
+      "likes": 116,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2072591438680887774",
+      "author": "@freeCodeCamp",
+      "text": "What if an AI agent could run its own LLM training experiments overnight?\n\nIn this article, Ishaan walks you through Andrej Karpathy’s autoresearch project.\n\nYou'll learn how the agent edits  runs fixed 5-minute experiments, tracks validation bits per",
+      "likes": 156,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2072738141719667150",
+      "author": "@vercel_dev",
+      "text": "AI Gateway now supports routing rules.\n\nMigrate to new models by setting rules in the CLI, no code changes in your app or agent required.",
+      "likes": 88,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072356149962088534",
+      "author": "@LangChain",
+      "text": "You can now run recursive language model (RLM) workflows in Deep Agents.\n\nEverything you need to know in 6 minutes from @sydneyrunkle.",
+      "likes": 71,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2072689324039221316",
+      "author": "@ZhihuFrontier",
+      "text": "🧵 How good is Huawei's newly open-sourced openPangu-2.0-Flash?\nAccording to Zhihu contributor &amp; NUS PhD 栖于永夜, it's currently one of the most complete open-source MoE models running on the Ascend ecosystem.\nFeatures like mHC, Muon and MTP—all frontier techniques introduced in",
+      "likes": 41,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2072836536069202137",
+      "author": "@rohanpaul_ai",
+      "text": "ByteDance Seed delivered again.\n\nThey released EdgeBench, to test whether AI agents can improve through experience, using 134 real-world tasks that run for at least 12 hours.\n\nThe big deal is that it shifts AI evaluation from “what does the model already know?” to “can the model",
+      "likes": 15,
+      "retweets": 3
+    }
+  ]
+}

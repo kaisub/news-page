@@ -1,0 +1,345 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-03",
+  "slot": "01",
+  "generated_at": "2026-07-03T01:26:01Z",
+  "tweets": [
+    {
+      "tweet_id": "2072639290882826635",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 \"Samo gęste\" serwuje dziś GUS. #RynekPracy\n\nW jakich zawodach pracuje największy odsetek ludzi:\n\n1. Sprzedawcy sklepowi i kasjerzy (5,3%)\n2. Kierowcy samochodów ciężarowych (3%)\n\n(1/5)",
+      "likes": 191,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2072753425582796822",
+      "author": "@PAPinformacje",
+      "text": "Tusk zrzekł się immunitetu poselskiego. Chodzi o prywatny akt oskarżenia Instytutu Polski Suwerennej\n#PAPinformacje",
+      "likes": 42,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2072184075511538067",
+      "author": "@Macronextcom",
+      "text": "Złoto miało najgorszy kwartał od 13 lat!\n\n🔻-28,4% (od szczytu ze stycznia 2026)\n🔻-14,1% (w Q2 2026, najgorszy kwartał od 13 lat)\n🔻-7,2% (od początku roku)\n🔻4. miesiąc spadków, pierwsza taka seria od 2022\n\nWczoraj złoto było najtańsze od  listopada 2025, ale wciąż +19% r/r.",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072612629709791399",
+      "author": "@Macronextcom",
+      "text": "Stopa bezrobocia w Polsce vs. UE - maj 2026:\n\nbezrobocie: 🇵🇱 3,1% 🆚 5,9% 🇪🇺\nbezrobocie (mężczyźni): 🇵🇱 2,9% 🆚 5,7% 🇪🇺\nbezrobocie (kobiety): 🇵🇱 3,3% 🆚 6,2% 🇪🇺\nbezrobocie (poniżej 25 lat): 🇵🇱 12,4% 🆚 15,2% 🇪🇺\n\nWszystkie dane (Eurostat):",
+      "likes": 34,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072732987142078926",
+      "author": "@PAPinformacje",
+      "text": "Węgry cofnęły status uchodźcy Romanowskiemu, Ziobrze i jego żonie. Szef MS zapowiada dalsze kroki #PAPinformacje",
+      "likes": 24,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072613799014605165",
+      "author": "@mbank_research",
+      "text": "💡Ciekawostka z badania eksperymentalnego @GUS_STAT (\"Zróżnicowanie zawodów na rynku pracy w Polsce\"): \n\nEkonomiści zaliczają się do zawodów o najwyższej średniej wieku (51 lat). \n\nNa czele lekarze specjaliści (56).\n\n* U nas w zespole 34,5\n (sami lekarze, czyli doktorzy 🙃 40).",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072607871338963288",
+      "author": "@PAPinformacje",
+      "text": "Marszałek Sejmu powołał Janusza Krasonia na Głównego Inspektora Pracy. (PAP)\n#PAPInformacje",
+      "likes": 16,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072214544093450335",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VI 2026 r. Indeks #PMI dla przemysłu: 46,1 pkt. (prognoza: 49,4 pkt.; poprzednio: 49,4 pkt.) \n\n\"W czerwcu warunki gospodarcze w przemyśle pogarszają  się w najszybszym tempie od niemal roku\"\n\nKalendarz:",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072659166192165375",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 USA: rynek pracy - czerwiec 2026: \n\n🔸bezrobocie: 4,2% (prognoza: 4,3%)\n🔸NFP: +57 tys. (prognoza: +110 tys.)\n\n➡️",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072712422901649873",
+      "author": "@PAPinformacje",
+      "text": "Prezydent zawetował ustawę o zapobieganiu zanieczyszczaniu morza przez statki\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072221598065508386",
+      "author": "@GUS_STAT",
+      "text": "W styczniu 2026 r. mediana wynagrodzeń miesięcznych brutto w #GospodarkaNarodowa wyniosła 7447,16 zł i była niższa o 20,4% od przeciętnego miesięcznego wynagrodzenia brutto.\n\n🔗\n\n#GUS #statystyki #wynagrodzenia",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072714949793554566",
+      "author": "@Macronextcom",
+      "text": "#TEXT - kluczowe wskaźniki za I kw. 2026/2027: \n\n🔸ARR: 89,5 mln USD (+7,6% k/k)\n🔸MRR: 7,46 mln USD (+7,6% k/k, +4% r/r)\n🔸Płatności: 24,19 mln USD (+7,2% k/k, +10,8% r/r)",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072583814195433901",
+      "author": "@GUS_STAT",
+      "text": "Ceny lokali mieszkalnych w Polsce w I kw. 2026 r. wzrosły o 6,0% w porównaniu z I kw. 2025 r., a w stosunku do IV kw. 2025 r. wzrosły o 2,3%. \n\n🔗\n\n#GUS #statystyki #CenyMieszkań #ceny #budownictwo #GospodarkaMieszkaniowa",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072545403724075498",
+      "author": "@DGPrawna",
+      "text": "GUS zbadał „ślady życia”. Na koniec 2025 r. w Polsce było 38,8 mln osób, w tym 2,3 mln cudzoziemców",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072662653227372978",
+      "author": "@DGPrawna",
+      "text": "TSUE potwierdza: przedawnienie roszczeń banku rozpoczyna się po zakwestionowaniu umowy frankowej",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072294312910479625",
+      "author": "@sheemawn",
+      "text": "Według nowego badania GUS: \n1. Realnie w Polsce mieszka 38,86 mln osób, o 1,5 mln więcej niż oficjalnie. Jest 2,3 mln cudzoziemców, za to około 800 tys. oficjalnie mieszkających w Polsce Polaków mieszka za granicą. \n2. Od zeszłego roku przybyło 24 tys. osób, z czego Polaków ubyło",
+      "likes": 1007,
+      "retweets": 132
+    },
+    {
+      "tweet_id": "2072169671982211273",
+      "author": "@Ksawery_Kreft",
+      "text": "Sąd Najwyższy USA odmówił rozpatrzenia apelacji Donalda Trumpa w sprawie E. Jean Carroll.\n\nWyrok z 2023 roku – uznający go WINNYM napaści seksualnej i zniesławienia oraz zasądzający 5 mln dolarów – jest ostateczny.",
+      "likes": 695,
+      "retweets": 179
+    },
+    {
+      "tweet_id": "2072340987460923570",
+      "author": "@GPW_Trader2022",
+      "text": "Środa wieczór. Skrót info ze świata 🌍\n-🇸🇪 Google z 1,3 mld€ kary dla Klarna.\n- 🇷🇺Rosja kupuje benzynę w Indiach i importuje\n- 👛ponad 52% Polaków zarabia &lt;5400zł na rękę\n-🇩🇪⛽️ mocne wzrosty cen paliw. Koniec ulg\n-🇵🇱 GUS: w Polsce mieszka 38,8 mln ludzi ( w tym 2,3 mln",
+      "likes": 489,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2072761623987511324",
+      "author": "@NOELreports",
+      "text": "❗️Poland will gradually retire its remaining MiG-29 fighters after a proposed transfer to Ukraine in exchange for drone technology failed to materialize. Defense Minister Władysław Kosiniak-Kamysz said Kyiv initially agreed to the deal but did not implement it. #Poland",
+      "likes": 393,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2072610448453652575",
+      "author": "@Bart_Wielinski",
+      "text": "Polak i Białorusin działali na zlecenie obcych służb. Zostali zatrzymani przez ABW\n\nAresztowani  to 19-letni Aliaksei B. i 44-letni Rafał G. Lubelski wydział  Prokuratury Krajowej, zajmujący się przestępczością zorganizowaną i  korupcją, postawił im zarzuty, dotyczące działania",
+      "likes": 312,
+      "retweets": 116
+    },
+    {
+      "tweet_id": "2072198782335209667",
+      "author": "@PremierRP",
+      "text": "Polska elektrownia jądrowa wchodzi w kolejny etap realizacji! 🇵🇱⚛️\n\nSpółka @PEJ_PL otrzymała kluczowe pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy. Już w lipcu ruszą prace związane z przygotowaniem terenu, budową dróg, zaplecza technicznego oraz niezbędnej",
+      "likes": 239,
+      "retweets": 88
+    },
+    {
+      "tweet_id": "2072728933275975960",
+      "author": "@MaciejBerek",
+      "text": "❗️ZUS automatycznie odnowi prawo do świadczenia 800+: \n✅ koniec z corocznym składaniem tego samego wniosku; ✅ mniej formalności dla rodziców i opiekunów; ✅ sprawniejsza praca administracji; ✅ ciągłość wypłaty świadczenia;\n✅ realne ułatwienie dla 4,4 mln polskich rodzin i",
+      "likes": 118,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2072221246788452423",
+      "author": "@UOKiKgovPL",
+      "text": "Chcesz coś z Avonu? \n\nW wirtualnym świecie to popularny mem, w rzeczywistym – wiele firm z sektora MŚP odpowie na to pytanie, że chce należnych im pieniędzy. \n\nPrezes UOKiK, za tworzenie zatorów płatniczych, nałożył na Avon Cosmetics Polska karę ponad 1,1 mln zł.\n\nSzczegóły",
+      "likes": 145,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2072714662068486376",
+      "author": "@motykamilosz",
+      "text": "Ustawa deregulacyjna autorstwa @ME_GOV_PL z podpisem prezydenta.\n\n📌 wprowadzamy proste i czytelne rachunki za energię, większą ochronę odbiorców i szybszą realizację usług, w tym montażu liczników;\n📌 ograniczamy biurokrację, aby przedsiębiorcy mogli szybciej realizować nowe",
+      "likes": 97,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2072596452006625720",
+      "author": "@MarekWoch2",
+      "text": "\"Znamy budżet NFZ na 2027 rok. Zabraknie 20 mld zł. Projekt 2 lipca w Sejmie \n\n237,3 mld zł - tyle mają wynieść koszty ogółem NFZ na 2027 rok. Mimo podwyższenia dotacji z 26 mld zł do 35 mld zł, w projekcie planu finansowego Funduszu wciąż będzie brakować pieniędzy. Eksperci",
+      "likes": 60,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2072420958661407172",
+      "author": "@Lukasz_on_GPW",
+      "text": "W czerwcu 2026 roku analitycy wydali łącznie 27 nowych rekomendacji dla spółek z #GPW. Wśród nich dominowały zalecenia pozytywne – „kupuj”, „akumuluj” i „przeważaj” – ale pojawiło się też kilka mocnych sygnałów ostrzegawczych w handlu detalicznym, grach oraz surowcach.\nWięcej 👇",
+      "likes": 84,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072713953688379602",
+      "author": "@CzekalskiPawe",
+      "text": "#Orlen uruchomił w Niemczech swój pierwszy wielostanowiskowy hub szybkiego ładowania elektrycznych aut pod marką Orlen Charge\nWyposażony w panele fotowoltaiczne na dachu, które wspierają zasilanie ładowarek energią z OZE\nNiemcy, OZE, dach, dla niektórych to jak płachta na byka",
+      "likes": 35,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072335913451958781",
+      "author": "@hqmncne",
+      "text": "Starting July 1, #NATO will implement the transition of land command responsibilities in Latvia and Estonia. Following the ceremony on the Latvian-Estonian border, #MNCNE transferred this task to @1GENLCorps and will now focus on Lithuania and Poland.\n\n🔗",
+      "likes": 32,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072620315553755510",
+      "author": "@NASK_pl",
+      "text": "📣Dzięki NASK Polska dołącza do elitarnego grona państw z dostępem do GPT-5.5-Cyber – specjalistycznego modelu AI stworzonego przez @OpenAI  z myślą o wykrywaniu i analizie cyberzagrożeń.\n\nTo przełom dla polskiego cyberbezpieczeństwa i olbrzymie możliwości dla @CERT_Polska .",
+      "likes": 29,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072698457895076241",
+      "author": "@_ZajacPiotr",
+      "text": "#LiczbyDnia czw:\n\n1) #WIG20 +1,6% do 3668\n2) #Orlen +4,8%; GER\n3) #XTB +6,3%; CMC\n4) #Arctic +8,5% #Ryvu 9,6%; #CIG +6,1% FF-effect\n5) #PCCRokita -4,7%; ABB 57\n6) #Atal +3,3%; sprz IIQ\n7) #Grodno +2,1%; sprz VI\n8) #NFP US 57k prog 110K\n9) #oil WTI&lt;68$\n10) #gold&gt;4100\n11) #BTC&gt;61k",
+      "likes": 33,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072781128490975253",
+      "author": "@Piechocinski",
+      "text": "Liczba cudzoziemców opłacających składki w ZUS rośnie najszybciej od jesieni",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072295715133366520",
+      "author": "@MZ_GOV_PL",
+      "text": "Łatwiejsza realizacja recept dla pacjentów i nowe wsparcie dla lekarzy - to zmiany, które od 1 lipca wchodzą do systemu ochrony zdrowia. ✅\n\nW Ministerstwie Zdrowia odbyło się dziś spotkanie poświęcone rozwiązaniom, które usprawnią realizację e-recept i proces ich wystawiania. W",
+      "likes": 15,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2072619637276114981",
+      "author": "@KGawkowski",
+      "text": "🤖 NASK i CERT Polska w programie Daybreak z dostępem do modelu GPT-5.5-Cyber - najbardziej zaawansowanego modelu AI do wykrywania podatności na ataki!\n\n💪To potwierdzenie, że polscy eksperci należą do grona najlepszych specjalistów na świecie. Tylko 8 państw uczestniczy obecnie",
+      "likes": 13,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2072703965649678560",
+      "author": "@nawylottv",
+      "text": "❗️🧮 GUS opublikował wyniki badania mającego na celu oszacowanie faktycznej - a nie zameldowanej - liczby ludności Polski oraz jej województw i miast.\n\n➡️ Według nich Częstochowa zaraz za Wrocławiem jest miejscowością z najmocniej obniżoną liczbą mieszkańców. Nieoficjalnie wraz z",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072206462651072854",
+      "author": "@LukaszFinanse",
+      "text": "\"Kredyty mieszkaniowe - kolejny miesiąc z ponad 13 mld zł akcji kredytowej\n\nBanki udzieliły w maju br. o 46,9% więcej kredytów mieszkaniowych w porównaniu do maja 2025 r., a w relacji do kwietnia br. o 5,3% mniej. Wzrost wartości przyznanych kredytów mieszkaniowych osiągnął 58,8%",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072755938117759141",
+      "author": "@wirtualnapolska",
+      "text": "🔴Będą podwyżki w służbie zdrowia. Jest decyzja szefowej MZ\n\nMinister zdrowia Jolanta Sobierańska-Grenda zatwierdziła nową wycenę świadczeń, która sfinansuje lipcowe podwyżki dla personelu medycznego. W ciągu najbliższego roku Narodowy Fundusz Zdrowia przeznaczy na ten cel",
+      "likes": 12,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2072372923298439664",
+      "author": "@RadekPyffel",
+      "text": "Sąd Najwyższy orzekł, że dzieci urodzone w USA mają konstytucyjne prawo do obywatelstwa, odrzucając tym samym wniosek Donalda Trumpa o zakończenie obowiązującej od 150 lat polityki ius soli (prawa ziemi).\n\nOrzeczenie podtrzymujące zasady uchwalone w 14. poprawce jest poważnym",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072701248885637453",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 +1,57%; poziomi 3668\n#Orlen +4,78%; spółka już posiada 95% udziałów w #Energa i może zdjąć spółkę z giełdy\n#CDProjekt +3,58%; &gt;230 zł\n#Żabka +2,06%; &gt;28 zł\n#ArcticPaper +8,48%; &gt;SMA50\n#XTB +6,31%; spółka ponownie na ATH\n#gold⬆️ 4124 USD\n#srebro⬆️ 61,04 USD",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072569498947780731",
+      "author": "@Rad92Dan",
+      "text": "✈️⚡ Przetarg na budowę wewnętrznej sieci zasilania docelowego CPK na napięciu 110kV z obiektami towarzyszącymi: stacje transformatorowe, agregatorownie itd.\n---\nOstatnio niemal dzień w dzień coś nowego nt Lotniska CPK.",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072657432711421972",
+      "author": "@Zaufana3Strona",
+      "text": "Wakacje za pasem, a system rezerwacyjny wielu polskich hoteli zaliczył wyciek danych - tak przynajmniej wynika z wiadomości wysyłanych przez jeden z hoteli do jego klientów.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072607715214406006",
+      "author": "@Karo_Petka",
+      "text": "TSUE wydał dziś ważny wyrok w sprawach C-261/25 i C-262/25. Trybunał potwierdził, że kluczowe znaczenie ma moment, w którym konsument po raz pierwszy zakwestionuje wobec banku postanowienia umowy. To kolejne istotne rozstrzygnięcie porządkujące spory dotyczące kredytów frankowych",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072714560859992201",
+      "author": "@PISM_Poland",
+      "text": "🇬🇧 Deficyt finansowania brytyjskiej obrony.\n\n👉 Opublikowany 1 lipca obronny plan inwestycyjny (DIP) określa zakres finansowania dla celów wskazanych w Strategicznym przeglądzie obronnym (SDR) z czerwca ub.r. \n👉 Przewidziany w DIP wzrost wydatków do 2030 r. jest o ok. połowę",
+      "likes": 6,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072615904391606699",
+      "author": "@opole_meteo",
+      "text": "W okolicach #Baborów na Opolszczyźnie po wczoraj są podtopienia i zalania, spadło tam miejscami ponad 50 mm w krótkim czasie. Jeden budynek mieszkalny został ewakuowany.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072303706389786820",
+      "author": "@BlogiBossaPL",
+      "text": "To był dobry początek roku na GPW. W I półroczu WIG zyskał 15,7%.\n\nWśród głównych indeksów wygrał mWIG40TR: +19,4%. Wyraźnie słabsze były małe spółki: sWIG80TR zyskał 5,1%.\n\nW ujęciu sektorowym wygrały paliwa, czyli Orlen, oraz części samochodowe. Najsłabiej wypadły „ubranka”.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072670258477838653",
+      "author": "@MarekChadzynski",
+      "text": "Lekarze nam się starzeją. A konkretnie mediana wieku wśród lekarzy specjalistów jest najwyższa w zestawieniu zawodów sporządzonym przez @GUS_STAT. Więcej w tekście dla @puls_biznesu:",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072625061618483274",
+      "author": "@uknf",
+      "text": "🔸 Komisja Nadzoru Finansowego wszczęła postępowanie administracyjne dot. nałożenia kary pieniężnej na PKO Towarzystwo Ubezpieczeń w zw. z podejrzeniem naruszenia ustawy o działalności ubezpieczeniowej i reasekuracyjnej poprzez ustalenie składki niezapewniającej co najmniej",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072199800137588985",
+      "author": "@BlogiBossaPL",
+      "text": "Strojenie okienek wypadło okazale.\n\n👉WIG20 zyskał 0,7%, zamknął się 1,4% powyżej minimów sesji i pozostał w granicach kilkudniowej konsolidacji 3550–3600 punktów.\n\n👉S&amp;P 500 wzrósł o 0,7%, Nasdaq zyskał 1,7%, a DJIA wzrósł o 0,3% i zamknął się na nowym ATH.\nRosły zarówno",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072662680519790746",
+      "author": "@BlogiBossaPL",
+      "text": "W czerwcu w USA przybyło 57 tys. miejsc pracy wobec oczekiwanych 113 tys. i 129 tys. miesiąc wcześniej. Rewizje za dwa poprzednie miesiące obniżyły wcześniejsze odczyty łącznie o 74 tys.\n\nSłabszy odczyt zmniejsza szanse na podwyżkę stóp procentowych w USA. \n\nDolar mocno się",
+      "likes": 5,
+      "retweets": 1
+    }
+  ]
+}
