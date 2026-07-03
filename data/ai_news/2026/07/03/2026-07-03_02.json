@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-03",
+  "slot": "02",
+  "generated_at": "2026-07-03T15:45:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2072694781285986625",
+      "author": "@hwchase17",
+      "text": "big week at langchain, with a lot of launches:\n\n1/ OpenWiki - auto generate a wiki of a github repo\n2/ two different voice agent tutorials\n3/ Harbor integration and tutorial for long running, stateful evals\n4/ programatic subagents in deepagents (RLM like)\n\n🧵with details",
+      "likes": 163,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2073024710242382106",
+      "author": "@svpino",
+      "text": "Here is how to build your first agentic loop with Claude Code:\n\n1. Open your terminal.\n2. Create an empty folder and move into it.\n3. Run the following command:\n\n*************************\nclaude -p \"Write fibonnacy(n) in a Python file. Write tests for it, including edge cases.",
+      "likes": 114,
+      "retweets": 9
+    }
+  ]
+}
