@@ -1,0 +1,373 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-04",
+  "slot": "01",
+  "generated_at": "2026-07-04T01:27:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2072639290882826635",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 \"Samo gęste\" serwuje dziś GUS. #RynekPracy\n\nW jakich zawodach pracuje największy odsetek ludzi:\n\n1. Sprzedawcy sklepowi i kasjerzy (5,3%)\n2. Kierowcy samochodów ciężarowych (3%)\n\n(1/5)",
+      "likes": 212,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2073012682978976021",
+      "author": "@Macronextcom",
+      "text": "Cyberpunk 2077:\n\n🔸lipiec 2026:  40 mln sztuk\n🔸listopad 2025: 35 mln sztuk\n🔸listopad 2024: 30 mln sztuk\n\n#CDProjektRED",
+      "likes": 173,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073001240900829393",
+      "author": "@Macronextcom",
+      "text": "Nikt się nie spodziewał... powrotu tematu obniżek stóp proc. w Polsce.\n\nRentowność 10let. obligacji Polski 🇵🇱 spadała do 5,217% 📉 i jest najniższa od ataku USA/Izrael 🇺🇸🇮🇱 na Iran 🇮🇷. Jeszcze w połowie maja był to 6,056%.",
+      "likes": 106,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2072955762834305384",
+      "author": "@Macronextcom",
+      "text": "Sejm uchwalił w piątek ustawę o Osobistych Kontach Inwestycyjnych (#OKI). 🇵🇱📈💪",
+      "likes": 81,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072972227641741576",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Warszawy przyjął dymisje swoich zastępczyń Renaty Kaznowskiej i Aldony Machnowskiej-Góry. (PAP)\n#PAPinformacje",
+      "likes": 47,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2072937918272876916",
+      "author": "@Macronextcom",
+      "text": "Analitycy Barclays obniżyli cenę docelową dla akcji Dino Polska 🇵🇱 do 31 zł z 35 zł. Wczoraj za jedną akcję Dino płacono 28,69 zł.\n\nDINO POLSKA : BARCLAYS CUTS TARGET PRICE TO PLN 31 FROM PLN 35",
+      "likes": 45,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072612629709791399",
+      "author": "@Macronextcom",
+      "text": "Stopa bezrobocia w Polsce vs. UE - maj 2026:\n\nbezrobocie: 🇵🇱 3,1% 🆚 5,9% 🇪🇺\nbezrobocie (mężczyźni): 🇵🇱 2,9% 🆚 5,7% 🇪🇺\nbezrobocie (kobiety): 🇵🇱 3,3% 🆚 6,2% 🇪🇺\nbezrobocie (poniżej 25 lat): 🇵🇱 12,4% 🆚 15,2% 🇪🇺\n\nWszystkie dane (Eurostat):",
+      "likes": 42,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2073010651903954976",
+      "author": "@PAPinformacje",
+      "text": "Sejm uchwalił ustawę o prawach pacjenta, tzw. lex szarlatan\n#PAPinformacje",
+      "likes": 22,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072613799014605165",
+      "author": "@mbank_research",
+      "text": "💡Ciekawostka z badania eksperymentalnego @GUS_STAT (\"Zróżnicowanie zawodów na rynku pracy w Polsce\"): \n\nEkonomiści zaliczają się do zawodów o najwyższej średniej wieku (51 lat). \n\nNa czele lekarze specjaliści (56).\n\n* U nas w zespole 34,5\n (sami lekarze, czyli doktorzy 🙃 40).",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072714949793554566",
+      "author": "@Macronextcom",
+      "text": "#TEXT - kluczowe wskaźniki za I kw. 2026/2027: \n\n🔸ARR: 89,5 mln USD (+7,6% k/k)\n🔸MRR: 7,46 mln USD (+7,6% k/k, +4% r/r)\n🔸Płatności: 24,19 mln USD (+7,2% k/k, +10,8% r/r)",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072999666078097644",
+      "author": "@GUS_STAT",
+      "text": "Gdzie najczęściej pracują #kobiety, a gdzie #mężczyźni? Najbardziej sfeminizowany jest zawód położnych, a najbardziej zmaskulinizowany – górników. Więcej w publikacji „Zróżnicowanie zawodów na rynku pracy w Polsce”.\n\n🔗\n\n#GUS #RynekPracy #zawody #praca",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2072954698882068877",
+      "author": "@PAPinformacje",
+      "text": "Egzamin ósmoklasisty. CKE podała wyniki\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2073036820137324958",
+      "author": "@PAPinformacje",
+      "text": "Rosjanie zaangażowani w rozwój broni chemicznej objęci unijnymi sankcjami\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072661752836243532",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Czerwcowy wzrost zatrudnienia okazał się słabszy (57 tys. vs. oczekiwane 110 tys.), a rewizja za poprzednie 2 miesiące odjęła dodatkowe 74 tys. W samym czerwcu widać spore cofnięcie w \"rozrywce\". W przypadku sektora dóbr obyło się bez większych zmian.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072583814195433901",
+      "author": "@GUS_STAT",
+      "text": "Ceny lokali mieszkalnych w Polsce w I kw. 2026 r. wzrosły o 6,0% w porównaniu z I kw. 2025 r., a w stosunku do IV kw. 2025 r. wzrosły o 2,3%. \n\n🔗\n\n#GUS #statystyki #CenyMieszkań #ceny #budownictwo #GospodarkaMieszkaniowa",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2073121968782496077",
+      "author": "@PAPinformacje",
+      "text": "Liczba strzelanin w Szwecji spadła do najniższego poziomu od 2017 r. #PAPinformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072980240947724351",
+      "author": "@PAPinformacje",
+      "text": "Sejm za zakazem korzystania z komórek w podstawówkach i przedszkolach\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073116594608234764",
+      "author": "@PAPinformacje",
+      "text": "Węgry zgodziły się na kolejny krok w negocjacjach akcesyjnych z Ukrainą\n#PPAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072545403724075498",
+      "author": "@DGPrawna",
+      "text": "GUS zbadał „ślady życia”. Na koniec 2025 r. w Polsce było 38,8 mln osób, w tym 2,3 mln cudzoziemców",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072946229546283389",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. badane przedsiębiorstwa faktoringowe wykupiły 29,7 mln faktur (+1,8% r/r), a wartość wykupionych wierzytelności wyniosła 581,8 mld zł (+11,0% r/r).\n\n🔗\n\n#GUS #statystyki #faktoring",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072968505595408465",
+      "author": "@DGPrawna",
+      "text": "Posłowie przyjęli poprawki do ustawy, która wprowadzi tymczasowo 60 proc. podatek od nadzwyczajnych zysków ze zbycia paliw ciekłych. Aby nowy podatek wszedł w życie, ustawę musi podpisać prezydent Karol Nawrocki.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072662653227372978",
+      "author": "@DGPrawna",
+      "text": "TSUE potwierdza: przedawnienie roszczeń banku rozpoczyna się po zakwestionowaniu umowy frankowej",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073014613755523096",
+      "author": "@visegrad24",
+      "text": "🇵🇱 Polish border guards detained a truck with 54 migrants who were trying to illegally enter Poland from Lithuania.\n\nAmong the illegal migrants were citizens of Pakistan, Afghanistan, and Bangladesh.",
+      "likes": 3356,
+      "retweets": 742
+    },
+    {
+      "tweet_id": "2072983935106105541",
+      "author": "@Telegraph",
+      "text": "Russia is planning an armed “provocation” on Polish soil to test Nato’s resolve, the United States has warned.\n\nPolish critical infrastructure could be targeted by missiles and drones or Russian soldiers could cross the border into Nato territory.\n\n🔗:",
+      "likes": 2743,
+      "retweets": 830
+    },
+    {
+      "tweet_id": "2072610448453652575",
+      "author": "@Bart_Wielinski",
+      "text": "Polak i Białorusin działali na zlecenie obcych służb. Zostali zatrzymani przez ABW\n\nAresztowani  to 19-letni Aliaksei B. i 44-letni Rafał G. Lubelski wydział  Prokuratury Krajowej, zajmujący się przestępczością zorganizowaną i  korupcją, postawił im zarzuty, dotyczące działania",
+      "likes": 358,
+      "retweets": 129
+    },
+    {
+      "tweet_id": "2073095220363743268",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info ze świata nr 2⃣. Piątek noc 🌜\n-💄Rossmann otworzy +150 sklepów w Polsce\n- Chiny chcą zakazać używania Claude. Backdoor\n- 🥳USA świętują 250 lat. Główna impreza jutro\n-⚒️KGHM zbuduje kopalnię plihalitu koło Pucka\n-⚖️🇵🇱 nowe przepisy pracy w upałach od 2027\n-Iran:",
+      "likes": 270,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2073209551986249824",
+      "author": "@sentdefender",
+      "text": "The United States has warned Warsaw that Russia is planning armed provocation in the coming months against NATO’s Eastern Front, possibly involving both Belarusian and Russian troops crossing into Polish territory, or drone and missile strikes against vital infrastructure in",
+      "likes": 228,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2072997134563971516",
+      "author": "@mordownik4u",
+      "text": "Rośnie niedostatek w Polsce – ponad 15 mln osób poniżej minimum socjalnego.\n\nWedług najnowszych analiz Instytutu Pracy i Spraw Socjalnych (IPiSS) oraz danych GUS, w 2024 roku zasięg sfery niedostatku wyniósł 41,3%, co oznacza ponad 15 milionów Polaków żyjących poniżej minimum",
+      "likes": 179,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2072747248325152903",
+      "author": "@AwDitrich",
+      "text": "Świetna grafika od @RSzarfenberg \n\nNowe dane GUS oraz nowe, lepsze definicje miast i wsi.\n\nŁadnie widzimy tutaj miasta (szary) z obwarzankami o dużej gęstości (ciemnozielone) oraz małej gęstości (zielone).\n\nMamy też tereny wiejskie (pomarańczowy) i w zasadzie odludzia/peryferia",
+      "likes": 197,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2072728933275975960",
+      "author": "@MaciejBerek",
+      "text": "❗️ZUS automatycznie odnowi prawo do świadczenia 800+: \n✅ koniec z corocznym składaniem tego samego wniosku; ✅ mniej formalności dla rodziców i opiekunów; ✅ sprawniejsza praca administracji; ✅ ciągłość wypłaty świadczenia;\n✅ realne ułatwienie dla 4,4 mln polskich rodzin i",
+      "likes": 151,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2072965122327233007",
+      "author": "@J_Jakobowski",
+      "text": "Czas najwyższy na poważną rozmowę o udziale 🇨🇳 chińskich dostawców w polskich zielonych technologiach, w tym mega-magazynach energii. \n\n\"W okolicach Siedlec ma powstać największy bateryjny magazyn energii w Polsce i jeden z największych w Europie. Greenvolt Power podpisał umowę z",
+      "likes": 162,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2072714662068486376",
+      "author": "@motykamilosz",
+      "text": "Ustawa deregulacyjna autorstwa @ME_GOV_PL z podpisem prezydenta.\n\n📌 wprowadzamy proste i czytelne rachunki za energię, większą ochronę odbiorców i szybszą realizację usług, w tym montażu liczników;\n📌 ograniczamy biurokrację, aby przedsiębiorcy mogli szybciej realizować nowe",
+      "likes": 114,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2072933167325909007",
+      "author": "@ABW_GOV_PL",
+      "text": "Do sądu trafił akt oskarżenia przeciwko czterem młodym mężczyznom zatrzymanym w 2025 r. przez funkcjonariuszy @ABW_GOV_PL .\n\nProkuratura zarzuca im  planowanie czynu o charakterze terrorystycznym, posiadanie i wytwarzanie materiałów wybuchowych oraz",
+      "likes": 98,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2072639657330774335",
+      "author": "@GPW_Trader2022",
+      "text": "2 lipca shorty GPW. Pozostałe dane shortów z około 100 spółek na kanale subskrypcji.  W Indiach największy producent tnie wydobycie koksowego aż o 1/8.\n\n- Największy producent koksowego tnie produkcje o 12,5% w Indiach. Braki na rynku\n\n-2 lipca 100 shortów",
+      "likes": 102,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2072929674301227065",
+      "author": "@Straz_Graniczna",
+      "text": "Udaremniona próba nielegalnego przekroczenia na granicy z Litwą! 🇵🇱 🇱🇹\n\nFunkcjonariusze @podlaski_sg  we współpracy z funkcjonariuszami @KAS_Bialystok udaremnili próbę nielegalnego przekroczenia granicy polsko-litewskiej. Zatrzymano grupę 5️⃣4️⃣ migrantów, którzy próbowali",
+      "likes": 97,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2072596452006625720",
+      "author": "@MarekWoch2",
+      "text": "\"Znamy budżet NFZ na 2027 rok. Zabraknie 20 mld zł. Projekt 2 lipca w Sejmie \n\n237,3 mld zł - tyle mają wynieść koszty ogółem NFZ na 2027 rok. Mimo podwyższenia dotacji z 26 mld zł do 35 mld zł, w projekcie planu finansowego Funduszu wciąż będzie brakować pieniędzy. Eksperci",
+      "likes": 65,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2072755938117759141",
+      "author": "@wirtualnapolska",
+      "text": "🔴Będą podwyżki w służbie zdrowia. Jest decyzja szefowej MZ\n\nMinister zdrowia Jolanta Sobierańska-Grenda zatwierdziła nową wycenę świadczeń, która sfinansuje lipcowe podwyżki dla personelu medycznego. W ciągu najbliższego roku Narodowy Fundusz Zdrowia przeznaczy na ten cel",
+      "likes": 60,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2072972265151504813",
+      "author": "@ChrostowskiGabi",
+      "text": "W Indiach współczynnik dzietności spadł do poziomu 1,9, czyli poniżej progu zastępowalności pokoleń. W Chinach dzietność oscyluje w okolicach 1,0, w Polsce to 1,07, na południu Europy 1,2–1,3, w Brazylii 1,6, w USA podobnie. Wskaźnik dzietności szybko spada nawet w krajach Afryki",
+      "likes": 66,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2072620315553755510",
+      "author": "@NASK_pl",
+      "text": "📣Dzięki NASK Polska dołącza do elitarnego grona państw z dostępem do GPT-5.5-Cyber – specjalistycznego modelu AI stworzonego przez @OpenAI  z myślą o wykrywaniu i analizie cyberzagrożeń.\n\nTo przełom dla polskiego cyberbezpieczeństwa i olbrzymie możliwości dla @CERT_Polska .",
+      "likes": 37,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2073021199156687131",
+      "author": "@mmmaslov",
+      "text": "Ustawa o OKI uchwalona przez @KancelariaSejmu. Co ważne do odnotowania, praktycznie jednogłośnie. \n\n→ Wynik głosowania 427 do 5 na korzyść #OKI.\n\n\n\nZwracam uwagę, że postulowaliśmy o parę rzeczy przy okazji konsultacji społecznych. To się udało:\n✅",
+      "likes": 28,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072984208247591201",
+      "author": "@LKKozlowski",
+      "text": "Początek tego roku przyniósł gwałtowny wzrost zaległości płatniczych publicznych szpitali (SPZOZ) – w samym I kw. 2026 r. o 830 mln zł (+19,6% kw/kw), co w ujęciu kwotowym jest najwyższym wzrostem odkąd gromadzone są dane (2003 r.)\n\nTrudności w finansowaniu publicznego systemu",
+      "likes": 27,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2073092084219744621",
+      "author": "@Ula_Zielinska",
+      "text": "RDOŚ w Olsztynie odmówił zgody na dwa pierwsze wnioski o wycinkę przydrożnych drzew. Dobrze.\nW sprawie alej mówimy dziś jednym głosem z MON: drzewa dają cień w upały, trzymają wodę w krajobrazie, a przy okazji zasłaniają drogi przed dronami.",
+      "likes": 17,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2073052383723036724",
+      "author": "@Lukasz_on_GPW",
+      "text": "W czerwcu 2026 roku łączna wartość obrotu akcjami na Głównym Rynku #GPW osiągnęła rekordowy poziom 63,5 mld zł, co oznacza wzrost rok do roku o 37,0%. Średnia dzienna wartość obrotu w ramach arkusza zleceń wzrosła w porównaniu z ubiegłym rokiem o 23,1% do 2,66 mld zł. Indeks WIG",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2072714560859992201",
+      "author": "@PISM_Poland",
+      "text": "🇬🇧 Deficyt finansowania brytyjskiej obrony.\n\n👉 Opublikowany 1 lipca obronny plan inwestycyjny (DIP) określa zakres finansowania dla celów wskazanych w Strategicznym przeglądzie obronnym (SDR) z czerwca ub.r. \n👉 Przewidziany w DIP wzrost wydatków do 2030 r. jest o ok. połowę",
+      "likes": 11,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2072607715214406006",
+      "author": "@Karo_Petka",
+      "text": "TSUE wydał dziś ważny wyrok w sprawach C-261/25 i C-262/25. Trybunał potwierdził, że kluczowe znaczenie ma moment, w którym konsument po raz pierwszy zakwestionuje wobec banku postanowienia umowy. To kolejne istotne rozstrzygnięcie porządkujące spory dotyczące kredytów frankowych",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073021164973183236",
+      "author": "@wiesci_z_ws",
+      "text": "Dow bije rekord, chipy i Tesla biją na alarm\n\n02.07.2026\n⠀\n🔋 $TSLA\nTesla pobiła prognozy dostaw, ale rynek i tak zafundował jej najgorszą sesję od blisko roku .\n⠀\nQ2 2026 dostawy: 480 126 aut vs konsensus ok. 406-407 tys. (+25% r/r, rekord kwartalny)\nProdukcja: 451 758 szt.",
+      "likes": 8,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2073000659708694584",
+      "author": "@GIS_gov",
+      "text": "📱Od teraz interwencję do #sanepid zgłosisz nie tylko przez #eSanepid, ale także w aplikacji #mObywatel.\n✅bez wizyty w urzędzie\n✅przez telefon lub komputer\n✅24/7\nWięcej: \n@CYFRA_GOV_PL @COIgovPL",
+      "likes": 6,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2072625061618483274",
+      "author": "@uknf",
+      "text": "🔸 Komisja Nadzoru Finansowego wszczęła postępowanie administracyjne dot. nałożenia kary pieniężnej na PKO Towarzystwo Ubezpieczeń w zw. z podejrzeniem naruszenia ustawy o działalności ubezpieczeniowej i reasekuracyjnej poprzez ustalenie składki niezapewniającej co najmniej",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2072654457205109015",
+      "author": "@tbardzilowski",
+      "text": "ROBYG wraca na GPW. Witamy! 🔔 Po 8 latach spółka jest ponownie notowana na warszawskim parkiecie i udowadnia, że warto być na @GPW_WSExchange. Oferta o wartości blisko 1,2 mld zł to największe IPO od początku roku. Gratuluję👏",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073024414203982050",
+      "author": "@GPW_WSExchange",
+      "text": "OKI coraz bliżej!\nSejm uchwalił ustawę o Osobistych Kontach Inwestycyjnych. Nowe przepisy mają wejść w życie 1 stycznia 2027 roku i wprowadzić na polski rynek kapitałowy narzędzie wspierające budowę długoterminowych oszczędności oraz inwestowanie w krajową gospodarkę.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073024446047129959",
+      "author": "@NaczelnaL",
+      "text": "Dane GUS pokazują, że sukcesywnie ubywa gabinetów stomatologicznych realizujących usługi w ramach kontraktu z NFZ - z ponad 3000 placówek zostało ich już tylko ok. 2400. Czy publiczna #stomatologia staje się fikcją⁉️\n\n💬 Na pewno stomatologia nie jest dziedziną medycyny, która",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2072703025391489444",
+      "author": "@EmerytalnyPlan",
+      "text": "📊 Mocna sesja na GPW! Kupujący wyraźnie rozdawali dziś karty.\n\n🟢 WIG: +1,46%\n🟢 WIG20: +1,57%\n🟢 mWIG40: +1,41%\n🟢 sWIG80: +0,28%\n\n📈 Na rynku dominował zielony kolor:\n🟢 202 spółki rosły\n🔴 125 spółek spadło\n\n💰 Największy obrót:\n• $PKN +4,78%\n• $ALE +0,41%\n• $ROB 0,00%\n\n🚀",
+      "likes": 5,
+      "retweets": 0
+    }
+  ]
+}

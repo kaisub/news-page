@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-04",
+  "slot": "01",
+  "generated_at": "2026-07-04T01:27:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2072694781285986625",
+      "author": "@hwchase17",
+      "text": "big week at langchain, with a lot of launches:\n\n1/ OpenWiki - auto generate a wiki of a github repo\n2/ two different voice agent tutorials\n3/ Harbor integration and tutorial for long running, stateful evals\n4/ programatic subagents in deepagents (RLM like)\n\n🧵with details",
+      "likes": 168,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2073170132965183803",
+      "author": "@moritzthuening",
+      "text": "Very excited to release TT-Atom today.\n\nYou can now run machine learning based molecular dynamics on @tenstorrent AI processors, simulating how molecules and materials move atom by atom, a workhorse of drug discovery, chemistry and materials science.\n\nThe forces come from @Meta's",
+      "likes": 11,
+      "retweets": 0
+    }
+  ]
+}
