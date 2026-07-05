@@ -1,0 +1,16 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-05",
+  "slot": "01",
+  "generated_at": "2026-07-05T01:22:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2073501877753323772",
+      "author": "@ammaar",
+      "text": "I used Fable 5 to port Command &amp; Conquer: Generals Zero Hour to the iPhone and iPad!\n\nThis is the actual 2003 engine compiled for ARM64 natively, no emulator.\n\nCampaign, skirmish, Generals Challenge all work with touch controls built for an RTS.\n\nOpen sourcing it all below!",
+      "likes": 1657,
+      "retweets": 84
+    }
+  ]
+}
