@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-05",
+  "slot": "02",
+  "generated_at": "2026-07-05T15:22:18Z",
+  "tweets": [
+    {
+      "tweet_id": "2073501877753323772",
+      "author": "@ammaar",
+      "text": "I used Fable 5 to port Command &amp; Conquer: Generals Zero Hour to the iPhone and iPad!\n\nThis is the actual 2003 engine compiled for ARM64 natively, no emulator.\n\nCampaign, skirmish, Generals Challenge all work with touch controls built for an RTS.\n\nOpen sourcing it all below!",
+      "likes": 5036,
+      "retweets": 290
+    },
+    {
+      "tweet_id": "2073407100642852871",
+      "author": "@jerryjliu0",
+      "text": "We've created a comprehensive Retrieval Harness for modern agentic retrieval in 2026.\n\nThe harness provides a persistent data pipeline that can connect to a data source, index and update a large knowledge base, and expose a broad set of tools akin to filesystem operations",
+      "likes": 319,
+      "retweets": 21
+    }
+  ]
+}
