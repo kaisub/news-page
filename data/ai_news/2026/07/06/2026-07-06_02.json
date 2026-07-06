@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-06",
+  "slot": "02",
+  "generated_at": "2026-07-06T16:18:36Z",
+  "tweets": [
+    {
+      "tweet_id": "2073791666553844074",
+      "author": "@sama",
+      "text": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "likes": 11995,
+      "retweets": 316
+    },
+    {
+      "tweet_id": "2073635910512726444",
+      "author": "@sama",
+      "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
+      "likes": 8766,
+      "retweets": 313
+    },
+    {
+      "tweet_id": "2073501877753323772",
+      "author": "@ammaar",
+      "text": "I used Fable 5 to port Command &amp; Conquer: Generals Zero Hour to the iPhone and iPad!\n\nThis is the actual 2003 engine compiled for ARM64 natively, no emulator.\n\nCampaign, skirmish, Generals Challenge all work with touch controls built for an RTS.\n\nOpen sourcing it all below!",
+      "likes": 7710,
+      "retweets": 494
+    },
+    {
+      "tweet_id": "2074032171795255693",
+      "author": "@reach_vb",
+      "text": "gm fam! we’re back in the office today!!",
+      "likes": 466,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2073836703052071345",
+      "author": "@reach_vb",
+      "text": "facts! the amount value a single ChatGPT Codex sub packs is insane!\n\nyou can get hell of a lot mileage even with /fast mode + xhigh all the way too\n\nsource: I use codex on my personal laptop + RPi to automate chores, grocery shop, stock buy/ sell orders and life admin on top of",
+      "likes": 397,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2073805140738609176",
+      "author": "@hwchase17",
+      "text": "anyone looked into or using Open Knowledge Format ( for their wikis?",
+      "likes": 350,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2074139304335454491",
+      "author": "@reach_vb",
+      "text": "Chrome Extension + Codex is magic! I had a change in plans for upcoming work travels and asked Codex to cancel those bookings on navan\n\nCodex went and looked through all the bookings and cancelled them with proper reason and attribution\n\nThen for the few where it hit a technical",
+      "likes": 153,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073793142739132625",
+      "author": "@hwchase17",
+      "text": "(deepagents existed ~10 months before EVE, but...)\n\nyes - the agent industry has shifted from:\n\n~agent frameworks~ (langchain, ai sdk, llama index)\n\nto\n\n~agent harnesses~ (deepagents, claude agent SDK, EVE)",
+      "likes": 136,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2073863285137342494",
+      "author": "@jerryjliu0",
+      "text": "There is a massive demand for processing files *in the agent loop*. The number of users submitting agent queries with file attachments is exponentially increasing over time. \n\nOur mission is to make LiteParse the best parser in terms of cost, accuracy, speed, and semantics, for",
+      "likes": 110,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2073698032642626047",
+      "author": "@reach_vb",
+      "text": "remember who you are, mate!",
+      "likes": 97,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074108642899775800",
+      "author": "@svpino",
+      "text": "I maintain several skills. I run regularly with Claude Code.\n\nI asked Fable to read every skill and optimize them.\n\nThey are now 40% shorter on average! Everything works as before, but Fable cut out a ton of fat.\n\nOne of the skills writes on a spreadsheet using an MCP server.",
+      "likes": 75,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074152211882426857",
+      "author": "@reach_vb",
+      "text": "Turns out you can just clone your favorite reviewers!\n\nAll our docs PRs are reviewed by both @dkundel and @charlierguo (or rather sub agents that mimic their past PR reviews)\n\nAlways brings a smile to my face when I see the sub agents with their names and persona reviewing my PR",
+      "likes": 58,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074070200249684384",
+      "author": "@sentient_agency",
+      "text": "Berkeley teaches the courses that turn people into real engineers, and every single one is online for free.\n\nBootcamps teach you to copy a React tutorial. These teach you how a computer actually works. Here are 10 to bookmark.\n\n1. CS 61A: Structure and Interpretation of Programs",
+      "likes": 44,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2073653282984100106",
+      "author": "@rpl_0x",
+      "text": "Sisu!\n\nWczorajsza trasa z Helsinek do Turku zafundowała nam porządny trening interwałowy.\n\nTen fragment to niekończące się pagórki, cały czas góra/dół 😉\n\nW dodatku 3 razy złapał nas deszcze. O ile na Litwie i Łotwie były upały, w Estonii było umiarkowanie, tak tutaj wieczorami",
+      "likes": 41,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073857941674111253",
+      "author": "@svpino",
+      "text": "I really want to know what’s driving these robots.\n\nAre they automatic or remotely monitored by people?\n\nIf the former, this video is bonkers and this is incredibly impressive. If the latter, while I understand it would be a stepping stone, I’m not sure many people would want",
+      "likes": 26,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074009215304134847",
+      "author": "@rpl_0x",
+      "text": "Przeżyliśmy na wyspach jest magicznie, jak w bajce!\n\nMimo że byliśmy przemoknięci do suchej nitki i przemarznięci, nie zepsuło to wrażeń. Nawet udało mi się odpalić drona, później na promie spróbuję skleić jakiś filmik.\n\nO ile takiej trasy jak zrobiliśmy nie polecam kazdemu",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073837708359717223",
+      "author": "@nauczymycieAI",
+      "text": "Premiera GPT 5.6 najprawdopodobniej w czwartek. Co wiemy o tym modelu?\n\nPolymarket przewiduje premierę GPT 5.6 na 9.07 - co ma dużo sensu.\n\nTo zaledwie dwa dni po tym, jak Anthropic zamierza wycofać Fable 5 z subskrypcji. GPT 5.6 mogłoby być idealnym rozwiązaniem dla",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073804185854714265",
+      "author": "@rpl_0x",
+      "text": "Dzisiaj dzień miał być mega fajny, mieliśmy zwolnić tempo i spokojnie wjechać na Alandy.\n\nNiestety wyszedł chyba najtrudniejszy dzień wyprawy.\n\nPrzez 4h jechaliśmy w grubej ulewie, co jakiś czas, jak deszcz był zbyt mocny albo pioruny waliły w pobliżu, chowaliśmy się w",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073920613316465114",
+      "author": "@jerryjliu0",
+      "text": "Is this what founder mode looks like",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073829478393086311",
+      "author": "@SynScience",
+      "text": "Introducing OpenScience. A better, open-source Claude Science.\n\n• Any model: GLM, Kimi, DeepSeek, Claude, GPT, your own fine-tune. Switching is one flag.\n• 250+ research skills across ML, comp bio, cheminformatics. All readable, editable, extensible.\n• No throttling, no",
+      "likes": 1419,
+      "retweets": 181
+    },
+    {
+      "tweet_id": "2074012610140447005",
+      "author": "@Four_FORM_",
+      "text": "AI Fundamentals Quiz!\n\n5 winners will get $30 USDT each!\n\nHow to participate:\n 1⃣ Follow @Four_FORM_\n 2⃣ ❤ + RT\n 3⃣ Drop your answer &amp; tag 3 friends\n\nQuestion:\nIn AI, what does the abbreviation \"LLM\" stand for? \n\nA  Logical Learn Model\nB  Linear Loop Matrix\nC  Light Link Machine",
+      "likes": 471,
+      "retweets": 418
+    },
+    {
+      "tweet_id": "2073804171245912114",
+      "author": "@ArkhasFlow",
+      "text": "Today, we've made an important... and completely crazy decision.\n\nArkhasFlow is becoming fully Open Source.\nYes, 100% Open Source.\nAfter months of development, we're releasing the entire project: the backend, frontend, our custom-built data formats, our high-performance",
+      "likes": 803,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2073750043295903926",
+      "author": "@karlmehta",
+      "text": "Palantir CEO Alex Karp on why the model is not the moat. The application layer is:\n\n\"To make them valuable in an enterprise, like a battlefield, regulated, or manufacturing context, you have to have what's called an application layer.\"\n\n\"We have this thing called ontology that",
+      "likes": 331,
+      "retweets": 48
+    },
+    {
+      "tweet_id": "2073812647091315151",
+      "author": "@pickover",
+      "text": "FREE Paper:  \"Could a Large Language Model be Conscious?\" by David J. Chalmers.  \n\nHe writes about augmented LLM systems: \"It seems entirely possible that within the next decade, we’ll have robust systems with senses, embodiment, world models and self-models, recurrent",
+      "likes": 213,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2074081422248161366",
+      "author": "@DamiDefi",
+      "text": "EVERYTHING YOU NEED TO KNOW ON HOW GPT AND CLAUDE ARE ACTUALLY BUILT, IN FIVE STAGES.\n\nYOU CAN BUILD AN LLM FROM SCRATCH. THE HARD PART ISN'T THE MODEL. IT'S EVERYTHING AROUND IT.\n\nEveryone obsesses over transformers and billion-parameter models. The reality is that architecture",
+      "likes": 204,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2073890421441548737",
+      "author": "@milesdeutscher",
+      "text": "If you still don't understand loop engineering, you'll want to save this.\n\nIt's the most powerful way to prompt Fable 5.\n\nHow to get started with loop engineering (as a non-technical beginner):\n\nFirst, you need some context about what loop engineering actually is.\n\nFor the last",
+      "likes": 188,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2073966194416353764",
+      "author": "@Chaemate_",
+      "text": "Meet Arko T, the AI model that turns natural language into parametric 3D designs. Coming soon to Sparkoh. Explore the platform today.",
+      "likes": 156,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2073539783138402407",
+      "author": "@startupideaspod",
+      "text": "The best AI agent businesses start as a human doing manual work. \n\nOn purpose.\n\nHere's the playbook:\n\nSell the pilot like labor first. \n\nPick 3 customers in ONE niche \n- same workflow\n- same pain. \n\nDo the work manually with AI and charge for the outcome:\n- \"We answer and qualify",
+      "likes": 107,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2073772637520601552",
+      "author": "@Surendar__05",
+      "text": "Which one would you choose for coding??\n\nClaude Fable 5\nGemini 3.5 Pro\nGPT-5.6",
+      "likes": 117,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074086266778603784",
+      "author": "@karlmehta",
+      "text": "Jensen Huang explains the AI industry as a five layer cake, and why \"model only\" companies are missing the real map.\n\n\"AI is not just a model. AI is really a five layer cake to think about it.\"\n\n\"From the lowest level, it requires energy because AI is produced, generated in real",
+      "likes": 67,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2074069621725163771",
+      "author": "@VaibhavSisinty",
+      "text": "Everyone's focused on OpenAI, Google, and NVIDIA. But none of them can build a single chip without machines from one Dutch company that has zero competitors on Earth.\n\nIt's called ASML. Most people in tech have never heard of it. It's worth over $500 billion. And it started in a",
+      "likes": 78,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2073758669750288577",
+      "author": "@noorwithwifi",
+      "text": "Colombia 🇨🇴 • Morocco 🇲🇦\n\n Prompt:\nA highly detailed macro photograph of a 3D miniature architectural model representing **[COUNTRY]**, emerging from an unrolled vintage parchment blueprint on a rustic wooden table. The miniature showcases the country's iconic landmarks,",
+      "likes": 80,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2073975549161095186",
+      "author": "@Claire20250311",
+      "text": "Large Language Models Are \"Losing\" Language\n\nThe name \"Large Language Model\" already states its foundation: language.\n\nLanguage can carry logical deduction and generate metaphor. Philosophical propositions are dissected layer by layer within it; historical threads are",
+      "likes": 63,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2074147157255540977",
+      "author": "@NadzuAI",
+      "text": "🚨 𝗔𝗜 𝗦𝗞𝗜𝗟𝗟𝗦 𝗧𝗛𝗔𝗧 𝗖𝗢𝗨𝗟𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨 𝗠𝗢𝗡𝗘𝗬 𝗜𝗡 2026 — NOW FREE 🚨\n\nThousands are learning high-income AI skills online…\n\nBut most paid courses cost hundreds of dollars 💸\n\nSo I collected the best AI resources and made them FREE for a limited time 🔥",
+      "likes": 48,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2074161704456356216",
+      "author": "@nvidia",
+      "text": "Open models are becoming the foundation for modern AI research.\n\nAt #ICML2026, 145 accepted papers cite NVIDIA Nemotron models and datasets, 74 NVIDIA papers were accepted, and ~2,000 accepted papers cite NVIDIA GPUs.",
+      "likes": 45,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2074117750709273044",
+      "author": "@LearnWithBrij",
+      "text": "MASTER GEN AI ENGINEERING\n\nGENERATIVE AI ENGINEERING MASTER TREE\n│\n├── 1. Foundations\n│   ├── What is Generative AI\n│   ├── AI vs ML vs DL vs GenAI\n│   ├── Types of Generative Models\n│   │   ├── Text (LLMs)\n│   │   ├── Image (Diffusion Models)\n│   │",
+      "likes": 22,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074161055685845425",
+      "author": "@NotionHQ",
+      "text": "There’s a lot of noise around AI right now. \n\nThe loudest stories tend to come from the edges: companies replacing entire business functions, running autonomous fleets of agents, or claiming they have already transformed the nature of work. Read enough of these stories and it can",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074138800503058750",
+      "author": "@goyalshaliniuk",
+      "text": "Top 20 Agentic AI Concepts – Explained in the Simplest Way !\n\nIf you're exploring AI agents, understanding these 20 foundational concepts will make everything easier! Here's a simple breakdown:\n\n1. Agent: An AI that thinks, plans, and acts on its own to complete tasks.\n\n2. LLM",
+      "likes": 22,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074157771864551928",
+      "author": "@bluwhaleai",
+      "text": "What if the next trading competition was Agent vs Agent? 🤖🏁\n\nEveryone builds an AI Trading Agent.\n\nAgents compete.\n\nThe leaderboard updates live.\n\nWhich side are you on?",
+      "likes": 16,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2074118968097509663",
+      "author": "@akramcodez",
+      "text": "what’s the best AI model for vibe coding?\n\n- Claude\n- GPT\n- Gemini\n- Grok",
+      "likes": 15,
+      "retweets": 0
+    }
+  ]
+}

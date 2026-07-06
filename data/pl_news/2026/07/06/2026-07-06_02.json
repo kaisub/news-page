@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-06",
+  "slot": "02",
+  "generated_at": "2026-07-06T16:18:36Z",
+  "tweets": [
+    {
+      "tweet_id": "2074106690090221785",
+      "author": "@Macronextcom",
+      "text": "\"Jesienią będzie armagedon\"👇... ale nie taki jaki sobie prezes NIL wyobraża. \n\nNajpierw ten armagedon zmiecie ze sceny polityków, którzy zamiast wypalać gorącym żelazem patologie, tylko pozorują ruchy. A później przyjdzie \"nowy Lepper\" i zajmie się zarobkami lekarzy.",
+      "likes": 218,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2074077170645799074",
+      "author": "@PAPinformacje",
+      "text": "Premier: apeluję do wszystkich, w tym do prezydenta, nie igrajcie z ogniem; pomoc dla Ukrainy była wynikiem konsensusu #PAPinformacje",
+      "likes": 185,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2074036047734841416",
+      "author": "@Macronextcom",
+      "text": "Modivo 101,30 zł (+4,43%) 📈🚀\n\nModivo powyżej 100 zł. Na \"kresach\" całkiem dobrze do wygląda. \n\nTrend spadkowy zakończony. Zwrot w górę wyraźny. Droga do 110-115 zł otwarta, a jeżeli zaufać formacji \"oRGR\" to nawet i do 125 zł.",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074146268742365276",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: największe donacje Polski dla Ukrainy były realizowane w latach 2022-2023; szacowany koszt tych donacji to ok. 15 mld zł. (PAP)\n#PAPinformacje",
+      "likes": 24,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2073838935088734626",
+      "author": "@PAPinformacje",
+      "text": "Kosiniak-Kamysz: zleciłem odtajnienie wszystkich donacji dla Ukrainy w latach 2022-2026\n#PAPinformacje",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074014497463750810",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w V 2026 r. Zamówienia w przemyśle 1,9% m/m (prognoza: 1,5%; poprzednio: -3,2%) \n\nKalendarz (Niemcy):",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074120616022561044",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Trump znów obraził Meloni. Szef MSZ Włoch: te słowa same się komentują\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074003381039829020",
+      "author": "@PAPinformacje",
+      "text": "Następnym rywalem Norwegów będą Anglicy\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073839075765690547",
+      "author": "@PAPinformacje",
+      "text": "Sabalenka przegrała z Osaką w 1/8 finału Wimbledonu\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074139335528493190",
+      "author": "@laskowski_pl",
+      "text": "To nie jest \"stabilizacja finansów NFZ\" tylko odłożenie w czasie płatności. \nNFZ zaciąga u świadczeniodawców nieoprocentowany kredyt. \nTrudno będzie wytłumaczyć wyborców wydane setki miliardów na zbrojenia, gdy nie ma środków na leczenie w o rząd wielkości mniejszej skali.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074094564760043850",
+      "author": "@PAPinformacje",
+      "text": "Szef MSZ Ukrainy do NATO: zapewnijcie ochronę ukraińskim dzieciom przed rakietami balistycznymi Rosji #PAPinformacje",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074147100619624737",
+      "author": "@PAPinformacje",
+      "text": "MON: koszt donacji dla Ukrainy od 2024 do obecnego momentu to 1,55 mld zł; wśród przekazanych środków  pociski rakietowe PAC-3 do systemu Patriot. (PAP)\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2073734391717576971",
+      "author": "@PAPinformacje",
+      "text": "Fico ma powody do zadowolenia. Referendum na Słowacji nieważne\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073866548716978179",
+      "author": "@PAPinformacje",
+      "text": "Wimbledon - kontuzja ponownie kończy występ Hurkacza w Londynie\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073711742597677131",
+      "author": "@PAPinformacje",
+      "text": "Osiem osób, w tym czworo dzieci, postrzelonych w Nowym Jorku w Dzień Niepodległości\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073697308869308653",
+      "author": "@PAPinformacje",
+      "text": "Medioznawca: dzieci jako cyfrowi tubylcy to mit, wciąż należy je uczyć e-kompetencji\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074064141367529667",
+      "author": "@GUS_STAT",
+      "text": "Już w tę środę rozpoczyna się  #ICASX w Krakowie!\nMiędzynarodowi eksperci będą dyskutować o  kierunkach rozwoju #StatystykaRolna, m. in o:\n🔹Jak mierzyć wpływ #ZmianyKlimatu na ceny żywności?\n🔹Jak nowe technologie zmieniają #rolnictwo?\n\n🔗\n\n#GUS",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074139089268342990",
+      "author": "@PAPinformacje",
+      "text": "Hamas ogłosił rozwiązanie swojego rządu w Strefie Gazy\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073866457310527987",
+      "author": "@PAPinformacje",
+      "text": "Trump spotka się z Zełenskim podczas szczytu NATO w Ankarze\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073821017512816809",
+      "author": "@PAPinformacje",
+      "text": "✴️Weekend w 50 sekund.\n\nNajważniejsze obrazy, wydarzenia i rozmowy z ostatnich dni — od kultury i festiwali, przez tematy społeczne, po materiały z kraju i świata.\n\nTak wygląda przegląd wideo @PAPinformacje od piątku do niedzieli.\n\n🎥 Więcej w serwisie Wideo PAP.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074091278887711189",
+      "author": "@DGPrawna",
+      "text": "Żołnierze amerykańscy w ciągu trzech miesięcy w Polsce. Co ze stałą bazą USA?",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073983747175670210",
+      "author": "@DGPrawna",
+      "text": "Spór o UPA ma wyborcze tło?\nUkłony Wołodymyra Zełenskiego wobec rodzimej prawicy , które doprowadziły go do sporu z Polską, łatwiej wyjaśnić przy założeniu, że prezydent rozpoczął prekampanię reelekcyjną.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073983571547541629",
+      "author": "@DGPrawna",
+      "text": "🟥 SONDAŻ DGP  | Polacy nie chcą już emigrować do USA",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2073484380706951455",
+      "author": "@laskowski_pl",
+      "text": "Larry pięknie podsumował rocznicę 😁",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074080240016523618",
+      "author": "@PAPinformacje",
+      "text": "🧬🔬Kto dziś najlepiej opowiada o nauce — w mediach, internecie, uczelniach i instytucjach? Rusza nabór zgłoszeń do XXII edycji konkursu Popularyzator Nauki.\nOrganizatorem jest serwis @naukawpolsce @PAPinformacje. Link do formularza zgłoszeniowego i regulaminu w komentarzu⬇️",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074111623191576620",
+      "author": "@DGPrawna",
+      "text": "🔴ANALIZA DGP | A może spór o UPA wybuchł, bo Zełenski faktycznie szykuje się do wyborów?",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074037015679545692",
+      "author": "@DGPrawna",
+      "text": "Czy obowiązkowy adwokat naprawdę przyspieszy sądy? Problem leży gdzie indziej",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074026913014730911",
+      "author": "@DGPrawna",
+      "text": "Hołownia nie kieruje już Polską 2050, ale coraz wyraźniej walczy o jej polityczne zaplecze. Według ustaleń DGP były lider Polski 2050 próbuje odzyskać polityczną inicjatywę, a jego ruchy coraz wyraźniej splatają się z planowaną rekonstrukcją rządu",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074138175107158016",
+      "author": "@PAPinformacje",
+      "text": "Niemieckie media po kongresie AfD: postępująca profesjonalizacja partii, wzmocniona pozycja Weidel\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074112797244375457",
+      "author": "@GUS_STAT",
+      "text": "🎥 Na kanale YouTube #GUS jest dostępne wystąpienie wprowadzające VI #KongresStatystykiPolskiej.\nProf. Bogumił Kamiński @SGHWarsaw przybliżył znaczenie statystyki i data science w doskonaleniu i promowaniu rzetelnego poznania naukowego.\n\n🔗\n\n#statystyka",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074076193377149377",
+      "author": "@DGPrawna",
+      "text": "Wołyń znów dzieli Polskę i Ukrainę. Co planuje Zełenski?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074040451749773725",
+      "author": "@DGPrawna",
+      "text": "Nie daj się zaskoczyć zmianom przepisów. Bądź na bieżąco, zamów dostęp na 3 miesiące w promocyjnej cenie\n\n➡️",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074115401256939825",
+      "author": "@GUS_STAT",
+      "text": "📊GUS partnerem międzynarodowej konferencji „NextGen SUSTAINABILITY – Data, Artificial Intelligence and Sustainable Transformation”.\nW dzisiejszym wydarzeniu uczestniczyli Marek Cierpiał-Wolan, Prezes #GUS oraz Renata Bielak, Wiceprezes GUS\n#BigData #UniwersytetRzeszów #ASECU2026",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074067533330587882",
+      "author": "@DGPrawna",
+      "text": "Dziś jest Dzień Wolności Podatkowej. Słaby wynik Polski w światowych rankingach",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073670953918165436",
+      "author": "@OficjalneZero",
+      "text": "To historia o tym, jak system niszczy jednostkę. @abojke opowiada o sytuacji stomatolog z Braniewa, która - jak doktor Judym z \"Ludzi bezdomnych\" Stefana Żeromskiego - 50 lat leczyła pacjentów \"bezpłatnie\", czyli na NFZ czy wcześniej na Kasę Chorych. Wybierała dobro pacjentów a",
+      "likes": 5403,
+      "retweets": 1237
+    },
+    {
+      "tweet_id": "2074014872698867942",
+      "author": "@SlawomirMentzen",
+      "text": "Lekarze zarabiający miliony, politycy w zarządach i radach nadzorczych, lekarze zarabiający 26 tysięcy złotych na godzinę, oszustwa, złodziejstwo, fałszowanie dokumentacji, handel zwłokami, salony VIP i skrócone kolejki dla polityków i ich rodzin. \n\nTrzeba być bardzo naiwnym,",
+      "likes": 5999,
+      "retweets": 496
+    },
+    {
+      "tweet_id": "2073749812529213629",
+      "author": "@EwaZajaczkowska",
+      "text": "To się w głowie nie mieści❗ Według doniesień rząd Tuska oddał Ukrainie pociski PAC-3MSE do Patriotów❗ To najcenniejszy element polskiej obrony powietrznej 🤯\n\nMało tego - mieliśmy nawet odstąpić Ukraińcom kolejkę w amerykańskich fabrykach po sloty produkcyjne tych pocisków!",
+      "likes": 4699,
+      "retweets": 1211
+    },
+    {
+      "tweet_id": "2073453470447804562",
+      "author": "@paddyney",
+      "text": "In 10 weeks I’ll be joining the Polish army\n\n16 years since I moved to Poland and 6 since I became a Polish citizen\n\nWhy? \n\nBecause I believe in Poland\n\nI believe in the Polish constitution \n\nAnd I believe in the Polish people\n\nThank you Poland for the chance to serve ❤️🇵🇱",
+      "likes": 3616,
+      "retweets": 354
+    },
+    {
+      "tweet_id": "2073703636182425956",
+      "author": "@WaldemarRomano2",
+      "text": "🚨 ALARM! Paramilitarne bojówki Braunowców na polskiej granicy! 🚨\nPatrzcie na to zdjęcie. Zamaskowani mężczyźni w mundurach łudząco podobnych do Straży Granicznej. Kamizelki taktyczne, naszywki BPG, polskie flagi... Przeczesują teren przy granicy.\n\nTyle że to nie Straż",
+      "likes": 2396,
+      "retweets": 1021
+    },
+    {
+      "tweet_id": "2073985792003981566",
+      "author": "@wirtualnapolska",
+      "text": "🔴26 tysięcy na godzinę. Neurochirurdzy zarabiali, szpital ma karę i komornika\n\nNawet 26 tys. zł na godzinę i ponad 300 tys. zł dniówki - na tyle spółka neurochirurgów działająca na terenie kilku województw mogła wystawiać rachunki szpitalom. W małych placówkach powiatowych",
+      "likes": 2542,
+      "retweets": 606
+    }
+  ]
+}
