@@ -1,0 +1,100 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-06",
+  "slot": "01",
+  "generated_at": "2026-07-06T01:23:34Z",
+  "tweets": [
+    {
+      "tweet_id": "2073320364092846445",
+      "author": "@Macronextcom",
+      "text": "Czy w Polsce 🇵🇱 powinien zostać przywrócony obowiązkowy powszechny pobór do wojska?\n🔸️ 47% – TAK\n      -&gt; 19% – zdecydowanie tak\n      -&gt; 28% – raczej tak\n🔸️ 40% – NIE\n      -&gt; 19% – zdecydowanie nie\n      -&gt; 21% – raczej nie\n🔸️ 13% – nie ma zdania\n\nSondaż Pollster dla SE",
+      "likes": 105,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2073838935088734626",
+      "author": "@PAPinformacje",
+      "text": "Kosiniak-Kamysz: zleciłem odtajnienie wszystkich donacji dla Ukrainy w latach 2022-2026\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073866457310527987",
+      "author": "@PAPinformacje",
+      "text": "Trump spotka się z Zełenskim podczas szczytu NATO w Ankarze\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073916533294735600",
+      "author": "@sentdefender",
+      "text": "The Operational Command of the Polish Armed Forces has announced that, due to the ongoing activity of Russian long-range aviation against Ukraine, NATO fighter and support aircraft have been scrambled while ground-based air defense systems and radar reconnaissance has been raised",
+      "likes": 890,
+      "retweets": 173
+    },
+    {
+      "tweet_id": "2073422467570299024",
+      "author": "@motykamilosz",
+      "text": "Kleczew – tu mieści się największa farma fotowoltaiczna w Polsce i hybrydowy projekt z elektrownią wiatrową. \n\nWraz z premierem @donaldtusk mówiliśmy o tym, jak rząd inwestuje w transformację energetyczną. Rekordowe nakłady w sieci i magazyny energii, rozwój OZE i atomu oraz",
+      "likes": 274,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2073751523863986406",
+      "author": "@ImtiazMadmood",
+      "text": "Poland, Lithuania, and Latvia have reportedly stopped more than 212,000 illegal migrants from crossing their borders since 2021, as the three nations continue to strengthen security along the European Union's eastern frontier.\n\nOfficials say the increased enforcement is aimed at",
+      "likes": 185,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2073300781961281720",
+      "author": "@K_Galecka",
+      "text": "Tygodniowy raport z granicy (26.06-2.07) ⤵️  \n\n✅ nie odnotowano prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 6 przemytników ludzi\n✅ ponad 230 cudzoziemców opuściło Polskę – zgodnie z decyzjami administracyjnymi\n✅ blisko 1300",
+      "likes": 78,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2073353327459402164",
+      "author": "@MarekJozefiak",
+      "text": "Dziś też OZE dają na maksa: w tym momencie ponad 60% prądu jest zielona.",
+      "likes": 62,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2073687152529994036",
+      "author": "@Maciej_Inwestor",
+      "text": "🛰️ Thorium Space zamyka pre-IPO💥\n\nSpółka pozyskała 22 mln zł pre IPO i jednocześnie planuje debiut na NewConnect w III kwartale 2026❗️ \n\nTo nie zwykły producent satelitów, a deep-tech od secure SATCOM. Autorskich układów BFIC/ASIC w paśmie Ka i anten ze sterowaną elektronicznie",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2073752819023159759",
+      "author": "@piotrmiecz",
+      "text": "Obecna struktura finansowania rynku private equity w krajach CEE  wykazuje silne uzależnienie od mało skalowalnych źródeł. Dominującą rolę  odgrywają banki, które odpowiadają za 26 proc. kapitału, oraz agencje  rządowe z udziałem na poziomie 20 proc.. System zdominowany przez",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2073936228848918667",
+      "author": "@War_Radar2",
+      "text": "JUST IN: 🇷🇺🇵🇱🇪🇺 Putin's bombers push too close, NATO launches fighter jets as Poland goes on highest alert \n\nRussian long range bombers launched attacks against Ukraine, prompting Poland to place its armed forces on maximum combat readiness and scramble NATO fighter jets and",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073743833129504851",
+      "author": "@WojewodzkiUrzad",
+      "text": "#Dolnośląskie Nowe wyniki badań dotyczących #Bobru. Kolejne analizy nie potwierdziły utrzymywania się podwyższonych stężeń rtęci. Sanepid: wyniki nie stanowią zagrożenia dla zdrowia ludzi. Woda z sieci wodociągowej pozostaje bezpieczna. Szczegóły:",
+      "likes": 5,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2073460505780387982",
+      "author": "@KRESYPL",
+      "text": "Polacy częściej wracają ze Stanów Zjednoczonych do kraju, niż wyjeżdżają za ocean na pobyt stały — wynika z danych GUS omówionych w lipcowym wydaniu „Tygodnika Gospodarczego” Polskiego Instytutu Ekonomicznego.",
+      "likes": 6,
+      "retweets": 2
+    }
+  ]
+}
