@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-07",
+  "slot": "01",
+  "generated_at": "2026-07-07T01:25:53Z",
+  "tweets": [
+    {
+      "tweet_id": "2074180893934010524",
+      "author": "@ammaar",
+      "text": "I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal! ⚽️\n\nPowered by the new Nano Banana 2 Lite + Gemini Omni Flash.\n\nPick a team, strike a pose, and export your own lineup video to share with friends.\n\nTry it yourself + code below!",
+      "likes": 220,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2073765125958348964",
+      "author": "@0xMovez",
+      "text": "Anthropic just dropped 5 workshops on building self-improving agentic systems from scratch:\n\n00:00 - Ship your first Claude agent\n36:44 - Build memory for Claude agents\n1:05:06 - Make your agent autonomous\n1:26:46 - Set up a proactive agent\n2:03:35 - self-improving agents",
+      "likes": 2615,
+      "retweets": 447
+    },
+    {
+      "tweet_id": "2074222856679088366",
+      "author": "@LandseerEnga",
+      "text": "AI can build an entire mobile app now. it just can't tell if the app actually works.\n\nso we built a CLI that gives Claude Code the one thing it was missing: eyes and hands.\n\nit opens your app on a cloud iPhone and taps through it like a person would. no scripts, no selectors,",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074127260656001355",
+      "author": "@RamaAdrien",
+      "text": "beyond excited about this big open-source release from @kyutai_labs  and @gen_intuition!\n\n🌍 world models are the next frontier of ai, and we just released one. not just any world model... \n\nit is an open-sourced interactive and multi-agent world model that you can try out live",
+      "likes": 20,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074254844223771010",
+      "author": "@omarsar0",
+      "text": "Cool open-source release.\n\nPhysical AI is the next frontier, so things are shifting from thinking to taking action.\n\nLingBot-Vision looks like a strong visual foundation model and shows progress in consistent depth on long, continuous operations.",
+      "likes": 20,
+      "retweets": 2
+    }
+  ]
+}
