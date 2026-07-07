@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-07",
+  "slot": "02",
+  "generated_at": "2026-07-07T15:49:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2074185348142280912",
+      "author": "@AnthropicAI",
+      "text": "New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with.\n\nWe found a strikingly similar divide inside Claude.",
+      "likes": 23507,
+      "retweets": 3197
+    },
+    {
+      "tweet_id": "2074244664199115201",
+      "author": "@claudeai",
+      "text": "We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.",
+      "likes": 3615,
+      "retweets": 384
+    },
+    {
+      "tweet_id": "2074247226038063316",
+      "author": "@bcherny",
+      "text": "This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research.\n\nSo much more to do. We are 1% done.",
+      "likes": 3210,
+      "retweets": 225
+    },
+    {
+      "tweet_id": "2074185390060110138",
+      "author": "@AnthropicAI",
+      "text": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models.\n\nTry it here:",
+      "likes": 1027,
+      "retweets": 73
+    },
+    {
+      "tweet_id": "2074032171795255693",
+      "author": "@reach_vb",
+      "text": "gm fam! we’re back in the office today!!",
+      "likes": 521,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2073836703052071345",
+      "author": "@reach_vb",
+      "text": "facts! the amount value a single ChatGPT Codex sub packs is insane!\n\nyou can get hell of a lot mileage even with /fast mode + xhigh all the way too\n\nsource: I use codex on my personal laptop + RPi to automate chores, grocery shop, stock buy/ sell orders and life admin on top of",
+      "likes": 405,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2073805140738609176",
+      "author": "@hwchase17",
+      "text": "anyone looked into or using Open Knowledge Format ( for their wikis?",
+      "likes": 362,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2074280720021774549",
+      "author": "@reach_vb",
+      "text": "was filling out a visa application (18 pages??) that somehow had no proper review or print page, and I needed to share it with my lawyers to look over.\n\nasked codex to use computer use, take screenshots of every page, export them into a PDF, and draft the email. it worked for 2",
+      "likes": 331,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2074180893934010524",
+      "author": "@ammaar",
+      "text": "I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal! ⚽️\n\nPowered by the new Nano Banana 2 Lite + Gemini Omni Flash.\n\nPick a team, strike a pose, and export your own lineup video to share with friends.\n\nTry it yourself + code below!",
+      "likes": 272,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2074139304335454491",
+      "author": "@reach_vb",
+      "text": "Chrome Extension + Codex is magic! I had a change in plans for upcoming work travels and asked Codex to cancel those bookings on navan\n\nCodex went and looked through all the bookings and cancelled them with proper reason and attribution\n\nThen for the few where it hit a technical",
+      "likes": 257,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074467718385021251",
+      "author": "@svpino",
+      "text": "I've already talked to two companies that limit engineers to $100 in weekly tokens. That's around $20,000 in extra costs per person per year.\n\nAfter you run out, you gotta write the code yourself, like a caveman.\n\nI suspect most companies will end up here. There's no way they can",
+      "likes": 220,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2074424445922337110",
+      "author": "@reach_vb",
+      "text": "it still blows my mind that I can just delegate things to codex before sleeping and wake up to it still chugging along and sending me a PR once done!\n\nin this particular case codex looked through 3 different codebases, setup their working copies, tested them across various",
+      "likes": 195,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074165277634253106",
+      "author": "@jerryjliu0",
+      "text": "Building the Document Context Layer for AI Agents\n\nAI Agents are the new knowledge workers, but the vast majority of knowledge work depends on unstructured documents. If you don’t build the proper tools to help unlock that context, agents can’t do much.\n\nI gave a comprehensive",
+      "likes": 161,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2074400018769793176",
+      "author": "@reach_vb",
+      "text": "Codex Mobile iOS updates:\n\n- create, search, open, fork, and manage Codex tasks from any conversation\n- filter staged, unstaged, branch, and last-turn changes\n- compare branches directly in diffs\nadd selected transcript text to the composer\n- preview image and file attachments",
+      "likes": 172,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2074173099944104284",
+      "author": "@svpino",
+      "text": "Nobody cares anymore if Python is better than JavaScript.\n\nNow all people talk about is whether Claude is better than Codex or Cursor.\n\nModel arguments killed programming language discussions.",
+      "likes": 152,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2074152211882426857",
+      "author": "@reach_vb",
+      "text": "Turns out you can just clone your favorite reviewers!\n\nAll our docs PRs are reviewed by both @dkundel and @charlierguo (or rather sub agents that mimic their past PR reviews)\n\nAlways brings a smile to my face when I see the sub agents with their names and persona reviewing my PR",
+      "likes": 141,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074108642899775800",
+      "author": "@svpino",
+      "text": "I maintain several skills. I run regularly with Claude Code.\n\nI asked Fable to read every skill and optimize them.\n\nThey are now 40% shorter on average! Everything works as before, but Fable cut out a ton of fat.\n\nOne of the skills writes on a spreadsheet using an MCP server.",
+      "likes": 132,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2073863285137342494",
+      "author": "@jerryjliu0",
+      "text": "There is a massive demand for processing files *in the agent loop*. The number of users submitting agent queries with file attachments is exponentially increasing over time. \n\nOur mission is to make LiteParse the best parser in terms of cost, accuracy, speed, and semantics, for",
+      "likes": 121,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2074176367344734450",
+      "author": "@reach_vb",
+      "text": "PSA: Just 4 days left to apply for DevDay 2026!\n\nJoin us for a day with the OpenAI community, meet the people building with our technology, and get a closer look at what’s happening behind the scenes.",
+      "likes": 110,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074165007768785339",
+      "author": "@hwchase17",
+      "text": "🚨Emergency webinar: LLM Wikis and how to give your agent memory\n\nLLM Wikis are so hot right now - OpenWiki by @BraceSproul up to nearly 7k GitHub stars in less than a week\n\nI'll be chatting with Brace and @devstein64 about Wikis this Thursday:",
+      "likes": 94,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2074411700384587971",
+      "author": "@svpino",
+      "text": "I started learning French. Wish me luck. Je vais en avoir besoin.",
+      "likes": 106,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074070200249684384",
+      "author": "@sentient_agency",
+      "text": "Berkeley teaches the courses that turn people into real engineers, and every single one is online for free.\n\nBootcamps teach you to copy a React tutorial. These teach you how a computer actually works. Here are 10 to bookmark.\n\n1. CS 61A: Structure and Interpretation of Programs",
+      "likes": 78,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2074178331600454009",
+      "author": "@hwchase17",
+      "text": "devin has a hot take that wikis are NOT the right abstraction\n\nshould be a fun webinar!!",
+      "likes": 64,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074244014719828269",
+      "author": "@svpino",
+      "text": "An email for AI agents is actually an interesting idea.\n\nI guess it’s like having an employee with its own email address and you cc’d them whenever you need their help.\n\nThis will keep separation between your email and the agent’s. It will also allow the agent to act freely on",
+      "likes": 56,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074478791322427862",
+      "author": "@reach_vb",
+      "text": "so so much fomo for not being at ICML this year! my entire TL is full of so many interesting folks at the conf that I'd love to chat with! 😭",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074211031539499444",
+      "author": "@svpino",
+      "text": "Europe's degrowth is so shortsighted.\n\nThey regulate first, focus on protecting what they have instead of building what's next, and tax ambitions until they fly to San Francisco.\n\nA strong European tech scene would be amazing for everyone, including Silicon Valley.\n\nViktor found",
+      "likes": 35,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074446135008309552",
+      "author": "@sentient_agency",
+      "text": "I stopped paying for every \"video downloader\" app on my phone the day I found this.\n\nThey all wanted $4.99 and half of them installed malware disguised as a converter.\n\ncobalt does the exact same job for $0, in your browser, with no install at all.\n\nPaste the link. It figures out",
+      "likes": 23,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074009215304134847",
+      "author": "@rpl_0x",
+      "text": "Przeżyliśmy na wyspach jest magicznie, jak w bajce!\n\nMimo że byliśmy przemoknięci do suchej nitki i przemarznięci, nie zepsuło to wrażeń. Nawet udało mi się odpalić drona, później na promie spróbuję skleić jakiś filmik.\n\nO ile takiej trasy jak zrobiliśmy nie polecam kazdemu",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073837708359717223",
+      "author": "@nauczymycieAI",
+      "text": "Premiera GPT 5.6 najprawdopodobniej w czwartek. Co wiemy o tym modelu?\n\nPolymarket przewiduje premierę GPT 5.6 na 9.07 - co ma dużo sensu.\n\nTo zaledwie dwa dni po tym, jak Anthropic zamierza wycofać Fable 5 z subskrypcji. GPT 5.6 mogłoby być idealnym rozwiązaniem dla",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073857941674111253",
+      "author": "@svpino",
+      "text": "I really want to know what’s driving these robots.\n\nAre they automatic or remotely monitored by people?\n\nIf the former, this video is bonkers and this is incredibly impressive. If the latter, while I understand it would be a stepping stone, I’m not sure many people would want",
+      "likes": 25,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074190660681314717",
+      "author": "@nauczymycieAI",
+      "text": "Jaka jest najważniejsza umiejętność przy pracy z AI?\n\nSkille. \n\nJeżeli z nich nie korzystasz, to zamiast genialnego współpracownika, dostajesz przypadkowego użytkownika Reddita.\n\nPrzypominam swój poradnik w ramach edukacyjnych poniedziałków👇",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074510084835778793",
+      "author": "@hwchase17",
+      "text": "Good blog from viv on how improving agents (via rl, harness Eng, anything) boils down to a data mining problem over traces",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074194601724813759",
+      "author": "@nauczymycieAI",
+      "text": "Fable 5 jutro znika z subskrypcji.\n\nJakie macie opinie o tym modelu?",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073804185854714265",
+      "author": "@rpl_0x",
+      "text": "Dzisiaj dzień miał być mega fajny, mieliśmy zwolnić tempo i spokojnie wjechać na Alandy.\n\nNiestety wyszedł chyba najtrudniejszy dzień wyprawy.\n\nPrzez 4h jechaliśmy w grubej ulewie, co jakiś czas, jak deszcz był zbyt mocny albo pioruny waliły w pobliżu, chowaliśmy się w",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074490965042303160",
+      "author": "@svpino",
+      "text": "AI is cool to generate 3D scenes and all, but it's mostly a gimmick and really hard to use for anything serious.\n\nIf we want a chance to scale this and use it for serious stuff, we need something like this: a way to properly direct a complete scene.\n\nWe need tools that give us",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2073920613316465114",
+      "author": "@jerryjliu0",
+      "text": "Is this what founder mode looks like",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074122800961614184",
+      "author": "@HowToPrompt__",
+      "text": "China has killed the entire vector database industry.\n\nThey open-sourced TencentDB Agent Memory. It gives any AI agent long-term memory that runs 100% locally.\n\nNo Pinecone. No cloud APIs. No repeating yourself every session.\n\n- 61% fewer tokens\n- PersonaMem accuracy: 48% → 76%",
+      "likes": 2180,
+      "retweets": 340
+    },
+    {
+      "tweet_id": "2074221465864679754",
+      "author": "@sporadica",
+      "text": "This is fascinating for so many reasons, but I am astonished that this legit just *emerged*\n\nit wasn't coded or programmed or anything, it just so happens that it when training a large language model, a small internal \"consciously accessible\" workspace of sorts emerges.....HUH",
+      "likes": 1102,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2074147157255540977",
+      "author": "@NadzuAI",
+      "text": "🚨 𝗔𝗜 𝗦𝗞𝗜𝗟𝗟𝗦 𝗧𝗛𝗔𝗧 𝗖𝗢𝗨𝗟𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨 𝗠𝗢𝗡𝗘𝗬 𝗜𝗡 2026 — NOW FREE 🚨\n\nThousands are learning high-income AI skills online…\n\nBut most paid courses cost hundreds of dollars 💸\n\nSo I collected the best AI resources and made them FREE for a limited time 🔥",
+      "likes": 304,
+      "retweets": 194
+    },
+    {
+      "tweet_id": "2074200352555966967",
+      "author": "@StanDehaene",
+      "text": "The global neuronal workspace (GNW) is currently the best documented neuroscience mechanism by which conscious processing arises in the human brain — and now Anthropic researchers have discovered a similar workspace inside their large language model !",
+      "likes": 266,
+      "retweets": 56
+    }
+  ]
+}
