@@ -1,0 +1,233 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-08",
+  "slot": "02",
+  "generated_at": "2026-07-08T15:59:09Z",
+  "tweets": [
+    {
+      "tweet_id": "2074793136593715479",
+      "author": "@Macronextcom",
+      "text": "#EURPLN 4,3110 zł.\n\nCiekawie robi się na rynku walutowym. #Euro powyżej 4,31 zł pierwszy raz od... listopada 2024.",
+      "likes": 57,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2074815716423762173",
+      "author": "@PAPinformacje",
+      "text": "Minister zdrowia o płacach: wprowadzimy maksymalne poziomy wynagrodzeń indywidualnych i maksymalnych wydatków w ramach budżetów szpitali ze środków NFZ. (PAP)\n#PAPinformacje",
+      "likes": 41,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2074429800681197733",
+      "author": "@Macronextcom",
+      "text": "Wyjaśniło się. Za dzisiejszym wzrostem #TEXT (47,70 zł; +6,71%🚀) stoi nowe reko od BM PKO.👇\n\nAnalitycy podnieśli cenę docelową dla akcji TEXT do 57 zł z 45 zł, podtrzymując jednocześnie rekomendację \"KUPUJ\".\n\nps. układ sił na wykresie TEXT👇👇 sugeruje ruch minimum do 55 zł.",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074738185553219721",
+      "author": "@Macronextcom",
+      "text": "Analitycy Morgan Stanley obniżyli cenę docelową dla akcji #KGHM 🇵🇱 z 416 zł do 340 zł, jednocześnie tnąc rekomendację dla tych akcji z \"przeważaj\" do \"neutralnie\".\n\nKGHM POLSKA MIEDZ SA : MORGAN STANLEY  CUTS TARGET PRICE TO PLN 340 FROM PLN 416\n\nWczoraj KGHM kosztował 319,05 zł.",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074840336115912749",
+      "author": "@PAPinformacje",
+      "text": "Rada Polityki Pieniężnej nie zmieniła stóp procentowych, stopa referencyjna nadal wynosi 3,75 proc. #PAPinformacje",
+      "likes": 17,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2074374680677319040",
+      "author": "@Macronextcom",
+      "text": "W maju nieco lepiej niż oczekiwano, ale dalej produkcja w Niemczech \"leży i kwiczy\".\n\n#Niemcy 🇩🇪: w V 2026 r. Produkcja przemysłowa +0,9% m/m 📊 (prognoza: +0,2%; poprzednio: +0,2%)\n\nW relacji rocznej produkcja przemysłowa 0,0%, po tym jak w kwietniu spadła o 0,9%.",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074525213677555984",
+      "author": "@PAPinformacje",
+      "text": "Rutte: instytucje finansowe zmobilizowały już 217 mld dolarów na obronności państw NATO\n#PAPinformacje",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074559737698369806",
+      "author": "@PAPinformacje",
+      "text": "Le Pen zwróci się do sądu kasacyjnego, zamierza kandydować w wyborach prezydenckich #PAPinformacje",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074742238496641527",
+      "author": "@PAPinformacje",
+      "text": "MRPiPS: szacowana stopa bezrobocia w czerwcu wyniosła 5,8 proc. i w porównaniu do maja spadła o 0,1 pkt. proc. (PAP)\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074395778001342572",
+      "author": "@GUS_STAT",
+      "text": "W styczniu 2026 r. pracę w Polsce wykonywało 1,1 mln. cudzoziemców, tj. o 7,1% więcej r/r. \nWedług stanu na 31 stycznia 2026 r. obywatele Ukrainy stanowili 67,7% ogólnej liczby cudzoziemców wykonujących pracę w Polsce.\n\n🔗\n\n#statystyki #praca #cudzoziemcy",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074860301627924494",
+      "author": "@PAPinformacje",
+      "text": "Trump: Damy Ukrainie licencję na produkcję Patriotów #PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074859019026505875",
+      "author": "@PAPinformacje",
+      "text": "NBP: 50-procentowe prawdopodobieństwo wzrostu PKB w przedziale 3 – 4,4 proc. w 2026 r.; 1,8 – 3,7 proc. w 2027 r. i 1,9 – 4,1 proc. w 2028 r. (PAP)\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074758105338929414",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. zawarto 561,7tys. aktów notarialnych dotyczących sprzedaży nieruchomości – o 2,9% więcej niż w 2024 r. Wzrost liczby aktów notarialnych dotyczył prawie wszystkich rodzajów nieruchomości.\n\n🔗\n\n#GUS #statystyki #RynekNieruchomości",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074191028039331929",
+      "author": "@thepolandnews_",
+      "text": "Sąd Apelacyjny utrzymał w mocy decyzję UOKiK dotyczącą kary 13,2 mln zł dla sieci Kaufland. Powodem były nieprawidłowe oznaczenia kraju pochodzenia owoców i warzyw, które wprowadzały klientów w błąd. Decyzja jest prawomocna.",
+      "likes": 1774,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2074165167487701145",
+      "author": "@sentdefender",
+      "text": "Poland’s Defense Minister Władysław Kosiniak-Kamysz announced Monday that several thousand U.S. Soldiers will arrive in Poland within the coming weeks, as the United States has committed to resuming its rotation of combat forces on NATO’s Eastern Front. This announcement comes",
+      "likes": 1571,
+      "retweets": 170
+    },
+    {
+      "tweet_id": "2074808334415266266",
+      "author": "@visegrad24",
+      "text": "Polish border guards and Polish police officers detained six foreign nationals after they attempted to breach Poland’s border! \n\nThe illegals consisted of 5 Somali nationals and one Moroccan national who tried to enter Poland from Lithuania. 🇸🇴🇲🇦\n\nThe migrants did not possess",
+      "likes": 809,
+      "retweets": 104
+    },
+    {
+      "tweet_id": "2074504393173483905",
+      "author": "@ukraine_world",
+      "text": "⚡️ #Europe is planning to establish a dedicated maintenance center for PAC-3 missiles used by Patriot air defense systems. The United States, Poland, Germany, the Netherlands, and Sweden have signed the corresponding intergovernmental agreement, Polish Defense Minister Władysław",
+      "likes": 132,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2074176501046542788",
+      "author": "@Venek__",
+      "text": "Urząd Ochrony Konkurencji i Konsumentów wygrał w sądzie z Kauflandem; podtrzymana została decyzja Prezesa UOKiK i nałożona na sieć kara w wysokości 13,2 mln zł - poinformował w poniedziałek Urząd. Przyczyną postępowania było nieprawidłowe oznakowanie kraju pochodzenia owoców i",
+      "likes": 166,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074385466564993286",
+      "author": "@Maks_NAFO_FELLA",
+      "text": "🇵🇱🇺🇦 The head of the Polish Ministry of Defense stated that the issue of the transfer of MiG-29 aircraft to Ukraine has not yet been resolved. The agency received a corresponding request from the Ukrainian side.\n\n\"Ukrainians presented their proposals for the transfer of drones to",
+      "likes": 137,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2074190740314333223",
+      "author": "@UkrReview",
+      "text": "🇵🇱🇺🇦 Poland has begun to declassify data on military aid to Ukraine, — Rzeczpospolita\n\nSince the full-scale invasion, Warsaw has transferred military aid to Kyiv worth 16.55 billion zlotys (about $4.5 billion).\n\nAbout 15 billion zlotys fell to 2022-2023, and another 1.55 billion",
+      "likes": 102,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2074475628225810716",
+      "author": "@naczasienews",
+      "text": "💼CBA zatrzymało pięć osób w sprawie wyłudzenia ponad 7,5 mln złotych z Narodowego Centrum Badań i Rozwoju, a wśród zatrzymanych znalazł się biznesmen Łukasz P., mąż Sylwii Peretti z „Królowych życia\". \n\nŚledztwo dotyczy projektu badawczo-rozwojowego związanego z wydobywaniem i",
+      "likes": 78,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074810851391836209",
+      "author": "@PawelMalik_GG",
+      "text": "WIG w 1 półroczu 2026 r. +15,7%\n\n116 spółek na GPW miało stopy zwroty wyższe\nale aż 274 niższe\n\nczyli większość jest poniżej WIG! \n\nwzrost 216 spółek\nspadek 174\n\n*pominąłem spółki, które nie miały obrotu; bez NewConnect",
+      "likes": 62,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074809542928417125",
+      "author": "@Venek__",
+      "text": "Pracownicy UOKiK za zgodą sądu i w asyście policji przeszukali siedziby BIK, ING Banku Śląskiego, mBanku oraz mBanku Hipotecznego. Działania były prowadzone w związku z podejrzeniem nieprawidłowości między innymi w ocenie zdolności kredytowej konsumentów.",
+      "likes": 52,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074241436854464715",
+      "author": "@MilitarySummary",
+      "text": "🇵🇱 Polish Defense Minister Władysław Kosiniak-Kamisz announced that several thousand American troops will arrive in Poland in the coming weeks, as the United States has committed to resuming combat force rotations on NATO's eastern front. This announcement comes amid reports that",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074220588847996946",
+      "author": "@militarnyi",
+      "text": "🇵🇱🇺🇦The Polish Ministry of Defense has released details regarding military aid to Ukraine, officially confirming for the first time the transfer of PAC-3 missiles to the Patriot air defense system and the delivery of S-200 systems.",
+      "likes": 25,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074486092632297613",
+      "author": "@CERT_Polska",
+      "text": "📦 Wiadomość o konieczności potwierdzenia danych przesyłki? Nie wpakuj się w kłopoty…\n\nCERT Polska obserwuje kampanię SMS podszywającą się pod wizerunek firmy InPost. \n\n🚚 Wiadomość informuje o rzekomej konieczności potwierdzenia danych przesyłki i zachęca do przejścia na",
+      "likes": 14,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074606060216713683",
+      "author": "@PolsatNewsPL",
+      "text": "Krynica Morska przygotowuje się na uderzenie silnego wiatru. Z powodu zagrożenia ewakuowanych zostało 300 harcerzy, a lokalni restauratorzy budowali na plaży umacniania.",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074751198914138163",
+      "author": "@k0g00t",
+      "text": "mWIG40 ŚWIECI TRIUMFY W TYM ROKU\n\nWczoraj newsletter Quercusa przyglądał się sWIG80, to ja dorzucam drugą stronę obrazka i patrzę na lidera tego roku: mWIG40\n\nYTD:\n ► WIG20: +15,4%\n ► mWIG40: +19,4%\n ► mWIG40 equal-weight: +20,9%\n ► mediana mWIG40: +9,6%\n\nOd 2010 roku średnie",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074513345017766111",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 -0,42%; poziom 3674\n#KGHM -2,89%; miedź i srebro\n#CDProjekt +1,80%; zbliżamy się do oporu w okolicach 240 zł\n#Text +6,26%; rekomendacja od #PKOBP\n#Synektik +4,56%; pierwszy kontrakt na Litwie\n#Bumech -6,62%; realizacja zysków\n#gold⬇️ 4151 USD\n#srebro⬇️ 60,89",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074791281612472767",
+      "author": "@Straz_Graniczna",
+      "text": "Funkcjonariusze z #PlacówkaSGwMedyce wspólnie z Policją z Przemyśla ujawnili ponad 8️⃣ kg marihuany oraz przeszło 0,5 kg substancji psychotropowej 4-CMC o łącznej wartości ponad 3️⃣5️⃣0️⃣ tys. zł.\n\nW sprawie zatrzymano dwóch obywateli Polski 🇵🇱. 40-latek został tymczasowo aresztowany",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074506409752875036",
+      "author": "@Maciej_Inwestor",
+      "text": "Ile rachunków w otwierają biura maklerskie w Polsce 🇵🇱 w 2026? \nDane pochodzą z KDPW i na razie dostępne tylko dla okresu Styczeń-Maj 2026. Ranking robiony względem przyrostu, spośród 5 największych BM w Polsce:\n\n🥇 XTB S.A. - 197 706  nowych rachunków od stycznia 2026, ~82%",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074838661800063173",
+      "author": "@wirtualnapolska",
+      "text": "🔴Szereg zmian w ochronie zdrowia. Ministra ogłosiła\n\nMaksymalne poziomy wynagrodzeń indywidualnych i maksymalnych wydatków w ramach budżetów szpitali ze środków przekazywanych z NFZ zapowiedziała w środę Jolanta Sobierańska-Grenda. Ministra zdrowia poinformowała także o innych",
+      "likes": 9,
+      "retweets": 3
+    }
+  ]
+}

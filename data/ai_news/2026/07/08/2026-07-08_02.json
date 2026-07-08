@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-08",
+  "slot": "02",
+  "generated_at": "2026-07-08T15:59:09Z",
+  "tweets": [
+    {
+      "tweet_id": "2074548242386178258",
+      "author": "@claudeai",
+      "text": "We're extending access to Claude Fable 5 on all paid plans through July 12.",
+      "likes": 77400,
+      "retweets": 9042
+    },
+    {
+      "tweet_id": "2074185348142280912",
+      "author": "@AnthropicAI",
+      "text": "New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with.\n\nWe found a strikingly similar divide inside Claude.",
+      "likes": 27219,
+      "retweets": 3707
+    },
+    {
+      "tweet_id": "2074709023807664454",
+      "author": "@sama",
+      "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
+      "likes": 24980,
+      "retweets": 1636
+    },
+    {
+      "tweet_id": "2074525815820169320",
+      "author": "@claudeai",
+      "text": "Claude Cowork is coming to mobile and web.\n\nHand Claude a task at your desk and pick up the finished work from your phone. Close the laptop and Claude keeps going.\n\nBeta is rolling out over the next several weeks starting with the Max plan, with more plans to follow.",
+      "likes": 19150,
+      "retweets": 1526
+    },
+    {
+      "tweet_id": "2074244664199115201",
+      "author": "@claudeai",
+      "text": "We've put together a short history of how Claude Code came to be, told by the people who built it and the early users who helped make it what it is today.",
+      "likes": 4380,
+      "retweets": 470
+    },
+    {
+      "tweet_id": "2074247226038063316",
+      "author": "@bcherny",
+      "text": "This is our first time telling the story of how we first built and launched Claude Code, starting with its origins in Anthropic safety research.\n\nSo much more to do. We are 1% done.",
+      "likes": 3787,
+      "retweets": 265
+    },
+    {
+      "tweet_id": "2074185390060110138",
+      "author": "@AnthropicAI",
+      "text": "We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models.\n\nTry it here:",
+      "likes": 1377,
+      "retweets": 111
+    },
+    {
+      "tweet_id": "2074551227594264799",
+      "author": "@NotebookLM",
+      "text": "Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English!\n\nAs always, your opinion means everything to us. Share your favorite creations below and tell us what features we need to add next! ❤️",
+      "likes": 482,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2074467718385021251",
+      "author": "@svpino",
+      "text": "I've already talked to two companies that limit engineers to $100 in weekly tokens. That's around $20,000 in extra costs per person per year.\n\nAfter you run out, you gotta write the code yourself, like a caveman.\n\nI suspect most companies will end up here. There's no way they can",
+      "likes": 471,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2074280720021774549",
+      "author": "@reach_vb",
+      "text": "was filling out a visa application (18 pages??) that somehow had no proper review or print page, and I needed to share it with my lawyers to look over.\n\nasked codex to use computer use, take screenshots of every page, export them into a PDF, and draft the email. it worked for 2",
+      "likes": 355,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2074740596493754509",
+      "author": "@reach_vb",
+      "text": "Excited to bring Sol, Terra and Luna to Codex and Chat near you!\n\nWen Sol? THURSDAY!!",
+      "likes": 305,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2074180893934010524",
+      "author": "@ammaar",
+      "text": "I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal! ⚽️\n\nPowered by the new Nano Banana 2 Lite + Gemini Omni Flash.\n\nPick a team, strike a pose, and export your own lineup video to share with friends.\n\nTry it yourself + code below!",
+      "likes": 287,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2074424445922337110",
+      "author": "@reach_vb",
+      "text": "it still blows my mind that I can just delegate things to codex before sleeping and wake up to it still chugging along and sending me a PR once done!\n\nin this particular case codex looked through 3 different codebases, setup their working copies, tested them across various",
+      "likes": 234,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074650129030586865",
+      "author": "@reach_vb",
+      "text": "nobody:\nabsolutely no one:\n\nme at 01:30AM: oh what if I set codex in an infinite loop on a slack thread and continue monitoring conversation and then dynamically update my PR!\n\n*opens laptop*",
+      "likes": 228,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074400018769793176",
+      "author": "@reach_vb",
+      "text": "Codex Mobile iOS updates:\n\n- create, search, open, fork, and manage Codex tasks from any conversation\n- filter staged, unstaged, branch, and last-turn changes\n- compare branches directly in diffs\nadd selected transcript text to the composer\n- preview image and file attachments",
+      "likes": 213,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074832126055489814",
+      "author": "@svpino",
+      "text": "How you can build a moat with self-learning agents:\n\nIf you can build an agent that gets better every time people use it, you will be unstoppable.\n\nHere is what you can do:\n\n1. Learn from two sources, not one. Agent traces show what the agent did and where it broke. In-browser",
+      "likes": 198,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2074547871194698207",
+      "author": "@hwchase17",
+      "text": "deepagents is our newest open source project - an open source, model agnostic agent harness\n\nthis is maybe the most important academy course we've launched",
+      "likes": 197,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2074165277634253106",
+      "author": "@jerryjliu0",
+      "text": "Building the Document Context Layer for AI Agents\n\nAI Agents are the new knowledge workers, but the vast majority of knowledge work depends on unstructured documents. If you don’t build the proper tools to help unlock that context, agents can’t do much.\n\nI gave a comprehensive",
+      "likes": 177,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2074510084835778793",
+      "author": "@hwchase17",
+      "text": "Good blog from viv on how improving agents (via rl, harness Eng, anything) boils down to a data mining problem over traces",
+      "likes": 156,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2074173099944104284",
+      "author": "@svpino",
+      "text": "Nobody cares anymore if Python is better than JavaScript.\n\nNow all people talk about is whether Claude is better than Codex or Cursor.\n\nModel arguments killed programming language discussions.",
+      "likes": 161,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2074542712355967151",
+      "author": "@hwchase17",
+      "text": "llm wikis are a glimpse of the future of what agent memory looks like\n\nthis blog i wrote resonated with a lot of folks\n\nwill be discussing this (as well as some updates ive made to my beliefs since this!) this thursday with @BraceSproul @devstein64",
+      "likes": 149,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2074411700384587971",
+      "author": "@svpino",
+      "text": "I started learning French. Wish me luck. Je vais en avoir besoin.",
+      "likes": 123,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074605010210422991",
+      "author": "@reach_vb",
+      "text": "mildly interesting, I’ve been using ChatGPT a lot more these days to draft quick Gmail responses, research and prepare a report, and just generally for bespoke web searches + interacting with slack, gmail and docs",
+      "likes": 119,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074176367344734450",
+      "author": "@reach_vb",
+      "text": "PSA: Just 4 days left to apply for DevDay 2026!\n\nJoin us for a day with the OpenAI community, meet the people building with our technology, and get a closer look at what’s happening behind the scenes.",
+      "likes": 110,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074446135008309552",
+      "author": "@sentient_agency",
+      "text": "I stopped paying for every \"video downloader\" app on my phone the day I found this.\n\nThey all wanted $4.99 and half of them installed malware disguised as a converter.\n\ncobalt does the exact same job for $0, in your browser, with no install at all.\n\nPaste the link. It figures out",
+      "likes": 67,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2074541736857419955",
+      "author": "@hwchase17",
+      "text": "How a local-first personal AI agent uses orchestration, memory, tools, LangGraph, background workflows, and child agents",
+      "likes": 62,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074244014719828269",
+      "author": "@svpino",
+      "text": "An email for AI agents is actually an interesting idea.\n\nI guess it’s like having an employee with its own email address and you cc’d them whenever you need their help.\n\nThis will keep separation between your email and the agent’s. It will also allow the agent to act freely on",
+      "likes": 59,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074478791322427862",
+      "author": "@reach_vb",
+      "text": "so so much fomo for not being at ICML this year! my entire TL is full of so many interesting folks at the conf that I'd love to chat with! 😭",
+      "likes": 64,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074554082656985557",
+      "author": "@svpino",
+      "text": "I still read my code.",
+      "likes": 55,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074211031539499444",
+      "author": "@svpino",
+      "text": "Europe's degrowth is so shortsighted.\n\nThey regulate first, focus on protecting what they have instead of building what's next, and tax ambitions until they fly to San Francisco.\n\nA strong European tech scene would be amazing for everyone, including Silicon Valley.\n\nViktor found",
+      "likes": 40,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074552123539197952",
+      "author": "@nauczymycieAI",
+      "text": "Claude Fable 5 będzie dostępny w subskrypcjach dłużej - do 12.07.\n\nSkąd taki ruch Anthropic?\n\nNiestety, nie z dobroci korporacyjnego serca. OpenAI zamierzało wykorzystać wycofanie Fable - i wjechać całe na biało w powstałą pustkę - swoim nowym modelem GPT 5.6, który ma mieć",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074642346130776323",
+      "author": "@hwchase17",
+      "text": "is anyone standardizing on ATIF as a format for agent traces? or a different format? or is it still wild wild west, roll your own",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074490965042303160",
+      "author": "@svpino",
+      "text": "AI is cool to generate 3D scenes and all, but it's mostly a gimmick and really hard to use for anything serious.\n\nIf we want a chance to scale this and use it for serious stuff, we need something like this: a way to properly direct a complete scene.\n\nWe need tools that give us",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074190660681314717",
+      "author": "@nauczymycieAI",
+      "text": "Jaka jest najważniejsza umiejętność przy pracy z AI?\n\nSkille. \n\nJeżeli z nich nie korzystasz, to zamiast genialnego współpracownika, dostajesz przypadkowego użytkownika Reddita.\n\nPrzypominam swój poradnik w ramach edukacyjnych poniedziałków👇",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074778571646886067",
+      "author": "@sentient_agency",
+      "text": "Backblaze charges by the gigabyte.\nDropbox charges by the gigabyte.\nEvery cloud backup service on earth charges you for storing the same files over and over again.\n\nSomeone built a backup tool that refuses to store the same data twice, ever, and gave it away for free.\n\nIt's",
+      "likes": 15,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2074753946510299566",
+      "author": "@nauczymycieAI",
+      "text": "Zgodnie z moimi przewidywaniami - nowe GPT 5.6 w czwartek.\n\nChwilę po premierze udostępnię przegląd modelu, a +/- 2 tygodnie po premierze - kompletną recenzję do zastosowań biurowych - i porównanie z konkurencją.\n\nObserwuj, żeby tego nie przegapić",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074868244721352840",
+      "author": "@hwchase17",
+      "text": "gpt-5.6 sol isnt the only thinking launching thursday\n\nwe're also releasing a big update to OpenWiki (auto create wikis of code bases... and more?)\n\nwe're also going live with a webinar to talk all things wiki: \n\n(openwiki:",
+      "likes": 20,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074194601724813759",
+      "author": "@nauczymycieAI",
+      "text": "Fable 5 jutro znika z subskrypcji.\n\nJakie macie opinie o tym modelu?",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074874140776169485",
+      "author": "@hwchase17",
+      "text": "Really excited to partner with @nvidia on the NemoClaw Deep Agents Blueprint\n\nDeep Agents is a fully open source agent harness that we are tuning to make perform incredibly well with open models",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074879517567447172",
+      "author": "@reach_vb",
+      "text": "you'll want to listen in to this!",
+      "likes": 21,
+      "retweets": 0
+    }
+  ]
+}
