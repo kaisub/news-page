@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-08",
+  "slot": "01",
+  "generated_at": "2026-07-08T01:14:44Z",
+  "tweets": [
+    {
+      "tweet_id": "2074180893934010524",
+      "author": "@ammaar",
+      "text": "I vibe coded an app that puts you in your favorite team's World Cup Starting XI reveal! ⚽️\n\nPowered by the new Nano Banana 2 Lite + Gemini Omni Flash.\n\nPick a team, strike a pose, and export your own lineup video to share with friends.\n\nTry it yourself + code below!",
+      "likes": 281,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2074547871194698207",
+      "author": "@hwchase17",
+      "text": "deepagents is our newest open source project - an open source, model agnostic agent harness\n\nthis is maybe the most important academy course we've launched",
+      "likes": 92,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2074494130126811473",
+      "author": "@liquidai",
+      "text": "Today we release Antidoom, an open-source method that removes a common failure mode in reasoning models: the doom loop.\n\nDoom-loop rates before and after, with eval scores up across the board:\n\n&gt; Early LFM2.5-2.6B checkpoint: 10.2% → 1.4%\n\n&gt; Qwen3.5-4B: 22.9% → 1% (greedy",
+      "likes": 1738,
+      "retweets": 206
+    },
+    {
+      "tweet_id": "2074527573116133425",
+      "author": "@0xCodez",
+      "text": "Anthropic just released 5 workshops on building self-improving agentic systems from scratch:\n\n00:00 - Ship your first Claude agent \n36:44 - Self-improving agents (tools,skills)\n1:21:25 - Build memory for Claude agents\n1:49:47 - Set up a proactive agent \n2:11:31 - Make your agent",
+      "likes": 667,
+      "retweets": 102
+    }
+  ]
+}
