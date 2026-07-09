@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-09",
+  "slot": "02",
+  "generated_at": "2026-07-09T15:57:11Z",
+  "tweets": [
+    {
+      "tweet_id": "2074548242386178258",
+      "author": "@claudeai",
+      "text": "We're extending access to Claude Fable 5 on all paid plans through July 12.",
+      "likes": 81280,
+      "retweets": 9211
+    },
+    {
+      "tweet_id": "2074709023807664454",
+      "author": "@sama",
+      "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
+      "likes": 31408,
+      "retweets": 1948
+    },
+    {
+      "tweet_id": "2074525815820169320",
+      "author": "@claudeai",
+      "text": "Claude Cowork is coming to mobile and web.\n\nHand Claude a task at your desk and pick up the finished work from your phone. Close the laptop and Claude keeps going.\n\nBeta is rolling out over the next several weeks starting with the Max plan, with more plans to follow.",
+      "likes": 21303,
+      "retweets": 1715
+    },
+    {
+      "tweet_id": "2074909079450050629",
+      "author": "@sama",
+      "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
+      "likes": 10422,
+      "retweets": 503
+    },
+    {
+      "tweet_id": "2074997570317779038",
+      "author": "@bcherny",
+      "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to",
+      "likes": 9295,
+      "retweets": 733
+    },
+    {
+      "tweet_id": "2075225957711929667",
+      "author": "@claudeai",
+      "text": "Introducing a new way to reflect on how you use Claude.\n\nYour monthly recap shows when you use Claude most and what you spent that time working on, with options to set quiet hours and nudges to take breaks. Find your dashboard in Settings under Reflect:",
+      "likes": 4678,
+      "retweets": 289
+    },
+    {
+      "tweet_id": "2075048072837734448",
+      "author": "@sama",
+      "text": "it surely doesnt",
+      "likes": 4218,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2075063511290662996",
+      "author": "@sama",
+      "text": "tbh i dont think sol gets that many dates either",
+      "likes": 2600,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2075068286107316317",
+      "author": "@sama",
+      "text": "what a good video",
+      "likes": 2499,
+      "retweets": 94
+    },
+    {
+      "tweet_id": "2075047747250684352",
+      "author": "@sama",
+      "text": "i do love rottweilers",
+      "likes": 1947,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2074832126055489814",
+      "author": "@svpino",
+      "text": "How you can build a moat with self-learning agents:\n\nIf you can build an agent that gets better every time people use it, you will be unstoppable.\n\nHere is what you can do:\n\n1. Learn from two sources, not one. Agent traces show what the agent did and where it broke. In-browser",
+      "likes": 782,
+      "retweets": 120
+    },
+    {
+      "tweet_id": "2074997911348244930",
+      "author": "@bcherny",
+      "text": "This is pretty epic",
+      "likes": 696,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2074551227594264799",
+      "author": "@NotebookLM",
+      "text": "Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English!\n\nAs always, your opinion means everything to us. Share your favorite creations below and tell us what features we need to add next! ❤️",
+      "likes": 571,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2074740596493754509",
+      "author": "@reach_vb",
+      "text": "Excited to bring Sol, Terra and Luna to Codex and Chat near you!\n\nWen Sol? THURSDAY!!",
+      "likes": 334,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075112621368328282",
+      "author": "@reach_vb",
+      "text": "gm chat, it’s Thursday™️ today!",
+      "likes": 281,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2074650129030586865",
+      "author": "@reach_vb",
+      "text": "nobody:\nabsolutely no one:\n\nme at 01:30AM: oh what if I set codex in an infinite loop on a slack thread and continue monitoring conversation and then dynamically update my PR!\n\n*opens laptop*",
+      "likes": 239,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074909271368569081",
+      "author": "@reach_vb",
+      "text": "Excited for GPT-Live-1 and mini!\n\nIt’s a pretty good model and feels shockingly natural. It’s a legit step change in both quality as well as latency!\n\nRolling out to ChatGPT now and API access coming shortly too\n\nYou’ve got to try it out!!",
+      "likes": 178,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2074952167312511079",
+      "author": "@reach_vb",
+      "text": "Underrated!! Codex app has unlocked so so many novel ways of working on the go as well as it continuing to get better by invoking skills, kicking of worktrees and generally dealing with longer threads!\n\nIf you haven’t already try Codex on ChatGPT app now",
+      "likes": 129,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074605010210422991",
+      "author": "@reach_vb",
+      "text": "mildly interesting, I’ve been using ChatGPT a lot more these days to draft quick Gmail responses, research and prepare a report, and just generally for bespoke web searches + interacting with slack, gmail and docs",
+      "likes": 122,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075147701230956746",
+      "author": "@reach_vb",
+      "text": "Incredible things are happening AtCoder 🔥",
+      "likes": 102,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074977726100901931",
+      "author": "@svpino",
+      "text": "Last time I asked here, most people preferred Hermes over OpenClaw.\n\nSince then, almost every person I know migrated to Hermes.\n\nI think Hermes is cornering the market, and reports like this will cause more people to migrate.",
+      "likes": 92,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075022410609242461",
+      "author": "@reach_vb",
+      "text": "back at it 02:00AM\n\nkicked off a long-running task with Codex to review a few PRs and perform visual QA on some upcoming changes\n\nstepping back, the amount of work I’ve managed to get done with Codex this week is insane - from making fun games, editing videos, debugging infra to",
+      "likes": 91,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074879517567447172",
+      "author": "@reach_vb",
+      "text": "you'll want to listen in to this!",
+      "likes": 91,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074962537834029468",
+      "author": "@rpl_0x",
+      "text": "Po cholerę uczyłem się programować, trzeba było zostać youtuberem podróżniczym…\n\nCzasem naprawdę kusi, żeby zacząć nagrywać jakieś filmiki podróżnicze, survivalowe, może trochę dokumentalne. Takie z drogi, z namiotu, z promów, z dziwnych miejsc, do których normalnie człowiek by",
+      "likes": 73,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075006339437253005",
+      "author": "@reach_vb",
+      "text": "As models evolve it’s important that benchmarks evolve with them\n\nThere’s no better time than now to be in the evals space",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074554082656985557",
+      "author": "@svpino",
+      "text": "I still read my code.",
+      "likes": 61,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075195779476848661",
+      "author": "@svpino",
+      "text": "So many people are sending AI-written cover letters and résumés that it's easier than ever to stand out with a genuine application.\n\nIf you just take the time to write something without asking an LLM, your application will stick out like a lighthouse in the middle of the night.",
+      "likes": 59,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074919314755604855",
+      "author": "@hwchase17",
+      "text": "Congrats to prime intellect! Love partnering with them on LangChain labs work",
+      "likes": 54,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2074552123539197952",
+      "author": "@nauczymycieAI",
+      "text": "Claude Fable 5 będzie dostępny w subskrypcjach dłużej - do 12.07.\n\nSkąd taki ruch Anthropic?\n\nNiestety, nie z dobroci korporacyjnego serca. OpenAI zamierzało wykorzystać wycofanie Fable - i wjechać całe na biało w powstałą pustkę - swoim nowym modelem GPT 5.6, który ma mieć",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074961033710432356",
+      "author": "@nauczymycieAI",
+      "text": "Grok 4.5 to w tym momencie najlepszy model w kontekście cena / jakość / szybkość.\n\nZdolniejszy od GLM-a 5.2, po niższym (!) koszcie - i jednocześnie znacznie szybszy niż Opus 4.8 czy GPT 5.5.\n\nPrawdopodobnie najlepszy model-wykonawca na rynku",
+      "likes": 42,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074921073502765407",
+      "author": "@hwchase17",
+      "text": "Guess what we added someone else to this webinar:\n\n@jeffreyhuber, ceo and cofounder of chroma\n\nWhat does a vector database think about the concept of “wikis”?\n\nCome find out! It’s turning into a party",
+      "likes": 36,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075155603882717426",
+      "author": "@svpino",
+      "text": "A man carrying an AC unit in the streets of Paris.",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074913291789316572",
+      "author": "@svpino",
+      "text": "An open-source foundation model for robots.\n\nShow me something more hardcore than this, and I'll deactivate my account.\n\nBots are coming!",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074778571646886067",
+      "author": "@sentient_agency",
+      "text": "Backblaze charges by the gigabyte.\nDropbox charges by the gigabyte.\nEvery cloud backup service on earth charges you for storing the same files over and over again.\n\nSomeone built a backup tool that refuses to store the same data twice, ever, and gave it away for free.\n\nIt's",
+      "likes": 21,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2074924611633123436",
+      "author": "@nauczymycieAI",
+      "text": "Premiera nowego Groka 4.5. Wygląda na to, że to bardzo dobry i sprytnie pozycjonowany model.\n\nALE. Nie jest obecnie dostępny w EU - przynajmniej przez kolejny tydzień - dwa.\n\nNie zawsze możemy ufać benchmarkom, ale w dniu premiery to najlepsze pośrednie sygnały służące do oceny",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074939230124708071",
+      "author": "@hwchase17",
+      "text": "Bigger update coming tmrw, but a bunch of small fixes today!",
+      "likes": 28,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074983823096574020",
+      "author": "@jerryjliu0",
+      "text": "Processing millions of documents per day/month at scale requires a robust observability layer.\n\nWe've built in granular job tracking and cost attribution within LlamaParse that lets you easily create any subset of parse jobs to understand usage and costs: \n\n✅ Attach user",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074885257233404082",
+      "author": "@nauczymycieAI",
+      "text": "Jedna rzecz, której nie oddają benchmarki o Fable. \n\nJest NIESAMOWICIE skuteczny w pracy z Figmą. Szczególnie jeżeli każesz mu samodzielnie weryfikować się w Chrome.\n\nUzbrojony w skille stawia długie i skomplikowane podstrony z 1 prompta",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074966293220921469",
+      "author": "@jerryjliu0",
+      "text": "You don't need heavyweight VLMs to OCR simple text-only PDFs.\n\nDoing that is like bringing a bazooka to a knife-fight, and is completely unnecessary and worse quality than a tuned OCR approach. Output tokens are expensive and slow. Reading text as images hurts transcription",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074954231103082905",
+      "author": "@svpino",
+      "text": "New open-source model:\n\n• Interactive\n• You can generate up to 1 hour of video\n• There's an agent that drives the whole thing\n\nGitHub repo: \n\nHuggingFace weights:",
+      "likes": 25,
+      "retweets": 4
+    }
+  ]
+}
