@@ -1,0 +1,51 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-09",
+  "slot": "01",
+  "generated_at": "2026-07-09T01:25:39Z",
+  "tweets": [
+    {
+      "tweet_id": "2074997570317779038",
+      "author": "@bcherny",
+      "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to",
+      "likes": 2043,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2074954231103082905",
+      "author": "@svpino",
+      "text": "New open-source model:\n\n• Interactive\n• You can generate up to 1 hour of video\n• There's an agent that drives the whole thing\n\nGitHub repo: \n\nHuggingFace weights:",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074983823096574020",
+      "author": "@jerryjliu0",
+      "text": "Processing millions of documents per day/month at scale requires a robust observability layer.\n\nWe've built in granular job tracking and cost attribution within LlamaParse that lets you easily create any subset of parse jobs to understand usage and costs: \n\n✅ Attach user",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074966293220921469",
+      "author": "@jerryjliu0",
+      "text": "You don't need heavyweight VLMs to OCR simple text-only PDFs.\n\nDoing that is like bringing a bazooka to a knife-fight, and is completely unnecessary and worse quality than a tuned OCR approach. Output tokens are expensive and slow. Reading text as images hurts transcription",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2074574393628377220",
+      "author": "@opencode",
+      "text": "Hy3 is now free on OpenCode\n\n256K Context · fully open source\n\nTencent's latest coding model. Early users are saying it's way better than Hy3 Preview.",
+      "likes": 2497,
+      "retweets": 109
+    },
+    {
+      "tweet_id": "2074840958756061255",
+      "author": "@HeidyKhlaaf",
+      "text": "New! We hijack Claude Code(Sonnet 4.6,5/Opus 4.8) &amp; Codex(GPT5.5) to achieve RCE when merely used to defensively assess an open-source/third-party library with prompt injections disseminated across its codebase. All without any skills, JSON, MCP, or config files required. Link ⬇️",
+      "likes": 156,
+      "retweets": 33
+    }
+  ]
+}
