@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-10",
+  "slot": "02",
+  "generated_at": "2026-07-10T15:51:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2075225957711929667",
+      "author": "@claudeai",
+      "text": "Introducing a new way to reflect on how you use Claude.\n\nYour monthly recap shows when you use Claude most and what you spent that time working on, with options to set quiet hours and nudges to take breaks. Find your dashboard in Settings under Reflect:",
+      "likes": 11959,
+      "retweets": 767
+    },
+    {
+      "tweet_id": "2074997570317779038",
+      "author": "@bcherny",
+      "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to",
+      "likes": 11304,
+      "retweets": 924
+    },
+    {
+      "tweet_id": "2074909079450050629",
+      "author": "@sama",
+      "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
+      "likes": 11027,
+      "retweets": 528
+    },
+    {
+      "tweet_id": "2075267201058426944",
+      "author": "@sama",
+      "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+      "likes": 10202,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2075264378962907597",
+      "author": "@sama",
+      "text": "5.6 livestream going now.\n\nin addition to the model, 3 major product things.\n\n1. ChatGPT Work--really big deal!\n2. new ChatGPT desktop app\n3. hosted sites",
+      "likes": 9941,
+      "retweets": 451
+    },
+    {
+      "tweet_id": "2075271759289303522",
+      "author": "@claudeai",
+      "text": "There’s hope in hard questions.",
+      "likes": 9224,
+      "retweets": 646
+    },
+    {
+      "tweet_id": "2075266471316615436",
+      "author": "@sama",
+      "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced:",
+      "likes": 8757,
+      "retweets": 757
+    },
+    {
+      "tweet_id": "2075354679031067058",
+      "author": "@sama",
+      "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person.\n\nwe all wish her the best for a speedy recovery. this sucks.",
+      "likes": 7654,
+      "retweets": 148
+    },
+    {
+      "tweet_id": "2075048072837734448",
+      "author": "@sama",
+      "text": "it surely doesnt",
+      "likes": 5494,
+      "retweets": 114
+    },
+    {
+      "tweet_id": "2075579646373216282",
+      "author": "@sama",
+      "text": "makes us happy to see people love 5.6 sol so much!",
+      "likes": 4876,
+      "retweets": 124
+    },
+    {
+      "tweet_id": "2075293792048136572",
+      "author": "@sama",
+      "text": "check this out! you can get some amazing things done.\n\ncodex is the core of our new work product and what makes it so good. codex is not going anywhere.",
+      "likes": 3324,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2075068286107316317",
+      "author": "@sama",
+      "text": "what a good video",
+      "likes": 3202,
+      "retweets": 109
+    },
+    {
+      "tweet_id": "2075063511290662996",
+      "author": "@sama",
+      "text": "tbh i dont think sol gets that many dates either",
+      "likes": 3069,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2075047747250684352",
+      "author": "@sama",
+      "text": "i do love rottweilers",
+      "likes": 2375,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2075579012223787402",
+      "author": "@sama",
+      "text": "the sun is out today",
+      "likes": 1998,
+      "retweets": 67
+    },
+    {
+      "tweet_id": "2075585386441789605",
+      "author": "@sama",
+      "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "likes": 1536,
+      "retweets": 83
+    },
+    {
+      "tweet_id": "2075257492716879967",
+      "author": "@AnthropicAI",
+      "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. \n\nRead more:",
+      "likes": 1409,
+      "retweets": 128
+    },
+    {
+      "tweet_id": "2074997911348244930",
+      "author": "@bcherny",
+      "text": "This is pretty epic",
+      "likes": 774,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2075489301253488778",
+      "author": "@reach_vb",
+      "text": "Reasoning efforts on GPT-5.6 Sol:\n\nStart with the lowest setting that gets the job done, then turn it up only when the task actually needs more thinking.\n\n&gt; Light &amp; Low: quick, well-scoped tasks\n&gt; Medium: planning, analysis, or a few moving parts\n&gt; High &amp; xhigh: harder work with",
+      "likes": 493,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2075460193681367532",
+      "author": "@reach_vb",
+      "text": "Another reset (second) incoming across plans! Go test out the ultra and max mode with GPT 5.6 Sol - Enjoy!",
+      "likes": 515,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075295377855574047",
+      "author": "@reach_vb",
+      "text": "Excited to announce OpenAI Build Week! \n\nA week full of excitement, joy and dedication to pushing what's possible with GPT 5.6 and Codex\n\nWe're introducing a Global challenge starting July 13 and over 40+ events across the globe to bring this experience closer to you\n\nKudos to",
+      "likes": 425,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2075280626362560805",
+      "author": "@reach_vb",
+      "text": "What a day!!! Here’s everything we shipped:\n\n- GPT 5.6 Sol, Terra &amp; Luna + Max/Ultra reasoning\n- the new ChatGPT desktop app with Chat, Work &amp; Codex\n- shared capabilities and task history across Work and Codex\n- Chat with instant/Pro models, search widgets and seamless handoffs",
+      "likes": 315,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2075112621368328282",
+      "author": "@reach_vb",
+      "text": "gm chat, it’s Thursday™️ today!",
+      "likes": 303,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2075269547439907269",
+      "author": "@reach_vb",
+      "text": "Stoked to bring GPT 5.6 Sol, Terra and Luna to everyone!\n\nIt's the first time I've felt comfortable delegating the hardest problem out there and let it cook in peace\n\nThe model also has an insane ability to continue working until it is satisfied by the output\n\nAll of this whilst",
+      "likes": 237,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2074909271368569081",
+      "author": "@reach_vb",
+      "text": "Excited for GPT-Live-1 and mini!\n\nIt’s a pretty good model and feels shockingly natural. It’s a legit step change in both quality as well as latency!\n\nRolling out to ChatGPT now and API access coming shortly too\n\nYou’ve got to try it out!!",
+      "likes": 183,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2075302466590068964",
+      "author": "@reach_vb",
+      "text": "PSA: You heard the man - RESET INCOMING!!",
+      "likes": 160,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075272560074211550",
+      "author": "@reach_vb",
+      "text": "Personally, I've been quite excited about max and ultra reasoning efforts with GPT 5.6 Sol and I'm excited for you all to experience it too!\n\nQuick disclaimer, ultra can put a strain on your usage limits, so exercise caution as you use it\n\nEnjoy!",
+      "likes": 149,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2074952167312511079",
+      "author": "@reach_vb",
+      "text": "Underrated!! Codex app has unlocked so so many novel ways of working on the go as well as it continuing to get better by invoking skills, kicking of worktrees and generally dealing with longer threads!\n\nIf you haven’t already try Codex on ChatGPT app now",
+      "likes": 143,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074977726100901931",
+      "author": "@svpino",
+      "text": "Last time I asked here, most people preferred Hermes over OpenClaw.\n\nSince then, almost every person I know migrated to Hermes.\n\nI think Hermes is cornering the market, and reports like this will cause more people to migrate.",
+      "likes": 131,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2075277641066938454",
+      "author": "@hwchase17",
+      "text": "big update to openwiki - it now supports two modes:\n\n- code brain: create a wiki for a code base\n- personal brain: create a wiki for more general purpose tasks (email, web, etc)\n\nwebinar at 11am PST (5 minutes!) where we will be talking about wikis!",
+      "likes": 122,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2075337502865391727",
+      "author": "@reach_vb",
+      "text": "ICYMI: Usage limits rest across ChatGPT Codex and Work!\n\nEnjoy the high quality, engineering grade, premium GPT 5.6 Sol/ Terra/ Luna tokens ;)",
+      "likes": 137,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075299304227446907",
+      "author": "@reach_vb",
+      "text": "Over 60 events, 49 cities all in 7 days!!\n\nCome one, come all - it’s time to BUILD 🔥",
+      "likes": 124,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075147701230956746",
+      "author": "@reach_vb",
+      "text": "Incredible things are happening AtCoder 🔥",
+      "likes": 118,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075227862920282222",
+      "author": "@hwchase17",
+      "text": "Setup evals with… terraform??",
+      "likes": 108,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2075022410609242461",
+      "author": "@reach_vb",
+      "text": "back at it 02:00AM\n\nkicked off a long-running task with Codex to review a few PRs and perform visual QA on some upcoming changes\n\nstepping back, the amount of work I’ve managed to get done with Codex this week is insane - from making fun games, editing videos, debugging infra to",
+      "likes": 98,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075561037500170563",
+      "author": "@reach_vb",
+      "text": "GPT-5.6 Sol for inference optimisation:",
+      "likes": 97,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075195779476848661",
+      "author": "@svpino",
+      "text": "So many people are sending AI-written cover letters and résumés that it's easier than ever to stand out with a genuine application.\n\nIf you just take the time to write something without asking an LLM, your application will stick out like a lighthouse in the middle of the night.",
+      "likes": 94,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075356305099800717",
+      "author": "@jerryjliu0",
+      "text": "We comprehensively benchmarked GPT-5.6 on document understanding.\n\nAt a high-level there's no change between GPT-5.6 Sol and GPT-5.5 in terms of performance over tables, text, charts, layout, and more. The GPT-class of models typically does quite well over table understanding,",
+      "likes": 87,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2075560166943326391",
+      "author": "@svpino",
+      "text": "I keep hearing that building with AI is easier than ever before, and yet I don't see that many new good applications?\n\nWhy haven't I seen a significant increase in quality in the apps I use every day? Why aren't they bursting with new and useful features?\n\nEven the apps released",
+      "likes": 83,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074962537834029468",
+      "author": "@rpl_0x",
+      "text": "Po cholerę uczyłem się programować, trzeba było zostać youtuberem podróżniczym…\n\nCzasem naprawdę kusi, żeby zacząć nagrywać jakieś filmiki podróżnicze, survivalowe, może trochę dokumentalne. Takie z drogi, z namiotu, z promów, z dziwnych miejsc, do których normalnie człowiek by",
+      "likes": 80,
+      "retweets": 1
+    }
+  ]
+}
