@@ -1,0 +1,51 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-10",
+  "slot": "01",
+  "generated_at": "2026-07-10T01:14:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2074997570317779038",
+      "author": "@bcherny",
+      "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to",
+      "likes": 10640,
+      "retweets": 842
+    },
+    {
+      "tweet_id": "2074832126055489814",
+      "author": "@svpino",
+      "text": "How you can build a moat with self-learning agents:\n\nIf you can build an agent that gets better every time people use it, you will be unstoppable.\n\nHere is what you can do:\n\n1. Learn from two sources, not one. Agent traces show what the agent did and where it broke. In-browser",
+      "likes": 908,
+      "retweets": 145
+    },
+    {
+      "tweet_id": "2074983823096574020",
+      "author": "@jerryjliu0",
+      "text": "Processing millions of documents per day/month at scale requires a robust observability layer.\n\nWe've built in granular job tracking and cost attribution within LlamaParse that lets you easily create any subset of parse jobs to understand usage and costs: \n\n✅ Attach user",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074966293220921469",
+      "author": "@jerryjliu0",
+      "text": "You don't need heavyweight VLMs to OCR simple text-only PDFs.\n\nDoing that is like bringing a bazooka to a knife-fight, and is completely unnecessary and worse quality than a tuned OCR approach. Output tokens are expensive and slow. Reading text as images hurts transcription",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074954231103082905",
+      "author": "@svpino",
+      "text": "New open-source model:\n\n• Interactive\n• You can generate up to 1 hour of video\n• There's an agent that drives the whole thing\n\nGitHub repo: \n\nHuggingFace weights:",
+      "likes": 26,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075356305099800717",
+      "author": "@jerryjliu0",
+      "text": "We comprehensively benchmarked GPT-5.6 on document understanding.\n\nAt a high-level there's no change between GPT-5.6 Sol and GPT-5.5 in terms of performance over tables, text, charts, layout, and more. The GPT-class of models typically does quite well over table understanding,",
+      "likes": 23,
+      "retweets": 2
+    }
+  ]
+}

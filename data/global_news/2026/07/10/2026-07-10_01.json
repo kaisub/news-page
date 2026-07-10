@@ -1,0 +1,44 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-07-10",
+  "slot": "01",
+  "generated_at": "2026-07-10T01:14:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2075136944317595864",
+      "author": "@RadekPyffel",
+      "text": "Spektakularne złamanie kontraktu społecznego w świecie ruskiego miru.\n\nUkraina coraz wyraźniej szkodzi Rosji, która po fali ukraińskich ataków dronowych wstrzyma eksport oleju napędowego do końca lipca, próbując w ten sposób chronić swoje rynki energetyczne przed skutkami wojny.",
+      "likes": 79,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2074771622255288691",
+      "author": "@OSW_pl",
+      "text": "Rząd Niemiec uzgodnił długo zapowiadany pakiet reform gospodarczych.\n\n„Eksperci i przedstawiciele biznesu pozytywnie oceniają obrany kierunek zmian, jednocześnie wskazując, że skala pakietu pozostaje niewystarczająca” - pisze @AlKozaczynska.",
+      "likes": 22,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075117146380623958",
+      "author": "@RadekPyffel",
+      "text": "Stany Zjednoczone w drugim dniu ataków na Iran uderzyły w 90 celów w tym obiekty obrony przeciwlotniczej, systemy radarowe i składy dronów.\n\nChoć prezydent USA zarzekał się, że władze Iranu desperacko chcą doprowadzić do umowy, Iran ponownie odpowiedział atakami na infrastrukturę",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074836634999148722",
+      "author": "@RadekPyffel",
+      "text": "Napięcia w Kolumbii.\nAbelardo de la Espriella prezydent elekt wezwał siły zbrojne tego kraju do wystąpinia w obronie konstytucji oraz do niewykonywania rozkazów urzędującego Gustavo Petro, który nie uznał wyniku wyborów i nie przekazał władzy w terminie. \n\nEspirella wprost",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075109259063206201",
+      "author": "@RadekPyffel",
+      "text": "Premier Narendra Modi odbywa serię wizyt w państwach Azji Południowo Wschodniej i Pacyfiku i przebywa obecnie w Australii, gdzie wraz z premierem Anthonym Albanese ogłosił wspólne inicjatywy w zakresie energii jądrowej i odnawialnej, minerałów krytycznych oraz wodoru.\n\nIndie",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}

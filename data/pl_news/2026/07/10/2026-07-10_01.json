@@ -1,0 +1,142 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-10",
+  "slot": "01",
+  "generated_at": "2026-07-10T01:14:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2075216150233755859",
+      "author": "@Macronextcom",
+      "text": "Glapiński (NBP/RPP) 🇵🇱: Nie wykluczam, że złożę wniosek o obniżkę stóp procentowych o 25 pb na posiedzeniu po wakacjach.",
+      "likes": 110,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2074793136593715479",
+      "author": "@Macronextcom",
+      "text": "#EURPLN 4,3110 zł.\n\nCiekawie robi się na rynku walutowym. #Euro powyżej 4,31 zł pierwszy raz od... listopada 2024.",
+      "likes": 78,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075205691761987625",
+      "author": "@Macronextcom",
+      "text": "Prezes NBP poinformował, że w skarbcach na terenie Polski 🇵🇱 jest 104,7 ton złota 🪙.\n\nTo 16,5% całego posiadanego przez NBP złota.",
+      "likes": 68,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075168839415869502",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: rotacja amerykańskich żołnierzy w Polsce ma być przywrócona w ciągu najbliższych tygodni w liczbie powyżej 10 tys.\n#PAPinformacje",
+      "likes": 32,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2074765383630762267",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W czerwcu stopa bezrobocia rejestrowanego w Polsce spadła do 5,8% - szacuje @MRPiPS_GOV__PL. \n\nGUS dane o bezrobociu opublikuje 23 lipca br. Rynkowy konsensus to właśnie spadek do 5,8% z 5,9%.\n\nKalendarz:",
+      "likes": 33,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075104198836826546",
+      "author": "@Macronextcom",
+      "text": "#Pepco (bez Dealz)- wyniki za III kw. 2025/2026:\n\n🔸przychody: 1,089 mld EUR (+8,5% r/r)\n🔸LFL: +5,4%\n🔸74 nowe sklepy\n\nO godz. 09:30 telekonferencja wynikowa spółki.\n\nWczoraj na zamknięciu akcje Pepco kosztowały 36,50 zł.",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074738185553219721",
+      "author": "@Macronextcom",
+      "text": "Analitycy Morgan Stanley obniżyli cenę docelową dla akcji #KGHM 🇵🇱 z 416 zł do 340 zł, jednocześnie tnąc rekomendację dla tych akcji z \"przeważaj\" do \"neutralnie\".\n\nKGHM POLSKA MIEDZ SA : MORGAN STANLEY  CUTS TARGET PRICE TO PLN 340 FROM PLN 416\n\nWczoraj KGHM kosztował 319,05 zł.",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075110131562435031",
+      "author": "@Macronextcom",
+      "text": "MEDICALgorithmics 🇵🇱 - wyniki za II kw. 2026:\n\n🔸przychody: 10,8 mln zł (+55% r/r)\n🔸przychody tylko z USA 🇺🇸: 4,7 mln zł (+109% r/r)\n🔸 EBITDA: 1,2 mln zł",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075211450155429949",
+      "author": "@PAPinformacje",
+      "text": "Prezes NBP: cięcie stóp procentowych w tym roku jest możliwe, jeśli się nic nie zmieni i wszystkie parametry będą się kształtować jak obecnie #PAPinformacje",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075240162318053668",
+      "author": "@PAPinformacje",
+      "text": "Kancelaria Prezydenta: prezydent Nawrocki powołał Marię Szczepaniec na prezesa Izby Odpowiedzialności Zawodowej Sądu Najwyższego\n#PAPinformacje",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075205679237763412",
+      "author": "@PAPinformacje",
+      "text": "Glapiński: NBP posiada - według stanu na koniec czerwca br. - 632,4 tony złota o wartości 308 mld zł. (PAP)\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075169090637856846",
+      "author": "@PAPinformacje",
+      "text": "Niemcy uzgodniły z USA zakup pocisków Tomahawk\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2074838765068009965",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Bez zaskoczenia: RPP utrzymała wszystkie stopy bez zmian.",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075180146282078664",
+      "author": "@DGPrawna",
+      "text": "Airbus otwiera w Krakowie centrum badawcze. Zajmie się projektowaniem dla lotnictwa cywilnego",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075147443012866276",
+      "author": "@PAPinformacje",
+      "text": "Agenci CBA w Szpitalu Południowym i stołecznych urzędach. Jest komunikat\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075157616775307496",
+      "author": "@DGPrawna",
+      "text": "Liczba kobiet diagnozowanych po raz pierwszy na NFZ z powodu endometriozy osiągnęła w 2025 r. historyczne maksimum – niemal 29 tys. pacjentek. Koszty leczenia także osiągnęły najwyższe wartości i wzrosły w ciągu czterech lat o ponad 360 proc.",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075268742875910219",
+      "author": "@PAPinformacje",
+      "text": "Źródła PAP: spotkanie Pełczyńskiej-Nałęcz z Domańskim ws. podwyższenia drugiego progu podatkowego w poniedziałek #PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074758105338929414",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. zawarto 561,7tys. aktów notarialnych dotyczących sprzedaży nieruchomości – o 2,9% więcej niż w 2024 r. Wzrost liczby aktów notarialnych dotyczył prawie wszystkich rodzajów nieruchomości.\n\n🔗\n\n#GUS #statystyki #RynekNieruchomości",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2074759057336905866",
+      "author": "@GUS_STAT",
+      "text": "Opublikowaliśmy Komunikat Prezesa GUS w sprawie rentowności pięcioletnich obligacji skarbowych emitowanych na dzień poprzedzający dzień 30 czerwca 2026 r.:\n\n🔗 \n\n#GUS #statystyki",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
