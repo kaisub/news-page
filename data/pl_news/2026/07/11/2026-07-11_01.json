@@ -1,0 +1,317 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-11",
+  "slot": "01",
+  "generated_at": "2026-07-11T01:12:17Z",
+  "tweets": [
+    {
+      "tweet_id": "2075216150233755859",
+      "author": "@Macronextcom",
+      "text": "Glapiński (NBP/RPP) 🇵🇱: Nie wykluczam, że złożę wniosek o obniżkę stóp procentowych o 25 pb na posiedzeniu po wakacjach.",
+      "likes": 121,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075205691761987625",
+      "author": "@Macronextcom",
+      "text": "Prezes NBP poinformował, że w skarbcach na terenie Polski 🇵🇱 jest 104,7 ton złota 🪙.\n\nTo 16,5% całego posiadanego przez NBP złota.",
+      "likes": 84,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075531391589060617",
+      "author": "@Macronextcom",
+      "text": "Giełda w Warszawie najwyżej w historii! 🇵🇱📈\n\n#WIG 141545,35 pkt. (ATH)\n#mWIG40 9909,97 pkt. (ATH) \n\nOstatnie 12 miesięcy:\nWIG +34,9%\nmWIG40 +24,7%",
+      "likes": 77,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2075502861027303525",
+      "author": "@Macronextcom",
+      "text": "Euro 🇪🇺 najdroższe od 20 miesięcy, a dolar 🇺🇸 od 14 miesięcy.\n\n#EURPLN 4,35 zł (+11 gr w miesiąc) \n#USDPLN 3,8040 zł (+13 gr w miesiąc)\n\nDrogie waluty to dobra wiadomość dla polskich eksporterów i... budżetu. Zła dla importerów i dla wszystki wyjeżdżających na zagraniczny urlop.",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075561009444524397",
+      "author": "@Macronextcom",
+      "text": "Kotecki (RPP) 🇵🇱:\n\n🔸istnieją podstawy do rozważenia obniżek stóp proc. w dalszej części roku;\n🔸lipcowa projekcja kładzie kres wszelkiej dyskusji o podwyżkach stóp proc.\n\n(cytaty za Reuters)",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075104198836826546",
+      "author": "@Macronextcom",
+      "text": "#Pepco (bez Dealz)- wyniki za III kw. 2025/2026:\n\n🔸przychody: 1,089 mld EUR (+8,5% r/r)\n🔸LFL: +5,4%\n🔸74 nowe sklepy\n\nO godz. 09:30 telekonferencja wynikowa spółki.\n\nWczoraj na zamknięciu akcje Pepco kosztowały 36,50 zł.",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075110131562435031",
+      "author": "@Macronextcom",
+      "text": "MEDICALgorithmics 🇵🇱 - wyniki za II kw. 2026:\n\n🔸przychody: 10,8 mln zł (+55% r/r)\n🔸przychody tylko z USA 🇺🇸: 4,7 mln zł (+109% r/r)\n🔸 EBITDA: 1,2 mln zł",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075479191017947240",
+      "author": "@PAPinformacje",
+      "text": "NBP: wzrost PKB według centralnej ścieżki projekcji wyniesie w br. 3,7 proc., w 2027 r. 2,8 proc., a w 2028 r. 3 proc. (PAP)\n#PAPinformacje",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075205679237763412",
+      "author": "@PAPinformacje",
+      "text": "Glapiński: NBP posiada - według stanu na koniec czerwca br. - 632,4 tony złota o wartości 308 mld zł. (PAP)\n#PAPinformacje",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075507121852911851",
+      "author": "@Macronextcom",
+      "text": "Wnorowski (RPP) 🇵🇱: słabo widzę możliwości obniżek (stóp proc. po wakacjach - red), a jeśli już, to na pewno nie widzę większej liczby niż jedną. (PAP)",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075180146282078664",
+      "author": "@DGPrawna",
+      "text": "Airbus otwiera w Krakowie centrum badawcze. Zajmie się projektowaniem dla lotnictwa cywilnego",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075157616775307496",
+      "author": "@DGPrawna",
+      "text": "Liczba kobiet diagnozowanych po raz pierwszy na NFZ z powodu endometriozy osiągnęła w 2025 r. historyczne maksimum – niemal 29 tys. pacjentek. Koszty leczenia także osiągnęły najwyższe wartości i wzrosły w ciągu czterech lat o ponad 360 proc.",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075558710659682694",
+      "author": "@GUS_STAT",
+      "text": "🤝 #GUS i @MAPGOVPL podpisali porozumienie o współpracy przy realizacji badania pilotażowego dotyczącego pomiaru udziału komponentu krajowego w strategicznych inwestycjach realizowanych przez wybrane spółki energetyczne z udziałem Skarbu Państwa. #LocalContent",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075482953207955787",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. badane przedsiębiorstwa prowadzące działalność pośrednictwa kredytowego udzieliły kredytów i pożyczek o wartości 124,9 mld zł.\n\n🔗\n\n#GUS #statystyki",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075482810287005842",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. działało 70 polskich związków sportowych (tyle samo co w 2024 r.) oraz 551 okrę-gowych związków sportowych. Polskie #ZwiązkiSportowe wyłoniły 10,4 tys. członków kadry narodowej, spośród których 41,3% stanowiły kobiety.\n\n🔗\n\n#GUS #KulturaFizyczna",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075562422585192839",
+      "author": "@DGPrawna",
+      "text": "Prezydent zdecydował. Jest nowa prezes Izby Odpowiedzialności Zawodowej",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075512829990375918",
+      "author": "@DGPrawna",
+      "text": "Rosja testuje NATO dronami. 144 incydenty nad Europą",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075523914147533165",
+      "author": "@jakubwiech",
+      "text": "Mili Państwo, MAMY TO!\n\nPierwszy prąd z polskich wiatraków na morzu popłynął właśnie do naszego systemu elektroenergetycznego!\n\nEnergia ta pochodzi z uruchomionej już części farmy wiatrowej Baltic Power budowanej przez Orlen i kanadyjską spółkę Northland Power. Farma będzie",
+      "likes": 3288,
+      "retweets": 451
+    },
+    {
+      "tweet_id": "2075505317861896589",
+      "author": "@Reuters",
+      "text": "Poland unveiled a new production line for a domestically designed long-range strike drone, part of a government-backed push to expand the country's deep-strike military capabilities",
+      "likes": 380,
+      "retweets": 96
+    },
+    {
+      "tweet_id": "2075451215349969155",
+      "author": "@Policja_KSP",
+      "text": "🚨 Zatrzymany w sprawie napadu na salon jubilerski w Galerii Mokotów. \n\n30 grudnia 2024 r. doszło do zuchwałego napadu na sklep jubilerski w Galerii Mokotów. Przez kolejne miesiące policjanci Wydziału Kryminalnego Komendy Stołecznej Policji, we współpracy z Prokuraturą Okręgową w",
+      "likes": 198,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2075589818919403754",
+      "author": "@KamilCaus",
+      "text": "🇷🇴📉Rumuńska gospodarka w ujęciu rocznym skurczyła się w I kw. 2026 o 1,1%. (wobec tego samego kwartału roku ubiegłego). Kryzys trwa więc w najlepsze. Przypomnijmy że i poprzedni kwartał był fatalny (-2% “wzrostu” w ujęciu rocznym). PKB kraju ma w tym roku osiągnąć - wedle",
+      "likes": 142,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2075673613349634072",
+      "author": "@Piechocinski",
+      "text": "Lekarze pobierali za każdy zabieg 65 proc. kwoty, którą płacił NFZ. W soboty wykonywali po kilkadziesiąt procedur, trwających zgodnie z dokumentacją od trzech do dziesięciu minut. Zdaniem funduszu w raportach wykazywano czterokrotnie droższą procedurę – taką, której nie byliby w",
+      "likes": 102,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2075170435214299465",
+      "author": "@Pekao_Analizy",
+      "text": "Paradoks inwestycji publicznych w Polsce \n- nie brakuje na nie pieniędzy. Widać to po napływie funduszy UE, tych regularnych⬇️, jak i nadzwyczajnych (KPO) \n- nie brakuje też samych inwestycji: w energetyce, na kolei, w wojsku\n-  ale brakuje w statystykach GUS\n[1/6]",
+      "likes": 61,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075212872989229271",
+      "author": "@SztabGenWP",
+      "text": "Wojsko sprawdza nowoczesne rozwiązania technologiczne\n\nW ramach federacji ćwiczeń Bursztynowy Obrońca-26 prowadzona była ocena użyteczności operacyjnej innowacyjnych rozwiązań technologicznych prezentowanych przez podmioty cywilne.\n\nJednym z zaprezentowanych systemów był",
+      "likes": 52,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2075574768242483597",
+      "author": "@FrenchForces",
+      "text": "🇪🇺 #EUMAM | The 🇫🇷 Forces keep supporting the 🇺🇦 personnel\n \n➡️ Training Ukrainian soldiers, sailors and airmen in specialized operational skills in France and Poland.\n \n➡️ Providing training on the operation and maintenance of donated equipment, including CAESAR artillery",
+      "likes": 31,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2075294239286567077",
+      "author": "@MilitarySummary",
+      "text": "Poland has delivered five PAC-3 MSE surface-to-air missiles to Ukraine, which are used by the Patriot air defense system to intercept ballistic missiles. On Monday, Minister of National Defense Władysław Kosiniak-Kamysz announced that Poland had decided to transfer the PAC-3",
+      "likes": 34,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075654982632628523",
+      "author": "@notesfrompoland",
+      "text": "Soldiers in Poland will be able to pick up their uniforms from parcel lockers rather than having to collect them from military stores under a new scheme being rolled out by the armed forces, with private logistics giant InPost responsible for deliveries",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075520529394553068",
+      "author": "@Lukasz_on_GPW",
+      "text": "Inwestorzy oczekują na #GPW w ciągu najbliższych 6 miesięcy trendu:\n\n📈wzrostowego (byki): 53,4 proc. (+9,9 pkt. proc.)\n\n⏩bocznego (neutralni): 20,7 proc. (-10,0 pkt. proc.)\n\n📉spadkowego (niedźwiedzie): 25,9 proc. (+0,1 pkt. proc.)\n\n(za stooq)",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075218877462483121",
+      "author": "@RMF24pl",
+      "text": "Adam Glapiński, prezes NBP, ujawnił w środę, że na koniec czerwca 2026 roku bank centralny zgromadził 632,4 tony złota o wartości 308 mld zł. Dla porównania na koniec maja Narodowy Bank Polski posiadał 613,9 ton złota. Zgromadzone przez Polskę zasoby złota plasują nasz kraj w",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075619806594928863",
+      "author": "@Pacholik_K",
+      "text": "OGROMNE PIENIĄDZE ZA FIKCYJNE DYŻURY \n\nW Powiatowym Centrum Medycznym w Braniewie lekarz pełniący funkcję dyrektora ds. lecznictwa w 2024 roku wystawił faktury na niemal 1,8 mln zł za nierealne godziny pracy. Nawet 72 godziny na dobę oraz ponad 11,5 tys. godzin w całym roku.",
+      "likes": 21,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2075619530244546814",
+      "author": "@pse_pl",
+      "text": "Stacja Choczewo przyjęła pierwszą moc z morskiej farmy wiatrowej Baltic Power - pierwszej tego typu instalacji w #KSE. To ważny krok w transformacji energetycznej Polski i rozwoju infrastruktury sieciowej na Pomorzu.\n #OffshoreWind #Energetyka #OZE #TransformacjaEnergetyczna",
+      "likes": 24,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2075167750318604665",
+      "author": "@rynekzdrowia",
+      "text": "Ministra nie zamierza wycofywać się z limitu 240 zł brutto za godzinę dla lekarzy finansowanych ze środków publicznych. Także w przypadku kontraktów. - Placówki prywatne również pracują w oparciu o NFZ - mówiła jeszcze przed spotkaniem z prezesem NIL ⬇️",
+      "likes": 18,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2075719954863669411",
+      "author": "@DawidParzyk",
+      "text": "\"Rekordzistą zestawienia jest lekarz na kontrakcie w Szpitalu Specjalistycznym w Pile, którego wynagrodzenie w maju sięgnęło 307 tys. zł brutto. W zasadzie żaden z dziesięciu najlepiej zarabiających lekarzy w tej placówce nie otrzymał wynagrodzenia niższego niż 100 tys. zł.",
+      "likes": 16,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2075608170613834038",
+      "author": "@GPW_WSExchange",
+      "text": "Wakacje trwają, rekordy na GPW też.\n\n📈 Tydzień na warszawskiej Giełdzie zamykamy z historycznym wynikiem. Indeks #WIG osiągnął poziom 142 198,75 pkt przy wzroście o 2%. W tym roku WIG zyskał już 21,3%.\n\n#GPW #WIG #Rekordy",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075237951244529890",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 +0,37%; poziom 3686\n#Pepco +4,66%; wyniki za Q3 obrotowy\n#KGHM +2,32%; ponownie &gt;300 zł\n#Stalexport +14,64%; WZ ma zdecydować o wypłacie kapitału zakładowego\n#Asbis +6,09%; +30% w miesiąc\n#Apator +5,20%; kurs najwyżej od sierpnia 2018\n#gold⬆️ 4127 USD",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075596405683470785",
+      "author": "@wirtualnapolska",
+      "text": "🔴Ogromna kara od Pfizera dla Polski. Jest głos z MZ\n\nMinisterstwo Zdrowia przygotowuje apelację od wyroku w sporze Pfizer kontra Polska. Chodzi o nieodebrane w 2022 r. szczepionki przeciw COVID-19 i zasądzone na rzecz koncernu kwoty przekraczające 5,5 mld zł. Minister Jolanta",
+      "likes": 6,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2075585385632022833",
+      "author": "@InspiringPoland",
+      "text": "↩️ The Polish Border Guard has announced the expulsion of nine Pakistani citizens who lacked valid residency documents and had previously crossed the border illegally.\n\nRead more:",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075473323048251567",
+      "author": "@LukaszFinanse",
+      "text": "„Nowy wskaźnik zastąpi WIBOR, więc kredyty będą tańsze”  to zbyt duże uproszczenie.\n\nPOLSTR sam w sobie nie obniży rat. O wysokości oprocentowania nadal będą decydować przede wszystkim stopy procentowe NBP i marża banku.\nZmieni się sposób wyznaczania wskaźnika, ale nie warto",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075097694457008145",
+      "author": "@zus_pl",
+      "text": "Czy w Polsce ubywa rencistów❓ Tak, dlatego że od wielu lat obowiązuje przepis, że osoba na rencie z tytułu niezdolności do pracy po ukończeniu wieku emerytalnego staje się z automatu emerytem. \nInaczej mówiąc, ZUS zamienia jej rentę➡️ na emeryturę.\n\nNa koniec 2025 roku",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075158675442852319",
+      "author": "@MagWiklinska",
+      "text": "Miałam przyjemność reprezentować Panią powódkę w drugiej ze spraw i wysłuchać ustnych motywów rozstrzygnięcia. Sędzia uznała, że wyrok TSUE w sprawie C-744/24 jest jednoznaczny - naliczanie odsetek od kredytowanych kosztów prowadzi do takiego ukształtowania umowy, który",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075229373158887927",
+      "author": "@FundacjaWEI",
+      "text": "Projekt ustawy nr UC63, mającej na celu  wdrożenie inicjatywy Women on Boards, czyli rozwiązania służącego zapewnieniu większego uwzględnienia płci niedostatecznie reprezentowanej w zarządach i radach nadzorczych polskich spółek giełdowych, została",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075568595094982768",
+      "author": "@WlGawronski",
+      "text": "Szczytowe obciążenie sieci energetycznej w Chinach  osiągnęło w piątek nowy rekordowy poziom 1,518 mld kilowatów -  poinformowała rządowa agencja Xinhua😱😱😱\n\nSkok zapotrzebowania wynika z fali upałów, rozwoju przemysłu i usług.\n\nKluczowym czynnikiem są też fale upałów, z powodu",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075253000470204892",
+      "author": "@RMF24pl",
+      "text": "Epidemia wymyka się spod kontroli. Ebola rozprzestrzenia się szybciej niż dotychczas",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075628864659996879",
+      "author": "@EmerytalnyPlan",
+      "text": "Złoty w dół, giełda w kosmos! 🤯🇵🇱\nMamy historyczny rekord!\n\nGłówny indeks WIG wystrzelił do 142 196,73 pkt, a WIG20 zyskał aż 2,23% (3 769,50 pkt). Zapowiedź obniżek stóp przez szefa NBP mocno osłabiła złotego, ale inwestorzy całkowicie to zignorowali i masowo skupowali akcje",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

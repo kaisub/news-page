@@ -1,0 +1,65 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-11",
+  "slot": "01",
+  "generated_at": "2026-07-11T01:12:17Z",
+  "tweets": [
+    {
+      "tweet_id": "2075620940466315608",
+      "author": "@hwchase17",
+      "text": "🚀langchain launches this week: all about open source models and memory!\n\nFirst: open source models. We partnered with @NVIDIAAI to launch a NemoClaw DeepAgents blueprint. This pairs Deep Agents (our open source, model agnostic harness) with Nemotron 3 ultra (powerful OSS model)",
+      "likes": 76,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2075218444056707458",
+      "author": "@finkd",
+      "text": "(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.",
+      "likes": 42888,
+      "retweets": 3434
+    },
+    {
+      "tweet_id": "2075291386673233955",
+      "author": "@undefinedKi",
+      "text": "I found a repo with 230+ prebuilt AI agents for basically any task\n\nIt's called Agency Agents. 129k stars. A full AI agency of specialized agents you drop into Claude Code, each with its own role, workflow, and deliverables, instead of generic prompts.\n\nThere's an agent for",
+      "likes": 508,
+      "retweets": 88
+    },
+    {
+      "tweet_id": "2075204287223697636",
+      "author": "@DataChaz",
+      "text": "🚨 SKIP THE EXPENSIVE AI COURSES\n\n@AnthropicAI just released a FREE, 3-hour video series that teaches you how to build self-improving AI agents from scratch.\n\nHere’s the breakdown:\n\n00:00 - Ship your first Claude agent\n36:44 - Self-improving agents (tools, skills)\n1:21:25 - Build",
+      "likes": 145,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2075475435698454546",
+      "author": "@tetsuoai",
+      "text": "The AI agent named itself during setup.\n\nAgenC is an open source agent that runs on your own machine. Works best with Grok. 15 minutes to a named agent on your phone with a $2/day spending cap.",
+      "likes": 148,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2075308824919970029",
+      "author": "@Nekt_0",
+      "text": "A DEVELOPER JUST TURNED OBSIDIAN INTO THE OPERATING SYSTEM FOR AN AI DELIVERY PIPELINE. 5 STAGES, 4 AGENT TYPES, 1 HUMAN CHECKPOINT, 2 MINUTES OF LOOP TIME\n\n00:15 the classifier runs on screen. cron every 15 minutes, inbox-classifier module reading route-inbox-item.json,",
+      "likes": 81,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075588383297171604",
+      "author": "@GithubProjects",
+      "text": "PraisonAI lets you deploy a multi-agent AI workforce from your terminal with just a few lines of code.\n\n- Deploy autonomous agents for research, code generation, and content creation in under a minute\n- Pre-built integrations for Telegram, Discord, and Slack support bots",
+      "likes": 55,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075721193336787186",
+      "author": "@mikenevermiss",
+      "text": "CLAUDE FABLE 5 + GROK 4.5 IS THE BEST AI CODING WORKFLOW I'VE SEEN SO FAR.\n\nall you need is a free Claude Code plugin that makes Grok 4.5 your default implementer.\n\nhere's the workflow:\n\n→ Fable writes the specs\n\n→ Grok 4.5 writes the code through the Grok CLI\n\n→ Fable reviews",
+      "likes": 24,
+      "retweets": 0
+    }
+  ]
+}
