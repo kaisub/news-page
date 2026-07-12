@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-12",
+  "slot": "02",
+  "generated_at": "2026-07-12T15:16:33Z",
+  "tweets": [
+    {
+      "tweet_id": "2075620940466315608",
+      "author": "@hwchase17",
+      "text": "🚀langchain launches this week: all about open source models and memory!\n\nFirst: open source models. We partnered with @NVIDIAAI to launch a NemoClaw DeepAgents blueprint. This pairs Deep Agents (our open source, model agnostic harness) with Nemotron 3 ultra (powerful OSS model)",
+      "likes": 124,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2076001786700394610",
+      "author": "@jamonholmgren",
+      "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard",
+      "likes": 2691,
+      "retweets": 172
+    },
+    {
+      "tweet_id": "2076107957277008100",
+      "author": "@chewadot",
+      "text": "THE CEO OF OBSIDIAN JUST OPEN-SOURCED THE CLAUDE CODE SKILLS HE WAS USING PRIVATELY IN HIS OWN VAULT. 40,000 STARS IN A FEW WEEKS\n\n5 skills. 1 MIT license. 0 pitches\n\nkepano - the founder who wrote the \"File over app\" essay - dropped a set of Agent Skills that teach Claude Code",
+      "likes": 842,
+      "retweets": 80
+    }
+  ]
+}

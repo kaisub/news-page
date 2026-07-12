@@ -1,0 +1,198 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-12",
+  "slot": "02",
+  "generated_at": "2026-07-12T15:16:33Z",
+  "tweets": [
+    {
+      "tweet_id": "2076196539500831051",
+      "author": "@PAPinformacje",
+      "text": "USA/ Zmarł republikański senator Lindsey Graham - poinformowało biuro tego polityka\n#PAPinformacje",
+      "likes": 31,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076268047497658806",
+      "author": "@PAPinformacje",
+      "text": "Ukraina/ Prezydent Wołodymyr Zełenski zapowiedział dymisję premier Julii Swyrydenko\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076176642146226456",
+      "author": "@PAPinformacje",
+      "text": "USA atakują Iran w odpowiedzi na ostrzelanie kontenerowca w Cieśninie Ormuz\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076008536283218197",
+      "author": "@PAPinformacje",
+      "text": "Bangladesz. Ponad 250 tysięcy gospodarstwach domowych odciętych od świata\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2075667971339391354",
+      "author": "@PAPinformacje",
+      "text": "Pożar lasu w Andaluzji. Władze: większość ofiar to cudzoziemcy\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076316168575422605",
+      "author": "@PAPinformacje",
+      "text": "Powstała nowa partia polityczna w Polsce. Na czele Hennig-Kloska\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075719954863669411",
+      "author": "@DawidParzyk",
+      "text": "\"Rekordzistą zestawienia jest lekarz na kontrakcie w Szpitalu Specjalistycznym w Pile, którego wynagrodzenie w maju sięgnęło 307 tys. zł brutto. W zasadzie żaden z dziesięciu najlepiej zarabiających lekarzy w tej placówce nie otrzymał wynagrodzenia niższego niż 100 tys. zł.",
+      "likes": 1440,
+      "retweets": 371
+    },
+    {
+      "tweet_id": "2075673613349634072",
+      "author": "@Piechocinski",
+      "text": "Lekarze pobierali za każdy zabieg 65 proc. kwoty, którą płacił NFZ. W soboty wykonywali po kilkadziesiąt procedur, trwających zgodnie z dokumentacją od trzech do dziesięciu minut. Zdaniem funduszu w raportach wykazywano czterokrotnie droższą procedurę – taką, której nie byliby w",
+      "likes": 1432,
+      "retweets": 203
+    },
+    {
+      "tweet_id": "2076221374314475578",
+      "author": "@DawidParzyk",
+      "text": "\"Sąd uznał, że pielęgniarki z tytułem magistra i specjalizacją powinny otrzymywać wyższe wynagrodzenia, zgodnie z ustawą. SPZOZ w Tomaszowie Lubelskim musiał wypłacić wyrównania, a teraz jeszcze przegrywa kolejne sprawy o odsetki i koszty procesowe. Dyrektor składa odwołania, a",
+      "likes": 151,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2075837494697001346",
+      "author": "@K_Galecka",
+      "text": "Tygodniowy raport z granicy (3-9.07) ⤵️  \n\n✅ odnotowano 13 prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 5 przemytników ludzi\n✅ ponad 170 cudzoziemców opuściło Polskę – zgodnie z decyzjami administracyjnymi\n✅ niemal 1550",
+      "likes": 75,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2075887238412456110",
+      "author": "@GeneralStaffUA",
+      "text": "🇵🇱 🇫🇷 🇪🇺 🇺🇦 In the Republic of Poland, the training of servicemembers of the Armed Forces of Ukraine continues within the European Union Military Assistance Mission in support of Ukraine (EUMAM Ukraine).",
+      "likes": 79,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2075654982632628523",
+      "author": "@notesfrompoland",
+      "text": "Soldiers in Poland will be able to pick up their uniforms from parcel lockers rather than having to collect them from military stores under a new scheme being rolled out by the armed forces, with private logistics giant InPost responsible for deliveries",
+      "likes": 80,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2075822944626880601",
+      "author": "@Policja_KSP",
+      "text": "🚨 112 zarzutów za kradzieże z włamaniem, kradzieże i paserstwo usłyszało 21 osób rozpracowanych przez grupę „Orzeł” z Wydziału do walki z Przestępczością Samochodową Komendy Stołecznej Policji. \n\nKilkuletnie śledztwo prowadzone przez stołecznych policjantów wspólnie z",
+      "likes": 74,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075619530244546814",
+      "author": "@pse_pl",
+      "text": "Stacja Choczewo przyjęła pierwszą moc z morskiej farmy wiatrowej Baltic Power - pierwszej tego typu instalacji w #KSE. To ważny krok w transformacji energetycznej Polski i rozwoju infrastruktury sieciowej na Pomorzu.\n #OffshoreWind #Energetyka #OZE #TransformacjaEnergetyczna",
+      "likes": 36,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2076219278852857968",
+      "author": "@Lukasz_on_GPW",
+      "text": "#CD_Projekt, #LPP, #Dino_Polska, #Modivo oraz #Kruk, czyli czerwone 🟥 latarnie indeksu #WIG20. YTD indeks wspiął się w górę o ponad 18% 📈🟩 z liderem wzrostów w postaci #Orlen, który od początku roku zyskal ponad 54%📈🟩🚀. Duży udział we wzroście blue chipów miały także banki.",
+      "likes": 40,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075606623867814243",
+      "author": "@BithubPl",
+      "text": "Wszystkie 52 spółki z #GPW, które wypłacą największą procentowo dywidendę w 2026 roku — i na które można się jeszcze załapać 💰🇵🇱📈\n\n1/6 🧵\n\nFiltr: po sesji 10.07.2026, tylko spółki przed odcięciem prawa do dywidendy.\n\n1. 💰 NWAI: 9,04%\n3,00 zł | prawo: 13.07 | wypłata: 24.07\n\n2.",
+      "likes": 31,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075827404300329181",
+      "author": "@tvn24",
+      "text": "Wysoki rangą przedstawiciel WHO poinformował, że cztery na pięć nowych przypadków zakażenia wirusem ebola w niektórych rejonach Demokratycznej Republiki Konga nie ma stwierdzonego związku z wcześniej zdiagnozowanymi pacjentami.",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075875735386853537",
+      "author": "@CyberDefence24",
+      "text": "🚨 Dane części klientów sklepu internetowego Lidl trafiły w ręce nieuprawnionych osób.\n\nWyciek objął  imiona i nazwiska, numery telefonów, adresy e-mail oraz daty urodzenia.\n\nCo dokładnie się stało? ⬇️\n\n🔗\n\n#Lidl #WyciekDanych",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075608170613834038",
+      "author": "@GPW_WSExchange",
+      "text": "Wakacje trwają, rekordy na GPW też.\n\n📈 Tydzień na warszawskiej Giełdzie zamykamy z historycznym wynikiem. Indeks #WIG osiągnął poziom 142 198,75 pkt przy wzroście o 2%. W tym roku WIG zyskał już 21,3%.\n\n#GPW #WIG #Rekordy",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075905949659738439",
+      "author": "@cezarykrysztopa",
+      "text": "Silny wstrząs na Dolnym Śląsku. Trwa ewakuacja górników",
+      "likes": 16,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2075967174124998882",
+      "author": "@Piechocinski",
+      "text": "Dane GUS pokazują, że w przypadku migracji na pobyt stały Polacy częściej wracają z USA, niż się tam przeprowadzają. Jednocześnie zmniejsza się dystans dochodowy między Polską a Stanami Zjednoczonymi.\n\n     📌 W szczycie emigracji do USA, w latach 1986-1987, saldo wynosiło około",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076012586886131959",
+      "author": "@Piechocinski",
+      "text": "Średnia pensja w sektorze przedsiębiorstw w maju 2026 r. wyniosła 9173,24 zł brutto – o 357 zł mniej niż miesiąc wcześniej.\nNajwyższe wynagrodzenia odnotowano w Krakowie (11 469 zł), Warszawie (11 204,68 zł), Gdańsku (11 040,40 zł) i Poznaniu (10 952,17 zł).\nNajniższe płace były",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076100727710294268",
+      "author": "@MilitarySummary",
+      "text": "🇵🇱🇫🇷 Poland has begun negotiations with France on joining Europe's \"nuclear umbrella,\" according to the Polish Foreign Ministry. The first consultations, initiated by Macron, took place in Paris on July 10. Warsaw called them a \"strategic dialogue on long-term deterrence.\" The",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075978244797485273",
+      "author": "@WojciechCPK",
+      "text": "Elektrownia Jądrowa Lubiatowo-Kopalino⚛️⚡️\n\nInspekcja w dniu 9.07.2026 🧐\n\nInwestor: @PEJ_PL 🇵🇱\n\nWątek 🧵\n\n1. Wjazd na Obszar Realizacji Inwestycji od strony północno-wschodniej",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2075635015891800184",
+      "author": "@Piechocinski",
+      "text": "Sąd Apelacyjny utrzymał decyzję Prezesa UOKiK wobec Kauflandu za wprowadzające w błąd oznakowanie owoców i warzyw krajem pochodzenia. Kara 13,2 mln zł jest prawomocna.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2075844076885147861",
+      "author": "@LukaszFinanse",
+      "text": "Po ostatnich spadkach oprocentowanie stałe na 5 lat jest już bardzo blisko poziomu ofert ze zmienną stopą procentową.\n\n\"Kredyty hipoteczne ze stałym oprocentowaniem mocno potaniały w ostatnich tygodniach. Najlepsze oferty refinansowania są dziś w okolicach 5,6 proc., podczas gdy",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2075628864659996879",
+      "author": "@EmerytalnyPlan",
+      "text": "Złoty w dół, giełda w kosmos! 🤯🇵🇱\nMamy historyczny rekord!\n\nGłówny indeks WIG wystrzelił do 142 196,73 pkt, a WIG20 zyskał aż 2,23% (3 769,50 pkt). Zapowiedź obniżek stóp przez szefa NBP mocno osłabiła złotego, ale inwestorzy całkowicie to zignorowali i masowo skupowali akcje",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}
