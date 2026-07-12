@@ -1,0 +1,72 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-12",
+  "slot": "01",
+  "generated_at": "2026-07-12T01:17:26Z",
+  "tweets": [
+    {
+      "tweet_id": "2075620940466315608",
+      "author": "@hwchase17",
+      "text": "🚀langchain launches this week: all about open source models and memory!\n\nFirst: open source models. We partnered with @NVIDIAAI to launch a NemoClaw DeepAgents blueprint. This pairs Deep Agents (our open source, model agnostic harness) with Nemotron 3 ultra (powerful OSS model)",
+      "likes": 118,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2075666117293658374",
+      "author": "@virattt",
+      "text": "This one is big.\n\nAI Hedge Fund 2.0 is now live.\n\nHow it works:\n1 • pick your stocks\n2 • AI investors do research\n3 • quant models trade\n4 • every call is explained\n\nJust the start.  100% open source.",
+      "likes": 1224,
+      "retweets": 80
+    },
+    {
+      "tweet_id": "2076001786700394610",
+      "author": "@jamonholmgren",
+      "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard",
+      "likes": 1214,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2075618383631167692",
+      "author": "@humansand",
+      "text": "At humans&amp;, we train models from the long-term impacts of their interactions with people. This requires prioritizing long-horizon multi-agent RL. We've developed and are excited to share an open-source, hardware-native 4-bit RL recipe, significantly accelerating training",
+      "likes": 1018,
+      "retweets": 126
+    },
+    {
+      "tweet_id": "2075552240039768220",
+      "author": "@trending_repos",
+      "text": "Trending repository of the day 📈\n\nagent-skills by @addyosmani\n\nProduction-grade engineering skills for AI coding agents.\n\nLast 24h: 2,554 ⭐\nTotal: 76,455 ⭐️",
+      "likes": 163,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2075551260573417649",
+      "author": "@freeCodeCamp",
+      "text": "A language model's first reasoning path isn't always its best one.\n\nIn this AI paper review, @programmingoce explains Self-Consistency, a decoding strategy that improves Chain-of-Thought reasoning.\n\nYou'll learn how sampling multiple reasoning paths, aggregating final answers,",
+      "likes": 94,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2076094443212468345",
+      "author": "@freeCodeCamp",
+      "text": "If you want to run an LLM, you don't have to rely on cloud-based APIs anymore - you can do it right on your local machine.\n\nAnd in this tutorial, @chairahalkar helps you build your own local AI agent.\n\nYou'll use the Qwen 3 family of LLMs along with Ollama which simplifies",
+      "likes": 44,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076008904232931742",
+      "author": "@0xDevShah",
+      "text": "Introducing arkenOS — an autonomous training gym that takes any RL agent from a goal to a proven, deployable policy.\n\nWe are automating complex RL research, enabling high-velocity training and rigorous, diverse environment design and testing right on your local hardware. Out of",
+      "likes": 36,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2075999281996312951",
+      "author": "@simplifyinAI",
+      "text": "You can now run a full engineering team with AI agents for free with this tool.\n\nIt's called Multica. \n\nAssign issues to an agent the same way you'd assign to a colleague. It picks up the work, writes code, reports blockers, and updates statuses on its own.\n\nNo copy-pasting",
+      "likes": 20,
+      "retweets": 3
+    }
+  ]
+}
