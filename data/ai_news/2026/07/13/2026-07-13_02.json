@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-13",
+  "slot": "02",
+  "generated_at": "2026-07-13T16:00:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2076351399999557669",
+      "author": "@claudeai",
+      "text": "We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, through July 19.",
+      "likes": 70695,
+      "retweets": 7095
+    },
+    {
+      "tweet_id": "2075983427019612242",
+      "author": "@sama",
+      "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+      "likes": 62498,
+      "retweets": 2915
+    },
+    {
+      "tweet_id": "2075982617976230043",
+      "author": "@sama",
+      "text": "homeboy you're the one sellling public market investors on short-term space datacenters",
+      "likes": 60394,
+      "retweets": 4776
+    },
+    {
+      "tweet_id": "2076398253332140410",
+      "author": "@sama",
+      "text": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+      "likes": 15623,
+      "retweets": 532
+    },
+    {
+      "tweet_id": "2076036901824532530",
+      "author": "@sama",
+      "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
+      "likes": 13615,
+      "retweets": 520
+    },
+    {
+      "tweet_id": "2075982820322025788",
+      "author": "@sama",
+      "text": "30% of the cost was on fable at these levels of usage?",
+      "likes": 12951,
+      "retweets": 292
+    },
+    {
+      "tweet_id": "2075985056846451123",
+      "author": "@sama",
+      "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+      "likes": 6758,
+      "retweets": 408
+    },
+    {
+      "tweet_id": "2076034163418014199",
+      "author": "@sama",
+      "text": "whoa",
+      "likes": 3155,
+      "retweets": 78
+    },
+    {
+      "tweet_id": "2076365797425868824",
+      "author": "@reach_vb",
+      "text": "As has been the case since launch, GPT-5.6 Sol is available on all paid plans with 100% rate limits, for as long as GPT-5.6 is available.",
+      "likes": 1318,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2076377393279738110",
+      "author": "@reach_vb",
+      "text": "5 hours limit removed. GPT 5.6 Sol is now even more efficient. Crossed 6M users!!\n\nTibo pressed the button for everyone to just go build things 🔥",
+      "likes": 1110,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2076022764256043274",
+      "author": "@reach_vb",
+      "text": "GPT 5.6 Sol is pretty GOATED at making games, it made an entire rollercoaster simulator with textures and assets included!\n\nIt all started with a simple prompt in a /goal and with few artistic directions from my side, it's still not complete and there are some UI inconsistencies",
+      "likes": 515,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2075974363417846019",
+      "author": "@reach_vb",
+      "text": "One of the easiest ways to introduce your friends to ChatGPT Work is by helping them unsubscribe to tons of marketing emails\n\nSince Work uses the Codex harness under the hood it can connect to your GMail account, verify intent and then traverse through the list and provide you",
+      "likes": 295,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076679374166724618",
+      "author": "@leerob",
+      "text": "Coding with AI showed you could give models powerful tools and dramatically improve their usefulness.\n\nWe're seeing the same thing happen now for all knowledge work. The agent can use the computer as you would and gain context from all the apps you use.\n\nThe future is exciting!",
+      "likes": 250,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2076086628221960685",
+      "author": "@hwchase17",
+      "text": "LangSmith does this for you \n\n- in the cloud: LangSmith sandboxes &amp; LangSmith deployments\n- any model: LangChain integrates with 100s\n- harness: deep agents\n- tracing: langsmith observability\n- recursive improvement: langsmith engine",
+      "likes": 127,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076435427091779622",
+      "author": "@reach_vb",
+      "text": "realised I haven't updated my personal website in over 8 months, fret not - codex &amp; Sol are on it!",
+      "likes": 125,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076613285642723377",
+      "author": "@reach_vb",
+      "text": "Codex and GPT 5.6 Sol Ultra built a Minecraft clone in LEAN (!!)\n\nWe truly are bounded by our own creativity.",
+      "likes": 116,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076425319184028146",
+      "author": "@reach_vb",
+      "text": "that’s my quant",
+      "likes": 100,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076008048326275560",
+      "author": "@jerryjliu0",
+      "text": "sama scrolling AI Twitter like the rest of us",
+      "likes": 98,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076235611707486473",
+      "author": "@reach_vb",
+      "text": "did I miss something? all my chats on X the everything app™️ are gone? wtf???",
+      "likes": 88,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076033612571725971",
+      "author": "@hwchase17",
+      "text": "📕LLM Wiki Webinar with @BraceSproul @devstein64 @jeffreyhuber is now on YouTube!\n\nTwo of my favorite insights from this webinar:\n\n\"Wiki as a cache\" - @devstein64: basically, the purpose of a wiki is to keep things that are commonly looked up or accessed more top of mind/readily",
+      "likes": 78,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076407861660278792",
+      "author": "@nauczymycieAI",
+      "text": "Fable 5 pozostaje w subskrypcji. Mało tego - z Codex tymczasowo znikają 5-godzine limity. Pozostają tylko te tygodniowe.\n\nKonkurencja to przepiękna rzecz",
+      "likes": 59,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076591064383647768",
+      "author": "@reach_vb",
+      "text": "ChatGPT Work for catching up on Work:",
+      "likes": 58,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076394628459254061",
+      "author": "@nauczymycieAI",
+      "text": "Zgodnie z moimi przewidywaniami - GPT 5.6 okazało się tak dobre, że Anthropic nie miał wyboru i przedłużył dostęp do Fable 5 w subskrypcji.\n\nPodejrzewam, że utrzymają go przynajmniej do premiery Opusa 5. Do którego dostęp dostaniemy w ciągu następnych dwóch tygodni",
+      "likes": 50,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076601915862097948",
+      "author": "@sentient_agency",
+      "text": "A group of security students built a VPN in 2009, then spent the next 17 years removing every reason you would need to trust them.\n\nThey met while studying information security at Royal Holloway, University of London.\n\nThe service they built became IVPN.\n\nThe problem they noticed",
+      "likes": 17,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076373368643752152",
+      "author": "@nauczymycieAI",
+      "text": "Ta rzecz uciekła większości osób przy premierze GPT 5.6. A z długoterminowego punktu widzenia, to najważniejsze, co pokazało OpenAI.\n\nOd stycznia do lipca cotygodniowa liczba eksperymentów wypuszczonych przez jednego badacza OpenAI wzrosła z poziomu 1x do niemal 2x.\n\nKażdy",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076683879050854412",
+      "author": "@svpino",
+      "text": "This model can generate coherent 1+ hour videos across multiple scenes without skipping a beat.\n\nI read their paper so you don't have to. Here is how it works:\n\nFirst, this is an open-weight model. You can find the GitHub repo and link to the model weights below.\n\nMost video",
+      "likes": 16,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2076170687186981010",
+      "author": "@babayagatwt",
+      "text": "I still can’t figure out why Gemini struggles to compete with Claude and GPT.\n\n- Owns Chrome\n- Backed by Android\n- Stores most search results\n- Holds ~95% search history\n- Google has the biggest user data\n- Even incognito data isn’t fully private\n\nSo what’s the problem?",
+      "likes": 9632,
+      "retweets": 348
+    },
+    {
+      "tweet_id": "2076472406860873975",
+      "author": "@Polymarket",
+      "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 &amp; GPT-5.6 Sol.",
+      "likes": 4961,
+      "retweets": 499
+    },
+    {
+      "tweet_id": "2076092909372453048",
+      "author": "@techNmak",
+      "text": "An 82K-star GitHub repo is built around one painfully obvious idea:\n\nYour coding agent should map the codebase once, not grep it forever.\n\nGraphify turns an entire project into a queryable knowledge graph.\n\nFunctions, classes, files, SQL schemas, infrastructure, docs, PDFs,",
+      "likes": 2202,
+      "retweets": 240
+    },
+    {
+      "tweet_id": "2076380576979079193",
+      "author": "@HuggingModels",
+      "text": "Big news for AI on a budget. GLM 5.2 Colibri int4 is a Mixture of Experts model that runs entirely on your CPU. No GPU needed. It's fast, efficient, and opens up advanced language capabilities to anyone with a standard computer. This is a game changer for offline AI.",
+      "likes": 1249,
+      "retweets": 177
+    },
+    {
+      "tweet_id": "2076204136354234654",
+      "author": "@aibuilderclub_",
+      "text": "This is interesting.\n\nOpenAI is openly encouraging devs to run GPT 5.6 inside Claude Code via CLIProxyAPI.\n\nSet up the proxy, point Claude Code at gpt-5.6-sol, done. Takes 5 minutes.",
+      "likes": 1007,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2076320923368517782",
+      "author": "@DavidOndrej1",
+      "text": "this AI model has zero guardrails\n\nSuperGemma 26B, fully uncensored, running locally on my machine\n\nlet me show you how to set it up",
+      "likes": 835,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2076581352586256807",
+      "author": "@WHYkalwani",
+      "text": "I am hiring\n\nNO DSA!!  No “don’t use AI.”\n\nJust show us you can build.\n\nReal open-source work? We might skip a few rounds.\n\nAssignment round? Use AI, share the chat history, we want to see how you build &amp; think",
+      "likes": 718,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2076405725157298441",
+      "author": "@Zephyr_hg",
+      "text": "Jacob Bank, former Google product lead:\n\n\"Let's say I had four people at $12,500 per month each. That would be $50,000 a month, and my AI bill is $500 a month.\"\n\nHe runs 40 AI marketing agents as the only marketing person at his company.\n\nIn a 15-minute talk he walks through the",
+      "likes": 654,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2076637877757423801",
+      "author": "@leodev",
+      "text": "Introducing Domain SDK\n\nA simple open source SDK to easily let your customers add custom domains to your app.\n\n- Multiple providers: Vercel, Cloudflare, Railway, Render, Netlify\n- @shadcn ready components\n- AI Agents skills to make it easy to integrate\n- Open source, MIT licensed",
+      "likes": 668,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2076377895203667971",
+      "author": "@dr_cintas",
+      "text": "OpenAI’s GPT-5.6 Sol model can now run inside Claude Code.\n\nThere are two ways to do it, and both take minutes to set up, here’s how:\n\nOption 1, the official plugin:\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins, then",
+      "likes": 606,
+      "retweets": 48
+    },
+    {
+      "tweet_id": "2076343755502969190",
+      "author": "@n__deborah",
+      "text": "🚨 Build your own AI agent by combining the best LLMs.\n\nThat's a far better approach than depending on a single model.\n\nHere's what I've been testing ↓",
+      "likes": 233,
+      "retweets": 138
+    },
+    {
+      "tweet_id": "2076556726262730925",
+      "author": "@fluixoo",
+      "text": "Most AI agents do not fail because the prompt is weak.\n\nThey fail because there is no loop around the prompt.\n\nA real loop:\n\n- Finds work\n- Executes\n- Verifies\n- Saves state\n- Stops or escalates\n\nIf an agent can say “done” without tests, a budget cap and an independent verifier,",
+      "likes": 299,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2076546366181118327",
+      "author": "@theishanvyas",
+      "text": "*Unlimited coding tokens for a year.*\n\nI am giving 100 strong builders access to a coding harness built on top of 20+ open-weight models: GLM-5.2, Kimi K2.7, MiniMax M3, Qwen3.6, and more. All unlimited.\n\nWant in?\n\nReply with your GitHub + live project.\n\nThen DM me: “open source”",
+      "likes": 258,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2076378588656316452",
+      "author": "@bibryam",
+      "text": "🌟 Building Reliable Agentic AI Systems🌟\n - @thoughtworks \n\nWhat it actually takes to build product-ready agents:\n\n→ Start with bounded workflows, not open-ended autonomy. Agents need clear task boundaries, allowed tools, and explicit stopping conditions.",
+      "likes": 205,
+      "retweets": 39
+    }
+  ]
+}

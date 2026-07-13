@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-13",
+  "slot": "02",
+  "generated_at": "2026-07-13T16:00:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2076590975326056448",
+      "author": "@PAPinformacje",
+      "text": "Szef ESA: wybraliśmy Warszawę na lokalizację Centrum Europejskiej Agencji Kosmicznej w Polsce #PAPinformacje",
+      "likes": 397,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2076578490388812001",
+      "author": "@Macronextcom",
+      "text": "#WIG20 -0,4%. Prawdziwy dramat. 🙃 Jedyne co krwawi to oczy od czytania clickbaitowych tytułów.\n\nWIG20 -0,4%\nDAX -0,08%\nCAC -0,18%\nBUX -0,08%\n\n...plus 40% giełd w Azji na plusach, a jedynie w Seulu i Tokio mocny strach.",
+      "likes": 97,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076610311155589130",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Polski sektor kosmiczny dostaje kolejnego rozwojowego kopa. Centrum Europejskiej Agencji Kosmicznej (ESA) powstanie w Warszawie. 🚀💪",
+      "likes": 85,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076645884230500712",
+      "author": "@PAPinformacje",
+      "text": "Sąd Okręgowy w Warszawie nie uwzględnił wniosku o wydanie ENA wobec Zbigniewa Ziobry - rzeczniczka prasowa sądu #PAPinformacje",
+      "likes": 52,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2076240703030477036",
+      "author": "@laskowski_pl",
+      "text": "\"Bardzo szybko staliśmy się zadowoloną z siebie partią, która \"wie lepiej\". Nie wiem, co się stało. Może straciliśmy słuch społeczny? Może coś się ostatnio naprawdę zmieniło w wyborcach, a nam to umyka? - zastanawia się kolejny mój rozmówca z KO. - Może za bardzo uwierzyliśmy, że",
+      "likes": 55,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2076278012866073087",
+      "author": "@laskowski_pl",
+      "text": "\"My to nazywamy astrologią Tuska. Głównym wróżbitą jest Igor Ostachowicz, niby społeczny doradca Kierownika, ale naprawdę kreator przekazu łapiący w lot najważniejsze cele rządu. Wielu z nas ma poczucie pracy w totalnym, pogłębiającym się z miesiąca na miesiąc chaosie. Ściągnęli",
+      "likes": 38,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076326487339291006",
+      "author": "@PAPinformacje",
+      "text": "Wojsko zapowiada szkolenia w północno-wschodniej Polsce. Komunikat Dowództwa Operacyjnego\n#PAPinformacje",
+      "likes": 37,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076327267098058871",
+      "author": "@PAPinformacje",
+      "text": "Największa sowiecka zbrodnia na Polakach po II wojnie światowej. W Gibach uczczono pamięć ofiar Obławy Augustowskiej\n#PAPinformacje",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2076586516495614178",
+      "author": "@laskowski_pl",
+      "text": "Lepsze są nadmiarowe zgony, za nie podczas Covid, były super pieniądze.\n#sarkazm",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076573832916107726",
+      "author": "@PAPinformacje",
+      "text": "Kallas: na listę sankcyjną UE trafi 250 osób i podmiotów związanych z wojną Rosji przeciw Ukrainie #PAPinformacje",
+      "likes": 16,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076390467118215642",
+      "author": "@PAPinformacje",
+      "text": "AP: co najmniej 27 osób zginęło w pożarze, który wybuchł w niedzielę w pubie w stolicy Tajlandii, Bangkoku",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076582645257912457",
+      "author": "@laskowski_pl",
+      "text": "W interesie państwa jest, aby każdy zatrudniony na państwowym był na etacie.\nSkładki i podatki wracają wtedy do państwa.\nKażdy, nie tylko lekarze.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076543266527342749",
+      "author": "@PAPinformacje",
+      "text": "Armia USA zaatakowała „dziesiątki celów” w Iranie. W odwecie Teheran uderzył w bazy USA #PAPinformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076676472991830096",
+      "author": "@PAPinformacje",
+      "text": "USA/ Trump ogłosił przywrócenie blokady Iranu i pobieranie opłat tranzytowych w Ormuzie. (PAP)\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076582250028646534",
+      "author": "@PAPinformacje",
+      "text": "Złapano pumę, którą widziano w lasach w gminie Polanów #PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076553226183209182",
+      "author": "@Macronextcom",
+      "text": "A do tego 👇 dochodzi jeszcze Bliski Wschód i KOSPI łamiący ważne wsparcia.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076356768284721546",
+      "author": "@PAPinformacje",
+      "text": "Z Tychów wyjechało już 500 tys. Alf Junior, Fiatów 600 i Jeepów Avenger\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076381533183541592",
+      "author": "@PAPinformacje",
+      "text": "Lider rankingu tenisistów Włoch Jannik Sinner pokonał Niemca Alexandra Zvereva 6:7 (7-9), 7:6 (7-2), 6:3, 6:4 w finale Wimbledonu",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076566463771460085",
+      "author": "@PAPinformacje",
+      "text": "Ponad 10 tysięcy nadmiarowych zgonów w Europie w czasie czerwcowej fali upałów #PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076543114647355583",
+      "author": "@PAPinformacje",
+      "text": "W weekend podczas 13. Rotinger Dub It Festiwal w @TargiKielce można było zobaczyć niemal tysiąc pojazdów, w tym ponad 500 aut po tuningu. 🚘\n\nJedną z prezentowanych kolekcji są japońskie samochody Łukasza Szymanka, który od lat sprowadza i odbudowuje auta z Azji.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076644885222899965",
+      "author": "@PAPinformacje",
+      "text": "Wybrano lokalizację Centrum Europejskiej Agencji Kosmicznej w Polsce #PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076640103376507351",
+      "author": "@PAPinformacje",
+      "text": "Szef MSWiA: mężczyzna, który w autobusie zaatakował nastolatki z Ukrainy, został zatrzymany #PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076371678670545251",
+      "author": "@PAPinformacje",
+      "text": "Trump: Cieśnina Ormuz jest otwarta dla statków\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076654741765972129",
+      "author": "@GUS_STAT",
+      "text": "📊 Świętujemy 108. rocznicę powołania Głównego Urzędu Statystycznego 🎂\n\n🤝Dziękujemy wszystkim, którzy przez lata współtworzyli statystykę publiczną oraz respondentom i użytkownikom naszych danych za zaufanie i współpracę.\n\n#GUS #StatystykaPubliczna",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076675585678376997",
+      "author": "@PAPinformacje",
+      "text": "Sąd odmówił wydania ENA wobec Zbigniewa Ziobry\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076608529461338387",
+      "author": "@PAPinformacje",
+      "text": "Zmarł aktor Sam Neill, znany z „Parku jurajskiego” i „Fortepianu” #PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076675736505622904",
+      "author": "@PAPinformacje",
+      "text": "Trump chce przejąć kontrolę nad cieśniną Ormuz i pobierać opłatę za jej strzeżenie\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076570198606241941",
+      "author": "@GUS_STAT",
+      "text": "Wartość produkcji sprzedanej wyrobów własnych producentów w cenach stałych w 2025 r. utrzymała się na niezmienionym poziomie w stosunku do 2024 r. i wyniosła 1 704,4 mld zł.\n\n🔗 \n\n#GUS #gospodarka",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076579348522344579",
+      "author": "@GUS_STAT",
+      "text": "Biznes ma realny wpływ na #SDGs.\n\nJak go mierzyć?\n\nBarometr Wpływu  \nwkład firm w #Agenda2030 i wspiera realizację #GlobalGoals. Dane są zasobem strategicznym, a szerokie partnerstwo #SDG17 to warunek sukcesu.\n\n📢O tym mówimy na #HLPF 2026.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076695042152898940",
+      "author": "@Macronextcom",
+      "text": "#ciekawostka\n\n#Allegro kończy dzień na poziomie 40 zł. To najwyższe zamknięcie do 24 maja 2024.\n\nTeraz wóz czy przewóz? 🤔\n\nps. dziś na giełdzie 🇵🇱 mamy ATH na indeksach WIG i mWIG40, a także na akcjach 15 spółek.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076584513879101679",
+      "author": "@laskowski_pl",
+      "text": "Przeczytajcie jak naprawa idzie na Węgrzech. \nTam nie ma ciamciaramcia i miękkiej gry na czas.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076686125385535627",
+      "author": "@PAPinformacje",
+      "text": "Trump ogłosił przywrócenie blokady Iranu i pobieranie opłat tranzytowych w Ormuzie\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076564524182688118",
+      "author": "@DGPrawna",
+      "text": "W celu realizacji operacji powrotowych obywateli Afganistanu polskie służby utrzymują techniczne kontakty z talibami. Wzbudza to zdziwienie i zaniepokojenie organizacji zajmujących się ochroną praw migrantów.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076564312898826669",
+      "author": "@DGPrawna",
+      "text": "W 2025 roku Polska usunęła Afganistan z listy państw, do których nie przeprowadza się deportacji. Wysyłanie obywateli Afganistanu do ojczyzny nie jest jednak możliwe bez technicznych kontaktów z nieuznawaną przez nas oficjalnie administracją talibów.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076578560660197781",
+      "author": "@laskowski_pl",
+      "text": "To jest dowód na to, że reforma Ziobry, to była porażka, a kolejnej reformy nie ma.\nNajważniejsze są: \n- niezależność i niezawisłość sędziów\n- rozstrzygnięcie sprawy w krótkim czasie \nJedno i drugie nie działa.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076434800580157784",
+      "author": "@MilitarySummary",
+      "text": "‼️Lindsey Graham died in Kyiv, not Washington, DC. He arrived in Kyiv on the morning of 10 July. The trip to Kyiv entails flying to Poland and then taking a 8-10 hour train ride. He was visiting a drone factory in Kyiv that was hit by the Russians. He did not have enough time to",
+      "likes": 11377,
+      "retweets": 1940
+    },
+    {
+      "tweet_id": "2076211374129037428",
+      "author": "@GotfrydKarol",
+      "text": "Mija miesiąc od nieprzesłuchania i niezłożenia wyjaśnień przez dr Kacprzyka",
+      "likes": 11381,
+      "retweets": 1209
+    },
+    {
+      "tweet_id": "2076619615296164008",
+      "author": "@visegrad24",
+      "text": "🇵🇱 Illegal migrants from Afghanistan and Pakistan made nearly 40 attempts to breach the Polish border from Belarus over the weekend.\n\nSome retreated into Belarus forests after seeing patrols, while others were detained. \n\nPolish border guards responded with lightning speed.",
+      "likes": 6342,
+      "retweets": 787
+    },
+    {
+      "tweet_id": "2076288584747716764",
+      "author": "@KonradKrajewsk6",
+      "text": "Trafiłem w Krakowie na reklamę firmy pomagającej w legalizacji pobytu cudzoziemców. \n\nPostanowiłem odpalić narzędzia i prześwietlić markę AZTURK oraz powiązane z nią otoczenie Legalis.\n\nWyniki? Klasyczna biznesowa matrioszka, marketingowa magia liczb i potężne znaki zapytania w",
+      "likes": 3513,
+      "retweets": 1305
+    },
+    {
+      "tweet_id": "2076307502132539433",
+      "author": "@pikus_pol",
+      "text": "W 2025r w koszalińskim szpitalu wypłacono 119mln zł jako wynagrodzenia dla lekarzy.\nNajwyższe wynagrodzenie wynosiło - 2 599 725 zł\nkolejne 4 miejsca to zarobki w wysokości:\n➡️2 111 046 zł\n➡️1 985 746 zł\n➡️1 625 983 zł\n➡️1 516 522 zł\nŁącznie 17 wypłat przekroczyło kwotę 1 mln zł.",
+      "likes": 3111,
+      "retweets": 886
+    }
+  ]
+}
