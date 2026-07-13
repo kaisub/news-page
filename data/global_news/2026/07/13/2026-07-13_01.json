@@ -1,0 +1,191 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-07-13",
+  "slot": "01",
+  "generated_at": "2026-07-13T01:23:02Z",
+  "tweets": [
+    {
+      "tweet_id": "2076320716086014018",
+      "author": "@IndianTechGuide",
+      "text": "🚨 Bengaluru-based Vimag Labs has developed software-defined magnet technology, eliminating the need for rare earth materials in EV motors and reducing dependency on China. 👏",
+      "likes": 7277,
+      "retweets": 838
+    },
+    {
+      "tweet_id": "2076128704020017371",
+      "author": "@chrisluxonmp",
+      "text": "New Zealand and India have agreed a new deal that builds on our free trade agreement.\n\nWith Prime Minister @narendramodi here in New Zealand, we’ve lifted our relationship to a Strategic Partnership, with a plan to double trade between our countries by 2030 – meaning more money",
+      "likes": 5604,
+      "retweets": 667
+    },
+    {
+      "tweet_id": "2076056598976626705",
+      "author": "@FP_Champagne",
+      "text": "I just returned from Saudi Arabia with Prime Minister Carney. \n\nWe signed 13 new agreements worth over $1 billion and deepened cooperation on energy, AI, and critical minerals. \n\nCanada has what the world wants, and we are increasingly a top destination for investment.",
+      "likes": 1015,
+      "retweets": 216
+    },
+    {
+      "tweet_id": "2076315614591717878",
+      "author": "@wartranslated",
+      "text": "Multiple Russian regions are under massive drone attack. Around 400 Ukrainian drones reported, DroneBomber says.",
+      "likes": 1065,
+      "retweets": 136
+    },
+    {
+      "tweet_id": "2076316298259419230",
+      "author": "@macropaperr",
+      "text": "Japan's economy is now breaking from three directions at once.\n\nThe Bank of Japan is running the most aggressive tightening in its history, and this is a central bank that has spent 25 years doing the exact opposite.\n\n• The BOJ drained ¥23.5 trillion, about $146 billion, from",
+      "likes": 549,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2076163652160241707",
+      "author": "@PawelJezowski",
+      "text": "🇷🇺 płonie rafineria w Syzraniu.\n\nUszkodzono instalację ELOU-AVT-5, która odpowiada za  30% procesów przetwórstwa na terenie zakładu.\nMamy dwa pożary także szansa jest że coś jeszcze.\n\nWięcej o 9.00 na Kremlinka Show w programie Rosja Dziki wschód.",
+      "likes": 554,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2075878757643018635",
+      "author": "@dorfman_p",
+      "text": "'Europe’s Nuclear Plants Can’t Beat the Heat. France is cutting output at up to five nuclear plants this week as record heat pushes river temperatures too high to cool reactors safely. Last month’s heat wave already knocked out power to 70,000 households.'",
+      "likes": 288,
+      "retweets": 223
+    },
+    {
+      "tweet_id": "2075912432904540218",
+      "author": "@jalle51",
+      "text": "HUGE | Estonia is launching a high-stakes strategic move on the Russian border. Following a land-swap approval by Narva’s city council, the Estonian Defence Forces (EDF) are officially establishing a permanent military base in the predominantly Russian-speaking border city.\nThis",
+      "likes": 336,
+      "retweets": 84
+    },
+    {
+      "tweet_id": "2076360480495731170",
+      "author": "@rkmtimes",
+      "text": "JUST IN🇨🇳🇦🇪🇺🇸🔥 Pentagon identified the UAE (Along with Egypt and Saudi Arabia) are becoming biggest client of Chinese J-35 export variant  \n\n🚨This steps come out as UAE, Saudi Arabia and Egypt demanded top Israeli version of F-35 but US refused to sign F-35 deal with GCC.",
+      "likes": 348,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2076420035375993006",
+      "author": "@AP",
+      "text": "BREAKING: The U.S. military says it has launched more strikes against Iran as the standoff over the Strait of Hormuz escalates.",
+      "likes": 251,
+      "retweets": 94
+    },
+    {
+      "tweet_id": "2075937066278363241",
+      "author": "@DTEK_Group",
+      "text": "When russia attacks Ukraine’s energy infrastructure, friends step forward to help rebuild it 🇩🇰 🇺🇦\n\nDenmark has increased its contribution to the Ukraine Energy Support Fund by an additional €10.7 million. This support helps restore our energy infrastructure damaged by russian",
+      "likes": 227,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2076209454459109733",
+      "author": "@GlobalMktObserv",
+      "text": "‼️SOUTH KOREAN STOCKS ARE CRASHING:\n\nThe KOSDAQ index of small-cap technology stocks has dropped -31% over the last 9 weeks, erasing nearly one year of gains.\n\nThis compares to a 32% drop over a 5-week period during the 2020 crash.\n\nBy comparison, during the Great Financial",
+      "likes": 181,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2076288672438088173",
+      "author": "@Globalsurv",
+      "text": "🇰🇼🇷🇺UAE acquires Russian S-400 Air Defenses from Turkey under a trilateral Major Resale Deal \n\nRussia Allows indirect export and recoups value without a direct new sale to the UAE\n\nUAE Set to Acquire Russian S-400 Air Defenses from Turkey in Major Resale Deal\n\nThe UAE maintains",
+      "likes": 183,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2076458015868203296",
+      "author": "@TheStudyofWar",
+      "text": "NEW: Ukrainian forces have struck 90 Russian oil tankers in the Sea of Azov since July 6 as part of their intensified campaign to isolate occupied Crimea. (1/2)\n\nOther Key Takeaways: \n\nUkraine’s successful long- and intermediate-range strike campaigns continue to fuel Russian",
+      "likes": 164,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2076362836855435526",
+      "author": "@MiddleEastEye",
+      "text": "The Islamic Revolutionary Guard Corps (IRGC) announced it targeted a US Army stockpile of HIMARS missiles in Kuwait.\n\nThe retaliatory strikes come after an escalation of US attacks on Iran.",
+      "likes": 79,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2076239905395490904",
+      "author": "@reieurope",
+      "text": "(🇪🇺 European integration)\n\nEurope cannot afford veto-driven paralysis.\n\nGermany is pushing a two-speed EU so willing countries can move ahead without waiting for all 27.\n\n🔸 Joint borrowing\n🔸 Defence coordination\n🔸 Energy integration\n🔸 Technology investment\n\nDeeper integration",
+      "likes": 72,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2076411995666911290",
+      "author": "@gregorrobertson",
+      "text": "The Gordie Howe International Bridge is opening on July 27.\n \nThis means faster border crossings, stronger supply chains, more trade, and a more affordable option for commuters and businesses.\n \nUnder this arrangement, Canada will continue to collect all toll revenue, with half",
+      "likes": 79,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2075864547928277417",
+      "author": "@NewsmaxPolska",
+      "text": "Szef @MON_GOV_PL @KosiniakKamysz podpisał się pod listem ws. umożliwienia Ukrainie skorzystania ze środków z pożyczki UE na zakup sprzętu poza Unią Europejską.",
+      "likes": 52,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2076223079026450892",
+      "author": "@QudsNen",
+      "text": "The Guardian reports that the European Union is delaying taking practical steps to impose restrictions on trade with Israeli settlements built in the occupied Palestinian territories, despite growing calls within Europe to take action against settlement expansion and settler",
+      "likes": 39,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2076364457312485583",
+      "author": "@Eng_china5",
+      "text": "Commercial shipping through the Strait of Hormuz has remained largely unchanged despite the rapidly worsening security situation in the region.\n\nOver the past 24 hours, only six merchant ships, according to MarineTraffic data, passed through the Iranian (northern) traffic",
+      "likes": 56,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2075866542877585750",
+      "author": "@PrzemekShura",
+      "text": "🇪🇺 Liczba uchodźców z Ukrainy w UE przekroczyła 4,3 miliona - Eurostat.\nW maju liczba Ukraińców posiadających status ochrony tymczasowej wzrosła w 22 z 26 krajów UE. \nNajwiększy przyrost odnotowano we Włoszech - o 6250 osób (+15,3%). Na kolejnych miejscach znalazły się Niemcy",
+      "likes": 48,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076421308548890938",
+      "author": "@jackprandelli",
+      "text": "🚨🇫🇷☢️France generates 67% of its electricity from nuclear power, the highest share of any major economy. \n\nExtreme heat just forced 3 reactors offline and cut output at 8 more.  \n\nThat gap gets filled by gas. \n\nRight when European gas markets are already stretched.\n\nAnother",
+      "likes": 36,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2076474203654819942",
+      "author": "@MarioNawfal",
+      "text": "🇮🇷🇯🇴 More ballistic missile launchs reported from Iran.\n\nFor now their target remains Jordan\n\nSource: WarFront Witness, @TabzLIVE, Middle East Spectator on TG / Writer: Oliver",
+      "likes": 36,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2076325356957507847",
+      "author": "@MilitarySummary",
+      "text": "‼️The United States Remained the World’s Largest Oil Producer in 2025\n\nThe United States continued the trend that began in 2018, when it overtook Russia and Saudi Arabia to become the world’s leading oil producer.\n\nIn 2025, US crude oil production, including condensate, averaged",
+      "likes": 14,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2075966246898507980",
+      "author": "@geogeolite",
+      "text": "🌐🇮🇷\"Iranian oil stuck at sea: Tens of millions of barrels await buyers amid sanctions and geopolitical tensions\".\n\nOne of the largest floating oil storage facilities in recent years is currently accumulating in the vast expanse of the Indian Ocean and Asian waters. More than \"58",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2075917175345295479",
+      "author": "@Saudi_Gazette",
+      "text": "Fitch Ratings has affirmed Saudi Arabia's long-term foreign-currency issuer default rating at \"A+\" with a stable outlook, citing the Kingdom's strong fiscal position, substantial financial reserves and resilient economy.",
+      "likes": 13,
+      "retweets": 1
+    }
+  ]
+}

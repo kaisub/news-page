@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-13",
+  "slot": "01",
+  "generated_at": "2026-07-13T01:23:02Z",
+  "tweets": [
+    {
+      "tweet_id": "2076001786700394610",
+      "author": "@jamonholmgren",
+      "text": "I'm just going to dump my whole agentic setup out here, because I see too many people missing giant chunks of this and it's hurting them.\n\nHere's what I have and recommend:\n\n0. an AGENTS.md that is a router -- it sends the agent to the right skills, docs, tools\n\n1. a standard",
+      "likes": 3233,
+      "retweets": 205
+    },
+    {
+      "tweet_id": "2076377895203667971",
+      "author": "@dr_cintas",
+      "text": "OpenAI’s GPT-5.6 Sol model can now run inside Claude Code.\n\nThere are two ways to do it, and both take minutes to set up, here’s how:\n\nOption 1, the official plugin:\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins, then",
+      "likes": 224,
+      "retweets": 22
+    }
+  ]
+}
