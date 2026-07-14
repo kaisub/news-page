@@ -1,0 +1,100 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-14",
+  "slot": "01",
+  "generated_at": "2026-07-14T01:15:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2076813989598662816",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to do its research first and then use set_goal to set an appropriate goal instead of /goal\n\nIt results in massively better prompt and downstream results!\n\nall my prompts would start with requirements gathering and research and once done set_goal",
+      "likes": 398,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2076683879050854412",
+      "author": "@svpino",
+      "text": "This model can generate coherent 1+ hour videos across multiple scenes without skipping a beat.\n\nI read their paper so you don't have to. Here is how it works:\n\nFirst, this is an open-weight model. You can find the GitHub repo and link to the model weights below.\n\nMost video",
+      "likes": 90,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2076784403414651035",
+      "author": "@hwchase17",
+      "text": "&gt; For me, agentic performance on spreadsheet tasks is the whole of Shortcut existence. So I'm going to beat competitors by obsessing over the harness.\n\ncustom harness is the only way you will beat the labs agentic experience\n\nheres how to build one:",
+      "likes": 65,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2076767574474502393",
+      "author": "@jerryjliu0",
+      "text": "Parse any PDF into agent-ready context. Fully local, free desktop app. No model / internet connection required!",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076377895203667971",
+      "author": "@dr_cintas",
+      "text": "OpenAI’s GPT-5.6 Sol model can now run inside Claude Code.\n\nThere are two ways to do it, and both take minutes to set up, here’s how:\n\nOption 1, the official plugin:\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins, then",
+      "likes": 648,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2076663534746796410",
+      "author": "@twostraws",
+      "text": "Apple's shiny new (and open source!) Foundation Models Utilities package is full of gems. This seems like a great way to prove API before baking it into the OS – I love the compacting code!",
+      "likes": 359,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2076378588656316452",
+      "author": "@bibryam",
+      "text": "🌟 Building Reliable Agentic AI Systems🌟\n - @thoughtworks \n\nWhat it actually takes to build product-ready agents:\n\n→ Start with bounded workflows, not open-ended autonomy. Agents need clear task boundaries, allowed tools, and explicit stopping conditions.",
+      "likes": 242,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2076763231788339669",
+      "author": "@ClementDelangue",
+      "text": "Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at native speed, often matching or beating hand-written implementations.\n\nUntil now, every new architecture often needed to be built twice:\n- Once in Transformers for training and",
+      "likes": 241,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2076517228267155961",
+      "author": "@freeCodeCamp",
+      "text": "AI agents can be super helpful when you're building projects - but they have their issues, too.\n\nAnd Lee decided, after experimenting with them a bit, that he'd rather build his own.\n\nIn this handbook, he walks you through how he made his own autonomous (and more secure) AI agent",
+      "likes": 188,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2076739540094427218",
+      "author": "@dr_cintas",
+      "text": "Running Fable 5 for everything is a waste of tokens.\n\nHere’s how to have Fable 5 review your entire project before another model executes:\n\nStep 1. Install the new Superpowers skill.\n\nClaude Code: /plugin install superpowers@claude-plugins-official\nCodex CLI: /plugins → search",
+      "likes": 72,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2076754787505226157",
+      "author": "@RoundtableSpace",
+      "text": "MeshLLM pools GPUs and memory across your home, office, or friends' machines and exposes the whole thing as one OpenAI-compatible API.\n\n&gt; 31 nodes, 5 active models, 277GB of pooled VRAM — no cloud involved\n&gt; Models too large for one machine get split across peers automatically\n&gt;",
+      "likes": 54,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076303275649810673",
+      "author": "@DivyanshT91162",
+      "text": "THE “GIANT MODEL = GIANT RAM” RULE JUST GOT BROKEN.\n\nColibri is running GLM-5.2 — a massive 744B parameter model — on a machine with just 25GB RAM and no GPU.\n\nHow?\n\nInstead of loading the entire model into memory, Colibri uses smart parameter streaming:\n→ Keeps the active parts",
+      "likes": 31,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2076724433293861315",
+      "author": "@sairahul1",
+      "text": "How to use both Claude Fable 5 and GPT-5.6 all day without hitting limits.\n\nMost people don't know you can run both inside the same session.\n\nFable 5 as the orchestrator. GPT-5.6 as the executor. 10 subagents working in parallel.\n\nThis setup saves at least 60% of your Fable 5",
+      "likes": 32,
+      "retweets": 3
+    }
+  ]
+}

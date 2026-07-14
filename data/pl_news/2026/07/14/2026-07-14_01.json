@@ -1,0 +1,247 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-14",
+  "slot": "01",
+  "generated_at": "2026-07-14T01:15:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2076590975326056448",
+      "author": "@PAPinformacje",
+      "text": "Szef ESA: wybraliśmy Warszawę na lokalizację Centrum Europejskiej Agencji Kosmicznej w Polsce #PAPinformacje",
+      "likes": 490,
+      "retweets": 68
+    },
+    {
+      "tweet_id": "2076645884230500712",
+      "author": "@PAPinformacje",
+      "text": "Sąd Okręgowy w Warszawie nie uwzględnił wniosku o wydanie ENA wobec Zbigniewa Ziobry - rzeczniczka prasowa sądu #PAPinformacje",
+      "likes": 59,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2076703320463315228",
+      "author": "@PAPinformacje",
+      "text": "W Paryżu spotkanie koalicji chętnych z udziałem przywódców 25 państw i rządów\n#PAPinformacje",
+      "likes": 28,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076573832916107726",
+      "author": "@PAPinformacje",
+      "text": "Kallas: na listę sankcyjną UE trafi 250 osób i podmiotów związanych z wojną Rosji przeciw Ukrainie #PAPinformacje",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2076676472991830096",
+      "author": "@PAPinformacje",
+      "text": "USA/ Trump ogłosił przywrócenie blokady Iranu i pobieranie opłat tranzytowych w Ormuzie. (PAP)\n#PAPinformacje",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2076731427622654383",
+      "author": "@Macronextcom",
+      "text": "#Allegro - szacunkowe wyniki za II kw. 2026:\n\n🔸EBITDA: 1,03 mld zł (+11,5% r/r)\n🔸Przychody: 3,3395 mld zł (+16,1%)\n🔸GMV: +14,4%\n🔸GMV (Polska): +12%\n\n\"Kluczowe wskaźniki efektywności (KPI) wyraźnie przewyższają opublikowane szacunki na cały 2026 rok\"",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076543266527342749",
+      "author": "@PAPinformacje",
+      "text": "Armia USA zaatakowała „dziesiątki celów” w Iranie. W odwecie Teheran uderzył w bazy USA #PAPinformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076761812834361360",
+      "author": "@PAPinformacje",
+      "text": "Węgierski parlament przyjął poprawkę do konstytucji w celu usunięcia prezydenta\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076730900662919385",
+      "author": "@PAPinformacje",
+      "text": "Zmiany na szczycie władzy Ukrainy. Julia Swyrydenko złożyła rezygnację ze stanowiska premiera\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076566463771460085",
+      "author": "@PAPinformacje",
+      "text": "Ponad 10 tysięcy nadmiarowych zgonów w Europie w czasie czerwcowej fali upałów #PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076570198606241941",
+      "author": "@GUS_STAT",
+      "text": "Wartość produkcji sprzedanej wyrobów własnych producentów w cenach stałych w 2025 r. utrzymała się na niezmienionym poziomie w stosunku do 2024 r. i wyniosła 1 704,4 mld zł.\n\n🔗 \n\n#GUS #gospodarka",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076564312898826669",
+      "author": "@DGPrawna",
+      "text": "W 2025 roku Polska usunęła Afganistan z listy państw, do których nie przeprowadza się deportacji. Wysyłanie obywateli Afganistanu do ojczyzny nie jest jednak możliwe bez technicznych kontaktów z nieuznawaną przez nas oficjalnie administracją talibów.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076307502132539433",
+      "author": "@pikus_pol",
+      "text": "W 2025r w koszalińskim szpitalu wypłacono 119mln zł jako wynagrodzenia dla lekarzy.\nNajwyższe wynagrodzenie wynosiło - 2 599 725 zł\nkolejne 4 miejsca to zarobki w wysokości:\n➡️2 111 046 zł\n➡️1 985 746 zł\n➡️1 625 983 zł\n➡️1 516 522 zł\nŁącznie 17 wypłat przekroczyło kwotę 1 mln zł.",
+      "likes": 3460,
+      "retweets": 986
+    },
+    {
+      "tweet_id": "2076557124495171708",
+      "author": "@wolski_jaros",
+      "text": "Polska odpowiedź na Szachedy:  Hornet, Gladius 2/3, Barakuda. \n\nWygląda na to że rodzi się polska odpowiedź na Szachedy i Geranie. Składa się ona z minimum trzech konstrukcji z których każda pochodzi z innej firmy i ma nieco inne parametry taktyczno-techniczne: \n\n1) Najmniejszy",
+      "likes": 874,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2076390297429237776",
+      "author": "@motykamilosz",
+      "text": "Polska energetyka wkracza w nową erę. Dzięki największej w Polsce i jednej z największych w naszej części Europy nowej stacji elektroenergetycznej w Choczewie prąd z farm wiatrowych na polskim Bałtyku już trafia do sieci. \n\nDzięki temu mamy jeszcze lepiej zdywersyfikowane źródła",
+      "likes": 317,
+      "retweets": 81
+    },
+    {
+      "tweet_id": "2076221374314475578",
+      "author": "@DawidParzyk",
+      "text": "\"Sąd uznał, że pielęgniarki z tytułem magistra i specjalizacją powinny otrzymywać wyższe wynagrodzenia, zgodnie z ustawą. SPZOZ w Tomaszowie Lubelskim musiał wypłacić wyrównania, a teraz jeszcze przegrywa kolejne sprawy o odsetki i koszty procesowe. Dyrektor składa odwołania, a",
+      "likes": 273,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2076651569940963586",
+      "author": "@oak_investor",
+      "text": "Po 6,5 roku regularnego oszczędzania w PPK przeciętny uczestnik programu zgromadził na rachunku średnio 32,6 tys. zł. To o ponad 20 tys. zł więcej, niż sam wpłacił z własnego wynagrodzenia. Średni zysk uczestnika PPK po czerwcu 2026 roku wyniósł 160%",
+      "likes": 167,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076647073022144882",
+      "author": "@Kagan_M_Dunlap",
+      "text": "Over the weekend of July 11–12, 2026, Polish border guards reported nearly 40 attempts by groups of migrants, mainly from Afghanistan and Pakistan, to illegally cross from Belarus into Poland.",
+      "likes": 153,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2076646160056356893",
+      "author": "@Straz_Graniczna",
+      "text": "Funkcjonariusze z #PlacówkiSGwBraniewie zatrzymali 35-letniego obywatela Kamerunu 🇨🇲, który przebywał w Polsce 🇵🇱 nielegalnie i nie posiadał dokumentów uprawniających do pobytu. Mężczyzna zlekceważył również wcześniejszą decyzję zobowiązującą go do powrotu do swojego kraju.",
+      "likes": 73,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2076651465121071302",
+      "author": "@Straz_Graniczna",
+      "text": "🔟-1️⃣2️⃣ lipca funkcjonariusze @podlaski_sg zatrzymali 3️⃣4️⃣ osoby, które nielegalnie przekroczyły granicę polsko🇵🇱 - litewską 🇱🇹. Wśród zatrzymanych byli obywatele Somalii 🇸🇴, Pakistanu 🇵🇰 i Afganistanu 🇦🇫.\n\nWszystkie osoby zostały przekazane stronie litewskiej.",
+      "likes": 39,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076674953605230770",
+      "author": "@Straz_Graniczna",
+      "text": "Od 6 czerwca do 12 lipca ponad 190 cudzoziemców opuściło Polskę na podstawie decyzji o zobowiązaniu do powrotu.\n\n✅Dobrowolne zobowiązania do powrotu najczęściej realizowali obywatele:\n🔸 Ukrainy (31),\n🔸 Białorusi (28),\n🔸 Rosji (13).\n\n✅Przymusowo Polskę opuściło najwięcej",
+      "likes": 38,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076640071554338873",
+      "author": "@OSW_pl",
+      "text": "Według szacunków NATO cel 3,5% PKB już w 2026 r. osiągnie pięciu sojuszników – Estonia, Grecja, Łotwa, Litwa i Polska.\n\nWięcej w analizie @PiotrSzyman 👉",
+      "likes": 35,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076554910229750129",
+      "author": "@Monitor807",
+      "text": "Centralne Dowództwo USA (CENTCOM) poinformowało, że przeprowadziło ataki na dziesiątki celów na terytorium Iranu, w tym systemy obrony powietrznej, stacje radiolokacyjne, instalacje rakietowe i dronowe oraz szybkie łodzie.\n\nIrańskie media informowały o eksplozjach w Bandar Abbas,",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076710747241906369",
+      "author": "@rzeczpospolita",
+      "text": "🔴 Będą cięcia w bezpłatnych lekach dla seniorów. NFZ chce zaoszczędzić",
+      "likes": 29,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2076715497471517095",
+      "author": "@nexta_polska",
+      "text": "❗️ Szef MON: Ukraińcy zdolni do służby wojskowej powinni wrócić do kraju i go bronić\n\nMinister obrony narodowej Władysław Kosiniak-Kamysz oświadczył, że obywatele Ukrainy zdolni do służby wojskowej powinni przebywać w swoim kraju i uczestniczyć w jego obronie przed rosyjską",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076732548453978462",
+      "author": "@SkotarekG",
+      "text": "Allegro opublikowało wstępne wyniki za II kw. 2026 r.\n\n🛒 Przychody: 3,34 mld zł (+16,1% r/r)\n📈 Skorygowana EBITDA: 1,03 mld zł (+11,5% r/r)\n📊 GMV Polska: +12,0% r/r\n🌍 GMV międzynarodowe: +82,4% r/r\n\nPo pierwszym półroczu 2026 r. zarówno GMV Grupy, jak i skorygowana EBITDA",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076720874867052789",
+      "author": "@CERT_Polska",
+      "text": "🔍 Nadpłata podatku? Uważaj na wiadomości od przestępców!\n\nObserwujemy powrót kampanii, w której oszuści informują o rzekomym zwrocie podatku. Wiadomość zawiera link prowadzący do strony podszywającej się pod eUrząd Skarbowy, której celem jest wyłudzenie danych osobowych oraz",
+      "likes": 13,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076779937755795568",
+      "author": "@Lukasz_on_GPW",
+      "text": "#GPW_w_pigułce 💊, czyli krótkie info ze spółek z #GPW (13.07) za isbiznes. pl\n\n🟢 #Synektik – System Edison uzyskał certyfikat CE, otwierając drogę do komercjalizacji technologii HistoSonics w Europie na rynkach obsługiwanych przez Synektik.\n\n📈 #Stalexport_Autostrady – wstępny",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076344375966130625",
+      "author": "@geogeolite",
+      "text": "🌐🇨🇵🇵🇱\"Poland under Macron's nuclear umbrella: Europe builds its own shield against threats\"...\n\nPoland and France have launched historic consultations that could fundamentally reshape Europe's security architecture. Warsaw has become one of the first key partners in Macron's",
+      "likes": 10,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2076577564018049443",
+      "author": "@zus_pl",
+      "text": "📆 Od dziś emeryci i renciści będą otrzymywać nową legitymację➡️ zarówno tę plastikową, jak i elektroniczną.\n\nNie zmieni się jej funkcja, za to zmieni się wzór.\n🪪 Plastikowa karta będzie zawierała zaawansowane elementy zabezpieczające przed sfałszowaniem:\n🔐 Gilosz - czyli",
+      "likes": 8,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076606722848780394",
+      "author": "@RadioMaryja",
+      "text": ".@zus_pl: Ponad 1,26 mld zł wróciło do przedsiębiorców z nadpłaty składki zdrowotnej za 2025 rok",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2076566043867201567",
+      "author": "@theUBN",
+      "text": "Polish Defense Minister Wladyslaw Kosińska-Kamyś announced positive dynamics in negotiations on the transfer of MiG-29 fighters to Ukraine. According to him, the parties are close to reaching an agreement, although the final decision has not yet been made. He also commented on",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076678374626361783",
+      "author": "@tomaszwyluda",
+      "text": "Wydatki na wojsko vs deficyt w krajach UE w procentach PKB w 2025. R^2 wynosi 0,23. Oznacza to, że tylko 23,4% zmienności salda budżetowego (deficytu) w krajach UE w 2025 roku można wyjaśnić poziomem ich wydatków na zbrojenia.\n\n🇵🇱 Polska, wojsko: 4.50, deficyt: -7.3\n🇱🇻 Łotwa,",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076701905640673539",
+      "author": "@GPW_WSExchange",
+      "text": "Takie początki tygodnia lubimy! WIG kontynuuje piątkowe wzrosty i ustanawia nowe maksimum.\n\n📈 Na zakończenie poniedziałkowej sesji indeks #WIG osiągnął poziom 142 489 pkt przy wzroście o 0,2%. Od początku roku WIG zyskał już 21,5%.\n\n#GPW #WIG #Rekordy",
+      "likes": 7,
+      "retweets": 1
+    }
+  ]
+}
