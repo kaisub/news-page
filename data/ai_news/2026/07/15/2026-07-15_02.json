@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-15",
+  "slot": "02",
+  "generated_at": "2026-07-15T15:23:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2077053140508266710",
+      "author": "@sama",
+      "text": "Concerning.",
+      "likes": 22756,
+      "retweets": 1239
+    },
+    {
+      "tweet_id": "2077047278078931243",
+      "author": "@claudeai",
+      "text": "We're introducing Claude for Teachers: free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states.",
+      "likes": 21893,
+      "retweets": 1756
+    },
+    {
+      "tweet_id": "2077037818824843719",
+      "author": "@sama",
+      "text": "this would have been a whole startup not too long ago",
+      "likes": 22746,
+      "retweets": 806
+    },
+    {
+      "tweet_id": "2077036999303999910",
+      "author": "@sama",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
+      "likes": 22097,
+      "retweets": 820
+    },
+    {
+      "tweet_id": "2076780425280954658",
+      "author": "@sama",
+      "text": "come for the best model, stay because we don’t treat you with contempt",
+      "likes": 21025,
+      "retweets": 675
+    },
+    {
+      "tweet_id": "2077033807736459713",
+      "author": "@sama",
+      "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week!\n\nwelcome.",
+      "likes": 13977,
+      "retweets": 406
+    },
+    {
+      "tweet_id": "2076824686307271125",
+      "author": "@sama",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+      "likes": 13826,
+      "retweets": 401
+    },
+    {
+      "tweet_id": "2076823209589313910",
+      "author": "@sama",
+      "text": "still sorta breaks my brain to see our models be good at design finally",
+      "likes": 12321,
+      "retweets": 226
+    },
+    {
+      "tweet_id": "2077106587307798989",
+      "author": "@sama",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "likes": 11045,
+      "retweets": 305
+    },
+    {
+      "tweet_id": "2076696938918084809",
+      "author": "@sama",
+      "text": "clarity is nice",
+      "likes": 9532,
+      "retweets": 222
+    },
+    {
+      "tweet_id": "2076736417498267652",
+      "author": "@sama",
+      "text": "we love our users",
+      "likes": 6814,
+      "retweets": 176
+    },
+    {
+      "tweet_id": "2077042528906527225",
+      "author": "@sama",
+      "text": "this is a thoughtful proposal from demis:",
+      "likes": 5988,
+      "retweets": 344
+    },
+    {
+      "tweet_id": "2077118672150388816",
+      "author": "@sama",
+      "text": "hello!",
+      "likes": 6006,
+      "retweets": 124
+    },
+    {
+      "tweet_id": "2076719540785012872",
+      "author": "@AnthropicAI",
+      "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages.\n\nWe analyzed 300K+ anonymized conversations to find out.",
+      "likes": 3633,
+      "retweets": 361
+    },
+    {
+      "tweet_id": "2077026346375540870",
+      "author": "@AnthropicAI",
+      "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research.",
+      "likes": 2408,
+      "retweets": 218
+    },
+    {
+      "tweet_id": "2076759971967230419",
+      "author": "@sama",
+      "text": "that goes hard",
+      "likes": 2062,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2076813989598662816",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to do its research first and then use set_goal to set an appropriate goal instead of /goal\n\nIt results in massively better prompt and downstream results!\n\nall my prompts would start with requirements gathering and research and once done set_goal",
+      "likes": 1992,
+      "retweets": 109
+    },
+    {
+      "tweet_id": "2076774628626968715",
+      "author": "@NotebookLM",
+      "text": "Big things are brewing 😉 To whet your appetite while you wait, here are a few features that have dropped recently:\n\n📃Any of your sources uploaded from @googledrive will automatically sync when you make changes to them\n📌 Pin your notebooks to the top of your homepage for easy",
+      "likes": 1112,
+      "retweets": 92
+    },
+    {
+      "tweet_id": "2077007711179563427",
+      "author": "@svpino",
+      "text": "How to become GOD-LEVEL with Large Language Models.\n\nHere are 50 hands-on projects with solutions that will teach you how Large Language Models work.\n\nYou don't need to solve all 50, but if you do, you'll be at the top 0.01% of the field.\n\nIt's all Python + Pytorch + SciKit-Learn",
+      "likes": 892,
+      "retweets": 114
+    },
+    {
+      "tweet_id": "2077117109633466473",
+      "author": "@reach_vb",
+      "text": "We just hit 8M users across ChatGPT Work &amp; Codex!\n\nUsage limits have now been reset! Enjoy Sol, Terra, Luna in ChatGPT &amp; Codex",
+      "likes": 920,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2077136521178517999",
+      "author": "@reach_vb",
+      "text": "codex tip: just ask codex to set its own goal\n\nwhen you set a goal with /goal codex takes the prompt verbatim and sets it as a goal\n\nhowever by asking codex to do the necessary research (via prompt or subagents) and set_goal, you help it by:\n- reducing the search space of the",
+      "likes": 751,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2077373874887639258",
+      "author": "@svpino",
+      "text": "Why is Anthropic hiring Software Engineers? Why aren't they using agents with loops to do all of this?",
+      "likes": 430,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2077281030583583135",
+      "author": "@reach_vb",
+      "text": "We heard you like GPT 5.6 Sol and Codex, go share what you like about it and get 100$ in codex credits!\n\nLimited to first 10K, LFG!!",
+      "likes": 319,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077053865455681836",
+      "author": "@reach_vb",
+      "text": "DeepSWE 1.1: GPT 5.6 Sol delivers the highest score at less than half the cost",
+      "likes": 286,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076777783254995202",
+      "author": "@reach_vb",
+      "text": "Incredible that @thsottiaux not only resets limits and transparent updates but also keeps people away from hospitals",
+      "likes": 264,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077165836029042709",
+      "author": "@reach_vb",
+      "text": "We’re going to need a BIGGER button!",
+      "likes": 251,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076791319893328089",
+      "author": "@jerryjliu0",
+      "text": "There is a massive opportunity for any startup to build specialized, domain-specific workflows that are at the Pareto frontier in accuracy, cost, and latency.\n\nIt is clear that not every task requires frontier intelligence (e.g. 5.6 Sol xhigh). Every single task has an optimal",
+      "likes": 180,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2076784403414651035",
+      "author": "@hwchase17",
+      "text": "&gt; For me, agentic performance on spreadsheet tasks is the whole of Shortcut existence. So I'm going to beat competitors by obsessing over the harness.\n\ncustom harness is the only way you will beat the labs agentic experience\n\nheres how to build one:",
+      "likes": 146,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2077044285489483976",
+      "author": "@svpino",
+      "text": "If you want to self-host your dev environment and don't worry about the cloud, check out Coder.\n\nOpen-source. Free to use. It doesn't get better than this.\n\nPerfect if you have a Mac Mini or access to a server and want to take control of your agentic coding.",
+      "likes": 130,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2076953347437793672",
+      "author": "@svpino",
+      "text": "Reframe: *Most* things shouldn't be an AI agent.",
+      "likes": 72,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2076767574474502393",
+      "author": "@jerryjliu0",
+      "text": "Parse any PDF into agent-ready context. Fully local, free desktop app. No model / internet connection required!",
+      "likes": 64,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077090790636241374",
+      "author": "@hwchase17",
+      "text": "we did a bunch of work to standardize how coding agents trace to langsmith",
+      "likes": 62,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077021392072032397",
+      "author": "@rpl_0x",
+      "text": "Litwa, Łotwa, Estonia, Finlandia, Wyspy Alandzkie, Szwecja. 13 dni, 1500km rowerem, 1000km promem, 13 nocek na dziko, 130-170km dziennie.\n\nZaczęliśmy w Suwałkach, pierwszy odcinek Litwy to płaskie tereny wzdłuż obwodu królewieckiego. Ten region był niemal opustoszały, pełen",
+      "likes": 63,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077135428604543093",
+      "author": "@svpino",
+      "text": "This MCP puts Claude inside your After Effects projects. You can simply guide Claude to help you with expressions and other repetitive tasks in After Effects.\n\nCheck out this quick video.",
+      "likes": 52,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077106884268749111",
+      "author": "@nauczymycieAI",
+      "text": "Przez ostatnie miesiące OpenAI goniło Anthropic. W ciągu ostatniego tygodnia, role się odwróciły.\n\nGPT-5.5 był dla mnie pierwszym modelem od OpenAI nadającym się do delegowania codziennych zadań. Mogłem zlecić mu wielogodzinną analizę, opracowanie dokumentów albo przygotowanie",
+      "likes": 49,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077125815083606116",
+      "author": "@hwchase17",
+      "text": "Open source coding harness!",
+      "likes": 49,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077350243440693489",
+      "author": "@svpino",
+      "text": "This robot is pretty sick, and it's built on an open platform.\n\nIt also comes with an IDE + dev platform, designed from the ground up for robotics. You can use it to program this thing.\n\nBest part: People can actually buy this thing.",
+      "likes": 39,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2076794185836052830",
+      "author": "@jerryjliu0",
+      "text": "OpenAI is absolutely cooking this week",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076715926943101250",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 Sol to bardzo, bardzo dobry model. Ale jego pełen potencjał odblokujesz wyłącznie w Codex, nazwanym po rebrandingu po prostu ChatemGPT na komputer.\n\nJeżeli nie wiesz jak zacząć - napisałem kompletny poradnik. Zapraszam na edukacyjny poniedziałek:",
+      "likes": 34,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076832816600650034",
+      "author": "@jerryjliu0",
+      "text": "Agreed with this. people underestimate the importance of good abstractions and maintainability. \n\npart of the reason LLMs/AI are so popular in the first place is because of the ease of using the models during inference-time (through prompting, orchestration) instead of training",
+      "likes": 31,
+      "retweets": 3
+    }
+  ]
+}

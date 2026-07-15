@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-15",
+  "slot": "02",
+  "generated_at": "2026-07-15T15:23:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2077284279663398992",
+      "author": "@PAPinformacje",
+      "text": "20 lat temu powstał Twitter, obecny X, uznawany dziś za główne źródło dezinformacji w sieci\n#PAPinformacje",
+      "likes": 281,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2077130053888995648",
+      "author": "@Macronextcom",
+      "text": "🔸S&amp;P DOW JONES INDICES: CONSULTING ON RECLASSIFYING #POLAND 🇵🇱 FROM  EMERGING TO DEVELOPED STATUS\n🔸S&amp;P DOW JONES INDICES: PROPOSES TO IMPLEMENT RECLASSIFICATIONS AT THE SEPTEMBER 2027 RECONSTITUTION",
+      "likes": 122,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077286980346421537",
+      "author": "@PAPinformacje",
+      "text": "Maciej Ś., były członek zarządu PFN, usłyszał zarzuty i ma zakaz opuszczania kraju. #PAPinformacje",
+      "likes": 76,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2077287048033993152",
+      "author": "@PAPinformacje",
+      "text": "Szef MSZ ostrzega: Rosja może przeprowadzić prowokację w formie operacji pod fałszywą flagą\n#PAPinformacje",
+      "likes": 64,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2077316883355775227",
+      "author": "@laskowski_pl",
+      "text": "Przez 8 lat mieliśmy \"prawo i sprawiedliwość\", a teraz przez 4 lata będziemy mieć \"wolne sądy\".\nZa tym przecież chodziliście w protestach w koszulkach z napisem \"konsTYtucJA\" - prawda?",
+      "likes": 59,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2077320858087964879",
+      "author": "@Macronextcom",
+      "text": "PAP dziś z RiGCzem. 🙂",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077096539365785748",
+      "author": "@Macronextcom",
+      "text": "Za każdym pi**** razem gdy sobie pomyślisz, że po tak dużym wzroście #WIG20 od początku roku, przydałaby się jakaś korekta, on robi to. 👇\n\n🤪😆",
+      "likes": 51,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2076955547635470630",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Jedna z ciekawszych ostatnio sesji na #WIG20. Wygląda jak przesiadka z drogich już banków na lepiej rokujące spółki (Allegro, Pepco).",
+      "likes": 46,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077042188945420584",
+      "author": "@laskowski_pl",
+      "text": "Polskie banki szaleją jeżeli chodzi o regulacje AML, a tutaj firma spokojnie sobie przelewa 100 mln euro na słupa, zostawiając z długami polskie firmy.\nJak to nazwać 🤔",
+      "likes": 39,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077296813242024130",
+      "author": "@PAPinformacje",
+      "text": "Trzaskowski: Magdalena Młochowska i Izabela Marcewicz-Jendrysik nowymi wiceprezydentkami stolicy",
+      "likes": 36,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2077015678524002549",
+      "author": "@Macronextcom",
+      "text": "I cyk... mamy nowe ATH na WIG. 🇵🇱📈💪 \n\nNowy rekord indeksu #WIG to 142987,09 pkt. Tym samym indeks w połowie roku \"wykręcił\" lepszy wynik niż na cały 2026 rok prognozowali najbardziej byczo nastawieni analitycy. 👇\n\n@Parkietcom @GPW_WSExchange",
+      "likes": 44,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076984317192835251",
+      "author": "@Macronextcom",
+      "text": "Zarzecki kontra Glapiński. Członek RPP twierdzi, że podwyżka stóp proc. w Polsce 🇵🇱 jest bardziej realna niż ich obniżka.\n\nPOLISH RATE HIKE MORE LIKELY THAN CUT, MPC’S ZARZECKI SAYS - BLOOMBERG NEWS\n\nTo chyba najbardziej jastrzębie - wyłączając Tyrowicz - stanowisko członka Rad.",
+      "likes": 44,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077250050934088104",
+      "author": "@Macronextcom",
+      "text": "USA 🇺🇸 o krok od końca zmiany czasu. 🕑 Kiedy Europa?\n\nWczoraj Izba Reprezentantów USA przegłosowała ustawę, która kończy ze zmianą czasu. Jeżeli poprze ją Senat i podpisze Trump - a to prawdopodobne - to w USA będzie obowiązywał czas letni przez cały rok.",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077008634530111767",
+      "author": "@laskowski_pl",
+      "text": "Takie zmiany powinny też nastąpić w naszej konstytucji, ale nie będą.",
+      "likes": 34,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077117477561966928",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: we wrześniu Polska stanie się miejscem najważniejszych ćwiczeń wojskowych w Europie\n#PAPinformacje",
+      "likes": 27,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077002373986177146",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w V 2026 r. Saldo rachunku bieżącego: -1,071 mld EUR (prognoza: -1,675 mld EUR; poprzednio: -1,541 mld EUR) \n\nDeficyt na rachunku bieżącym też jest jednym z czynników, które ostatnio ciążą #PLN, ale ten wpływ nie jest przesadnie duży.\n\n➡️",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077053808308326580",
+      "author": "@Macronextcom",
+      "text": "#Allegro 43,925 zł (+9,81%) 🚀📈\n\n🔸Allegro zalicza 8. najlepszą sesję w historii;\n🔸w 3 miesiące akcje podrożały o +52,2%;\n🔸akcje najdroższe od stycznia 2022;\n🔸kurs wybija się górą z 3-letniego trendu bocznego.\n\n(1/2)",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077384619310125182",
+      "author": "@PAPinformacje",
+      "text": "Szef MON: para dyżurna polskich samolotów z Malborka przechwyciła nad Bałtykiem parę rosyjskich Su-30SM2 z Królewca; rosyjskie samoloty nie zbliżyły się do polskiej przestrzeni powietrznej. (PAP)\n#PAPinformacje",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077012659090731494",
+      "author": "@laskowski_pl",
+      "text": "Wyślijmy w kosmos tych co odpowiadają za brak reform w służbie zdrowia i dopuszczenia do wszystkich patologii.\nW jedną stronę.",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077069975026610587",
+      "author": "@PAPinformacje",
+      "text": "Szef MS: wysłałem pismo do amerykańskiej ICE ws. podstaw pobytu Zbigniewa Ziobry w USA\n#PAPinformacje",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077278360464457832",
+      "author": "@Macronextcom",
+      "text": "#Chiny\n\nW II kw. 2026 r. wzrost gospodarczy w Chinach 🇨🇳 wyhamował do 4,3% 📉 z 5,0% r/r i był to najniższy od IV kw. 2022, czyli okresu gdy gospodarka zmagała się jeszcze ze skutkami pandemii.\n\nWzrost #PKB był też niższy od prognoz. Oczekiwano odczytu na poziomie 4,5% r/r.",
+      "likes": 22,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2076940879416160434",
+      "author": "@Macronextcom",
+      "text": "Po wynikach #Allegro 42,045 zł (+5,11%).\n\nI wygląda na to, że kurs Allegro właśnie wskoczył \"półkę wyżej\".",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077363107840528868",
+      "author": "@Macronextcom",
+      "text": "W maju produkcja przemysłowa* w Polsce 🇵🇱 wzrosła o 5,3% r/r - podał Eurostat. \n\nTo 5⃣ najlepszy wynik w całej Unii Europejskiej 🇪🇺, gdzie średnio produkcja spadła o 0,3% r/r.\n\nLink do danych: \n\n* dane skorygowane o liczbę dni roboczych",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077081856986567015",
+      "author": "@PAPinformacje",
+      "text": "Mołdawia przybliża się do UE. Negocjacje akcesyjne w dwóch obszarach\n#PAPinformacje",
+      "likes": 15,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2076929689877422400",
+      "author": "@Macronextcom",
+      "text": "🇫🇷 14 lipca - rocznica zburzenia Bastylii, święto narodowe we Francji... \n\n...ale giełda w Paryżu dziś pracuje normalnie.",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077337133757485295",
+      "author": "@laskowski_pl",
+      "text": "Dotychczasowa dyrektorka Narodowego Instytutu Geriatrii, Reumatologii i Rehabilitacji.\nRynek Zdrowia określa instytut jako „jeden z najbardziej zadłużonych”\nŚwietną 👍",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077314873009029436",
+      "author": "@laskowski_pl",
+      "text": "Panie ministrze, ja chcę samolotu, bo w pociągu hołotą (znaczy się wyborcami) śmierdzi. \nKolejny oderwany od rzeczywistości, co lata za państwowe jak jakaś latawica 😡",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077098498072232314",
+      "author": "@laskowski_pl",
+      "text": "Unijne Rozporządzenie, które weszło w życie 20 maja 2026 wprowadziło obowiązek rejestracji najmu krótkoterminowego w całej UE. Wdrożenie następuje poprzez tworzenie gminnych rejestrów oraz Centralnego Wykazu Turystycznych Obiektów Noclegowych (CWTON). \nI to robi rząd, teraz.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077391473746509913",
+      "author": "@laskowski_pl",
+      "text": "Nadal można to zrobić. Prezydent nie odbiera przysięgi od kolejnego sędziego.\nCzy kierownik będzie miał jaja? Z PiS nie ma miękkiej gry.",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077085533298164122",
+      "author": "@laskowski_pl",
+      "text": "Gaz dla Polski z Kataru płynie przez cieśninę Ormuz. \nDalej klaszczemy i płacimy myto?",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2076988326347698624",
+      "author": "@Macronextcom",
+      "text": "Ekonomiści @ING_Economics prognozują, że Bank Węgier 🇭🇺 do końca 2026 roku obniży stopy proc. łącznie o 100 pb 📉 do 5,00%. \n\nNajbliższe posiedzenie Banku Węgier jest 21 lipca.\n➡️",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077021122072134005",
+      "author": "@laskowski_pl",
+      "text": "Polityk bez wyobraźni?\nCenię przyznanie się do winy, można się rozejść.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077309858584420517",
+      "author": "@PAPinformacje",
+      "text": "Rafał Trzaskowski ogłosił nazwiska nowych wiceprezydentek Warszawy\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077136205225886091",
+      "author": "@PAPinformacje",
+      "text": "Hiszpania awansowała do finału piłkarskich mistrzostw świata po zwycięstwie nad Francją 2:0. (PAP)\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077343688389218528",
+      "author": "@PAPinformacje",
+      "text": "Rosyjskie ataki na Ukrainę. Są ofiary śmiertelne i ranni\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077376652619776190",
+      "author": "@laskowski_pl",
+      "text": "Co za bezczelny typ! 😡",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077121319368319120",
+      "author": "@laskowski_pl",
+      "text": "Czy o jednym kandydacie i drugim, można powiedzieć, że jest jak \"żona Cezara\" 🤔",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077263012835041671",
+      "author": "@PAPinformacje",
+      "text": "Iran zaatakował statki cywilne. Są zabici i ranni\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077317906048614428",
+      "author": "@GUS_STAT",
+      "text": "📘Ukazał się #MałyRocznikStatystycznyPolski 2026. Jest to 69. edycja publikacji prezentującej najważniejsze dane o #społeczeństwo, #gospodarka i #ŚrodowiskoNaturalne w #Polska. \nTegoroczne wydanie uwzględnia m. in. nową klasyfikację #COICOP 2018.\n\n🔗\n\n#GUS",
+      "likes": 3,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077147498926227829",
+      "author": "@PAPinformacje",
+      "text": "Jest pierwszy finalista mundialu. Dwa trafienia Hiszpanii zdecydowały\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    }
+  ]
+}
