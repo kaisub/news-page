@@ -1,0 +1,121 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-15",
+  "slot": "01",
+  "generated_at": "2026-07-15T01:12:29Z",
+  "tweets": [
+    {
+      "tweet_id": "2077136521178517999",
+      "author": "@reach_vb",
+      "text": "codex tip: just ask codex to set its own goal\n\nwhen you set a goal with /goal codex takes the prompt verbatim and sets it as a goal\n\nhowever by asking codex to do the necessary research (via prompt or subagents) and set_goal, you help it by:\n- reducing the search space of the",
+      "likes": 372,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2076784403414651035",
+      "author": "@hwchase17",
+      "text": "&gt; For me, agentic performance on spreadsheet tasks is the whole of Shortcut existence. So I'm going to beat competitors by obsessing over the harness.\n\ncustom harness is the only way you will beat the labs agentic experience\n\nheres how to build one:",
+      "likes": 142,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2076683879050854412",
+      "author": "@svpino",
+      "text": "This model can generate coherent 1+ hour videos across multiple scenes without skipping a beat.\n\nI read their paper so you don't have to. Here is how it works:\n\nFirst, this is an open-weight model. You can find the GitHub repo and link to the model weights below.\n\nMost video",
+      "likes": 115,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2077044285489483976",
+      "author": "@svpino",
+      "text": "If you want to self-host your dev environment and don't worry about the cloud, check out Coder.\n\nOpen-source. Free to use. It doesn't get better than this.\n\nPerfect if you have a Mac Mini or access to a server and want to take control of your agentic coding.",
+      "likes": 85,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2076767574474502393",
+      "author": "@jerryjliu0",
+      "text": "Parse any PDF into agent-ready context. Fully local, free desktop app. No model / internet connection required!",
+      "likes": 65,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077135428604543093",
+      "author": "@svpino",
+      "text": "This MCP puts Claude inside your After Effects projects. You can simply guide Claude to help you with expressions and other repetitive tasks in After Effects.\n\nCheck out this quick video.",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077084891284721827",
+      "author": "@PrismML",
+      "text": "Today, we’re announcing Bonsai 27B: the first 27B-class model to run on a phone.\n\nBonsai 27B is the new multimodal flagship of the Bonsai family. Based on Qwen3.6 27B, it brings a new capability tier to local AI: multi-step reasoning, structured tool use, long-context workflows,",
+      "likes": 3207,
+      "retweets": 496
+    },
+    {
+      "tweet_id": "2076754607049449633",
+      "author": "@crptAtlas",
+      "text": "GITHUB JUST KILLED THE WORST PART OF VIBE CODING\n\nthey shipped a free tool called Spec Kit and it already crossed 120,000 stars\n\nthe fix is stupidly simple\n\ninstead of tossing vague prompts at an agent and praying it doesn't wreck your project\n\nSpec Kit makes the AI write a full",
+      "likes": 1485,
+      "retweets": 180
+    },
+    {
+      "tweet_id": "2076713526497026493",
+      "author": "@googlegemma",
+      "text": "Gemma 4 is live on @cerebras, the fastest multimodal inference ever!\n\nRunning on Gemma 4 31B open-weight model at a blistering 1,500+ tokens/sec.  That's a 15x speedup, unlocking real-time visual and agentic loops without the GPU lag.",
+      "likes": 1241,
+      "retweets": 99
+    },
+    {
+      "tweet_id": "2077078710499287410",
+      "author": "@aaayandev",
+      "text": "Introducing Slop.md...\n\nA 80,000+ Character .MD File that removes all common AI Slop design language.\n\n- A general guideline, use it anywhere.\n- Not a \"website maker\" but prevents slop design.\n- Made by weeks of consistent additions to the .MD of common slop structure by AI in",
+      "likes": 849,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2076763287220318468",
+      "author": "@TheAhmadOsman",
+      "text": "Local AI was never this EASY\n\n&gt; Install ODS\n&gt; Let it detect your hardware\n&gt; It will download the best model for your hardware\n&gt; And then start local inference and Open WebUI for you\n\nWith ODS, you can\n\n&gt; Add voice, agents like Hermes, workflows, RAG, search, image generation, and",
+      "likes": 622,
+      "retweets": 81
+    },
+    {
+      "tweet_id": "2076517228267155961",
+      "author": "@freeCodeCamp",
+      "text": "AI agents can be super helpful when you're building projects - but they have their issues, too.\n\nAnd Lee decided, after experimenting with them a bit, that he'd rather build his own.\n\nIn this handbook, he walks you through how he made his own autonomous (and more secure) AI agent",
+      "likes": 225,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2077021298639671685",
+      "author": "@mjovanovictech",
+      "text": "I just released a Claude Skills package for my Clean Architecture template, and it's free.\n\nHere's why I built it. Every AI coding assistant I've used has the same problem: ask it to add a feature and you get code that works but doesn't look like yours. Different folder",
+      "likes": 111,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2077040010063479065",
+      "author": "@Sumanth_077",
+      "text": "Pytest for Google ADK agents!\n\nTesting AI agents is fundamentally different from testing regular code. There's no single output to assert against. Every run can produce a different response. And when something goes wrong, it's rarely obvious which step caused it.\n\nAI agents built",
+      "likes": 56,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2077162090175901759",
+      "author": "@tom_doerr",
+      "text": "Structured 3-agent AI dev team using Architect, Builder, and Reviewer roles",
+      "likes": 26,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2077185123137560897",
+      "author": "@RoundtableSpace",
+      "text": "Someone figured out how to run Claude Fable 5 and GPT-5.6 together inside ChatGPT Codex and the setup takes 5 minutes.\n\nTwo commands get you started:\n\n→ codex plugin marketplace add Cjbuilds/Codex-Orchestration\n→ codex plugin add codex-orchestration@codex-orchestration\n\nFrom",
+      "likes": 25,
+      "retweets": 3
+    }
+  ]
+}
