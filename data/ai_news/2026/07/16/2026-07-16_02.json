@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-16",
+  "slot": "02",
+  "generated_at": "2026-07-16T15:32:44Z",
+  "tweets": [
+    {
+      "tweet_id": "2077053140508266710",
+      "author": "@sama",
+      "text": "Concerning.",
+      "likes": 24042,
+      "retweets": 1282
+    },
+    {
+      "tweet_id": "2077106587307798989",
+      "author": "@sama",
+      "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "likes": 12600,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2077460395279692197",
+      "author": "@bcherny",
+      "text": "Something I have been thinking about: in the past, the best engineers I knew spent a lot of time automating their work in various ways. Better vim/emacs automations, writing lint rules to catch repeat code issues, building up a suite of e2e tests so they don't need to smoke test",
+      "likes": 8331,
+      "retweets": 726
+    },
+    {
+      "tweet_id": "2077118672150388816",
+      "author": "@sama",
+      "text": "hello!",
+      "likes": 6652,
+      "retweets": 138
+    },
+    {
+      "tweet_id": "2077552106014154846",
+      "author": "@leerob",
+      "text": "We just doubled the included usage of Cursor models on all plans.\n\nEnjoy more access to Grok 4.5 and Composer 2.5!",
+      "likes": 5668,
+      "retweets": 286
+    },
+    {
+      "tweet_id": "2077489177374208000",
+      "author": "@sama",
+      "text": "amazing to me that some people want the silent version",
+      "likes": 2869,
+      "retweets": 130
+    },
+    {
+      "tweet_id": "2077452646303006927",
+      "author": "@AnthropicAI",
+      "text": "New Anthropic research: Agentic misalignment in Summer 2026.\n\nA year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.\n\nRead more:",
+      "likes": 2676,
+      "retweets": 312
+    },
+    {
+      "tweet_id": "2077373874887639258",
+      "author": "@svpino",
+      "text": "Why is Anthropic hiring Software Engineers? Why aren't they using agents with loops to do all of this?",
+      "likes": 2296,
+      "retweets": 112
+    },
+    {
+      "tweet_id": "2077464952734982266",
+      "author": "@leerob",
+      "text": "New open model from Thinking Machines!\n\n1T MoE, 1M context, multimodal, some solid evals.\n\nReally nice blog post 👏",
+      "likes": 1135,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2077414263421898817",
+      "author": "@leerob",
+      "text": "I've been thinking about this post a lot.\n\nIt represents a bigger shift in startup marketing to me. I don't want to see your copycat funding launch video.\n\nCool, you raised a bazillion dollars. It's overplayed.\n\nShow me the product! Show me the customers!",
+      "likes": 948,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2077117109633466473",
+      "author": "@reach_vb",
+      "text": "We just hit 8M users across ChatGPT Work &amp; Codex!\n\nUsage limits have now been reset! Enjoy Sol, Terra, Luna in ChatGPT &amp; Codex",
+      "likes": 937,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2077532302217711717",
+      "author": "@reach_vb",
+      "text": "after a lot of thought, I’ve come to the uncomfortable conclusion that I’m the bottleneck to my Codex",
+      "likes": 852,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2077136521178517999",
+      "author": "@reach_vb",
+      "text": "codex tip: just ask codex to set its own goal\n\nwhen you set a goal with /goal codex takes the prompt verbatim and sets it as a goal\n\nhowever by asking codex to do the necessary research (via prompt or subagents) and set_goal, you help it by:\n- reducing the search space of the",
+      "likes": 805,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2077281030583583135",
+      "author": "@reach_vb",
+      "text": "We heard you like GPT 5.6 Sol and Codex, go share what you like about it and get 100$ in codex credits!\n\nLimited to first 10K, LFG!!",
+      "likes": 374,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2077053865455681836",
+      "author": "@reach_vb",
+      "text": "DeepSWE 1.1: GPT 5.6 Sol delivers the highest score at less than half the cost",
+      "likes": 290,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077165836029042709",
+      "author": "@reach_vb",
+      "text": "We’re going to need a BIGGER button!",
+      "likes": 269,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077631651203432508",
+      "author": "@reach_vb",
+      "text": "PSA: Don’t run you coding agent in full access mode!\n\nUse the combination of Rules, Sandbox, Approve for me &amp; Hooks to make sure that both you and your agent can work in peace.\n\nIn the extremely rare case the model does trip - you want to have a layer of protection between your",
+      "likes": 196,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2077734242184991199",
+      "author": "@svpino",
+      "text": "Me: Anthropic is lying to you with their \"Software Engineering is dead\" claims.\n\nThe Internet: You are a retard if you don't like AI, sucker!",
+      "likes": 160,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077518309621215690",
+      "author": "@reach_vb",
+      "text": "you can just build things, literally!",
+      "likes": 126,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077437506686271882",
+      "author": "@jerryjliu0",
+      "text": "Extracting information from millions of documents at scale used to take an insane number of human hours. Even with recent OCR + document AI tech, humans would still have to spend a lot of time carefully tuning the schema and precisely defining the fields they want to extract.",
+      "likes": 78,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2077350243440693489",
+      "author": "@svpino",
+      "text": "This robot is pretty sick, and it's built on an open platform.\n\nIt also comes with an IDE + dev platform, designed from the ground up for robotics. You can use it to program this thing.\n\nBest part: People can actually buy this thing.",
+      "likes": 50,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2077125815083606116",
+      "author": "@hwchase17",
+      "text": "Open source coding harness!",
+      "likes": 58,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077135428604543093",
+      "author": "@svpino",
+      "text": "This MCP puts Claude inside your After Effects projects. You can simply guide Claude to help you with expressions and other repetitive tasks in After Effects.\n\nCheck out this quick video.",
+      "likes": 58,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077106884268749111",
+      "author": "@nauczymycieAI",
+      "text": "Przez ostatnie miesiące OpenAI goniło Anthropic. W ciągu ostatniego tygodnia, role się odwróciły.\n\nGPT-5.5 był dla mnie pierwszym modelem od OpenAI nadającym się do delegowania codziennych zadań. Mogłem zlecić mu wielogodzinną analizę, opracowanie dokumentów albo przygotowanie",
+      "likes": 53,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077457990542860671",
+      "author": "@hwchase17",
+      "text": "Good takes from Caspar on why we’re leaning into slack as an interface for agents",
+      "likes": 44,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077442438038495324",
+      "author": "@rpl_0x",
+      "text": "Prowadzę interwencje w ważnym dla mnie regionie.\nDeweloper, z pomocą gminy buduje osiedle w samym sercu lasu, stosując sztuczki żeby uniknąć ekspertyzy środowiskowej, a gmina za pieniądze podatnika, przygotowuje dla niego infrastrukturę żeby zamiast za kilkadziesiąt tysięcy, mógł",
+      "likes": 36,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077443161585287290",
+      "author": "@hwchase17",
+      "text": "It’s super easy to create custom slack agents now\n\nMakes it easy to bring intelligence to where the team already lives",
+      "likes": 40,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077499025981669389",
+      "author": "@svpino",
+      "text": "Models make about 5 web-verifiable claims per response in Text Arena, and 87% of those claims check out.\n\n0.87^5 = 0.50.\n\nThis means that roughly half of the responses contain at least one false claim!\n\nSearch Arena is even worse: nearly 10 claims per response at 89% true.",
+      "likes": 30,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2077233475577594339",
+      "author": "@jerryjliu0",
+      "text": "enemy of my enemy is my friend type shit",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077121716338462993",
+      "author": "@jerryjliu0",
+      "text": "Work hard play hard 🇫🇷🇪🇸",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077764801594544418",
+      "author": "@svpino",
+      "text": "How to monitor the web and research what comes back in 300 lines of code.\n\nI want to buy some cheap products on Amazon, but I want to grab them when prices drop.\n\nI'm using Parallel @p0 here, which is a really easy way to ground your agentic code.\n\nHere is how this works:\n\n1. Set",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077347891027611986",
+      "author": "@sentient_agency",
+      "text": "A Nobel laureate at Yale teaches the finance course inside every MBA, and it's free. Here are 8 courses more useful than most MBA programs.\n\nAn MBA costs $150,000 and two years. The actual knowledge inside one is mostly sitting online, taught by the same professors, for free.",
+      "likes": 18,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077733997908496617",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo dobry skrót tego jak należy pracować z modelami obecnej generacji - na podstawie oficjalnego poradnika od OpenAI. \n\nW 95% przenaszalne również na Opusa i Fable",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077471464253501582",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 Sol jest mądrzejsze niż 99% ludzi.\n\nTak przynajmniej wynika z testu IQ, jednego z najciekawszych sprawdzianów dla AI.\n\nDlaczego ten test jest ciekawy? Ułożył go członek Mensy, a według Tracking AI pytania nigdy nie zostały opublikowane w internecie i nie znalazły się w",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077076419491025203",
+      "author": "@jerryjliu0",
+      "text": "Our team made the cutest graffiti art yesterday 🎨",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077439651208417737",
+      "author": "@nauczymycieAI",
+      "text": "Co tu się wydarzyło.\n\nOpenAI wypuściło joystick do programowania",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077764401399210055",
+      "author": "@hwchase17",
+      "text": "New Max Agency with @FactoryAI CTO &amp; Co-Founder @EnoReyes.\n\nThis was a particularly fun one. Since we're both building harnesses, we nerded out pretty deep.\n\nAwesome conversation on why the harness matters more than the model running underneath it, how Factory built Missions, +",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077059648310399455",
+      "author": "@rpl_0x",
+      "text": "Darmowy edytor do vibecodingu na rok, jak masz dostęp do dowolnego maila studenckiego.\n\nZed dev wydaje się być ciekawym narzędziem, a mając maila studenckiego możesz się pobawić wersją pro - nie ma tam jakoś duzo tokenów do przepalenia ale jak ktoś dużo eksperymentuje to warto",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077077929486672118",
+      "author": "@jerryjliu0",
+      "text": "If you're a founder, come pitch your wildest ideas to other founders in a safe space! \n\nFood and drinks included 🍹",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077754528695206140",
+      "author": "@nauczymycieAI",
+      "text": "Kimi K3 już dostępne na oficjalnej stronie. \n\nTesterzy z wczesnym dostępem mówią o modelu zbliżonym możliwościami do Opusa 4.8.\n\nJeżeli się potwierdzą - szykuje się hit",
+      "likes": 14,
+      "retweets": 1
+    }
+  ]
+}
