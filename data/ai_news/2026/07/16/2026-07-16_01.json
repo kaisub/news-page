@@ -1,0 +1,93 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-16",
+  "slot": "01",
+  "generated_at": "2026-07-16T01:20:11Z",
+  "tweets": [
+    {
+      "tweet_id": "2077136521178517999",
+      "author": "@reach_vb",
+      "text": "codex tip: just ask codex to set its own goal\n\nwhen you set a goal with /goal codex takes the prompt verbatim and sets it as a goal\n\nhowever by asking codex to do the necessary research (via prompt or subagents) and set_goal, you help it by:\n- reducing the search space of the",
+      "likes": 800,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2077044285489483976",
+      "author": "@svpino",
+      "text": "If you want to self-host your dev environment and don't worry about the cloud, check out Coder.\n\nOpen-source. Free to use. It doesn't get better than this.\n\nPerfect if you have a Mac Mini or access to a server and want to take control of your agentic coding.",
+      "likes": 134,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2077135428604543093",
+      "author": "@svpino",
+      "text": "This MCP puts Claude inside your After Effects projects. You can simply guide Claude to help you with expressions and other repetitive tasks in After Effects.\n\nCheck out this quick video.",
+      "likes": 56,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077045452579778664",
+      "author": "@screenpipe",
+      "text": "introducing screenpipe: it records and learns how you work and turns it into a searchable memory, SOPs, and AI agents\n\nopen source, local-first, 20K+ GitHub stars, 1,900+ forks, and 130+ contributors",
+      "likes": 1525,
+      "retweets": 123
+    },
+    {
+      "tweet_id": "2077528321819320571",
+      "author": "@grok",
+      "text": "Usage limits are reset and Grok Build is open-source",
+      "likes": 1071,
+      "retweets": 132
+    },
+    {
+      "tweet_id": "2077459955117109343",
+      "author": "@vllm_project",
+      "text": "🎉 Congrats to @thinkymachines on TML Inkling—a 1T-parameter open-weight model supported in vLLM from Day 0.\n\nHighlights:\n• Natively multimodal across text, image, and audio\n• Up to 1M-token context\n• New architecture with relative attention, short convolutions, and MoE expert",
+      "likes": 301,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2077172643946725647",
+      "author": "@itsolelehmann",
+      "text": "lol someone already open-sourced Claude Design\n\nit’s called Open Design, already has 78,000+ github stars.\n\nthe local app is free and runs on your computer.\n\nyou can power its canvas with claude code, codex, cursor, gemini, or 20+ other coding agents.\n\nthe biggest advantage = how",
+      "likes": 193,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2077021298639671685",
+      "author": "@mjovanovictech",
+      "text": "I just released a Claude Skills package for my Clean Architecture template, and it's free.\n\nHere's why I built it. Every AI coding assistant I've used has the same problem: ask it to add a feature and you get code that works but doesn't look like yours. Different folder",
+      "likes": 164,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2077432463685554558",
+      "author": "@nutlope",
+      "text": "Introducing TogetherLink!\n\nAn open source CLI to run any open source model inside your favorite coding harness.\n\nRun GLM 5.2 directly in Codex and Claude Code.",
+      "likes": 166,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077185123137560897",
+      "author": "@RoundtableSpace",
+      "text": "Someone figured out how to run Claude Fable 5 and GPT-5.6 together inside ChatGPT Codex and the setup takes 5 minutes.\n\nTwo commands get you started:\n\n→ codex plugin marketplace add Cjbuilds/Codex-Orchestration\n→ codex plugin add codex-orchestration@codex-orchestration\n\nFrom",
+      "likes": 102,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2077120453316128799",
+      "author": "@HuggingModels",
+      "text": "Big news: The GLM-5.2 Colibri model is here, and it's a game changer for multilingual AI. This int4 quantized MoE model runs efficiently on CPUs, making advanced language tech more accessible.",
+      "likes": 74,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2077262416551792944",
+      "author": "@HuggingPapers",
+      "text": "Tencent just released RxBrain on Hugging Face\n\nAn embodied cognition foundation model that unifies language reasoning, visual imagination, and world state prediction into a single multi-modal framework.",
+      "likes": 45,
+      "retweets": 6
+    }
+  ]
+}
