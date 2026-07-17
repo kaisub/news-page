@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-17",
+  "slot": "01",
+  "generated_at": "2026-07-17T01:13:48Z",
+  "tweets": [
+    {
+      "tweet_id": "2077764801594544418",
+      "author": "@svpino",
+      "text": "How to monitor the web and research what comes back in 300 lines of code.\n\nI want to buy some cheap products on Amazon, but I want to grab them when prices drop.\n\nI'm using Parallel @p0 here, which is a really easy way to ground your agentic code.\n\nHere is how this works:\n\n1. Set",
+      "likes": 62,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077802136277303543",
+      "author": "@jerryjliu0",
+      "text": "Parse PDFs at lightspeed through grpc \n\nliteparse already had a REST API, but now we've built in support for liteparse as a grpc service with typed fields through protobufs. This is great if you're looking to have fast, efficient document parsing within your backend services.",
+      "likes": 26,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077457110728884327",
+      "author": "@soumithchintala",
+      "text": "Excited for our first general model Inkling -- open weights, 975B, natively multimodal (text, image, audio). Available on Tinker, HuggingFace and partners.\n\nIt is yours to personalize and use openly. It is yours.",
+      "likes": 2853,
+      "retweets": 147
+    },
+    {
+      "tweet_id": "2077784077604692440",
+      "author": "@h100envy",
+      "text": "Google engineer explained how to fine-tune a tiny LLM from 46% to 90% accuracy on your phone in 21 minutes - better than $1500 on-device AI bootcamps.\n\npick Gemma 270M -&gt; generate synthetic task data -&gt; fine-tune with LoRA -&gt; quantize to int4 -&gt; deploy to Pixel and hit 2000",
+      "likes": 1914,
+      "retweets": 185
+    },
+    {
+      "tweet_id": "2077725958505926660",
+      "author": "@leodev",
+      "text": "Introducing Sandbox SDK\n\nA simple oss SDK for spinning sandboxes with one clean syntax.\n\n- Multiple providers: Vercel, E2B, Daytona, Upstash, and more\n- Different integrations: AI SDK, Eve, Mastra, etc\n- Agent skills included\n- Open source, MIT licensed\n\nDocs + Product Hunt 👇",
+      "likes": 453,
+      "retweets": 25
+    }
+  ]
+}
