@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-17",
+  "slot": "02",
+  "generated_at": "2026-07-17T15:21:46Z",
+  "tweets": [
+    {
+      "tweet_id": "2077817060068057493",
+      "author": "@sama",
+      "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.\n\ni am happy about this for many reasons, but mostly",
+      "likes": 21966,
+      "retweets": 782
+    },
+    {
+      "tweet_id": "2077842579232895286",
+      "author": "@sama",
+      "text": "i talk to chatgpt more than i type to it at this point\n\nnew voice model really crossed a threshold",
+      "likes": 11613,
+      "retweets": 326
+    },
+    {
+      "tweet_id": "2077460395279692197",
+      "author": "@bcherny",
+      "text": "Something I have been thinking about: in the past, the best engineers I knew spent a lot of time automating their work in various ways. Better vim/emacs automations, writing lint rules to catch repeat code issues, building up a suite of e2e tests so they don't need to smoke test",
+      "likes": 9279,
+      "retweets": 816
+    },
+    {
+      "tweet_id": "2077929379661844559",
+      "author": "@bcherny",
+      "text": "I talk to engineers at other companies every day and hear the same thing: one person is 10x'ing their output with Claude but the rest of the org hasn't caught up.\n\nWatching teams adopt AI, I keep seeing the same 4 steps.\n\nI mapped them out here: Steps of AI Adoption",
+      "likes": 7240,
+      "retweets": 660
+    },
+    {
+      "tweet_id": "2077552106014154846",
+      "author": "@leerob",
+      "text": "We just doubled the included usage of Cursor models on all plans.\n\nEnjoy more access to Grok 4.5 and Composer 2.5!",
+      "likes": 6785,
+      "retweets": 334
+    },
+    {
+      "tweet_id": "2077452646303006927",
+      "author": "@AnthropicAI",
+      "text": "New Anthropic research: Agentic misalignment in Summer 2026.\n\nA year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations.\n\nRead more:",
+      "likes": 2937,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2077489177374208000",
+      "author": "@sama",
+      "text": "amazing to me that some people want the silent version",
+      "likes": 3121,
+      "retweets": 143
+    },
+    {
+      "tweet_id": "2077464952734982266",
+      "author": "@leerob",
+      "text": "New open model from Thinking Machines!\n\n1T MoE, 1M context, multimodal, some solid evals.\n\nReally nice blog post 👏",
+      "likes": 1279,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2077532302217711717",
+      "author": "@reach_vb",
+      "text": "after a lot of thought, I’ve come to the uncomfortable conclusion that I’m the bottleneck to my Codex",
+      "likes": 1188,
+      "retweets": 61
+    },
+    {
+      "tweet_id": "2077802063300288843",
+      "author": "@leerob",
+      "text": "My talk from AI Engineer is now live!\n\nIt covers how we're automating parts of AI research and building systems to rapidly improve our models. I cover some of the work our team did to train Grok 4.5 together with SpaceXAI.",
+      "likes": 1156,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2077414263421898817",
+      "author": "@leerob",
+      "text": "I've been thinking about this post a lot.\n\nIt represents a bigger shift in startup marketing to me. I don't want to see your copycat funding launch video.\n\nCool, you raised a bazillion dollars. It's overplayed.\n\nShow me the product! Show me the customers!",
+      "likes": 995,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2078018760741667141",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to look through your sessions and archive one-off queries and organise your projects better\n\nI have it running as an automation, keeps my side bar focused",
+      "likes": 427,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2077806939074081259",
+      "author": "@hwchase17",
+      "text": "there needs to be an OPEN standard for memory\n\nOKF (Open Knowledge Format) is one such standard\n\nexcited to announce that we're now using it in OpenWiki",
+      "likes": 345,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2077631651203432508",
+      "author": "@reach_vb",
+      "text": "PSA: Don’t run you coding agent in full access mode!\n\nUse the combination of Rules, Sandbox, Approve for me &amp; Hooks to make sure that both you and your agent can work in peace.\n\nIn the extremely rare case the model does trip - you want to have a layer of protection between your",
+      "likes": 273,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077881557793022125",
+      "author": "@reach_vb",
+      "text": "You miss 100% of the prompts you don’t send to Codex.",
+      "likes": 245,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2077734242184991199",
+      "author": "@svpino",
+      "text": "Me: Anthropic is lying to you with their \"Software Engineering is dead\" claims.\n\nThe Internet: You are a retard if you don't like AI, sucker!",
+      "likes": 235,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077929390806073807",
+      "author": "@bcherny",
+      "text": "In practice that means giving Claude ways to verify its own work end to end. It means enabling auto mode for permissions, defaulting on automated code review and security review, and using interfaces that let you manage multiple agents at once (Agent view in CLI, Desktop app, iOS",
+      "likes": 229,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077796227651874830",
+      "author": "@reach_vb",
+      "text": "Very excited to host our second OpenAI Office Hours tomorrow!\n\nJoin @kagigz and me for a fast-paced tour of everything we’ve shipped across GPT-5.6, ChatGPT, and Codex\n\nWe'll follow up by a live Q&amp;A on your biggest questions and feedback\n\nSee you tomorrow at 11AM BST. Webinar",
+      "likes": 215,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2078108681678299194",
+      "author": "@reach_vb",
+      "text": "Codex tip: when building a skill to automate your workflow, ask Codex to evaluate it against your past sessions.\n\nIt can identify how you actually work, then refine the skill around those patterns, making it far more effective.\n\nBonus: repeat this every few weeks so your skills",
+      "likes": 165,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077518309621215690",
+      "author": "@reach_vb",
+      "text": "you can just build things, literally!",
+      "likes": 133,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2078006792257409480",
+      "author": "@reach_vb",
+      "text": "Thank you everyone for all the brilliant feedback! You can now see all your ChatGPT projects and conversation history in the app (and it syncs).\n\nAnd ofc you can still experience the trusty and loved Codex mode, with the same UI and features.\n\nKeep the feedback coming!",
+      "likes": 127,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077805023829111151",
+      "author": "@jerryjliu0",
+      "text": "I do think that for any given task, you can always distill a generalized model/agent harness into a specialized model/harness/workflow for higher accuracy and lower cost.\n\nThe more narrow the data and task domain, the more opportunity there is to optimize performance (not to",
+      "likes": 102,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077867607886286891",
+      "author": "@reach_vb",
+      "text": "Had a ton of fun chatting w/ @0xSero about GPT 5.6, ChatGPT Work, Codex and all things Agents!\n\nQuite incredible how far we've come in just the last 6 months and I'm pumped in the direction we're headed\n\nAlso was lovely to hear how he uses Codex to manage his fleet of GPUs, run",
+      "likes": 88,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077437506686271882",
+      "author": "@jerryjliu0",
+      "text": "Extracting information from millions of documents at scale used to take an insane number of human hours. Even with recent OCR + document AI tech, humans would still have to spend a lot of time carefully tuning the schema and precisely defining the fields they want to extract.",
+      "likes": 80,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2077764801594544418",
+      "author": "@svpino",
+      "text": "How to monitor the web and research what comes back in 300 lines of code.\n\nI want to buy some cheap products on Amazon, but I want to grab them when prices drop.\n\nI'm using Parallel @p0 here, which is a really easy way to ground your agentic code.\n\nHere is how this works:\n\n1. Set",
+      "likes": 74,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2077733997908496617",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo dobry skrót tego jak należy pracować z modelami obecnej generacji - na podstawie oficjalnego poradnika od OpenAI. \n\nW 95% przenaszalne również na Opusa i Fable",
+      "likes": 65,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077831450225762360",
+      "author": "@nauczymycieAI",
+      "text": "Chińskie modele Open Source przegoniły amerykańskie. Tak wyglądają pierwsze wnioski po premierze Kimi K3.\n\nNajciekawszy sygnał pochodzi z Frontend Code Arena. To ranking oparty na ocenach prawdziwych użytkowników, którzy porównują interfejsy stworzone przez poszczególne modele.",
+      "likes": 51,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077442438038495324",
+      "author": "@rpl_0x",
+      "text": "Prowadzę interwencje w ważnym dla mnie regionie.\nDeweloper, z pomocą gminy buduje osiedle w samym sercu lasu, stosując sztuczki żeby uniknąć ekspertyzy środowiskowej, a gmina za pieniądze podatnika, przygotowuje dla niego infrastrukturę żeby zamiast za kilkadziesiąt tysięcy, mógł",
+      "likes": 41,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077499025981669389",
+      "author": "@svpino",
+      "text": "Models make about 5 web-verifiable claims per response in Text Arena, and 87% of those claims check out.\n\n0.87^5 = 0.50.\n\nThis means that roughly half of the responses contain at least one false claim!\n\nSearch Arena is even worse: nearly 10 claims per response at 89% true.",
+      "likes": 37,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077802136277303543",
+      "author": "@jerryjliu0",
+      "text": "Parse PDFs at lightspeed through grpc \n\nliteparse already had a REST API, but now we've built in support for liteparse as a grpc service with typed fields through protobufs. This is great if you're looking to have fast, efficient document parsing within your backend services.",
+      "likes": 31,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077806749520949422",
+      "author": "@hwchase17",
+      "text": "one of the main questions we got about open wiki was whether we would support OKF\n\nif you dont know what OKF is - its a standard for knowledge files\n\ncheck out Brace's video!",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077754528695206140",
+      "author": "@nauczymycieAI",
+      "text": "Kimi K3 już dostępne na oficjalnej stronie. \n\nTesterzy z wczesnym dostępem mówią o modelu zbliżonym możliwościami do Opusa 4.8.\n\nJeżeli się potwierdzą - szykuje się hit",
+      "likes": 31,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077804217151176949",
+      "author": "@hwchase17",
+      "text": "fun trip down memory lane",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077818804705579512",
+      "author": "@svpino",
+      "text": "Remember Humane? Remember the Rabbit R1?\n\nRemember how Jony Ive and OpenAI have been promising a device for more than a year, and still nothing?\n\nSo far, AI hardware is just smoke and mirrors.\n\nHere is a new attempt at building something useful: a context-aware hardware",
+      "likes": 20,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077853336473125116",
+      "author": "@nauczymycieAI",
+      "text": "Kimi pobiło GPT 5.6 w meta benchmarku Vals, który mierzy praktyczne zadania biurowe - finanse, prawo, programowanie.\n\nAdministracja Trumpa nie ma teraz wyboru. Albo odblokuję modele amerykańskie - albo zablokuje chińskie",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077471464253501582",
+      "author": "@nauczymycieAI",
+      "text": "GPT 5.6 Sol jest mądrzejsze niż 99% ludzi.\n\nTak przynajmniej wynika z testu IQ, jednego z najciekawszych sprawdzianów dla AI.\n\nDlaczego ten test jest ciekawy? Ułożył go członek Mensy, a według Tracking AI pytania nigdy nie zostały opublikowane w internecie i nie znalazły się w",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077790556038844577",
+      "author": "@hwchase17",
+      "text": "this is one thing ive realized - owning that feedback loop (the signals, the output) is really code to owning intelligence",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077808481860546752",
+      "author": "@nauczymycieAI",
+      "text": "Grok 4.5 właśnie został udostępniony w Europie.\n\nFantastyczny model wykonawca do współpracy z Fable 5 czy GPT 5.6 jako orkiestratorem. Nie tylko do programowania",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077439651208417737",
+      "author": "@nauczymycieAI",
+      "text": "Co tu się wydarzyło.\n\nOpenAI wypuściło joystick do programowania",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077801766406762799",
+      "author": "@svpino",
+      "text": "I built an AI employee to do a big part of my job from Slack.\n\nI consult for companies and teach a machine learning cohort, but I spend most of my time doing boring administrative work.\n\nI've never hired anyone because I don't want to deal with employees.\n\nFor years, I've been",
+      "likes": 15,
+      "retweets": 2
+    }
+  ]
+}

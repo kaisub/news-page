@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-17",
+  "slot": "02",
+  "generated_at": "2026-07-17T15:21:46Z",
+  "tweets": [
+    {
+      "tweet_id": "2077805245648748624",
+      "author": "@laskowski_pl",
+      "text": "Sędzia Mitera w sprawie Żaka wygłasza takie uzasadnienie jak powinien wygłosić każdy sędzia - zrozumiałe dla każdego.",
+      "likes": 410,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2078015653525483616",
+      "author": "@PAPinformacje",
+      "text": "Prezydent podpisał ustawę o zakazie patostreamingu",
+      "likes": 136,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2078060245876638137",
+      "author": "@PAPinformacje",
+      "text": "Komisja Europejska zaproponowała w ramach reformy systemu handlu emisjami ETS, by kraje UE przeznaczały co najmniej 50 proc. przychodów z ETS na inwestycje w dekarbonizację. #PAPinformacje",
+      "likes": 85,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2077729803373785480",
+      "author": "@Macronextcom",
+      "text": "Rząd, który w zwalczaniu patologii, boi się odważnych decyzji, nie jest nikomu potrzebny. \n\nNie dziwi więc taki społeczny odbiór ustawy o najmie krótkoterminowym. Ludzie nie chcą paździerzowego sąsiedztwa. 👇\n\nfot. od @dgpopiolek",
+      "likes": 72,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077500815535648949",
+      "author": "@Macronextcom",
+      "text": "Jedyny realny problem jaki ma teraz polska gospodarka.",
+      "likes": 72,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078083680552001586",
+      "author": "@laskowski_pl",
+      "text": "Ponad 170 historyków i byłych pracowników IPN podpisało apel przeciw kandydaturze Szpytmy, zarzucając mu współodpowiedzialność za „skrajne upolitycznienie IPN” i przekształcenie instytucji w „partyjną przybudówkę PiS”. \n\nPosłom koalicji to nie przeszkadza.",
+      "likes": 56,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2078052548372529171",
+      "author": "@PAPinformacje",
+      "text": "Sejm powołał mec. Sylwię Gregorczyk-Abram na stanowisko Rzecznika Praw Obywatelskich. #PAPinformacje",
+      "likes": 52,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2078015225215771135",
+      "author": "@laskowski_pl",
+      "text": "Hugo Awards - Najbardziej prestiżowa nagroda w literaturze SF i fantasy. Przyznawana od 1953 r. przez World Science Fiction Society.\n\nNominuję kierownika za całokształt twórczości literackiej 👍",
+      "likes": 45,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2077711940848173421",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W ostatnich miesiącach #WIG20 w górę ciągną nie tylko Orlen i banki, ale pojawiły się też nowe \"konie pociągowe\".🐎📈\n\nStopa zwrotu za ostatnie 5⃣ miesięcy:\n\nWIG20 +14%\n---\nOrlen +41,4%\nWIG-Banki +20,5%\n---\nAllegro +49,9%\nPepco +45%\nŻabka +44,7%\nKęty +20,5%",
+      "likes": 48,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077654487246745989",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W I półroczu 2026 r. liczba wniosków o kredyt mieszkaniowy wzrosła o 30,7% r/r - informuje BIK.\n\nstyczeń: +28,5% r/r\nluty: +34,5%\nmarzec: +71,7%\nkwiecień: +18,7%\nmaj: +16,9%\nczerwiec: +14,5%",
+      "likes": 47,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078106296620876110",
+      "author": "@PAPinformacje",
+      "text": "Premier @donaldtusk: kandydatura Mateusza Szpytmy na prezesa IPN nie uzyska akceptacji w Senacie.",
+      "likes": 38,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2077641586893107569",
+      "author": "@mbank_research",
+      "text": "Świeżutkie zestawienie kosztów generacji (i magazynowania) energii elektrycznej.",
+      "likes": 46,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077766201741332739",
+      "author": "@Macronextcom",
+      "text": "W piątek (17.07) Komisja Europejska przedstawi projekt reformy ETS. Może to mieć wpływ na notowania spółek energetycznych na giełdzie w Warszawie. Szczególnie na PGE.",
+      "likes": 39,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078019078820614636",
+      "author": "@laskowski_pl",
+      "text": "Po pierwsze Polska, po pierwsze Polacy - Karolu z pałacu...",
+      "likes": 37,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077995585211163123",
+      "author": "@laskowski_pl",
+      "text": "SAFE 0% 😁",
+      "likes": 30,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078001004755272040",
+      "author": "@Macronextcom",
+      "text": "Dziś akcje Seven &amp; i Holdings 🇯🇵 drożeją o 3% 📈 na giełdzie w Tokio (gdzie Nikkei nurkuje -4,64% 📉)  w reakcji na info, że spółka zainwestuje w Żabkę.\n\nWczoraj to samo info wystrzeliło w Warszawie kurs Żabki +10,87% 🚀📈",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078037122867433593",
+      "author": "@PAPinformacje",
+      "text": "Polska Agencja Żeglugi Powietrznej złożyła do sądu w Brukseli formalny sprzeciw wobec zajęcia środków należnych Agencji",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077754625458078087",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Amerykańska sprzedaż detaliczna tak jakby znowu zerwała się do wzrostu...",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078098407290286244",
+      "author": "@Macronextcom",
+      "text": "Żabka 🐸 dalej sobie wesoło skacze.\n\n🔸teraz: 33,07 zł (+6,33%) 📈\n🔸wczoraj: +10,87%\n🔸od marcowego dołka: +66%",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077826248739311959",
+      "author": "@Macronextcom",
+      "text": "Celon Pharma 21,00 zł (+7,14%) 📈\n\nCo się po godz. 16:00 stało na #CelonPharma, że kurs tak ruszył do góry? 🤔",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078061598455820573",
+      "author": "@PAPinformacje",
+      "text": "Sejm powołał Sylwię Gregorczyk-Abram na urząd RPO. Jej kandydaturą zajmie się teraz Senat\n#PAPinformacje",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078032563361161497",
+      "author": "@PAPinformacje",
+      "text": "Ukraińcy: zaatakowaliśmy 12 rosyjskich statków na Morzu Czarnym\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2078047706073682202",
+      "author": "@PAPinformacje",
+      "text": "Polska Agencja Żeglugi Powietrznej złożyła do sądu w Brukseli formalny sprzeciw wobec zajęcia środków należnych Agencji\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078015955938992550",
+      "author": "@PAPinformacje",
+      "text": "Prezydent podpisał i skierował do Trybunału Konstytucyjnego w trybie kontroli następczej ustawę o pomocy społecznej",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078059982784811169",
+      "author": "@PAPinformacje",
+      "text": "Dr Mateusz Szpytma został wybrany przez Sejm na prezesa Instytutu Pamięci Narodowej. #PAPinformacje",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078055534410842481",
+      "author": "@PAPinformacje",
+      "text": "Ciesiołkiewicz: zakazując patostreamingu, zakazujemy budowania popularności na poniżaniu innych\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078124474918904048",
+      "author": "@PAPinformacje",
+      "text": "W czasie rządów Orbana służby uzyskały zgodę na inwigilację w niemal 19 tys. sprawach ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078015800565211318",
+      "author": "@PAPinformacje",
+      "text": "Prezydent podpisał ustawę o osobach starszych i koordynacji opieki długoterminowej",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078044032752578612",
+      "author": "@GUS_STAT",
+      "text": "📊 Regionalne dane #SDG pokazują, jak województwa realizują #Agenda2030,  #SDG12: Odpowiedzialna konsumpcja i produkcja. 🌍\n\n📍 Sprawdź dane dla swojego regionu:\n\n 🔗 \n\n#GUS #Agenda2030 #SDG",
+      "likes": 1,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077715618564833758",
+      "author": "@DGPrawna",
+      "text": "Słupy energetyczne z PRL-u? Właściciele działek zaczęli upominać się o wynagrodzenie",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077735444171702676",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w VI 2026 r. Sprzedaż detaliczna 0,2% m/m (prognoza: 0,2%; poprzednio: 1,0%) \n\nW relacji rok do roku sprzedaż wzrosła o 6,7%, po wzroście o 7,3% w maju.\n\nKalendarz (USA):",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077650439282004119",
+      "author": "@DGPrawna",
+      "text": "Kto zapłaci za stare słupy?\nInfrastruktura energetyczna z czasów PRL, nierzadko stoi na prywatnych działkach. Ich właściciele niekoniecznie otrzymali jednak za to wynagrodzenie. W grudniu 2025 r. Trybunał Konstytucyjny uznał, że mogą się o nie starać.",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077743183396503555",
+      "author": "@mbank_research",
+      "text": "🇵🇱 EURPLN znowu od jakiegoś czasu porusza się w rytm oczekiwanych zmian w stopach procentowych. Ostatnie wzrosty to najwyraźniej efekt bardziej jastrzębiego nastawienia rynku w stosunku do polityki EBC.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077608607244243007",
+      "author": "@DGPrawna",
+      "text": "Polska nie znalazła się w składzie europejskiej koalicji antybalistycznej. Zdaniem premiera nasz przemysł nie jest na to gotowy. Innego zdania są przedsiębiorcy i eksperci.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078125643225616494",
+      "author": "@PAPinformacje",
+      "text": "Strzelanina w duńskim Aalborgu, są ranni. Wymiana ognia wciąż trwa ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078103892538061158",
+      "author": "@PAPinformacje",
+      "text": "Andy Burnham nowym szefem Partii Pracy. Ma zostać premierem Wielkiej Brytanii\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078019798026383604",
+      "author": "@GUS_STAT",
+      "text": "Opublikowaliśmy Obwieszczenie Prezesa GUS w sprawie wskaźnika zmian cen skupu podstawowych produktów rolnych w pierwszym półroczu 2026 r.\n\n\n\n#GUS #Rolnictwo #ProduktyRolne #CenySkupu",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2077657451336241159",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. wartość aktywów funduszy inwestycyjnych wzrosła o 14,0% w porównaniu z poprzednim rokiem do kwoty 488,1 mld zł.\n\n🔗\n\n#GUS #finanse #funfusze #inwestycje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077636597768405162",
+      "author": "@DGPrawna",
+      "text": "Polska nie przystąpiła do koalicji antybalistycznej, ponieważ – jak przekonywał premier – o członkostwie decydowała gotowość do udziału w projekcie poszczególnych przemysłów zbrojeniowych. Szkoda, że nie uzgodnił przekazu z rzeczonym przemysłem.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077617297494102404",
+      "author": "@DGPrawna",
+      "text": "Jak ustalił DGP, w kierownictwie Prawa i Sprawiedliwości jest poważnie rozważana wymiana kandydata na premiera. – Na jesieni projekt „Czarnek” out.",
+      "likes": 3,
+      "retweets": 0
+    }
+  ]
+}
