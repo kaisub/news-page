@@ -1,0 +1,79 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-18",
+  "slot": "01",
+  "generated_at": "2026-07-18T01:18:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2077764801594544418",
+      "author": "@svpino",
+      "text": "How to monitor the web and research what comes back in 300 lines of code.\n\nI want to buy some cheap products on Amazon, but I want to grab them when prices drop.\n\nI'm using Parallel @p0 here, which is a really easy way to ground your agentic code.\n\nHere is how this works:\n\n1. Set",
+      "likes": 76,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2077802136277303543",
+      "author": "@jerryjliu0",
+      "text": "Parse PDFs at lightspeed through grpc \n\nliteparse already had a REST API, but now we've built in support for liteparse as a grpc service with typed fields through protobufs. This is great if you're looking to have fast, efficient document parsing within your backend services.",
+      "likes": 35,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077678532772200694",
+      "author": "@thesupermanmx",
+      "text": "NVIDIA open-sourced a 600M model that transcribes 40 languages in real-time at 80ms latency and it costs $0.\n\nthat's faster than you can blink. across mandarin, arabic, hindi, portuguese, tagalog, whatever,from a SINGLE checkpoint.\n\n→ 17x more concurrent streams than buffered",
+      "likes": 1268,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2077825759960314201",
+      "author": "@dr_cintas",
+      "text": "You can now orchestrate Fable 5, Sol, and any model inside Codex with one plugin.\n\nIt's called Codex-Orchestration.\n\nAssign Fable 5 as the advisor, Sol as the executor, or any model to any role. Then define the order they work in. Codex handles the routing.\n\nI ran Fable 5 High as",
+      "likes": 731,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2078004461218484440",
+      "author": "@sairahul1",
+      "text": "A senior Google engineer just dropped a 424-page doc called Agentic Design Patterns.\n\nEvery chapter is code-backed and covers the frontier of AI systems:\n\n→ Prompt chaining, routing, memory\n→ MCP and multi-agent coordination\n→ Guardrails, reasoning, planning\n\nThis isn't a blog",
+      "likes": 524,
+      "retweets": 82
+    },
+    {
+      "tweet_id": "2077725958505926660",
+      "author": "@leodev",
+      "text": "Introducing Sandbox SDK\n\nA simple oss SDK for spinning sandboxes with one clean syntax.\n\n- Multiple providers: Vercel, E2B, Daytona, Upstash, and more\n- Different integrations: AI SDK, Eve, Mastra, etc\n- Agent skills included\n- Open source, MIT licensed\n\nDocs + Product Hunt 👇",
+      "likes": 512,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2078174342316437606",
+      "author": "@simplifyinAI",
+      "text": "ANTHROPIC AND OPENAI BOTH MISSED THIS.\n\nSomeone just open-sourced one SDK that gives AI agents a mouse, keyboard, and screen across macOS, Linux, and Windows.\n\nIt's called CUA. \n\nSame code drives a local VM or a cloud sandbox regardless of the OS. Your agent sees the screen,",
+      "likes": 261,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2077811812314026133",
+      "author": "@yanndine",
+      "text": "Our Claude Code setup runs autonomously across a full sprint using Linear, GitHub and Slack.\n\nI'm giving away the entire system we used to build it, for free.\n\nBecause a vast majority of dev teams still have Claude Code finish one task then sit there waiting on a new prompt.\n\n1.",
+      "likes": 68,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2077711239463960606",
+      "author": "@Nekt_0",
+      "text": "3 AI CODERS IN ONE REPO SOUNDS USELESS UNTIL THEY ALL READ THE SAME RULEBOOK.\n\nThat is the point of the clip.\n\nHe has Claude, Codex, Gemini, zsh and shared project instructions sitting inside the same workspace. Different models, same repo, same standards, same context.\n\nMost",
+      "likes": 69,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077820554078249157",
+      "author": "@0xMorlex",
+      "text": "KARPATHY SPENT 2 HOURS BUILDING A LANGUAGE MODEL FROM SCRATCH. HERE IS THE 5-STAGE CUT\n\nandrej karpathy codes a language model live, line by line. no frameworks, no hand-waving. this is the foundation under GPT, Claude and every agent you use\n\n00:00 - counting: the simplest",
+      "likes": 57,
+      "retweets": 3
+    }
+  ]
+}
