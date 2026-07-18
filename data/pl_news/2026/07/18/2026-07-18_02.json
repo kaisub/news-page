@@ -1,0 +1,345 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-18",
+  "slot": "02",
+  "generated_at": "2026-07-18T15:20:25Z",
+  "tweets": [
+    {
+      "tweet_id": "2078158616650010788",
+      "author": "@PAPinformacje",
+      "text": "Ukraina/ Zełenski: zostaną otwarte wszystkie archiwa Służby Bezpieczeństwa Ukrainy i Służby Wywiadu Zagranicznego Ukrainy dot. tragicznych wydarzeń na Wołyniu w XX wieku. (PAP)\n#PAPInformacje",
+      "likes": 159,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2078158781158981974",
+      "author": "@PAPinformacje",
+      "text": "Ukraina/ Zełenski zapowiedział, że zostaną podjęte decyzje w sprawie wydania dodatkowej, znaczącej liczby zezwoleń na prace poszukiwawcze i ekshumacyjne. (PAP)\n#PAPInformacje",
+      "likes": 45,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078098407290286244",
+      "author": "@Macronextcom",
+      "text": "Żabka 🐸 dalej sobie wesoło skacze.\n\n🔸teraz: 33,07 zł (+6,33%) 📈\n🔸wczoraj: +10,87%\n🔸od marcowego dołka: +66%",
+      "likes": 37,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078001004755272040",
+      "author": "@Macronextcom",
+      "text": "Dziś akcje Seven &amp; i Holdings 🇯🇵 drożeją o 3% 📈 na giełdzie w Tokio (gdzie Nikkei nurkuje -4,64% 📉)  w reakcji na info, że spółka zainwestuje w Żabkę.\n\nWczoraj to samo info wystrzeliło w Warszawie kurs Żabki +10,87% 🚀📈",
+      "likes": 35,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078143811612520635",
+      "author": "@PAPinformacje",
+      "text": "Budowa miasteczka wojskowego Bundeswehry na Litwie. Żołnierze zamieszkają w nim jesienią ⤵️\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078215164747235587",
+      "author": "@PAPinformacje",
+      "text": "Protest przeciwko odwołaniu Fedorowa w Kijowie zgromadził ponad 10 tys. uczestników #PAPinformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078150118696485187",
+      "author": "@PAPinformacje",
+      "text": "Wykolejenie pociągu towarowego w Małopolsce. Część wagonów wpadła do Popradu ⤵️\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078412789882798104",
+      "author": "@PAPinformacje",
+      "text": "Ebola w DRK. Zmarły już 864 osoby, chorych jest ponad 2 tysiące\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078197398996758589",
+      "author": "@PAPinformacje",
+      "text": "Trzęsienie ziemi u wybrzeży Meksyku. Wydano ostrzeżenie przed tsunami ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078144630470680739",
+      "author": "@PAPinformacje",
+      "text": "Merz: analizujemy francuską ofertę dotyczącą odstraszania nuklearnego ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078196906497356199",
+      "author": "@PAPinformacje",
+      "text": "Dym z kanadyjskich pożarów w USA. Alert w kilkunastu stanach ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078123216925520090",
+      "author": "@DGPrawna",
+      "text": "Łukasz Żak został skazany na 20 lat więzienia za spowodowanie śmiertelnego wypadku na Trasie Łazienkowskiej. Jego obrończyni, adwokat Izabela Ławińska, wyjaśnia, dlaczego zapowiada apelację i z którymi elementami wyroku się nie zgadza.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078032619011244281",
+      "author": "@K_Galecka",
+      "text": "Policja zatrzymała 27-letniego mężczyznę podejrzanego o dwa ataki  na 40-letnią Białorusinkę i 52-letniego mężczyznę na Dworcu Zachodnim w Warszawie.\n\nMężczyzna usłyszał zarzuty, a sąd zdecydował o jego tymczasowym areszcie na 3 miesiące.",
+      "likes": 1090,
+      "retweets": 232
+    },
+    {
+      "tweet_id": "2077783673546350740",
+      "author": "@madziamf",
+      "text": "1/2 Świeży dzisiejszy wyrok TSUE w sprawach połączonych C‑96/24, C‑103/24 i C‑112/24: \n\n1. Sama wadliwa procedura powołania sędziego może oznaczać, że mamy naruszone prawo do sprawiedliwego procesu.\n2. Jeden neon nie może badać, czy inny neon spełnia wymogi",
+      "likes": 364,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2078062523517931852",
+      "author": "@SecuritasPL",
+      "text": "📱Dlaczego lepiej nie instalować aplikacji mObywatel na Androidzie/iPhone?\n\nOficjalna aplikacja wymaga bardzo szerokich uprawnień:\n🔻dostęp do kamery\n🔻lokalizacji\n🔻plików\n🔻biometrii\n🔻listy zainstalowanych aplikacji\n🔻internetu i powiadomień\nDodatkowo zawiera trackery",
+      "likes": 291,
+      "retweets": 71
+    },
+    {
+      "tweet_id": "2078113995433660555",
+      "author": "@GPW_Trader2022",
+      "text": "Reforma 🇪🇺 ETS 17.05 - co oznacza dla Polski 🇵🇱. Dziś przedstawiono założenia największej reformy od 20 lat + wpływ na energetykę i JSW⚒️( 👇na końcu )\n\n1⃣. zwiększenie darmowej puli ETS dla przemysłu energochłonnego o ok. 6 mld euro do 2030 r. (z mocą wsteczną od 2026 r.).",
+      "likes": 200,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2078093669513457754",
+      "author": "@LKKozlowski",
+      "text": "Skąd się wzięły obecne problemy ochrony zdrowia?\n\n1. W 2017 r. zagwarantowano wzrost środków publicznych na zdrowie - początkowo do 6% PKB, zwiększone później do 7%. Za tym wzrostem nie szły zmiany w składce zdrowotnej, więc niepisanym założeniem było, że brakującą różnicę będzie",
+      "likes": 96,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2077800467472515351",
+      "author": "@InsiderGeo",
+      "text": "NEW: Poland has intercepted three more Russian military aircraft over the Baltic Sea, including two Su-30SM2 fighter jets and an Il-20 reconnaissance aircraft, marking the third consecutive day of Russian military activity near Poland's maritime border.\n\nAccording to Defense",
+      "likes": 104,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2078148275069243661",
+      "author": "@SztabGenWP",
+      "text": "„Zbrojne Ramię Bałtyku” – Szef Sztabu Generalnego WP potwierdził gotowość bojową Morskiej Jednostki Rakietowej 🛡\n\nSzef Sztabu Generalnego Wojska Polskiego, gen. Wiesław Kukuła, odwiedził Morską Jednostkę Rakietową - jedną z kluczowych jednostek uderzeniowych Sił Zbrojnych RP,",
+      "likes": 101,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2078016238911942893",
+      "author": "@LukaszWojcik_",
+      "text": "Ustawa dotycząca patostreamów podpisana. \nBrawo dla każdego kto dołożył rękę do zwalczania tego zjawiska.",
+      "likes": 101,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078106449868185905",
+      "author": "@Defence24pl",
+      "text": "Pozyskanie samolotów tankowania w powietrzu znajduje się na końcowym etapie, a wskazane przez wojsko potrzeby mają zostać w pełni zaspokojone – powiedział gen. Ireneusz Nowak. Polska może w przyszłości stać się głównym dostawcą tej zdolności dla państw Europy Środkowo-Wschodniej.",
+      "likes": 77,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2078428050610335973",
+      "author": "@K_Galecka",
+      "text": "🇵🇱 Granica z Białorusią jest dziś skutecznie chroniona.\n\nBezpieczeństwo na granicy z Białorusią w I półroczu 2026 r.:\n\n📉 Ponad 65-krotny spadek prób nielegalnego przekroczenia granicy – z ponad 15,5 tys. do ok. 235.\n🛡️ 0 skutecznych nielegalnych przekroczeń. \n\nInwestycje o",
+      "likes": 63,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2078054908377415900",
+      "author": "@Niezn7Krzysztof",
+      "text": "!!!\n\n\"Ambasada Ukrainy w Polsce opublikowała ukraińskojęzyczny poradnik dla obywateli Ukrainy przebywających w Polsce. Materiał zatytułowany „Obowiązki i prawa obywateli Ukrainy w Polsce” ma charakter instrukcji dotyczącej zachowania w sytuacjach konfrontacyjnych.\n\nPoradnik",
+      "likes": 50,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078359113948688830",
+      "author": "@RCB_RP",
+      "text": "🚨 Rozpoczynamy nową serię w ramach cyklu #InfoSobota - co tydzień będziemy przybliżać najważniejsze informacje dotyczące planów ewakuacji ludności.\n\n📌 NA POCZĄTEK – CZYM JEST KRAJOWY PLAN EWAKUACJI?\n\nTo dokument określający i koordynujący działania związane z masową ewakuacją",
+      "likes": 34,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078067343305920593",
+      "author": "@BartoszBorz",
+      "text": "Zarówno Kruk, jak i Modivo wypadają kapitalizacyjnie blado w zestawieniu z #XTB, które może się już pochwalić przekroczeniem 15 miliardów złotych.\n\nRównież średni dzienny obrót XTB dawno zaczął przekraczać te 20–30 milionów.\n\nTo oczywiście nie jedyne warunki wejścia do indeksu",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078373216045654474",
+      "author": "@MSWiA_GOV_PL",
+      "text": "📊 Wspólnie ze @Straz_Graniczna przygotowaliśmy dla Was tygodniowy raport z granicy (10-16.07) ⤵️  \n\n✅ odnotowano 38 prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 8 przemytników ludzi\n✅ ponad 200 cudzoziemców opuściło Polskę –",
+      "likes": 26,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2077827394736402864",
+      "author": "@notesfrompoland",
+      "text": "For the third day in a row, Poland has scrambled fighter jets to intercept Russian military aircraft over the Baltic Sea, including a reconnaissance plane that flew within 30km of the Polish coast",
+      "likes": 33,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078086190679375887",
+      "author": "@_JacekTomczak",
+      "text": "Polska przyspiesza z morską energetyką wiatrową.\n\nW Sejmie zapytałem o postępy prac.\nOdpowiedź @motykamilosz:\n✅ pierwsze turbiny Baltic Power już produkują energię\n✅ ponad 1 GW do końca 2026 r\n✅ ok. 6 GW mocy do 2030 r\n✅ strategiczną stację Choczewo wybudowały polskie firmy",
+      "likes": 31,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078011140051747321",
+      "author": "@KamSobolewski",
+      "text": "Tak wygląda przyszłość magazynowania energii. Nie tylko baterie.\nNa Żeraniu @OrlenTermika odda największy w UE akumulator ciepła.\nBlok gazowo-parowy będzie pracował, by skompensować brak PRĄDU z OZE, a ciepło powstanie \"przy okazji\" i będzie wykorzystane wg późniejszych potrzeb.",
+      "likes": 36,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2077997328338727115",
+      "author": "@SprinterPress",
+      "text": "🇵🇱 Poland is preparing to declare a state of full national readiness for war.\n\nDefense Minister's advisor Maciej Samsowicz announced a new mechanism that will allow the armed forces, critical infrastructure, transportation systems, and government agencies to be prepared in",
+      "likes": 28,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078106600955416937",
+      "author": "@NFZ_GOV_PL",
+      "text": "🎙️ Wiceprezes #NFZ Jakub Szulc w @Radio_TOK_FM podkreślił, że Narodowy Fundusz Zdrowia w 2025 r. przeprowadził blisko 800 kontroli. Do połowy tego roku już 480 kontroli się zakończyło.\n\n💬 Łącznie działań kontrolnych i sprawdzających NFZ w ubiegłym roku było ponad 2200. W latach",
+      "likes": 18,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2078017143560364542",
+      "author": "@m_poniedzialek",
+      "text": "📊 Prawie co dziewiąty mieszkaniec Zielonej Góry to cudzoziemiec.\n\nGUS zbadał Polskę metodą śladów życia – zamiast polegać wyłącznie na meldunkach, przeanalizował osoby posiadające PESEL i aktywność w innych rejestrach administracyjnych. Dzięki temu widać realną liczbę osób",
+      "likes": 26,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078006813711015995",
+      "author": "@Lukasz_on_GPW",
+      "text": "W I kwartale systemem BLIK zrealizowano 755,0 mln zleceń, o 4,0 proc. mniej kdk - podał w raporcie NBP.\n\nWartość transakcji realizowanych systemem BLIK spadła o 3,8 proc. kdk do 117,5 mld zł.\n\nŚrednia dzienna liczba transakcji w systemie i schemacie płatniczym BLIK zmniejszyła",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078404875923202125",
+      "author": "@CERT_Polska",
+      "text": "‼️ Krytyczna podatność w WordPress Core ‼️\n\nProwadzisz stronę internetową? Jak najszybciej sprawdź czy technologia, którą wykorzystujesz, nie jest podatna na atak!\n\nWykryta podatność pozwala nieuwierzytelnionemu atakującemu na zdalne wykonanie kodu, co może doprowadzić nawet do",
+      "likes": 26,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2078140707689398493",
+      "author": "@InsiderEng",
+      "text": "Poland creates new military formation to protect border with Russia and Belarus\n\nThe new formation will be adapted to cope with modern threats, such as hybrid operations, migratory pressure, and drone attacks.",
+      "likes": 19,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2078084653399892065",
+      "author": "@POLGRP1",
+      "text": "🫁 To przełom w profilaktyce raka płuca w Polsce. 1 października ruszy ogólnopolski program badań przesiewowych z wykorzystaniem niskodawkowej tomografii komputerowej (NDTK)\n\nRozporządzenie Ministra Zdrowia jest obecnie na etapie podpisu. Oznacza to, że już od października osoby",
+      "likes": 18,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2077802484446151045",
+      "author": "@RadioZET_NEWS",
+      "text": "Światowa Organizacja Zdrowia (WHO) poinformowała, że obecna epidemia wirusa ebola w Demokratycznej Republice Konga rozwija się najszybciej w historii. Od jej ogłoszenia dwa miesiące temu potwierdzono ponad 2 tys. zakażeń,  796 osób zmarło. Poprawiła się natomiast sytuacja w",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2077776089405964438",
+      "author": "@NaPierwszejLini",
+      "text": "#KRAJ 🇵🇱\nWojskowe Zakłady Lotnicze będą serwisowały systemy sensorowe i radarowe śmigłowców AH-64E Apache.🇵🇱🚁💪🔥🔫🚁🇵🇱\nSzczegóły w poniższym linku:\n- \n***\n#wojna #wojsko #USArmy #śmigłowiec #śmigłowce #Boeing #armia #NATO #WojskoPolsie #AH64EGuardian",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078107551099469972",
+      "author": "@CERT_Polska",
+      "text": "Uważaj na fałszywe wiadomości dotyczące rezerwacji hotelowych‼️\n\n🏨 CERT Polska obserwuje kampanię phishingową wymierzoną w osoby posiadające rezerwacje hotelowe. W przesyłanej wiadomości cyberprzestępcy informują o rzekomo nieudanej próbie kontaktu i proszą o pilne podjęcie",
+      "likes": 15,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078090839595594141",
+      "author": "@puls_biznesu",
+      "text": "Polska płaci jedne z najniższych podatków dochodowych w Unii Europejskiej – PIT wynosi 5 proc. PKB, dwukrotnie mniej niż w przeciętnym kraju Unii Europejskiej.\n\nMimo to podwyżka progu ze 120 do 140 tys. zł jest, zdaniem Ignacego Morawskiego i Marka Chądzyńskiego, bardzo",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078133830284705855",
+      "author": "@NCZAS1",
+      "text": "❗Trybunał Konstytucyjny Liechtensteinu utrzymał w mocy orzeczenie ws. zmian w statucie TiVi Foundation, które przeniosły władze nad spółką z Zygmunta Solorza na jego dzieci. Tym samym wyrok jest ostateczny, gdyż decyzja ta nie podlega dalszemu zaskarżaniu.\n❗Mówiąc kolokwialnie,",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078466741479326098",
+      "author": "@MilitarySummary",
+      "text": "#Ukraine and #Poland have resumed negotiations over the transfer of Poland's MiG-29 fighter jets.\n\nBeyond the fighter jets, Ukraine is seeking maintenance equipment, technical support systems, and repair documentation, while Poland is interested in acquiring Ukrainian drone",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078196298151498217",
+      "author": "@Piechocinski",
+      "text": "UOKiK postawił zarzuty twórcom kanałów o grach komputerowych, podejrzewając agresywną reklamę kierowaną do dzieci w wieku wczesnoszkolnym\nUrząd wskazuje na wplatanie promocji produktów w treści rozrywkowe oraz bezpośrednie zwracanie się do dzieci z presją czasu i obietnicami",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2077981566454624747",
+      "author": "@nawacki",
+      "text": "Czego UOKiK szuka w BIK i bankach - oto kulisy postępowania w sprawie modelu scoringowego. Kontrolerzy w asyście policji weszli do biur czterech podmiotów, kopiując zawartość komputerów i telefonów części pracowników. @xyz_oficjalnie  @PiotrSobolewski  wyjaśnia szczegóły",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078100659333693938",
+      "author": "@MZ_GOV_PL",
+      "text": "✅ Skutecznie działamy na rzecz wzmocnienia bezpieczeństwa pacjentów i zwiększenia przejrzystości systemu ochrony zdrowia. \n\nUstawa umożliwiająca pozyskiwanie dokładniejszych danych o wynagrodzeniach pracowników medycznych na podstawie numeru PESEL lub PWZ została podpisana i",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2077814869555032518",
+      "author": "@_Ecrumena_",
+      "text": "PODSUMOWANIA DNIA 15.07.2026\n\n🚢. Donald Trump zapowiedział przywrócenie morskiej blokady Iranu oraz pobieranie 20% opłaty od ładunków przepływających przez Cieśninę Ormuz. Decyzja wywołała wzrost cen ropy Brent o ponad 4%, a analitycy ostrzegają, że przedłużające się zakłócenia",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077981626164793834",
+      "author": "@_Ecrumena_",
+      "text": "PODSUMOWANIA DNIA 16.07.2026\n\n📈1. Akcje Żabki wzrosły o ponad 9% po doniesieniach o możliwej inwestycji japońskiego Seven &amp; i. Według medialnych informacji właściciel sieci 7-Eleven prowadzi rozmowy dotyczące nabycia udziałów w polskiej spółce.\n\n📉2. Akcje SpaceX spadły poniżej",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2077779161289027854",
+      "author": "@GPW_WSExchange",
+      "text": "Na warszawskiej giełdzie debiutuje System Monitoringu Rynku Obligacji Korporacyjnych #SMROK od GPW Benchmark, który dostarczy uczestnikom rynku #Catalyst danych o transakcjach i wycenach.\n\n📊 Mniej asymetrii informacji, więcej przejrzystości rynku.\n\n#Catalyst #obligacje",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

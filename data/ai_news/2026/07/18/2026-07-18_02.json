@@ -1,0 +1,65 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-18",
+  "slot": "02",
+  "generated_at": "2026-07-18T15:20:25Z",
+  "tweets": [
+    {
+      "tweet_id": "2077802136277303543",
+      "author": "@jerryjliu0",
+      "text": "Parse PDFs at lightspeed through grpc \n\nliteparse already had a REST API, but now we've built in support for liteparse as a grpc service with typed fields through protobufs. This is great if you're looking to have fast, efficient document parsing within your backend services.",
+      "likes": 36,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2077784077604692440",
+      "author": "@h100envy",
+      "text": "Google engineer explained how to fine-tune a tiny LLM from 46% to 90% accuracy on your phone in 21 minutes - better than $1500 on-device AI bootcamps.\n\npick Gemma 270M -&gt; generate synthetic task data -&gt; fine-tune with LoRA -&gt; quantize to int4 -&gt; deploy to Pixel and hit 2000",
+      "likes": 7048,
+      "retweets": 863
+    },
+    {
+      "tweet_id": "2078143909125923137",
+      "author": "@openshipio",
+      "text": "Introducing OpenShip.\n\nAn open-source application platform for building, deploying, operating, and scaling applications on infrastructure you own.\n\nReplace deployment tools, managed services, and infrastructure workflows with one open-source platform.\n\nAvailable today:\n\n- Mail",
+      "likes": 1668,
+      "retweets": 139
+    },
+    {
+      "tweet_id": "2078215602745786457",
+      "author": "@basaltlabs",
+      "text": "Introducing Monolith-1.0: Frontier Reasoning, Open Weights\n\n- 1.57T-param Mixture-of-Experts, 49.5B active per token\n- Native 1M-token context (2²⁰), extended via a two-stage YaRN curriculum\n- Trained on 60T tokens across 12,288 Ascend 910C NPUs\n- Frontier SOTA open-source model",
+      "likes": 1312,
+      "retweets": 105
+    },
+    {
+      "tweet_id": "2078004461218484440",
+      "author": "@sairahul1",
+      "text": "A senior Google engineer just dropped a 424-page doc called Agentic Design Patterns.\n\nEvery chapter is code-backed and covers the frontier of AI systems:\n\n→ Prompt chaining, routing, memory\n→ MCP and multi-agent coordination\n→ Guardrails, reasoning, planning\n\nThis isn't a blog",
+      "likes": 749,
+      "retweets": 136
+    },
+    {
+      "tweet_id": "2077825759960314201",
+      "author": "@dr_cintas",
+      "text": "You can now orchestrate Fable 5, Sol, and any model inside Codex with one plugin.\n\nIt's called Codex-Orchestration.\n\nAssign Fable 5 as the advisor, Sol as the executor, or any model to any role. Then define the order they work in. Codex handles the routing.\n\nI ran Fable 5 High as",
+      "likes": 734,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2078174342316437606",
+      "author": "@simplifyinAI",
+      "text": "ANTHROPIC AND OPENAI BOTH MISSED THIS.\n\nSomeone just open-sourced one SDK that gives AI agents a mouse, keyboard, and screen across macOS, Linux, and Windows.\n\nIt's called CUA. \n\nSame code drives a local VM or a cloud sandbox regardless of the OS. Your agent sees the screen,",
+      "likes": 490,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2077943117873815978",
+      "author": "@Saboo_Shubham_",
+      "text": "100+ open-source AI agents and agent skills you can clone and ship.\n\nMy AI agents repo with 123,000+ stars and is trending again on GitHub.\n\n100% free and open source. Clone it, ship it, even sell it.\n\nSome cool things we shipped recently:\n• Self-Improving Agent Skills: rewrite",
+      "likes": 103,
+      "retweets": 17
+    }
+  ]
+}
