@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-19",
+  "slot": "01",
+  "generated_at": "2026-07-19T01:14:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2078004461218484440",
+      "author": "@sairahul1",
+      "text": "A senior Google engineer just dropped a 424-page doc called Agentic Design Patterns.\n\nEvery chapter is code-backed and covers the frontier of AI systems:\n\n→ Prompt chaining, routing, memory\n→ MCP and multi-agent coordination\n→ Guardrails, reasoning, planning\n\nThis isn't a blog",
+      "likes": 784,
+      "retweets": 140
+    },
+    {
+      "tweet_id": "2078121325244100880",
+      "author": "@ProfTomYeh",
+      "text": "Transformer by hand ✍️ ~ 6 steps walkthrough below\n\nOpen the hood of a transformer and the parts list is overwhelming: embeddings, positional encoding, attention weighting, self-attention, cross-attention, multi-head attention, layer norm, skip connections, softmax, linear, Nx,",
+      "likes": 496,
+      "retweets": 91
+    },
+    {
+      "tweet_id": "2078473257154712011",
+      "author": "@tetsuoai",
+      "text": "Clone any voice. Keep it local.\n\nVoice Clone Lab turns 5–15 minutes of audio into a voice model on your own GPU, cleanup, transcription, fine-tuning, and generation included.\n\nOpen source: github/tetsuo-ai/voice_clone_lab",
+      "likes": 518,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2077943117873815978",
+      "author": "@Saboo_Shubham_",
+      "text": "100+ open-source AI agents and agent skills you can clone and ship.\n\nMy AI agents repo with 123,000+ stars and is trending again on GitHub.\n\n100% free and open source. Clone it, ship it, even sell it.\n\nSome cool things we shipped recently:\n• Self-Improving Agent Skills: rewrite",
+      "likes": 107,
+      "retweets": 17
+    }
+  ]
+}
