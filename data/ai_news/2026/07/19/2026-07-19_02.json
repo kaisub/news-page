@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-19",
+  "slot": "02",
+  "generated_at": "2026-07-19T15:27:27Z",
+  "tweets": [
+    {
+      "tweet_id": "2078774556249186345",
+      "author": "@thesupermanmx",
+      "text": "China open-sourced a peanut-sized OCR that parses entire 100-page PDFs in one shot..\n\nIt's called Unlimited-OCR. Only 3B params. Runs locally.\n\nEvery other OCR tool chops your doc into pages and loses the thread. this one reads the whole thing in a single pass.\n\n→ One-shot",
+      "likes": 1571,
+      "retweets": 173
+    },
+    {
+      "tweet_id": "2078502239967350924",
+      "author": "@rammcodes",
+      "text": "Bruh... someone recreated the UI of Claude Code, Codex &amp; Grok as reusable ShadCN components. 🤯\n\nThis open-source library lets you drop beautifully recreated AI interface components straight into your own apps or CLI projects.\n\nYou'll find components for:\n→ prompts &amp; chat",
+      "likes": 684,
+      "retweets": 51
+    },
+    {
+      "tweet_id": "2078586472471412921",
+      "author": "@ctatedev",
+      "text": "AI SDK for Python now available\n\nAgent loops, tool calling, streaming\n\nuv add ai",
+      "likes": 443,
+      "retweets": 26
+    }
+  ]
+}
