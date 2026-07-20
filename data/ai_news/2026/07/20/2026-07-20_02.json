@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-20",
+  "slot": "02",
+  "generated_at": "2026-07-20T15:40:55Z",
+  "tweets": [
+    {
+      "tweet_id": "2078512795138785579",
+      "author": "@jerryjliu0",
+      "text": "Tsinghua is the MIT of china, xi jingping went there, everyone i've met from there is cracked (including my parents lol)",
+      "likes": 791,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2078817261851193355",
+      "author": "@svpino",
+      "text": "I just met a developer. I started talking about graphs and he looked at me with dead eyes. Poor bastard still thinks that loops are relevant. He ain’t gonna make it.",
+      "likes": 559,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2078516761318584774",
+      "author": "@svpino",
+      "text": "Loop Engineering is dead. Long live Graph Engineering!",
+      "likes": 390,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078542803592974690",
+      "author": "@jerryjliu0",
+      "text": "Palantir might be one of the best positioned companies to sell RL envs to frontier labs",
+      "likes": 323,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2078899204768911500",
+      "author": "@reach_vb",
+      "text": "A lot of you don’t assume good intent, and it shows.",
+      "likes": 318,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078537490932384136",
+      "author": "@jerryjliu0",
+      "text": "I'm glad people still understand the importance of building high-quality retrieval systems in 2026, especially as the outer models/harnesses are getting better every day.\n\nMaking agentic retrieval work in production  doesn't necessarily require groundbreaking new techniques",
+      "likes": 261,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2078524983748563370",
+      "author": "@jerryjliu0",
+      "text": "1. build a workflow graph on top of the agent harness\n2. dynamically create that graph through an outer agent loop\n....repeat\n\nlife is a loop (and a graph)",
+      "likes": 184,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2078513908164514278",
+      "author": "@reach_vb",
+      "text": "ChatGPT tip: chat can use a full-fledged managed browser for you, so you can ask it to look things up, and even get things done on your behalf.\n\nAll without ever needing to open your laptop.\n\nIn this case, it connected to my email and calendar to see what I was up to that",
+      "likes": 173,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078881989785264368",
+      "author": "@jerryjliu0",
+      "text": "I've noticed this too. I'm starting to have trouble understanding and articulating what AI generates",
+      "likes": 168,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2078962418093306227",
+      "author": "@reach_vb",
+      "text": "Memory + ChatGPT Work is a killer combo!\n\nChat already knew what was important for me to train and maintain from my existing chats, and Sol used that context to research the best approach\n\nIf you haven’t already, consider turning on Memory",
+      "likes": 145,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078531969911345464",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic kiedy mają najlepsze modele na rynku:\n\n- Claude Fable/Mythos to niebezpieczna cyberbroń\n- AI zabierze pracę 50% pracowników umysłowych \n- Nie mamy zdolności obliczeniowych, żeby serwować nasze najlepsze modele w subskrypcjach\n\nAnthropic, kiedy konkurencja ich dogania i",
+      "likes": 146,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079185807957758340",
+      "author": "@svpino",
+      "text": "The tokenmaxxing culture is absolutely out of hand.\n\nYou don't need an agent for everything.\n\nIn fact, I'm 99% sure you don't need an agent for 99% of the problems you need to solve.\n\nGood engineering principles still apply. Simplicity still wins.\n\nA regular, boring ol' script",
+      "likes": 135,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2078527736012751021",
+      "author": "@reach_vb",
+      "text": "Keep you and your clankers safe w/ UV_MALWARE_CHECK=1\n\nCharlie and team are the heroes we don’t deserve but definitely need!!\n\nThank you Charlie &amp; team! ❤️",
+      "likes": 133,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078853550239613180",
+      "author": "@reach_vb",
+      "text": "you can just prompt things into existence",
+      "likes": 108,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078893555330986008",
+      "author": "@jerryjliu0",
+      "text": "I don't think there's a ton of value in creating custom general harnesses.\n\nBut there will always tremendous value in creating custom task-specific harnesses, especially if you need to satisfy accuracy/cost/latency constraints for production. You can encode all the",
+      "likes": 94,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2079096420615811485",
+      "author": "@svpino",
+      "text": "This is what Cibeles, the plaza where Spain will celebrate its World Cup victory, looks like after a bunch of sore losers dumped trash all over the streets.",
+      "likes": 59,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078576948922708200",
+      "author": "@hwchase17",
+      "text": "Dcode, openswe, openswe review, open wiki…\n\nAll add up to a fully OSS software factory",
+      "likes": 55,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078887562681430221",
+      "author": "@jerryjliu0",
+      "text": "We've built the following document retrieval endpoints into LlamaParse: \n* Hybrid search (grep + vector search) \n* File grep (grep incl. regex search) \n* File find (`find`) \n* File read (`sed`) \n\nWe're continuing to experiment to see what combination allows agents to get the",
+      "likes": 52,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078896060358103517",
+      "author": "@nauczymycieAI",
+      "text": "Po premierze Kimi K3 nie czeka nas \"DeepSeek moment\". Mało tego - Kimi to pozytywna wiadomość dla wycen akcji powiązanych z AI.\n\nJak to możliwe?\n\nPo pierwsze: modele otwarte zwiększają popyt na półprzewodniki i energię. Firmy uruchamiające je na własnej infrastrukturze nie",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078904774699745784",
+      "author": "@reach_vb",
+      "text": "if nothing else\n\nif there’s one thing\nto learn to do\nit’s walk into a room\ndressed in nothing but confidence",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079137474077692238",
+      "author": "@sentient_agency",
+      "text": "Every university on earth charges tens of thousands of dollars for the same lectures MIT and Harvard are giving away for free right now.\n\nThey built the site together in 2012. It's called edX.\n\nOver 4,000 courses. Real professors from Harvard, MIT, Berkeley, Columbia, Oxford.",
+      "likes": 10,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2079219804951683380",
+      "author": "@hwchase17",
+      "text": "So i didn’t really know what graph engineering is, and i still don’t really… but it’s basically just langgraph?",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2078521434264265158",
+      "author": "@ihtesham2005",
+      "text": "A guy named Shin just open-sourced Palantir for free.\n\nIt is called OpenPlanter.\n\nPalantir helps governments and giant companies connect scattered data about people, businesses, contracts, and money.\n\nOpenPlanter could give that same power to ordinary people.\n\nFeed it corporate",
+      "likes": 4242,
+      "retweets": 1483
+    },
+    {
+      "tweet_id": "2078737738493301060",
+      "author": "@bensenescu",
+      "text": "Introducing OpenSEO, the open source alternative to Semrush and Ahrefs.\n\nI started building it out of spite because the existing tools were too expensive, bloated or scammy.\n\nSince then, we've gotten 4k stars on Github and are launching on Product Hunt today.\n\nHope you support!",
+      "likes": 5094,
+      "retweets": 352
+    },
+    {
+      "tweet_id": "2078920456682488189",
+      "author": "@cb_doge",
+      "text": "BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥\n\nGrok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier.\n\nGrok keeps winning. 🏆",
+      "likes": 1846,
+      "retweets": 322
+    },
+    {
+      "tweet_id": "2079195918595764300",
+      "author": "@RobinhoodApp",
+      "text": "Robinhood is now open to AI agents.\n\nYou can open an agentic account and connect an AI agent to it. From there, you can let it research, trade, and manage a portfolio on your behalf.\n\nHere's how to get started. 🧵",
+      "likes": 1844,
+      "retweets": 215
+    },
+    {
+      "tweet_id": "2078915001624981571",
+      "author": "@ChrisGPT",
+      "text": "GPT 6, Opus 5, Deepseek v4 pro, Qwen 3.8, Kimi 3.1, Gemini 3.5 Pro, we’re getting blessed this summer.",
+      "likes": 1171,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2078979637804187793",
+      "author": "@hanakoxbt",
+      "text": "6 agent patterns for AI engineers:\n\n(explained with usage)\n\n1) prompt chaining\n→ split the task into fixed steps, each one checking the last.\n→ use when the task decomposes cleanly and accuracy matters more than latency.\n\n2) routing\n→ classify the input first, then send it to",
+      "likes": 1027,
+      "retweets": 178
+    },
+    {
+      "tweet_id": "2078794082004963530",
+      "author": "@ArchiveExplorer",
+      "text": "Google just killed the agent framework industry.\n\nADK 2.0: Open-source. Free. Better than $50K enterprise tools.\n\nWhat it does:\n\n→ Graph-based execution with routing, fan-out/fan-in, loops, retry\n→ Structured agent-to-agent delegation via Task API\n→ State management, dynamic",
+      "likes": 825,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2078573267015885136",
+      "author": "@omarsar0",
+      "text": "Sharing my new skill!\n\nIt keeps track of high-signal X accounts for top AI news, papers, projects, etc.\n\nTotal gamechanger for me.\n\nBuilt with X MCP tools. Give your agent the skill and tell it to generate the artifact with top stories. \n\nWorks for Codex, Claude, Hermes,",
+      "likes": 752,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2078768008785228160",
+      "author": "@SPAC89",
+      "text": "Dude, what an absolute steal! 🔥\n just paid for the $25 Qwen Cloud plan to test Qwen 3.8 Max, and it’s genuinely insane how much value you get for only $25. The performance is on the same level as Claude Opus 4.8 , GPT-5.5 xhigh , GPT-5.6 terra , or Kimi 3.0. The price to",
+      "likes": 636,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2078907490633502895",
+      "author": "@eng_khairallah1",
+      "text": "A senior Google engineer just dropped a 424-page doc called Agentic Design Patterns.\n\nEvery chapter is code-backed and covers the frontier of AI systems:\n\n→ Prompt chaining, routing, memory\n→ MCP and multi-agent coordination\n→ Guardrails, reasoning, planning\n\nThis isn't a blog",
+      "likes": 499,
+      "retweets": 104
+    },
+    {
+      "tweet_id": "2078838014692970928",
+      "author": "@sairahul1",
+      "text": "I don't prompt Claude Code anymore.\n\nI have loops that prompt Claude Code for me.\n\nMy job is to write the loops.\n\nThis is the Boris Cherny method and it is unbelievably powerful.\n\nInstead of:\n\n→ writing a prompt\n→ waiting for the answer\n→ checking the output\n→ fixing the",
+      "likes": 473,
+      "retweets": 100
+    },
+    {
+      "tweet_id": "2079193435588669829",
+      "author": "@AMD",
+      "text": "Today, AMD and @Microsoft are announcing an expanded strategic partnership to deliver a full stack of AMD AI solutions for @Azure, spanning GPUs, CPUs, networking and software. At the center of this expansion, Microsoft will deploy AMD Helios to power frontier model AI inference",
+      "likes": 468,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2078514242206961916",
+      "author": "@h100envy",
+      "text": "The creator of Pydantic explained how to make live agents smarter after they ship in 1 hour 21 minutes - better than $2500 agent evals bootcamps.\n\ncollect traces from your live agent -&gt; score them with an eval -&gt; run GEPA to auto-optimize the prompt -&gt; deploy the winner -&gt; repeat",
+      "likes": 484,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2078578545429991768",
+      "author": "@Axel_bitblaze69",
+      "text": "Wow! Someone open sourced 100+ full AI apps you can just clone and ship..  \n\nand it's sitting at 124,000 stars on github\n\nit's one repo, awesome-llm-apps. \n\nand the important part.. these aren't tutorials teaching you to build an app. \n\nthey're the finished apps themselves. \n\nRAG",
+      "likes": 455,
+      "retweets": 65
+    },
+    {
+      "tweet_id": "2078903445885452316",
+      "author": "@sairahul1",
+      "text": "someone just open-sourced the entire \"loop engineering\" playbook.\n\nfor free. 8.6k stars on github for loop engineering\n\nnot prompts.\n\nloops.\n\neverything you need to build autonomous AI systems:\n\n→ scheduling\n→ memory &amp; state\n→ planning\n→ sub-agents\n→ verification\n→",
+      "likes": 349,
+      "retweets": 78
+    },
+    {
+      "tweet_id": "2078831252145369476",
+      "author": "@DivyanshT91162",
+      "text": "GitHub may have just killed vibe coding.\n\nTheir new repo “spec-kit” already has 92k+ stars — and it reveals where AI-driven development is actually heading.\n\nInstead of telling your AI:\n“Build me a todo app” and hoping for the best…\n\nYou run 6 commands that turn your idea into",
+      "likes": 377,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2078681320155164957",
+      "author": "@burkov",
+      "text": "GPT-5.6 is so much better at following instructions and respecting constraints compared to Claude, including Fable.\n\nGiven that Codex is also better at coding (and faster, and cheaper), I'm not sure why Anthropic still has users.",
+      "likes": 407,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078646016568606961",
+      "author": "@VaibhavSisinty",
+      "text": "There's a quiet shift happening in how AI agents are built. And if you missed it, you'll be confused by everything that comes next.\n\nFor the last year, AI agents worked in loops. You give it a task. It plans. It acts. It checks. It fixes. It goes again. One cycle, repeating until",
+      "likes": 310,
+      "retweets": 49
+    }
+  ]
+}
