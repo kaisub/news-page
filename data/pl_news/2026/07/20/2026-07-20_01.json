@@ -1,0 +1,100 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-20",
+  "slot": "01",
+  "generated_at": "2026-07-20T01:21:00Z",
+  "tweets": [
+    {
+      "tweet_id": "2078756274158669914",
+      "author": "@PAPinformacje",
+      "text": "MSZ Ukrainy: w nocnym ataku na Kijów Rosja użyła największej liczby rakiet balistycznych od początku wojny #PAPinformacje",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078835313040818186",
+      "author": "@PAPinformacje",
+      "text": "Armia izraelska: Iran wystrzelił pociski w kierunku Jordanii, ostrzał może rozprzestrzenić się na Izrael\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2078967576072179986",
+      "author": "@PAPinformacje",
+      "text": "Hiszpania piłkarskim mistrzem świata po zwycięstwie nad Argentyną po dogrywce 1:0. (PAP)\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078584193995395579",
+      "author": "@PAPinformacje",
+      "text": "Niemcy podniosły stopień zagrożenia terrorystycznego do wysokiego ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2078917961411162516",
+      "author": "@PAPinformacje",
+      "text": "Trzęsienie ziemi w Andach. Są ofiary śmiertelne, trwają poszukiwania zaginionych ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078990998416281978",
+      "author": "@PAPinformacje",
+      "text": "Zakaz wjazdu do Kanady dla osób, które były w DRK. Chodzi o epidemię eboli ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078990592139211169",
+      "author": "@PAPinformacje",
+      "text": "Krytyk Putina, Borys Nadieżdin, wycofał się ze startu w wyborach parlamentarnych ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078373216045654474",
+      "author": "@MSWiA_GOV_PL",
+      "text": "📊 Wspólnie ze @Straz_Graniczna przygotowaliśmy dla Was tygodniowy raport z granicy (10-16.07) ⤵️  \n\n✅ odnotowano 38 prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 8 przemytników ludzi\n✅ ponad 200 cudzoziemców opuściło Polskę –",
+      "likes": 35,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2078404875923202125",
+      "author": "@CERT_Polska",
+      "text": "‼️ Krytyczna podatność w WordPress Core ‼️\n\nProwadzisz stronę internetową? Jak najszybciej sprawdź czy technologia, którą wykorzystujesz, nie jest podatna na atak!\n\nWykryta podatność pozwala nieuwierzytelnionemu atakującemu na zdalne wykonanie kodu, co może doprowadzić nawet do",
+      "likes": 41,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2078542086123692137",
+      "author": "@WojciechCPK",
+      "text": "Elektrownia Jądrowa Lubiatowo-Kopalino ⚛️👍\n\n🇺🇸 @Bechtel ogłosił kolejne postępowania na wybór dostawców elementów pierwszej polskiej elektrowni jądrowej:\n- specjalne moduły - konstrukcje stalowej\n\n- pakiet kotłów pomocniczych\n\n- pompy obiegowe CWS\n\n- system do poboru wody w",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2078466741479326098",
+      "author": "@MilitarySummary",
+      "text": "#Ukraine and #Poland have resumed negotiations over the transfer of Poland's MiG-29 fighter jets.\n\nBeyond the fighter jets, Ukraine is seeking maintenance equipment, technical support systems, and repair documentation, while Poland is interested in acquiring Ukrainian drone",
+      "likes": 14,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078540405847499035",
+      "author": "@WojciechCPK",
+      "text": "Elektrownia Jądrowa Lubiatowo-Kopalino ⚛️👍\n @PAAtomistyki wezwała @PEJ_PL do uzupełnienia wniosku o zezwolenie na budowę pierwszej polskiej elektrowni jądrowej.\n\nMają na to 180 dni.",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2078881423667192191",
+      "author": "@kowalskijanpl",
+      "text": "Naczelny Sąd Administracyjny zwrócił uwagę na zażalenie, w którym pojawiły się ślady tzw. halucynacji AI: błędnie wskazane orzeczenia oraz tezy, które nie pojawiły się w powołanych sprawach. Sąd podkreślił, że klient płacący za pomoc prawną ma prawo oczekiwać pisma spełniającego",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}

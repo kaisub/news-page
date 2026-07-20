@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-20",
+  "slot": "01",
+  "generated_at": "2026-07-20T01:21:00Z",
+  "tweets": [
+    {
+      "tweet_id": "2078774556249186345",
+      "author": "@thesupermanmx",
+      "text": "China open-sourced a peanut-sized OCR that parses entire 100-page PDFs in one shot..\n\nIt's called Unlimited-OCR. Only 3B params. Runs locally.\n\nEvery other OCR tool chops your doc into pages and loses the thread. this one reads the whole thing in a single pass.\n\n→ One-shot",
+      "likes": 9086,
+      "retweets": 982
+    },
+    {
+      "tweet_id": "2078380705504166272",
+      "author": "@NickDevFE",
+      "text": "img2threejs - turn one object photo into a code-only procedural Three.js model\n\nOpen-source toolkit that rebuilds the object in a single reference image as procedural Three.js code (no mesh downloads), quality-gated by a render-vs-reference loop - strong for hard-surface objects",
+      "likes": 2090,
+      "retweets": 176
+    },
+    {
+      "tweet_id": "2078785602250797295",
+      "author": "@simplifyinAI",
+      "text": "You waste hours downloading models that don't run on your hardware. This tool fixes that in one command.\n\nIt's called llmfit.\n\nIt scans your RAM, CPU, and GPU, then scores every model in its catalog for fit, speed, and quality, so you know what runs before you download anything.",
+      "likes": 566,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2078993546179141694",
+      "author": "@freeCodeCamp",
+      "text": "Self-hosted AI agents give you more control over where your assistant runs and how it works.\n\nIn this tutorial, @manishmshiva shows you how to deploy your own 24/7 AI agent using OpenClaw on your machine or on a cloud platform.\n\nYou'll also learn how to interact with it, think",
+      "likes": 41,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2078978196247372005",
+      "author": "@aiedge_",
+      "text": "This GitHub repo is a self-organizing AI second brain using Claude Code x Obsidian.\n\nA fully open-source AI plugin for note-taking, personal knowledge management, second-brain workflows, and a private Notion alternative.\n\n15 Claude Code skills, multi-agent support, &amp; more.",
+      "likes": 12,
+      "retweets": 2
+    }
+  ]
+}
