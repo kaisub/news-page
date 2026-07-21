@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-21",
+  "slot": "02",
+  "generated_at": "2026-07-21T15:45:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2078887562681430221",
+      "author": "@jerryjliu0",
+      "text": "We've built the following document retrieval endpoints into LlamaParse: \n* Hybrid search (grep + vector search) \n* File grep (grep incl. regex search) \n* File find (`find`) \n* File read (`sed`) \n\nWe're continuing to experiment to see what combination allows agents to get the",
+      "likes": 57,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2078979637804187793",
+      "author": "@hanakoxbt",
+      "text": "6 agent patterns for AI engineers:\n\n(explained with usage)\n\n1) prompt chaining\n→ split the task into fixed steps, each one checking the last.\n→ use when the task decomposes cleanly and accuracy matters more than latency.\n\n2) routing\n→ classify the input first, then send it to",
+      "likes": 1624,
+      "retweets": 289
+    },
+    {
+      "tweet_id": "2079582493930668077",
+      "author": "@dakshgup",
+      "text": "introducing model inversion\n\ngreptile detects if your PR was generated using GPT or Claude models, and uses the other model for review.\n\nrohan and rodrigo from our research team share why we do this:",
+      "likes": 29,
+      "retweets": 0
+    }
+  ]
+}
