@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-21",
+  "slot": "01",
+  "generated_at": "2026-07-21T01:09:57Z",
+  "tweets": [
+    {
+      "tweet_id": "2078887562681430221",
+      "author": "@jerryjliu0",
+      "text": "We've built the following document retrieval endpoints into LlamaParse: \n* Hybrid search (grep + vector search) \n* File grep (grep incl. regex search) \n* File find (`find`) \n* File read (`sed`) \n\nWe're continuing to experiment to see what combination allows agents to get the",
+      "likes": 55,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2079241366480032065",
+      "author": "@nauczymycieAI",
+      "text": "Ponad 250 osób zapisało tą technikę.\n\nOprócz synergii GPT 5.6 z Kimi K3 warto wykorzystać również radę nadzorczą przy planowaniu.\n\nPracując z Fable w Claude Code:\n\n \"Przygotuj plan, cross-checkuj z GPT 5.6 Sol - aż osiągnięcie konsus. Maksymalnie do 3 tur.\"\n\nRobi robotę",
+      "likes": 24,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079000862962417996",
+      "author": "@VaibhavSisinty",
+      "text": "Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.\n\nIt's called Unlimited-OCR. 3 billion parameters but only 500 million active during inference. Runs 100% locally on your machine.\n\nWhy this matters: traditional OCR tools chop documents page by",
+      "likes": 3327,
+      "retweets": 383
+    },
+    {
+      "tweet_id": "2079259470304362921",
+      "author": "@Prince_Canuma",
+      "text": "Excited to introduce Nativ 🚀\n\nRun frontier open models locally on your Mac. No accounts, no subscriptions, no cloud.\n\n⚡ Built on mlx-vlm — multimodal + fastest on Apple Silicon\n🔒 100% private — every token generated on your machine\n🛠 Plug your coding agents into a local",
+      "likes": 521,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2079154793721868423",
+      "author": "@Degen_calls_sol",
+      "text": "CLAUDE.MD IS THE FILE THAT TURNS AN OBSIDIAN VAULT INTO AN AGENT WORKSPACE.\n\nWithout it, an agent sees thousands of Markdown files and has to infer the rules.\n\nWith it, every session begins with a map:\n\n- Daily notes live here\n- Project notes live there\n- These tags mean this",
+      "likes": 81,
+      "retweets": 9
+    }
+  ]
+}
