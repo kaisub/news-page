@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-22",
+  "slot": "02",
+  "generated_at": "2026-07-22T15:30:16Z",
+  "tweets": [
+    {
+      "tweet_id": "2079595988998554047",
+      "author": "@claudeai",
+      "text": "New in Claude Cowork: teach Claude a skill.\n\nRecord your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. \n\nAvailable on Pro, Max, and Team plans.",
+      "likes": 41193,
+      "retweets": 2939
+    },
+    {
+      "tweet_id": "2079610838143623371",
+      "author": "@karpathy",
+      "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10",
+      "likes": 40130,
+      "retweets": 3239
+    },
+    {
+      "tweet_id": "2079661132302995790",
+      "author": "@sama",
+      "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.",
+      "likes": 15405,
+      "retweets": 1791
+    },
+    {
+      "tweet_id": "2079256626771665098",
+      "author": "@AnthropicAI",
+      "text": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases.\n\nThis is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery.",
+      "likes": 8065,
+      "retweets": 962
+    },
+    {
+      "tweet_id": "2079240370576146875",
+      "author": "@leerob",
+      "text": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient!",
+      "likes": 3710,
+      "retweets": 592
+    },
+    {
+      "tweet_id": "2079258683884917013",
+      "author": "@sama",
+      "text": "it is good now!",
+      "likes": 3435,
+      "retweets": 157
+    },
+    {
+      "tweet_id": "2079548697831174422",
+      "author": "@svpino",
+      "text": "Coding is easier than ever, but thinking is still hard.\n\nNothing has changed.\n\nThe bottleneck is still your brain, not a model.",
+      "likes": 2304,
+      "retweets": 229
+    },
+    {
+      "tweet_id": "2079617029473182132",
+      "author": "@GoogleAI",
+      "text": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing software must be built on highly efficient and capable models.\n\nWhich brings us to our third (!) model launch of the day: Gemini 3.5 Flash Cyber ⚡🛡️\n\nBuilt on top of 3.5 Flash, in",
+      "likes": 454,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2079618724571619581",
+      "author": "@reach_vb",
+      "text": "Codex updates:\n\n- Stable sidebar + clear forks/titles\n- Smoother drag/drop + read controls\n- File status in review tree\n- Faster side chat/subagent state\n- Follow-ups → side chats\n- Persistent drafts\n- Search shortcuts + clickable paths\n- In-task previews\n- Local-time",
+      "likes": 448,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2079602948494024764",
+      "author": "@ammaar",
+      "text": "Introducing 3 new Gemini models ⚡\n\n- 3.6 Flash: now faster, cheaper, and sharper at coding\n- 3.5 Flash-Lite: fastest in the series at 350 tokens/s\n- 3.5 Flash Cyber: finds and fixes security vulnerabilities on its own\n\nAvailable today in AIS and the API",
+      "likes": 303,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2079615051577565509",
+      "author": "@reach_vb",
+      "text": "10,000,000 ChatGPT Work &amp; Codex WAU!!\n\nUsage limits reset for all paid users - Thank you for your trust and support everyone! LFG!!",
+      "likes": 312,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2079581522936676819",
+      "author": "@svpino",
+      "text": "Claude Code + MCP is literally the best automation platform I've ever used.\n\nHere is one of the skills I use to automate myself out of a job.\n\nI have half a dozen skills like this running every day. Easy to build, maintain, and schedule.",
+      "likes": 257,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2079276289241075868",
+      "author": "@reach_vb",
+      "text": "With ChatGPT Work, you can kick off cloud tasks directly from the desktop or mobile app.\n\nIt can use your configured plugins to work across your repos, docs, Slack, and the other tools you already use.\n\nI use it constantly from my phone: hand off a task, let it run asynchronously",
+      "likes": 253,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2079779824827285905",
+      "author": "@jerryjliu0",
+      "text": "i used to do this a lot. but then i felt like i was getting progressively dumber at writing. \n\ni think there's some value in forcing your own brain to sharpen your thinking, instead of offloading it to AI \n\nwhat i found helpful is to manually type out my own understanding in",
+      "likes": 220,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2079323599899336951",
+      "author": "@reach_vb",
+      "text": "wow last 5 days have been incredible, recorded:\n\n&gt; 2 podcasts\n&gt; 2 office hours\n&gt; 2 meetups\n&gt; 1 webinar\n&gt; 1 AMA\n\n&amp; countless interactions! \n\npedal to the metal!",
+      "likes": 158,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079462587251425283",
+      "author": "@reach_vb",
+      "text": "Asked Chat to spin this up into a Site where I can track my progress as well as have a visual identity for these exercises!\n\nChat used imagegen and the research I provided, added a database for tracking and ChatGPT auth to finish it all up\n\nComputer FTW!!",
+      "likes": 148,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079261741649969223",
+      "author": "@jerryjliu0",
+      "text": "This is awesome. Instead of doing work this morning, I spent some time brushing up on math to provide a handwavy overview to anyone else who like me doesn't have a math background and is rusty: \n\nAt a distance, the conjecture is basically that if a n-dimensional polynomial",
+      "likes": 140,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2079394264656859564",
+      "author": "@hwchase17",
+      "text": "great post by jeff! a few thoughts I had as I read along, wrt what we're building at langchain:\n\n&gt; design a compound learning machine\n\nas you use or deploy agents, they need to be learning! high level, i believe traces are the core of this - you need to see what happened, get",
+      "likes": 115,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2079231173893796295",
+      "author": "@svpino",
+      "text": "These guys built a platform to build agentic companies from scratch.\n\nYou get multiple departments and a CEO. They all organize the tasks around objectives and key results. The agents work until things are complete.\n\nPretty wild idea.",
+      "likes": 123,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079326210060955868",
+      "author": "@reach_vb",
+      "text": "Incredibly proud of our Codex Ambassadors for running over 60+ events in ~60 cities all in a span of 7 days! 🔥\n\nOpenAI Build week runs till tomorrow, come experience the magic of GPT 5.6 &amp; Codex!\n\nCodex is nothing without it’s Ambassadors",
+      "likes": 107,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2079741672729215243",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked Gemini 3.6 Flash and Gemini 3.5 Flash Lite on document understanding.\n\nWe compared against their prior versions - Gemini 3.5 Flash and Gemini 3.1 Flash Lite.\n\n1️⃣ Gemini 3.6 Flash has roughly similar performance, though it does go down 14% in chart understanding\n2️⃣",
+      "likes": 99,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2079911086476923238",
+      "author": "@svpino",
+      "text": "Now that everyone can build anything they want by prompting a model, we are back to square one:\n\nYour brain is all that matters.\n\n• Those with the best ideas will still win.\n• Those with the best work ethic will outperform everyone else.\n• Those with more money will build the",
+      "likes": 90,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2079256852534362193",
+      "author": "@hwchase17",
+      "text": "LangSmith Engine is our in product agent that runs over traces, clusters them into issues, and proposes fixes\n\nIt's a long running, complex, ambiguous process\n\nWe wrote about how we evaluate it!",
+      "likes": 88,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2079767200941175167",
+      "author": "@jerryjliu0",
+      "text": "It does feel like every frontier lab is optimizing for general intelligence.\n\nThis leaves room for everyone else to optimize for task-specific intelligence. Every task requires a different point on the cost-capability frontier. Optimizing for each task involves tuning the right",
+      "likes": 82,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2079714158518386726",
+      "author": "@reach_vb",
+      "text": "Codex can now use custom review rules from AGENTS.md, so the context that usually lives in a few reviewers’ heads can be applied to every PR\n\nquite useful",
+      "likes": 79,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079336957599994139",
+      "author": "@reach_vb",
+      "text": "Sites is now available in the UK + EU! 🇬🇧🇪🇺\n\nNote: Sites is currently limited to workspaces, Plus, and Pro accounts.",
+      "likes": 71,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079276907183702436",
+      "author": "@svpino",
+      "text": "Serveless, but for models, is here!\n\nI stopped renting servers 12 years ago. I mostly moved everything to serverless functions.\n\nIt's taken a long time for this idea to work with AI models.\n\nThe issue was simple: You can start a simple function in milliseconds and scale it down",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2079646249289150749",
+      "author": "@svpino",
+      "text": "Huge if this works as promised!\n\nReplace \"model='your-favorite-model'\" with \"model='ship-like/your-favorite-model'\" in your code.\n\nYou don't need to change anything else and still get three guarantees:\n\n1. Pay 50% less money than connecting directly to the model\n2. Enjoy 100% the",
+      "likes": 53,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079617306058166682",
+      "author": "@svpino",
+      "text": "Everyone is using agents for writing code and emails, but few people are looking at some of the largest opportunities that exist:\n\nCompanies are still buying $200,000 worth of equipment parts over the phone.\n\nThe physical economy doesn't move online. You can't add custom parts to",
+      "likes": 52,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2079603410819854465",
+      "author": "@svpino",
+      "text": "This is the next version of autocomplete:\n\nDrop this into any text box in your product, and it will predict the actions users can take and surface them in real time.\n\n200ms latency: faster than you think.\n\nBehind the scenes: @magicX_ai gives you a specialized model trained on",
+      "likes": 40,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079631406142194032",
+      "author": "@nauczymycieAI",
+      "text": "Gdzie jest Google ze swoim programem AI? W bardzo złym miejscu. I wygląda na to, że na stale się tam rozgościli.\n\nKiedy oficjalne konta Google w mediach społecznościowych przy publikacji nowego modelu nie podają wyników żadnych testów - a osoby powiązane z Google zamiast o nowym",
+      "likes": 37,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079620091545784583",
+      "author": "@hwchase17",
+      "text": "native integrations for four leading voice frameworks so you can see whats happening\n\ndont fly blind",
+      "likes": 30,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079241366480032065",
+      "author": "@nauczymycieAI",
+      "text": "Ponad 250 osób zapisało tą technikę.\n\nOprócz synergii GPT 5.6 z Kimi K3 warto wykorzystać również radę nadzorczą przy planowaniu.\n\nPracując z Fable w Claude Code:\n\n \"Przygotuj plan, cross-checkuj z GPT 5.6 Sol - aż osiągnięcie konsus. Maksymalnie do 3 tur.\"\n\nRobi robotę",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079529811110977839",
+      "author": "@sentient_agency",
+      "text": "10 WEBSITES THAT MAKE EXPENSIVE SOFTWARE LOOK LIKE A SCAM\n\nBookmark every single one. They edit videos, repair PDFs, record screens, and build 3D models from a browser tab. Many require no account and cost absolutely nothing.\n\n1. \n\nA surprisingly powerful",
+      "likes": 20,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2079862219173704027",
+      "author": "@sentient_agency",
+      "text": "10 APPS THAT ARE PRIVATE, FREE, AND ACTUALLY WORTH SWITCHING TO\n\nBookmark every single one. Each of these was built by someone who got angry at surveillance and shipped the fix. Free.\n\n1. \n\nSignal still knows a phone number exists. SimpleX made even that",
+      "likes": 15,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2079250071451795883",
+      "author": "@jerryjliu0",
+      "text": "Hosting a small founder dinner in sf on july 28 with @dexhorthy - first in a monthly series.\n\nTopic is loop engineering: context management, compaction, evals, human-in-the-loop handoffs.\n\nApproval-only and most seats are spoken for, but if you're a founder building agents in",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2079268578562339056",
+      "author": "@svpino",
+      "text": "AI can now walk you through an entire presentation. \n\n👀\n\nBasically, you can put together the slides and have this walk your through it.\n\nNow imagine a conference where every presentation is AI-driven.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079849122174058617",
+      "author": "@nauczymycieAI",
+      "text": "Większość osób nie wie, że zamiast schodzić na niższą klasę modelu - zazwyczaj warto po prostu obniżyć poziom wysiłku.\n\nA, że Gemini 3.6 Flash to naprawdę bezużyteczny model - to już inna sprawa :)",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079531586958037115",
+      "author": "@nauczymycieAI",
+      "text": "W świecie agresywnie rosnących kosztów AI, korzystanie z odpowiedniej kombinacji orkiestratora + wykonawcy jest kluczowe.\n\nW dużych organizacjach to pomaga zaoszczędzić setki tysięcy złotych rocznie",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079941033455214937",
+      "author": "@svpino",
+      "text": "Claude Code keeps quitting halfway through a migration I want to finish.\n\nIt finishes with a few files, but then it eats up its context window and hits a usage limit. It's not easy to pick the process back up from where it left off.\n\nThe thing with Claude Code and Codex: they are",
+      "likes": 12,
+      "retweets": 2
+    }
+  ]
+}
