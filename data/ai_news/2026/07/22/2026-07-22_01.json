@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-22",
+  "slot": "01",
+  "generated_at": "2026-07-22T01:22:50Z",
+  "tweets": [
+    {
+      "tweet_id": "2079247143802687744",
+      "author": "@oliviscusAI",
+      "text": "MICROSOFT JUST OPEN-SOURCED SELF-EVOLVING AGENT SKILLS.\n\nit's called skillopt. \n\nskills that improve themselves the same way you train an ai model.\n\nno more guessing whether your prompt tweaks helped. a base model runs the task, an optimizer evaluates the output and rewrites the",
+      "likes": 2518,
+      "retweets": 327
+    },
+    {
+      "tweet_id": "2079631772770242808",
+      "author": "@opencode",
+      "text": "Laguna S 2.1 is now free on OpenCode\n\n1M Context · fully open source\n\nPoolside's most capable model to date",
+      "likes": 1793,
+      "retweets": 73
+    },
+    {
+      "tweet_id": "2079582493930668077",
+      "author": "@dakshgup",
+      "text": "introducing model inversion\n\ngreptile detects if your PR was generated using GPT or Claude models, and uses the other model for review.\n\nrohan and rodrigo from our research team share why we do this:",
+      "likes": 950,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2079259470304362921",
+      "author": "@Prince_Canuma",
+      "text": "Excited to introduce Nativ 🚀\n\nRun frontier open models locally on your Mac. No accounts, no subscriptions, no cloud.\n\n⚡ Built on mlx-vlm — multimodal + fastest on Apple Silicon\n🔒 100% private — every token generated on your machine\n🛠 Plug your coding agents into a local",
+      "likes": 856,
+      "retweets": 130
+    }
+  ]
+}
