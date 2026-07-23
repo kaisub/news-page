@@ -1,0 +1,65 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-23",
+  "slot": "01",
+  "generated_at": "2026-07-23T01:18:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2079595988998554047",
+      "author": "@claudeai",
+      "text": "New in Claude Cowork: teach Claude a skill.\n\nRecord your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. \n\nAvailable on Pro, Max, and Team plans.",
+      "likes": 43319,
+      "retweets": 3129
+    },
+    {
+      "tweet_id": "2079990597973057691",
+      "author": "@claudeai",
+      "text": "The Claude Security plugin for Claude Code is now available in beta. \n\nScan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run.",
+      "likes": 9869,
+      "retweets": 807
+    },
+    {
+      "tweet_id": "2079602948494024764",
+      "author": "@ammaar",
+      "text": "Introducing 3 new Gemini models ⚡\n\n- 3.6 Flash: now faster, cheaper, and sharper at coding\n- 3.5 Flash-Lite: fastest in the series at 350 tokens/s\n- 3.5 Flash Cyber: finds and fixes security vulnerabilities on its own\n\nAvailable today in AIS and the API",
+      "likes": 332,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2080042063328866519",
+      "author": "@reach_vb",
+      "text": "Reintroducing Codex Security plugin!\n\npoint it at a codebase or diff and it can build a threat model, map attack paths, validate findings, generate + test fixes, and export results to SARIF, GitHub, Jira or Linear.\n\noh, and it all open source on github!!",
+      "likes": 281,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2079998076090216499",
+      "author": "@reach_vb",
+      "text": "You should be using Sites in ChatGPT!\n\nSites lets you go from an idea to a working, hosted website or app directly in ChatGPT.\n\nYou can:\n\n- Build static sites or full-stack apps\n- Store persistent data + file uploads\n- Add authentication + control who has access\n- Connect APIs",
+      "likes": 226,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2079714158518386726",
+      "author": "@reach_vb",
+      "text": "Codex can now use custom review rules from AGENTS.md, so the context that usually lives in a few reviewers’ heads can be applied to every PR\n\nquite useful",
+      "likes": 110,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079646249289150749",
+      "author": "@svpino",
+      "text": "Huge if this works as promised!\n\nReplace \"model='your-favorite-model'\" with \"model='ship-like/your-favorite-model'\" in your code.\n\nYou don't need to change anything else and still get three guarantees:\n\n1. Pay 50% less money than connecting directly to the model\n2. Enjoy 100% the",
+      "likes": 58,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2079631772770242808",
+      "author": "@opencode",
+      "text": "Laguna S 2.1 is now free on OpenCode\n\n1M Context · fully open source\n\nPoolside's most capable model to date",
+      "likes": 2997,
+      "retweets": 134
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-23",
+  "slot": "01",
+  "generated_at": "2026-07-23T01:18:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2079839096948621767",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W czerwcu najsilniejszy wzrost sprzedaży:\n\n🔸meble, RTV, AGD (14,8% r/r)\n🔸farmacutyki, kosmetyki... (10,2% r/r)\n\nCały czas mocno rośnie sprzedaż aut, części (9,6% r/r) \n\nGiełdowo: dane sugerują, że czerwiec był dobry dla odzieżówki, Inter Cars, Auto Partner, a słaby dla Dino.",
+      "likes": 38,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2079537325940355290",
+      "author": "@Macronextcom",
+      "text": "Bank Węgier 🇭🇺 obniżył stopy proc. o 25 pb do 5,75%. Decyzja była oczekiwana przez rynek. \n\nTo już 3⃣ obnizka stóp proc. na Węgrzech w tym roku. Ekonomiści prognozują, że do końca 2026 roku Bank Węgier obniży stopy jeszcze 3x do 5,00%, a na koniec 2027 roku obetnie je do 4,50%.",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080005795500945477",
+      "author": "@PAPinformacje",
+      "text": "Senat wyraził zgodę na powołanie Sylwii Gregorczyk-Abram na Rzecznika Praw Obywatelskich #PAPinformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079492855484064106",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VII 2026 r. Indeks instytutu #ZEW 26,3 pkt. (prognoza: 17,5 pkt.; poprzednio: 10,5 pkt.)\n\nKalendarz makro: ➡️",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079984339589153004",
+      "author": "@PAPinformacje",
+      "text": "Komisja Europejska zgodziła się warunkowo na przejęcie amerykańskiego przedsiębiorstwa mediowego Warner Bros. Discovery przez koncern Paramount Skydance\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079911288851792214",
+      "author": "@PAPinformacje",
+      "text": "Blik będzie blokować transakcje związane z nielegalnym hazardem\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2079958765881770485",
+      "author": "@PAPinformacje",
+      "text": "UE zwiększa presję na rosyjską „flotę cieni”. Przechwycono tankowiec\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2079955080774644043",
+      "author": "@PAPinformacje",
+      "text": "Siły USA ostrzelały wyspę Larak w cieśninie Ormuz\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079915101360890134",
+      "author": "@PAPinformacje",
+      "text": "Mychajło Drapaty zastąpił Ołeksandra Syrskiego. Kim jest nowy dowódca ukraińskiej armii?\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079932300045824254",
+      "author": "@PAPinformacje",
+      "text": "Sąd oddalił roszczenie syna żołnierza wyklętego o rekompensatę za represje komunistyczne\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079833757796778108",
+      "author": "@GUS_STAT",
+      "text": "W lipcu 2026 r. odnotowano pogorszenie nastrojów konsumenckich (m/m), dotyczących obecnej sytuacji. Jednoczesnie poprawie uległy nastroje dotyczące przyszłej sytuacji.\n\n🔗\n\n#GUS #KoniunkturaKonsumencka",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079832589347516699",
+      "author": "@GUS_STAT",
+      "text": "W lipcu 2026 r. wskaźniki we wszystkich prezentowanych sektorach wskazują na stabilizację lub poprawę #KoniunkturaGospodarcza.\nNajbardziej znaczącą poprawę koniunktury obserwuje się w sekcji finanse i ubezpieczenia oraz w handlu detalicznym.\n\n🔗\n\n#GUS",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079832157703340186",
+      "author": "@GUS_STAT",
+      "text": "W czerwcu 2026 r.,  zarówno w skupie, jak i na targowiskach, odnotowano spadek cen większości produktów rolnych w stosunku do analogicznego miesiąca 2025 r.\n\n🔗\n\n#GUS #rolnictwo #ProduktyRolne",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080000868284342719",
+      "author": "@PAPinformacje",
+      "text": "Ślubowanie nowego sędziego TK. Wyznaczono termin\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079978822343028894",
+      "author": "@PAPinformacje",
+      "text": "Fala upałów we Francji. Bezprecedensowy wzrost liczby zgonów ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079978679866687963",
+      "author": "@PAPinformacje",
+      "text": "Epidemia eboli w DRK i Ugandzie. WHO podała bilans ofiar ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079831523197346012",
+      "author": "@GUS_STAT",
+      "text": "Sprzedaż detaliczna w cenach stałych w czerwcu 2026 r. była wyższa niż przed rokiem o 6,2%. Wzrost sprzedaży detalicznej r/r odnotowano we wszystkich grupach.\n\n🔗 \n\n#GUS #statystyki #SprzedażDetaliczna",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079849614367138071",
+      "author": "@DGPrawna",
+      "text": "Kolej Dużych Prędkości przyspiesza! 🚄 Podróż z Kalisza do Poznania skróci się do 35 min, a do Warszawy do 1h 40 min. Trwają prace nad projektem budowlanym trasy Sieradz-Poznań.\n🔗\n#CEFTransport #KDP #DGP #PortPolska",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079454073846153578",
+      "author": "@DGPrawna",
+      "text": "Od 8 lipca 2026 r. pracodawcy mogą wnioskować do Państwowej Inspekcji Pracy o interpretacje indywidualne w sprawach stosowanego przez siebie modelu zatrudnienia. Choć inspekcja nie spodziewała się wielu wniosków, to rzeczywistość może okazać się inna.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079888564309917896",
+      "author": "@jakubwiech",
+      "text": "Ogarnijcie, jak gwałtownie zmienia się polska energetyka.\n\nObecnie w systemie pracuje nam 10,2 GW w fotowoltaice i 7,1 GW w węglu.\n\nJeszcze 10 lat temu praktycznie nie mieliśmy mocy w PV i taka sytuacja zakrawałaby o science fiction, bo za prawie 90% generacji odpowiadał węgiel.",
+      "likes": 670,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2079630467381276737",
+      "author": "@RyszardJonski",
+      "text": "Here are more details regarding the concept of a Polish hybrid propulsion system for the Borsuk IFV and Krab SPH. ⬇️\nSurprisingly, the concept envisions using two modernized SW-680 diesel engines—originally manufactured under Leyland license at PZL Mielec over a two decades ago.",
+      "likes": 381,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2079447757748658433",
+      "author": "@PremierRP",
+      "text": "⚡ Rozwijamy magazyny energii, by wzmacniać bezpieczeństwo energetyczne Polski.\n\nPonad połowa mocy w Krajowym Systemie Elektroenergetycznym pochodzi już z OZE. Dlatego podpisaliśmy strategiczny list intencyjny dotyczący rozwoju wielkoskalowych magazynów energii, które pomogą",
+      "likes": 267,
+      "retweets": 98
+    },
+    {
+      "tweet_id": "2079548054391099742",
+      "author": "@PremierRP",
+      "text": "💬 Premier @donaldtusk ⤵️\n\nGórny limit wynagrodzenia lekarzy, to będzie 16-krotność płacy minimalnej, czyli 76 800 złotych miesięcznie.",
+      "likes": 207,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2079576036245647424",
+      "author": "@GeneralStaffUA",
+      "text": "🇦🇺🇳🇿 🇳🇴 🇵🇱 🇺🇦Australian Army instructors of the Defence Australia Force serving under Operation KUDU have joined the multinational training mission Operation LEGIO, led by the Norwegian Armed Forces Forsvaret on the territory of the Republic of Poland.",
+      "likes": 217,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2079986835548250541",
+      "author": "@Maks_NAFO_FELLA",
+      "text": "✈️🇵🇱 Poland has received a request from an unnamed NATO country regarding MiG-29 fighters, — Deputy Minister of National Defense of Poland.\n\nPriority for Poland remains the transfer of these fighters to 🇺🇦Ukraine.\n\nHe refused to answer a question about whether he was referring to",
+      "likes": 151,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2079641245626810867",
+      "author": "@piotrmiecz",
+      "text": "Francja mówi  “wystarczy”. We francuskim parlamencie przygotowano plan odzyskania cyfrowej suwerenności.\n\n8 lipca opublikowano liczący 453 strony raport parlamentarnej komisji śledczej ds. suwerenności cyfrowej i zamówień publicznych (Rapport n° 3054).  Dokument jest efektem",
+      "likes": 121,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2079627468357460010",
+      "author": "@Pawel_Salek",
+      "text": "Minister Klimatu i Środowiska Paulina Hennig – Kloska w ostatnim momencie wycofała z prac kontrowersyjny projekt ustawy, który może sparaliżować funkcjonowanie Lasów Państwowych. Nowelizacja nie miała poparcia w koalicji. Resort nie rezygnuje jednak z walki o wdrożenie przepisów,",
+      "likes": 78,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2079598146271707472",
+      "author": "@notesfrompoland",
+      "text": "Poland has joined an EU project developing a satellite internet service that would offer an alternative to networks such as Starlink.\n\nIt has committed €656m to the IRIS² programme, which will provide communications for the military and emergency services",
+      "likes": 67,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2079836472882917868",
+      "author": "@PKO_Research",
+      "text": "Sprzedaż detaliczna 🇵🇱 w czerwcu przyspieszyła do 6,2% r/r z 3,0%, wyraźnie przebijając prognozy. To bardzo dobry wynik, któremu pomógł kalendarz, ale wzrost o 1,7% m/m (sa) i dodatnie dynamiki we wszystkich grupach potwierdzają mocny popyt konsumpcyjny.",
+      "likes": 54,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2079959889309261885",
+      "author": "@aluqa_pro",
+      "text": "#Mirbud ma rekordowy portfel zamówień w historii firmy, blisko 8,9 mld złotych, i najgorszy kurs wśród dużych spółek budowlanych na GPW. Minus 22% od stycznia. Pytanie, które wraca pod każdym wpisem o tej spółce, brzmi: gdzie tu logika.\n\nLogika jest, tylko nie w zyskach. Zyski",
+      "likes": 59,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2079947289389379953",
+      "author": "@bonokulbacki",
+      "text": "W ocenie inwestorów Europa Środkowo-Wschodnia jest geopolitycznym wygranym ostatnich lat\n\nIndeks największych spółek giełdy w Rumunii jest o ponad 150 proc. wyżej niż na początku 2022 r., mierząc w dolarach. WIG20 wzrósł o ponad 80 proc., a indeks giełdy w Wilnie o ponad 50 proc.",
+      "likes": 32,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2079903858680098977",
+      "author": "@MSWiA_GOV_PL",
+      "text": "Lepsze planowanie i wyższy poziom bezpieczeństwa! 🛡️🇵🇱\n\nRząd @PremierRP przyjął projekt zmian w ustawie o działaniach antyterrorystycznych. Wprowadzamy stałe zasady zabezpieczania najważniejszych wydarzeń państwowych i międzynarodowych w Polsce.\n\nCo się zmieni? 👇\n\n🔹 „Wydarzenie",
+      "likes": 21,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2079961215045116038",
+      "author": "@terytorialsi",
+      "text": "🛡️ Zachodnia granica pod stałą ochroną 🇵🇱\n\nKażdego dnia żołnierze Wojsk Obrony Terytorialnej wspierają @Straz_Graniczna w ramach Operacji #BezpiecznyZachód.\n\nDo ich zadań należą:\n🔹 patrolowanie terenów przygranicznych,\n🔹 prowadzenie obserwacji,\n🔹 zabezpieczanie infrastruktury",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079466844516167886",
+      "author": "@MSWiA_OLiOC_GOV",
+      "text": "🚨 Dziś w całym kraju odbywają się ćwiczenia syren alarmowych  #ALARM2026. Zachowaj spokój – to wyłącznie planowe ćwiczenia.\n🎥Przy okazji, przypominamy znaczenie sygnałów alarmowych. Zobacz krótki film na ten temat z Poradnika Bezpieczeństwa w Polskim Języku Migowym (PJM)\n#OLiOC",
+      "likes": 18,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079651039406678241",
+      "author": "@SkotarekG",
+      "text": "ORLEN opublikował szacunkowe dane operacyjne za II kw. 2026 r.\n\n⛽ Produkcja ropy: 4 590 tys. boe (+5% r/r)\n🔥 Produkcja gazu: 22,5 TWh (+9% r/r)\n⚡ Sprzedaż hurtowa energii: +28% r/r\n🚗 Sprzedaż detaliczna paliw: +2% r/r\n\nSpółka poinformowała również o planowanych,",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079599810290552938",
+      "author": "@GPW_WSExchange",
+      "text": "Na GPW lato w pełni. Rozgrzane indeksy i nowe rekordy! #WIG znowu szybuje i kończy notowania na poziomie 144 649,25 pkt przy wzroście o 1,4%.\nOstrożnie, ale zdecydowanie pnie się również WIG20, któremu do przekroczenia bariery 4 tys. brakuje niecałe 150 pkt.📈\n\n#GPW #WIG #Rekordy",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2079806395508015136",
+      "author": "@Dan_Kostecki",
+      "text": "Dziś rozpocznie się 63. posiedzenie Senatu. Zaplanowano na nim rozpatrzenie 3 ustaw, w tym o #OKI - @inwestorzy złożyli wniosek o korektę stawki podatku od aktywów, bo przecież stopy procentowe spadły, więc dlaczego niby mielibyśmy płacić wyższy podatek niż wynika z treści ustawy",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079971967357063314",
+      "author": "@SkotarekG",
+      "text": "Digital Network opublikował szacunkowe wyniki za II kw. 2026 r.\n\n📈 Przychody: 60,9 mln zł (+198% r/r)\n📊 Przychody po I półroczu: 103,9 mln zł (+189% r/r)\n\nSpółka poinformowała o bardzo wysokiej dynamice wzrostu przychodów zarówno w samym II kwartale, jak i narastająco po",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079558463533822196",
+      "author": "@CSIRT_KNF",
+      "text": "⚠️ Uwaga na reklamy fałszywych inwestycji, w których oszuści podszywają się pod @uknf!\n\nCyberprzestępcy ponownie wykorzystują osoby, które wcześniej padły ofiarą oszustw inwestycyjnych. Publikują reklamy w mediach społecznościowych, gdzie informują o rzekomym programie wsparcia i",
+      "likes": 9,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2079959701110882463",
+      "author": "@CERT_Polska",
+      "text": "Wracają fałszywe maile na temat potrzeby przedłużenia dostępu do domeny .pl\n\n📩 Dostajemy coraz więcej zgłoszeń na temat wysyłanych przez cyberprzestępców wiadomości e-mail, które informują o rzekomym wygaśnięciu domeny i konieczności pilnego jej przedłużenia. \n\n✉️ Oszuści",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2079838442247147787",
+      "author": "@kmieciak_b",
+      "text": "💥\"Ministerstwo podkreśliło, że \"dopiero po przyjęciu ustawy kompleksowo regulującej zawód psychoterapeuty, w tym kwestie związane z kształceniem, możliwa będzie ocena co do zasadności utrzymywania specjalizacji z psychoterapii w odrębnej formie\" podaje @rynekzdrowia \n\nPrzyznam",
+      "likes": 13,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2079877184240390606",
+      "author": "@ING_EconomicsPL",
+      "text": "Podsumowanie 2kw26 po czerwcowych danych - słabiej konsumpcja przez szok energetyczny, mocniej inwestycje dzięki KPO i innym nakładom. \nŁącznie poprawa tempa PKB w 2kw26 do 3,8%r/r vs 3,5%r/r w 1kw26 - polska gospodarka pozytywnie zaskakuje przez ostatnie 20 lat, ale też 2-3",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079974742614798444",
+      "author": "@militarnyi",
+      "text": "🛡️ German troops are helping build Poland’s East Shield fortifications along the borders with Russia and Belarus.",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079965687972249962",
+      "author": "@AkesoZzZ",
+      "text": "$DIG Digital network opublikowało dziś szacunki za II kwartał (+198% r/r) i za pierwsze półrocze (+190% r/r)\n\nJuż w cenie?\n\n#GPW #FinX #Inwestowanie",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079562215418417284",
+      "author": "@ArkadiuszPaczka",
+      "text": "I jest druga część planu „wprowadzony zostanie zakaz ustalania wysokości wynagrodzenia pracownika medycznego, z tytułu udzielania świadczeń zdrowotnych objętych umową z NFZ, jako określonego udziału procentowego w kwocie kontraktu świadczeniodawcy z NFZ na dany zakres świadczeń",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079955881299456111",
+      "author": "@Energetyka_24",
+      "text": "Polska jest jedną z najmniej zelektryfikowanych gospodarek #UE – udział energii elektrycznej w końcowym zużyciu energii jest u nas niższy niż średnia unijna. Tymczasem #elektryfikacja, zwłaszcza oparta na #OZE, oznacza niższe emisje i mniejszą zależność od importu paliw",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2079813510385517016",
+      "author": "@BlogiBossaPL",
+      "text": "👉WIG20 wzrósł wczoraj o 1,8%, zamknął się na maksimum sesji i ustanowił nowy szczyt trwającej hossy. \nLiderem wzrostów był KGHM (+4,4%), któremu pomagało odbicie na rynku metali.\n\n👉S&amp;P 500 wzrósł o 0,9%, a Nasdaq zyskał 1,3%. Indeksy wspierało odbicie spółek półprzewodnikowych.",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}
