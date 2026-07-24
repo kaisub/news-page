@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-24",
+  "slot": "02",
+  "generated_at": "2026-07-24T15:39:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2079990597973057691",
+      "author": "@claudeai",
+      "text": "The Claude Security plugin for Claude Code is now available in beta. \n\nScan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run.",
+      "likes": 16931,
+      "retweets": 1514
+    },
+    {
+      "tweet_id": "2079979809606664564",
+      "author": "@claudeai",
+      "text": "You can now ask Claude about the Anthropic Economic Index, our public dataset measuring how AI is used across the economy.\n\nAsk which occupations use AI the most, or what kinds of tasks people are automating, and the answers draw directly from the Index data.",
+      "likes": 12205,
+      "retweets": 902
+    },
+    {
+      "tweet_id": "2080376094939603366",
+      "author": "@claudeai",
+      "text": "Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation.\n\nTalk through the hard problems out loud, in many more languages.",
+      "likes": 10098,
+      "retweets": 679
+    },
+    {
+      "tweet_id": "2080467752897146898",
+      "author": "@leerob",
+      "text": "Humans try hard things, fail, learn, and get better through repetition.\n\nAI models aren't as different as you might think.\n\nHere's how models \"learn\" explained in simple terms.",
+      "likes": 1308,
+      "retweets": 127
+    },
+    {
+      "tweet_id": "2080042063328866519",
+      "author": "@reach_vb",
+      "text": "Reintroducing Codex Security plugin!\n\npoint it at a codebase or diff and it can build a threat model, map attack paths, validate findings, generate + test fixes, and export results to SARIF, GitHub, Jira or Linear.\n\noh, and it all open source on github!!",
+      "likes": 687,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2080212786383102015",
+      "author": "@reach_vb",
+      "text": "gm! it’s going to be a good day today",
+      "likes": 635,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2080265431882125677",
+      "author": "@svpino",
+      "text": "Every developer thinks they’re “almost done” once they’ve completed about 80% of the work.\n\nA lesson I keep learning over and over again: the final 20% usually takes 80% of the time.\n\nYou ain't done until you are.",
+      "likes": 478,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2079998076090216499",
+      "author": "@reach_vb",
+      "text": "You should be using Sites in ChatGPT!\n\nSites lets you go from an idea to a working, hosted website or app directly in ChatGPT.\n\nYou can:\n\n- Build static sites or full-stack apps\n- Store persistent data + file uploads\n- Add authentication + control who has access\n- Connect APIs",
+      "likes": 403,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2080003041055383690",
+      "author": "@reach_vb",
+      "text": "All roads lead to: GPT 5.6 Sol",
+      "likes": 408,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2080407991665258733",
+      "author": "@reach_vb",
+      "text": "ICYMI: ChatGPT Voice can take app shots, use your browser, interact with MCPs + Apps and work across threads in different projects!\n\nYou can literally brain dump all your thoughts and Codex will figure it out for you\n\nBonus: as you work/ talk it can relay back outputs too",
+      "likes": 392,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2080233017529053573",
+      "author": "@sentient_agency",
+      "text": "10 FREE TOOLS THAT MAKE YOUR OLD LAPTOP FASTER THAN A NEW ONE\n\nBig tech wants you to buy a new machine. Most old laptops aren't slow, they're clogged. Bookmark every one of these.\n\n1. \n\nStart here. One PowerShell command strips out the preinstalled junk,",
+      "likes": 293,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2080194400328528016",
+      "author": "@svpino",
+      "text": "I watched The Odyssey yesterday and absolutely loved it.\n\nYou don't need to read the book before watching it, but if you do, I think you'll enjoy the movie even more. Nolan's artistic choices and the liberties he takes with the story will become much more apparent.\n\n10 out of 10",
+      "likes": 332,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2080385130145759575",
+      "author": "@reach_vb",
+      "text": "voice in Codex is pretty wild!\n\nyou can now literally talk to Codex while it works - kick off tasks, check progress, interrupt it, change direction, or start another thread without going back to typing\n\nfeels especially useful when you’re figuring things out as you build\n\nexcited",
+      "likes": 244,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2080012123401560070",
+      "author": "@hwchase17",
+      "text": "building evals is hard!  we're working on some skills to try to automate as much as possible. still requires human in the loop, but should help bootstrap\n\noverall flow is:\n- give coding agent the codebase + actual traces\n- iterate on eval direction with user\n- build evals (using",
+      "likes": 212,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2080505891028357187",
+      "author": "@reach_vb",
+      "text": "ChatGPT Voice in desktop is now rolled out across all paid plans!\n\nGood time to give it a shot, ask it to kick off your /goals for the night ;)",
+      "likes": 218,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2080421425819865596",
+      "author": "@reach_vb",
+      "text": "Voice is all you need.",
+      "likes": 124,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080518585626284124",
+      "author": "@jerryjliu0",
+      "text": "Parenting is crazy because it's like building rl envs for children",
+      "likes": 101,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080344731406766480",
+      "author": "@svpino",
+      "text": "Me watching my new agent coworkers do a year’s worth of work in an afternoon while I take all the credit.",
+      "likes": 103,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080163765577035785",
+      "author": "@jerryjliu0",
+      "text": "I have a conjecture that u can't make me 10 billion dollars",
+      "likes": 84,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080367820966363220",
+      "author": "@hwchase17",
+      "text": "Open wiki is about organizing your codebase’s knowledge - and to review this, a picture is worth a thousand words",
+      "likes": 77,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080279010412839305",
+      "author": "@svpino",
+      "text": "Teach your agents what to do by \"showing\" them.\n\nThis is how you teach other people: You sit them next to you, open a browser, click, click, and done.\n\nThe beauty of Open Teach is that it works with any agent and any model.\n\nYou can self-host this. Your data stays yours.",
+      "likes": 63,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2080673380336886212",
+      "author": "@leerob",
+      "text": "There's something missing from the open vs. closed models debate that has been bothering me.\n\nThe better analogy, to me, is managed vs. self-hosted infrastructure for AI.\n\nMaybe a company wants to use an open weight model because they want to do additional training on top,",
+      "likes": 68,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2080264572246638737",
+      "author": "@nauczymycieAI",
+      "text": "Według rynków predykcyjnych dostaniemy dzisiaj Opusa 5.\n\nMusi być wystarczająco dobry, żeby zatrzymać odpływ klientów do OpenAI.\n\nZapnijcie pasy",
+      "likes": 51,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080162227504754740",
+      "author": "@jerryjliu0",
+      "text": "LlamaParse can't solve a conjecture, but it can parse this as a PDF 🫡",
+      "likes": 47,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2079997498832355518",
+      "author": "@svpino",
+      "text": "$100,000/mo in compute credits to startups and institutions that apply and join the Apodex Frontier Program.\n\nI'm posting the link below.\n\nBeyond the compute credits, you get access to the Apodex Deep Discover solver, powered by one of the most interesting models I've seen in a",
+      "likes": 40,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2080631606042366288",
+      "author": "@svpino",
+      "text": "I dream of a future where the best AI models are open and available to everyone.\n\nIn that future, AI companies build products and harnesses around those models, but no one owns the raw intelligence itself.\n\nKind of like the internet.\n\nI’m not sure we’ll ever get there.",
+      "likes": 44,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080238490348921157",
+      "author": "@rpl_0x",
+      "text": "Kto był na Odyseji? Warto?",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2079982593446219821",
+      "author": "@jerryjliu0",
+      "text": "One of the hardest parts of document parsing is getting granular attribution and bounding boxes. This lets you ground each piece of text in the specific place in the document it came from.\n\nWe’ve done some awesome work these past few months improving our bounding boxes, and we",
+      "likes": 36,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2079977958903816495",
+      "author": "@svpino",
+      "text": "Skills are the most important development in AI over the last 6 months.\n\nI think it was Anthropic the one that invented them. Now, every single tool out there is adding support for skills.\n\nThey should.\n\nBolt is the latest to support them.",
+      "likes": 36,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080359796361032100",
+      "author": "@svpino",
+      "text": "I had to learn 4 different tools to make a video ad.\n\nYou can now make a 10x better ad with Claude Code or Codex using the Topview MCP server.\n\nBest part: it comes with built-in access to Amazon, YouTube, TikTok Shop, and Shopee, so you don't need to wire anything up.",
+      "likes": 34,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2080006325774549211",
+      "author": "@nauczymycieAI",
+      "text": "USA zamierzają regulować (zablokować?) chińskie Open Source. I mają do tego dobry powód.\n\nZgodnie z moimi przewidywaniami - Biały Dom ma niedługo zaproponować regulacje modeli AI, tym razem obejmującą również Open Source.\n\nKilka tygodni temu amerykańska administracja objęła",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080140293282676885",
+      "author": "@svpino",
+      "text": "Mind blowing progress here.\n\nfast  = good, and I want as much of it as possible.\n\nBut more than anything else, I want “security”. I still don’t trust these agents. \n\nHope things keep getting better.",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080309461860913376",
+      "author": "@svpino",
+      "text": "The best time I've had at tech conferences has been sitting down with the people who built the tools I use.\n\nDollar for dollar, nothing beats the ROI of bringing a problem to those folks and having them walk you through the solution.\n\nAWS re:Invent is almost here.\n\n2,200+",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080369021115941099",
+      "author": "@nauczymycieAI",
+      "text": "Gdzie tak naprawdę jest dzisiaj chiński Open Source - i jak wygląda jego przyszłość?\n\nLiang Wenfeng, założyciel DeepSeek, głównej różnicy między Chinami a USA upatruje niemal wyłącznie w zasobach obliczeniowych.\n\nW blisko czterogodzinnej rozmowie z inwestorami (z maja tego roku),",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080352694712389926",
+      "author": "@hwchase17",
+      "text": "Starting now!",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080344509377057231",
+      "author": "@hwchase17",
+      "text": "Interrupt NYC is 2 months out\n\nwe're starting to plan out some of our launches. At Interrupt SF we launched LangSmith Engine and SmithDB... what will we launch in NYC? 👀\n\nwe're also going to have a great set of speakers - register today!",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080124725083447428",
+      "author": "@hwchase17",
+      "text": "if you're doing model routing, does it need to harness aware (eg part of the harness), or could you do it inside a (harness agnostic) gateway",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080580877881328058",
+      "author": "@rpl_0x",
+      "text": "Naganiacze na nieruchomości zjedzą siebie nawzajem.\n\nPająk twierdzi że naganiacze z kambodży opłacają ataki na jego biznesy 🤣\n\nEhhh Ci \"Królowie wysp\" xD",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080107206717087814",
+      "author": "@jerryjliu0",
+      "text": "I have no idea what this is, but I know it’s gonna be good",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080366145836916998",
+      "author": "@svpino",
+      "text": "To complete a goal, an agent can now search for an actor on the Apify Store, pay for it, and use it without any human intervention.\n\nThe way it works is pretty simple:\n\n1. Your agent finds an Actor it wants to use\n2. It sends a request\n3. The Actor sends back an HTTP 402 \"Payment",
+      "likes": 11,
+      "retweets": 2
+    }
+  ]
+}
