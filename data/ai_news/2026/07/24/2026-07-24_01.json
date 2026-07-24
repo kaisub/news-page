@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-24",
+  "slot": "01",
+  "generated_at": "2026-07-24T01:13:09Z",
+  "tweets": [
+    {
+      "tweet_id": "2079990597973057691",
+      "author": "@claudeai",
+      "text": "The Claude Security plugin for Claude Code is now available in beta. \n\nScan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run.",
+      "likes": 16223,
+      "retweets": 1447
+    },
+    {
+      "tweet_id": "2080042063328866519",
+      "author": "@reach_vb",
+      "text": "Reintroducing Codex Security plugin!\n\npoint it at a codebase or diff and it can build a threat model, map attack paths, validate findings, generate + test fixes, and export results to SARIF, GitHub, Jira or Linear.\n\noh, and it all open source on github!!",
+      "likes": 678,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2080279010412839305",
+      "author": "@svpino",
+      "text": "Teach your agents what to do by \"showing\" them.\n\nThis is how you teach other people: You sit them next to you, open a browser, click, click, and done.\n\nThe beauty of Open Teach is that it works with any agent and any model.\n\nYou can self-host this. Your data stays yours.",
+      "likes": 52,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2080359796361032100",
+      "author": "@svpino",
+      "text": "I had to learn 4 different tools to make a video ad.\n\nYou can now make a 10x better ad with Claude Code or Codex using the Topview MCP server.\n\nBest part: it comes with built-in access to Amazon, YouTube, TikTok Shop, and Shopee, so you don't need to wire anything up.",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080298505785217152",
+      "author": "@hasantoxr",
+      "text": "I'm deleting every paid document extraction tool because of this.\n\nZipstack built Unstract and it turns any PDF, scan, or image into clean structured JSON using LLMs you already pay for.\n\nYou point it at a document (an invoice, a bank statement, a KYC form, a tax return, a claims",
+      "likes": 61,
+      "retweets": 7
+    }
+  ]
+}
