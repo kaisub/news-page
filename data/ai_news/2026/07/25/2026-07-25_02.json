@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-25",
+  "slot": "02",
+  "generated_at": "2026-07-25T15:21:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2080824399578746903",
+      "author": "@jerryjliu0",
+      "text": "We just released a LiteParse feature that allows image-to-pdf conversion to be natively handled in Rust, removing dependencies on external packages.\n\nLiteParse is a cheat code for PDF parsing. It is the fastest, lightest-weight, most accurate free/open-source parsing solution out",
+      "likes": 46,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080359796361032100",
+      "author": "@svpino",
+      "text": "I had to learn 4 different tools to make a video ad.\n\nYou can now make a 10x better ad with Claude Code or Codex using the Topview MCP server.\n\nBest part: it comes with built-in access to Amazon, YouTube, TikTok Shop, and Shopee, so you don't need to wire anything up.",
+      "likes": 37,
+      "retweets": 3
+    }
+  ]
+}
