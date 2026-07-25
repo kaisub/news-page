@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-25",
+  "slot": "01",
+  "generated_at": "2026-07-25T01:13:28Z",
+  "tweets": [
+    {
+      "tweet_id": "2080279010412839305",
+      "author": "@svpino",
+      "text": "Teach your agents what to do by \"showing\" them.\n\nThis is how you teach other people: You sit them next to you, open a browser, click, click, and done.\n\nThe beauty of Open Teach is that it works with any agent and any model.\n\nYou can self-host this. Your data stays yours.",
+      "likes": 66,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2080788185194602686",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked Opus 5 comprehensively on document understanding through ParseBench. \n\nIt is roughly on par with Opus 4.8 - it does a few points worse on dense tables, but does slightly better on parsing charts and visual grounding.\n\nFor reference, Gemini 3.6 Flash has better",
+      "likes": 39,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2080359796361032100",
+      "author": "@svpino",
+      "text": "I had to learn 4 different tools to make a video ad.\n\nYou can now make a 10x better ad with Claude Code or Codex using the Topview MCP server.\n\nBest part: it comes with built-in access to Amazon, YouTube, TikTok Shop, and Shopee, so you don't need to wire anything up.",
+      "likes": 37,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080750306112176140",
+      "author": "@jerryjliu0",
+      "text": "An interesting thing I'm observing from the blog/system card is that on a good chunk of the reported benchmarks (~20-30% from a skim), Opus 5 max thinking leads to a degradation in performance compared to xhigh.\n\nUsually you would assume that as you increase thinking and",
+      "likes": 36,
+      "retweets": 3
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-25",
+  "slot": "01",
+  "generated_at": "2026-07-25T01:13:28Z",
+  "tweets": [
+    {
+      "tweet_id": "2080357275084939407",
+      "author": "@Macronextcom",
+      "text": "Komisja Europejska przestała się patyczkować i sypnęła karami dla gigantów:\n\ndziś: 🇺🇸 Google - 890 mln EUR kary\n20.07: 🇨🇳 AliExpress - 550 mln EUR kary\n28.05: 🇨🇳 Temu - 200 mln EUR kary",
+      "likes": 361,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2080183579154223387",
+      "author": "@laskowski_pl",
+      "text": "Do końca sierpnia operatorzy telekomunikacyjni muszą podłączyć 128 tys. mieszkań i domów do szybkiego internetu, aby Polska nie straciła 1,4 mld zł unijnych dotacji na ten cel z Krajowego Programu Odbudowy.\n\nKto za to odpowiada?",
+      "likes": 73,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2080253840167711206",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w czerwcu 2026 r. nowe zamówienia w polskim przemyśle wzrosły o 11,7% r/r 📈\n\nmaj: +143,3% r/r #SAFE\nkwiecień: +1,7% r/r\nmarzec: -7,3% r/r\nluty: +3,2% r/r\nstyczeń: +0,6% r/r",
+      "likes": 68,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2080293430773555650",
+      "author": "@Macronextcom",
+      "text": "Gdybyście przegapili to...\n\n...liczba nowych wniosków o zasiłek dla bezrobotnych spadła w ostatnim tygodniu w USA 🇺🇸 do najniższego poziomu od września 1969 roku.",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080166379081072930",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Reakcja (posesyjna) na opublikowane wczoraj (22.07) wyniki finansowe za II kw. 2026:\n \n🔻Alphabet: -3,3%\n🔻Tesla: -4,1%\n🔻Texas Instruments: -3,05%\n🔻IBM: -0,4%\n\nDziś (23.07) po sesji wyniki poda #Intel.",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080234465956417563",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W poniedziałek (27.07) startuje na GPW sezon publikacji wyników finansowych za II kw. 2026. \n\nOtworzy go Orange Polska. W kolejnych dniach wyniki pokaże Bank Millennium, mBank, Pekao, Erste Bank, ING Bank Śląski, Kęty i Żabka.\n\nKalendarz GPW/NC:",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080638517302919216",
+      "author": "@PAPinformacje",
+      "text": "Prezydent skierował do Trybunału Konstytucyjnego trybie kontroli prewencyjnej ustawę o podatku od nadzwyczajnych zysków firm paliwowych #PAPinformacje",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080636750565622195",
+      "author": "@PAPinformacje",
+      "text": "Prezydent podpisał nowelę zakazującą trzymania psów i kotów na uwięzi #PAPinformacje",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080266704035148000",
+      "author": "@Macronextcom",
+      "text": "Zgodnie z prognozami #ECB nie zmienił dziś stóp proc. w strefie euro. 👇 Rynek oczekuje jednak, że bank podwyższy je we wrześniu.\n\nW przyszłym tygodniu o stopach będzie decydował Fed 🇺🇸, BoE 🇬🇧 i BoJ 🇯🇵. Rynek zakłada, że żaden z tych banków nie zmieni stóp proc. w lipcu.",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080278735211692331",
+      "author": "@Macronextcom",
+      "text": "#BRENT CRUDE FUTURES  HIT $100 📈 A BARREL FOR THE FIRST TIME SINCE MAY 26 ON MIDDLE EAST SHIPPING DISRUPTIONS (Reuters)",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080694331950686467",
+      "author": "@PAPinformacje",
+      "text": "Bezpłatne in vitro dla wdów po żołnierzach zabitych na wojnie. W Rosji przyjęto projekt ustawy ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080685388616634817",
+      "author": "@PAPinformacje",
+      "text": "Zełenski leci do USA. Biały Dom potwierdza spotkanie z Trumpem ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080717987888201828",
+      "author": "@PAPinformacje",
+      "text": "Skandal z udziałem prokuratora generalnego MTK. Media: Khan odwołany ze stanowiska ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080729655452078406",
+      "author": "@PAPinformacje",
+      "text": "Nowy most między Kanadą a USA. Inauguracja bez strony amerykańskiej po wycofaniu zaproszenia ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080685815563256302",
+      "author": "@PAPinformacje",
+      "text": "Przechwycono ładunek wybuchowy niedaleko granicy Irlandii z Irlandią Płn. Dwie osoby zatrzymane ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080236730804789493",
+      "author": "@DGPrawna",
+      "text": "Coraz więcej sądów potwierdza, że podatnik nie traci prawa do ulgi mieszkaniowej, jeżeli deweloper wbrew umowie nie przeniósł na czas własności mieszkania lub domu. Liczy się to, że podatnik wpłacał na nowe lokum.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080574959726809095",
+      "author": "@DGPrawna",
+      "text": "Nowe e-usługi skarbówki. Będą kolejne ułatwienia w e-Urzędzie Skarbowym i w KSeF",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080542243929342095",
+      "author": "@DGPrawna",
+      "text": "MEN skorygowało projekt przepisów dotyczących oceniania uczniów. Od września będzie obowiązywał nowy katalog kryteriów branych pod uwagę przy ustalaniu oceny zachowania.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}

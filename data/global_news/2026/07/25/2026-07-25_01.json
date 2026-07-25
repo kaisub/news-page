@@ -1,0 +1,65 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-07-25",
+  "slot": "01",
+  "generated_at": "2026-07-25T01:13:28Z",
+  "tweets": [
+    {
+      "tweet_id": "2080269674294505504",
+      "author": "@OSW_pl",
+      "text": "Wołodymyr Zełenski ogłosił odwołanie ze stanowiska naczelnego dowódcy Sił Zbrojnych Ukrainy generała Ołeksandra Syrskiego i mianowanie na jego miejsce generała Mychajła Drapatego, dotychczasowego dowódcy Sił Połączonych. 1/5",
+      "likes": 28,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2080663683609330002",
+      "author": "@OSW_pl",
+      "text": "23 lipca Unia Europejska przyjęła 21. pakiet sankcji wobec Rosji.\n\n„Mimo coraz wyraźniejszej efektywności nałożonych na Rosję sankcji rosną trudności w uzyskiwaniu unijnego konsensusu dla ich rozszerzania” - piszą eksperci OSW.\n\nSzczegóły:",
+      "likes": 26,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2080209191059263555",
+      "author": "@OSW_pl",
+      "text": "„Powołanie gabinetu Tofana zakończyło krótki okres politycznej niestabilności wywołanej zaskakującą dymisją poprzedniego premiera Alexandru Munteanu”.",
+      "likes": 22,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2080695415028994524",
+      "author": "@RadekPyffel",
+      "text": "Szwecja uznała wydobycie minerałów krytycznych i pierwiastków ziem rzadkich za kwestię bezpieczeństwa narodowego, co ma ułatwić i przyspieszyć proces uzyskiwania pozwoleń na wydobycie bogatych depozytów w Kirunie celem zmniejszenia zależności od surowców chińskich. \n\nOprócz",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080196434112999815",
+      "author": "@RadekPyffel",
+      "text": "Nuklearyzacja Arabii Saudyjskiej?\n\nUSA i Arabia już oficjalnie podpisały przełomowe porozumienie nuklearne 123.  \n\nDo wiadomości publicznej nie podano jej szczegółów, ale wcześniejsze doniesienia medialne sugerowały, że po przeprowadzeniu wspólnych badań z USA, Arabia Saudyjska",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080564150061723841",
+      "author": "@OSW_pl",
+      "text": "W latach 2022–2025 średni wzrost PKB Mołdawii oscylował wokół zera, a w I kwartale 2026 r. wyniósł zaledwie 0,4% rok do roku. Nowy premier tego kraju będzie musiał doprowadzić do ożywienia gospodarczego.",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080589703250681899",
+      "author": "@RadekPyffel",
+      "text": "W rozmowie z portalem informacyjnym Axios prezydent Trump zapowiedział, że Stany \"planują największy do tej pory atak na Iran i tereny kontrolowane przez ruch Huti\", które to oświadczenie pokryło się z przekroczeniem 100 dolarów za baryłkę ropy Brent. \n\nTrump odniósł się także do",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2080253196925092038",
+      "author": "@RadekPyffel",
+      "text": "Minister spraw zagranicznych Niemiec Johann Wadephul zakończył swoją dwudniową wizytę w Nigerii podczas, której zapowiedziane zostało rozszerzenie współpracy bilateralnej w dziedzinie surowców mineralnych, energetyki oraz zielonych technologii. \n\nHandel Niemiec z Nigerią w",
+      "likes": 5,
+      "retweets": 0
+    }
+  ]
+}
