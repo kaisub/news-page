@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-26",
+  "slot": "01",
+  "generated_at": "2026-07-26T01:16:01Z",
+  "tweets": [
+    {
+      "tweet_id": "2080824399578746903",
+      "author": "@jerryjliu0",
+      "text": "We just released a LiteParse feature that allows image-to-pdf conversion to be natively handled in Rust, removing dependencies on external packages.\n\nLiteParse is a cheat code for PDF parsing. It is the fastest, lightest-weight, most accurate free/open-source parsing solution out",
+      "likes": 56,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2080789910198579494",
+      "author": "@taiuti",
+      "text": "We just made Google's Dreamer4 world model available to everyone, open-sourced, free 🏎️ 💨\n\nDeepMind had only shared the paper, no code &amp; weights. That changes today: the team reimplemented it all from scratch, and made it available widely",
+      "likes": 1024,
+      "retweets": 79
+    },
+    {
+      "tweet_id": "2081018045342921090",
+      "author": "@tonysimons_",
+      "text": "🚨 I JUST OPEN-SOURCED THE HERMES SKILLS I USE EVERY. SINGLE. DAY.\n\nNot theory.\n\nNot a prompt dump.\n\nNot 10,000 random skills scraped together to make the number look impressive.\n\nThese are field-tested workflows from my actual Hermes setup. Skills I rely on to:\n\nInspect.",
+      "likes": 167,
+      "retweets": 20
+    }
+  ]
+}
