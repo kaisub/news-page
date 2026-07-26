@@ -1,0 +1,37 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-26",
+  "slot": "02",
+  "generated_at": "2026-07-26T15:21:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2080824399578746903",
+      "author": "@jerryjliu0",
+      "text": "We just released a LiteParse feature that allows image-to-pdf conversion to be natively handled in Rust, removing dependencies on external packages.\n\nLiteParse is a cheat code for PDF parsing. It is the fastest, lightest-weight, most accurate free/open-source parsing solution out",
+      "likes": 57,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2080986155047440808",
+      "author": "@SubhanHQ",
+      "text": "Introducing Amicro.\n\nA curated library of premium micro-interactions and transition components for React.\n\nAdd beautiful Loaders ,card hovers, button interactions, and seamless transitions to your app with a single CLI command. ✨\n\nOpen source.\n\nTry it:",
+      "likes": 2036,
+      "retweets": 129
+    },
+    {
+      "tweet_id": "2081282076137943410",
+      "author": "@tom_doerr",
+      "text": "Paymenter is a free and open-source billing tool for web hosting businesses that enables self-hosted subscription management to avoid vendor lock-in.",
+      "likes": 373,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2081241498478113176",
+      "author": "@tom_doerr",
+      "text": "Reflect is an open-source system for Claude Code that learns from your corrections and remembers them permanently so you never have to repeat yourself.",
+      "likes": 123,
+      "retweets": 17
+    }
+  ]
+}

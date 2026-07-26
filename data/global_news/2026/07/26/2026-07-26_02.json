@@ -1,0 +1,240 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-07-26",
+  "slot": "02",
+  "generated_at": "2026-07-26T15:21:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2080695415028994524",
+      "author": "@RadekPyffel",
+      "text": "Szwecja uznała wydobycie minerałów krytycznych i pierwiastków ziem rzadkich za kwestię bezpieczeństwa narodowego, co ma ułatwić i przyspieszyć proces uzyskiwania pozwoleń na wydobycie bogatych depozytów w Kirunie celem zmniejszenia zależności od surowców chińskich. \n\nOprócz",
+      "likes": 40,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2081027456107180392",
+      "author": "@RadekPyffel",
+      "text": "Wchodzą w życie zapowiadane 10 i 12,5% stawki celne USA na produkty eksportowe 60 państw, które zdaniem amerykańskiej administracji niedbale egzekwowały zakazy pracy przymusowej. \n\nWiększość krajów będzie podlegać wyższej stawce celnej w wysokości 12,5% między innymi Chiny i co",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081073248016441685",
+      "author": "@ZelenskyyUa",
+      "text": "Russia wants to receive another 30,000 troops from North Korea. Since June, preparations have been underway in Russia’s Voronezh region to receive them. North Korea is also preparing to transfer additional launchers for ballistic missiles to Russia. \n\nThis is a threat not only to",
+      "likes": 19044,
+      "retweets": 3726
+    },
+    {
+      "tweet_id": "2080953786927927375",
+      "author": "@FlashWireNews",
+      "text": "⚡️BREAKING: 3 Houthi Ballistic Missiles have hit Aramco Refinery in Jazan\n\nThis is the 5th Largest Oil Refinery in Saudi Arabia\n\n#Irán #IranWar‌ #pakistán #Pakistan #Kuwait #Jordan #Bahrain #Oman #Qatar #SaudiArabia #Houthi #UAE #India",
+      "likes": 3257,
+      "retweets": 951
+    },
+    {
+      "tweet_id": "2081099684559343930",
+      "author": "@yarotrof",
+      "text": "The two wars have officially merged. Iran says a Ukrainian drone attack on its ship in the Caspian has killed a sailor. Ukraine earlier said it was targeting vessels ferrying arms between Russia and Iran on the Caspian Sea.",
+      "likes": 2113,
+      "retweets": 703
+    },
+    {
+      "tweet_id": "2080953050420695466",
+      "author": "@cnnbrk",
+      "text": "India's education minister resigns in a major victory for young protesters, whose demonstrations have presented a growing headache for the government of Prime Minister Narendra Modi.",
+      "likes": 1824,
+      "retweets": 409
+    },
+    {
+      "tweet_id": "2080975671501652313",
+      "author": "@HormuzLetter",
+      "text": "BREAKING: Ukraine has struck the Antipinsky Oil Refinery in Tyumen, Russia with drones today, damaging Russia's largest privately owned oil refinery in one of Ukraine's deepest strikes at 2,000 km from the front.\n\nThe Antipinsky Refinery has a capacity of ~160,000 barrels per day",
+      "likes": 999,
+      "retweets": 262
+    },
+    {
+      "tweet_id": "2080990196297036136",
+      "author": "@Reuters",
+      "text": "President Trump said he would not go forward with a civil nuclear deal with ‌Saudi Arabia unless the Saudis agreed to normalize relations with Israel under the Abraham Accords",
+      "likes": 869,
+      "retweets": 225
+    },
+    {
+      "tweet_id": "2081042574228299955",
+      "author": "@SprinterPress",
+      "text": "CHINA'S RETALIATORY MEASURES\n\nThe European Union has approved the 21st package of sanctions against Russia. Fourteen Chinese companies have been included in the sanctions. Beijing responded in kind, adding 14 European organizations to its blacklist, including Rheinmetall and the",
+      "likes": 584,
+      "retweets": 117
+    },
+    {
+      "tweet_id": "2080986425001156627",
+      "author": "@MarioNawfal",
+      "text": "🇹🇷🇺🇸 Turkey is STILL locked out of the U.S F-35 program, despite Erdogan hoping Trump would let them in after the NATO summit in Ankara\n\nThe State Department sent a letter to Congress stating Turkey has not met the legal requirements to rejoin the F-35 program, primarily due to",
+      "likes": 504,
+      "retweets": 76
+    },
+    {
+      "tweet_id": "2081084055161073935",
+      "author": "@AJENews",
+      "text": "BREAKING: Ukraine’s President Volodymyr Zelenskyy says Russian satellite surveillance shows Moscow is helping Tehran direct strikes in the Middle East.\n\n🔴More on",
+      "likes": 433,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2080834735677243526",
+      "author": "@OSINTWarfare",
+      "text": "Fires burn at the ARAMCO oil terminal in Jazan, Saudi Arabia, following a ballistic missile attack by Ansar Allah (Houthis).",
+      "likes": 362,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2081304342666137613",
+      "author": "@beatsinbrief",
+      "text": "🚨 BIG: HCLTech will invest $1.48 billion to build its first AI data centre in Odisha with Sarvam AI, strengthening 🇮🇳 India's sovereign AI infrastructure.",
+      "likes": 348,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2080955623529714141",
+      "author": "@Thorkill65",
+      "text": "Blokada morska Odessy, cześć II. Władze Ukrainy wciąż liczą na jej szybkie zwinięcie za pomocą działań wojennych na Morzu Czarnym.\n\nBlokada morska zespołu portów odeskich (Czarnomorsk - Odessa - Piwdennyj) trwa w praktyce już piąty dzień i powoli zaczyna niekorzystnie wpływać na",
+      "likes": 332,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2080716416550892017",
+      "author": "@zerohedge",
+      "text": "\"USA Isn't A PiggyBank For Europe\": Trump Launches Section 301 Probe Into EU Over Big Tech Fines",
+      "likes": 250,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2081393737628815504",
+      "author": "@ZelenskyyUa",
+      "text": "I held a meeting on our deep-strike operations. Ukraine's plan for long-range sanctions against Russia over this war is being carried out in line with the set priorities.\n\nOur strike range has already exceeded 3,000 kilometers, and we continue to expand our ability to operate at",
+      "likes": 216,
+      "retweets": 48
+    },
+    {
+      "tweet_id": "2080699613271527438",
+      "author": "@washingtonpost",
+      "text": "Japan is building its intelligence capabilities for the first time since World War II, aiming to counter threats from China, North Korea and Russia. \n\nThis effort includes establishing a national intelligence bureau and plans for a CIA-like agency.",
+      "likes": 179,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2081313609733296306",
+      "author": "@business",
+      "text": "The Philippines, Japan and the US completed their latest round of joint defense exercises in the South China Sea as tensions between Manila and Beijing escalate in the contested waterway",
+      "likes": 121,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2081372303242223995",
+      "author": "@Maks_NAFO_FELLA",
+      "text": "‼️ Following the May drone attacks on Moscow, Russia significantly accelerated the construction of air defense towers around the capital, - @oko_gora_tg \n\nSpecifically, 24 new towers have appeared around Moscow, located within a 40-kilometer radius. Some of them cover the Moscow",
+      "likes": 119,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2081306680264884317",
+      "author": "@BWisniakowski",
+      "text": "Polska stawia kropkę nad „i” w dziedzinie niezależności gazowej! 🇵🇱⚓\nPoznajcie „Solidarity” - pierwszy polski pływający terminal LNG (FSRU).\nCo to oznacza od 2028 roku?\n🔹 Gaz z KAŻDEGO zakątka świata na polskim rynku,\n🔹 Zero zależności, 100% bezpieczeństwa,\n🔹 Polska kluczowym",
+      "likes": 98,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2080873467881070966",
+      "author": "@murtuza_merc",
+      "text": "Nvidia invested $1 billion in Naver to build South Korea's largest AI data center. Seoul wants to become Asia's compute hub. Whether Korea's infrastructure bet beats China's chip ban workaround is the question.",
+      "likes": 103,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2080956681828143374",
+      "author": "@SprinterPress",
+      "text": "France is on fire, with Bordeaux under threat, where a full evacuation of the 300,000-strong city could begin this weekend.\n\nWildfires in France have reached unprecedented levels, and in recent days, tens of thousands of people are being evacuated daily from various regions.",
+      "likes": 85,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2080705133919285536",
+      "author": "@tassagency_en",
+      "text": "The European Union has approved a legal mechanism under its 21st package of sanctions against Russia that paves the way for the confiscation and sale of Russian oil seized from blacklisted tankers owned by third countries, according to a Council of the EU regulation published in",
+      "likes": 75,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2081378196088557601",
+      "author": "@zephyr_z9",
+      "text": "\"China has achieved near-domestication of almost everything except DUV exposure equipment. (HARC ETCH too..??)\"\nYes, AMEC has 90:1 cryo etch tool (matching TEL)",
+      "likes": 93,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2081279136253808697",
+      "author": "@LarkDavis",
+      "text": "Japan just found a trump card against China.\n\nA drilling ship pulled 50 tons of mud from nearly 20,000 feet under the Pacific in February. This week the lab results came back: over half the rare earths inside were the hard-to-get kind China has been choking off, the ones behind",
+      "likes": 80,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080835468262785149",
+      "author": "@ReutersChina",
+      "text": "China is banning the export of dual-use items to 14 additional European Union entities with immediate effect, the Commerce Ministry said on Friday, adding that the measure was in response to the EU's latest sanctions against Russia.",
+      "likes": 40,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2081021981986820151",
+      "author": "@IranIRGCC",
+      "text": "🇹🇷🇺🇸 Turkey remains excluded from the U.S. F-35 fighter jet program, despite President Recep Tayyip Erdoğan reportedly hoping for progress following the NATO summit.\n\nAccording to a letter sent by the U.S. State Department to Congress, Turkey has not yet met the legal",
+      "likes": 46,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2080785119724376569",
+      "author": "@fowatchfloor",
+      "text": "The U.S. has imposed tariffs on 60 countries citing forced labor law violations, as reported by THE NATIONAL LAW REVIEW. The tariffs took effect July 24, with Canada, Australia, the U.K., the European Union, China, Argentina, and El Salvador among those targeted.\n\nThe Office of",
+      "likes": 41,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2081356440162254861",
+      "author": "@KonradKrajewsk6",
+      "text": "Łotwa traci kontrolę nad zewnętrzną granicą UE! Nielegalni migranci masowo ruszyli szlakiem przez Polskę i Finlandię w stronę Niemiec.\n\n🇪🇪 Estonia alarmuje: 4. dzień z rzędu służby wyłapują migrantów w porcie w Tallinnie (już ponad 30 osób).\n\nOprócz drogi przez nasz kraj powstał,",
+      "likes": 30,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2080698702281203770",
+      "author": "@gonultol",
+      "text": "In July, the IMF cut its forecast for Turkey’s economy again, lowering expected growth in 2026 to 2.9 percent from 3.4 percent in April. That was the IMF’s second downgrade this year, after it had already reduced its forecast from 4.2 percent in january, one of the steepest",
+      "likes": 30,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2081277338042454439",
+      "author": "@RuchNarodowy",
+      "text": "DYNAMICZNA EKSPANSJA CHIŃSKIEJ MOTORYZACJI W UE!\n\n🇨🇳Chińscy producenci, w tym BYD oraz Chery, osiągnęli w czerwcu 34% udziału w dostawach hybryd typu plug-in na rynku europejskim. Autor artykułu podkreśla, że samochody PHEV nie są obecnie objęte unijnymi cłami antysubsydyjnymi",
+      "likes": 24,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080946155744076103",
+      "author": "@Newsforce",
+      "text": "🇺🇸 Trump says the U.S. will investigate the European Union after it fined Google €890 million for violating the bloc's Big Tech rules.\n\nTrump called the penalty \"illegal\" and announced a Section 301 trade investigation into what he described as the EU \"robbing\" American",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2080682163981140094",
+      "author": "@Protos",
+      "text": "European Union sanctions Justin Sun’s HTX",
+      "likes": 11,
+      "retweets": 3
+    }
+  ]
+}
