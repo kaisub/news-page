@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-27",
+  "slot": "01",
+  "generated_at": "2026-07-27T01:15:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2080824399578746903",
+      "author": "@jerryjliu0",
+      "text": "We just released a LiteParse feature that allows image-to-pdf conversion to be natively handled in Rust, removing dependencies on external packages.\n\nLiteParse is a cheat code for PDF parsing. It is the fastest, lightest-weight, most accurate free/open-source parsing solution out",
+      "likes": 59,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2081503565600985593",
+      "author": "@silennai",
+      "text": "we just open sourced a tool train a specialized model at Fable quality and half the cost\n\nit uses agent traces to continuously improve via\n\n• distillation and RL\n• model routing\n• token compaction",
+      "likes": 48,
+      "retweets": 10
+    }
+  ]
+}

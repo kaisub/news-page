@@ -1,0 +1,142 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-27",
+  "slot": "01",
+  "generated_at": "2026-07-27T01:15:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2081275576057512065",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Startuje sezon wyników na GPW. Prognozy zysków wybranych spółek (Q2 2026): \n\nŻabka: 328,5 mln zł (+71% r/r)\nMillennium: 398 mln zł (+20,2% r/r)\nmBank: 1,04 mld zł (+8,4% r/r)\nBudimex: 169 mln zł (+8,2% r/r)\nErste Bank: 1,05 mld zł (+3,6% r/r)\nPekao: 1,47 mld zł (-8,2% r/r)",
+      "likes": 65,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2080953990997528861",
+      "author": "@Macronextcom",
+      "text": "#Orlen celem ataków rosyjski siatki dezinformacyjnej łączonej z wywiadem wojskowym GRU.",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2081349996574646572",
+      "author": "@PAPinformacje",
+      "text": "Plaże w Normandii, miejsce desantu aliantów w 1944 r., wpisane na listę UNESCO ⤵️\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2081479605982990687",
+      "author": "@PAPinformacje",
+      "text": "Iran oskarża Kijów o chęć rozszerzenia wojny. „Zełenski zaatakował irański okręt”\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081343418387578904",
+      "author": "@PAPinformacje",
+      "text": "Armia Iranu: wojna „rozprzestrzeni się”, jeśli USA wznowią ataki\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2081376162245185826",
+      "author": "@PAPinformacje",
+      "text": "Adam Kwiatkowski kończy misję ambasadora w Watykanie\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081460091333558611",
+      "author": "@PAPinformacje",
+      "text": "Zamach w Berlinie. Sprawca zastrzelony przez policję\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2081350371167863108",
+      "author": "@PAPinformacje",
+      "text": "Ponad 20 kąpielisk nad Bałtykiem z zakazem kąpieli ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2080937161327608315",
+      "author": "@MichaFiszer",
+      "text": "Chętnych do służby w SWO coraz mniej\n\nMiesięczny żołd rosyjskiego żołnierza kontraktowego na froncie wynosi obecnie zazwyczaj od 200 000 do 260 000 rubli (w przeliczeniu około 9 800 – 12 700 złotych).Stawka ta zależy od stopnia wojskowego, pełnionej funkcji oraz dodatków bojowych",
+      "likes": 713,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2081001523383804342",
+      "author": "@ME_GOV_PL",
+      "text": "🏗️ Pierwsza polska elektrownia jądrowa przechodzi do fazy realizacji.\n\n📍 Lokalizacja: Lubiatowo-Kopalino\n⚛️ 3 reaktory AP1000\n⚡ ok. 3,75 GWe mocy\n📅 Rozpoczęcie komercyjnej pracy pierwszego bloku planowane jest na 2036 r.\n\nTo największa inwestycja energetyczna realizowana",
+      "likes": 191,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2081396131699786042",
+      "author": "@EuromaidanPress",
+      "text": "Poland's wall against Russia barely exists where the satellites can see it\n\nPoland has fortified only four short stretches of its 210-kilometer border with Russia's Kaliningrad exclave, the longest barely two kilometers, satellite imagery examined by open-source analyst Clément",
+      "likes": 78,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2080910279009862024",
+      "author": "@szejnfeld",
+      "text": "Dane GUS nie pozostawiają wątpliwości – produkcja budowlano-montażowa w czerwcu wzrosła o 5,2% rok do roku. To dobry sygnał dla gospodarki i efekt większej aktywności inwestycyjnej. Budujemy więcej, a polskie budownictwo nabiera tempa.",
+      "likes": 44,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2081021157558321609",
+      "author": "@prywatnik",
+      "text": "Agent AI, który wymknął się spod kontroli, przez kilka dni działał poza narzuconymi ograniczeniami i włamywał się do infrastruktury Hugging Face. OpenAI miało przez co najmniej tydzień nie zdawać sobie sprawy, że to jego agent odpowiada za cyberatak. Wcześniej jeden z agentów",
+      "likes": 43,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2080911235755766038",
+      "author": "@MSWiA_GOV_PL",
+      "text": "📊 Wspólnie ze @Straz_Graniczna przygotowaliśmy dla Was tygodniowy raport z granicy (17-23.07) ⤵️  \n\n✅ nie odnotowano prób nielegalnego przekroczenia granicy z Białorusią                            \n✅ zatrzymano 4 przemytników ludzi\n✅ prawie 220 cudzoziemców opuściło Polskę –",
+      "likes": 33,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2081348421252735216",
+      "author": "@LukasKobierski",
+      "text": "▶️Gospodarka Wietnamu🇻🇳 wzrosło o 8,18% PKB w pierwszej połowie 2026 roku👇",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2081022649338138982",
+      "author": "@szejnfeld",
+      "text": "💼📈 Wynagrodzenia w czerwcu wzrosły o 5,9% rok do roku i 2,5% względem maja – pokazują dane GUS. To dobra wiadomość dla pracowników i polskich rodzin. 🇵🇱 Silniejsza gospodarka to wyższe płace i większe możliwości rozwoju. 💙",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081031867805884850",
+      "author": "@rzetelnik_pl",
+      "text": "🇫🇷❗ Gigantyczne pożary w południowo-zachodniej Francji – skala bezprecedensowa\n\nOd środy 22 lipca (ognisko w Saumos koło Basenu Arcachon) ogień w Gironde i Landes strawił już ponad 22 tys. ha – więcej niż powierzchnia Paryża.\n\nEwakuowano ok. 140–200 tys. osób (w tym całą",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2081438932336562524",
+      "author": "@GGielerak",
+      "text": "O wyniku finansowym szpitala w 2025 r. nie decydowała cena punktu, ale terminarz płatnika.\n📊 Ponad 2,2 mln pozycji rozliczeniowych z dwunastu oddziałów wojewódzkich NFZ, pozyskanych w trybie dostępu do informacji publicznej, pokazuje ten mechanizm – kalendarz i skalę aneksów – w",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2080859594268590252",
+      "author": "@MagdaGreiner",
+      "text": "Kredyt w Polsce. Nieruchomość w Polsce. Bank w Polsce. Kredytobiorca za granicą. Wszystko jasne? Nie do końca. Do tej pory wątpliwości budziło to, który polski sąd powinien rozpoznać taką sprawę. Podpisana właśnie ustawa porządkuje tę kwestię. #Frankowicze",
+      "likes": 9,
+      "retweets": 0
+    }
+  ]
+}

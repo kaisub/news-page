@@ -1,0 +1,177 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-07-27",
+  "slot": "01",
+  "generated_at": "2026-07-27T01:15:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2081027456107180392",
+      "author": "@RadekPyffel",
+      "text": "Wchodzą w życie zapowiadane 10 i 12,5% stawki celne USA na produkty eksportowe 60 państw, które zdaniem amerykańskiej administracji niedbale egzekwowały zakazy pracy przymusowej. \n\nWiększość krajów będzie podlegać wyższej stawce celnej w wysokości 12,5% między innymi Chiny i co",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081161785743204437",
+      "author": "@sentdefender",
+      "text": "The New York Times reports that President Donald J. Trump has, for now, paused plans to significantly expand U.S. strikes against Iran after senior military leaders warned that doing so could dangerously deplete Patriot interceptor and other air defense missile stockpiles needed",
+      "likes": 3618,
+      "retweets": 693
+    },
+    {
+      "tweet_id": "2081479354408731106",
+      "author": "@visionergeo",
+      "text": "‼️‼️🇺🇦🇷🇺 BREAKING | Ukraine has reportedly launched one of its largest long-range drone operations in recent months, with more than 340 kamikaze drones currently heading toward Russian regions and occupied Crimea.\n\nThe large-scale strike is reportedly targeting military",
+      "likes": 2138,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2081152193495777394",
+      "author": "@KobeissiLetter",
+      "text": "China’s liquefied natural gas imports are skyrocketing:\n\nWeekly LNG deliveries into mainland China jumped +137% week-over-week in the week ending July 19th, to nearly 2.0 million metric tons, the highest in 22 months.\n\nChina’s LNG imports have more than quadrupled since",
+      "likes": 1100,
+      "retweets": 155
+    },
+    {
+      "tweet_id": "2081427906903900290",
+      "author": "@Mylovanov",
+      "text": "Sweden is launching its own MI6 after one of Europe’s biggest intelligence mistakes before Russia’s full-scale invasion.\n\nIn 2022, Sweden’s military intelligence, like spy chiefs in France and Germany, judged that Putin would not risk a full-scale war, The Economist. 1/",
+      "likes": 989,
+      "retweets": 167
+    },
+    {
+      "tweet_id": "2081332195214454882",
+      "author": "@MyLordBebo",
+      "text": "🇷🇺 Russia created specialized drone regiments on the sea — Navy Commander-in-Chief, Alexander Moiseyev\n\nBlack Sea Fleet — 1 Regiment;\nBaltic Fleet — 1 Regiment;\nNorthern Fleet — 1 Regiment;\nPacific Fleet — 2 Regiments.\n\nIntegration of different types of drones (aerial UAVs,",
+      "likes": 645,
+      "retweets": 100
+    },
+    {
+      "tweet_id": "2080986425001156627",
+      "author": "@MarioNawfal",
+      "text": "🇹🇷🇺🇸 Turkey is STILL locked out of the U.S F-35 program, despite Erdogan hoping Trump would let them in after the NATO summit in Ankara\n\nThe State Department sent a letter to Congress stating Turkey has not met the legal requirements to rejoin the F-35 program, primarily due to",
+      "likes": 507,
+      "retweets": 76
+    },
+    {
+      "tweet_id": "2080836736154783881",
+      "author": "@Reil76",
+      "text": "Canada had a big day on the trade file. Two deals, same day:\n\nUAE (CEPA) — negotiations concluded in Toronto, 47 days start to finish. Lower tariffs on most goods, fewer technical barriers, comes on the heels of the UAE’s $70B investment pledge from November. Bilateral trade:",
+      "likes": 470,
+      "retweets": 108
+    },
+    {
+      "tweet_id": "2080834735677243526",
+      "author": "@OSINTWarfare",
+      "text": "Fires burn at the ARAMCO oil terminal in Jazan, Saudi Arabia, following a ballistic missile attack by Ansar Allah (Houthis).",
+      "likes": 362,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2081473064982725088",
+      "author": "@KyivIndependent",
+      "text": "'Putin preparing to send more Russians to war' — Zelensky warns of mobilization, reveals figures showing Russian losses exceed recruitment; Romania shoots down third drone in three days as tensions rise over Russian airspace violations; and more.",
+      "likes": 237,
+      "retweets": 60
+    },
+    {
+      "tweet_id": "2081178413470224654",
+      "author": "@AJEnglish",
+      "text": "Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco, in the latest escalation between the two sides. \n\nSaudi authorities say they intercepted the missile and drone attacks. Yousef Mowry has more details from Sanaa.",
+      "likes": 167,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2081543166285525475",
+      "author": "@Polymarket",
+      "text": "JUST IN: Zelenskyy claims he has evidence that Russia helped Iran target American military bases.",
+      "likes": 167,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2081514939374584153",
+      "author": "@TheStudyofWar",
+      "text": "NEW: The Russian Navy is forming unmanned systems regiments, likely in part to protect Russian vessels from intensified Ukrainian strikes against Russian naval assets in the Black and Azov seas.\n\nOther Key Takeaways:\n\nRussian President Vladimir Putin used Russia’s Navy Day to",
+      "likes": 151,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2081419492576395433",
+      "author": "@Rusia_HD",
+      "text": "🚨 BREAKING:\n\n🔴​🇺🇸 U.S. President Donald Trump has announced new customs tariffs targeting dozens of countries.\n\nWhile new baseline tariffs are set at 10%, the additional custom tariff applied to Turkey has been determined as 12.5%...",
+      "likes": 134,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2081106807578333455",
+      "author": "@_MAGA_NEWS_",
+      "text": "JUST NOW: US Treasury sanctions Mahmoud al-Abyari, a London-based Secretary-General of the Muslim Brotherhood, for raising funds for Hamas and bans him from entering the USA.",
+      "likes": 126,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2080907865414402442",
+      "author": "@michaelxpettis",
+      "text": "There was a lot of talk last year about fighting involution and reversing excess capacity, but while capacity has indeed declined, according to Caixin it hasn't declined by nearly enough to end severe overcapacity problems in the solar industry.\n\n\"China’s newly installed solar",
+      "likes": 126,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2080974033353400799",
+      "author": "@Market_Mind_",
+      "text": "Critical Minerals — Who Controls the Future (2026)\n\n🇨🇳 China — 60% of global rare earth production + 90% of processing capacity\n🇨🇩 DRC Congo — 70% of global cobalt (essential for EV batteries)\n🇨🇱 Chile — 28% of global lithium (Atacama Desert)\n🇦🇺 Australia — world's largest",
+      "likes": 96,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2081532518101090604",
+      "author": "@ME_Observer_",
+      "text": "⚡️🚨 Iran says it will halt attacks if US commits to ceasefire. An Iranian official tells Reuters the condition for maintaining pause in hostilities is US adherence to the latest temporary cessation agreement. (Al Mayadeen Breaking)",
+      "likes": 106,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2081266265134416137",
+      "author": "@Market_Mind_",
+      "text": "Countries Building the Most Small Modular Nuclear Reactors\n\n🇺🇸 USA — 28 Siting Activities\n🇨🇦 Canada — 9 Siting Activities\n🇬🇧 UK — 7 Siting Activities\n🇷🇺 Russia — 5 Siting Activities\n🇫🇷 France — 4 Siting Activities\n🇨🇳 China — 4 Siting Activities\n🇵🇱 Poland — 4 Siting Activities\n🇫🇮",
+      "likes": 84,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2081023187161055505",
+      "author": "@IISS_org",
+      "text": "Critical raw-material trade flows have become caught up in the broader United States–China trade war. Since August 2023, Beijing has imposed increasingly extensive and stringent export controls on critical minerals, with wide-ranging implications not only for civilian industry",
+      "likes": 61,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2081445091650970035",
+      "author": "@RT_on_X",
+      "text": "Turkey to deploy F-16s in Estonia for ROUND-THE-CLOCK NATO patrols\n\nFive Turkish F-16s and 76 personnel are preparing to deploy to Estonia as part of NATO’S BALTIC AIR MISSION",
+      "likes": 37,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2081277338042454439",
+      "author": "@RuchNarodowy",
+      "text": "DYNAMICZNA EKSPANSJA CHIŃSKIEJ MOTORYZACJI W UE!\n\n🇨🇳Chińscy producenci, w tym BYD oraz Chery, osiągnęli w czerwcu 34% udziału w dostawach hybryd typu plug-in na rynku europejskim. Autor artykułu podkreśla, że samochody PHEV nie są obecnie objęte unijnymi cłami antysubsydyjnymi",
+      "likes": 36,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2081409311406694502",
+      "author": "@USATODAY",
+      "text": "The Trump administration has paused U.S. strikes in Iran after nearly two weeks of military attacks.",
+      "likes": 24,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2081528001284460544",
+      "author": "@alphaticaio",
+      "text": "South Korea just committed $950 billion in AI deals in a single day. At a single summit. In San Francisco.\n\nThe breakdown:\n\nSK Group: $750 billion total.\nSK hynix and NVIDIA: $500 billion partnership for long-term AI memory supply and co-development of next-generation HBM for",
+      "likes": 17,
+      "retweets": 0
+    }
+  ]
+}
