@@ -1,0 +1,23 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-27",
+  "slot": "02",
+  "generated_at": "2026-07-27T15:54:54Z",
+  "tweets": [
+    {
+      "tweet_id": "2081069940099141951",
+      "author": "@jerryjliu0",
+      "text": "The Opus 5 system card itself is a fun PDF to parse. It's 193 pages and stacked with labeled and unlabeled charts 📊\n\nLlamaParse does a surprisingly good job on agentic (1.25c per page) and agentic plus modes (5.6c per page). Take a look at some of the screenshots below. It can",
+      "likes": 87,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2081746074675388816",
+      "author": "@AYi_AInotes",
+      "text": "Stop waiting for a smarter model.\n\nThe agent era starts the day execution costs hit the floor.\n\nLing-3.0-flash quietly showed up on OpenRouter. 124B total params, 5.1B active. No launch event, no marketing push, it just appeared. Output quality matches some flagship models,",
+      "likes": 19,
+      "retweets": 1
+    }
+  ]
+}
