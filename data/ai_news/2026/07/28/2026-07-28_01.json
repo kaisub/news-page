@@ -1,0 +1,16 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-28",
+  "slot": "01",
+  "generated_at": "2026-07-28T01:13:43Z",
+  "tweets": [
+    {
+      "tweet_id": "2081819550329327689",
+      "author": "@RampLabs",
+      "text": "We’re open-sourcing PorTAL, our framework for shared task representations and cross model LoRA adaptation.\n\nIt now spans from hybrid attention models to multimodal systems including Gemma 4 E2B, Mistral 7B &amp; @thinkymachines' Inkling.\n\nCode: ramp-public/portallib\nModels:",
+      "likes": 309,
+      "retweets": 25
+    }
+  ]
+}
