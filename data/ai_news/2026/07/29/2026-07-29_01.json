@@ -1,0 +1,93 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-29",
+  "slot": "01",
+  "generated_at": "2026-07-29T01:11:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2082241150287741030",
+      "author": "@reach_vb",
+      "text": "Two new transcription models are now available in the API!\n\n&gt; GPT Live Transcribe for low-latency live transcription\n&gt; GPT Transcribe for completed audio and batch workloads\n\nThe coolest part is how well they can use context - you can pass free-form information about the",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082162168909509015",
+      "author": "@svpino",
+      "text": "Here is a new open-weight audio model you can integrate with your app.\n\nI'm a huge sucker for open models that you can host to keep your data secure and away from Big AI.\n\nThe model is Fish Audio S2.\n\nYou'll find the weights, the code to fine-tune it, and a streaming inference",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081766163865088220",
+      "author": "@rauchg",
+      "text": "Kimi K3 is the most powerful open-weight model in the world. It's now available on @vercel AI Gateway from 🇺🇸 USA-based inference providers at high availability &amp; performance. We've signed ZDR (Zero-Data Retention) agreements, which you can enable for all your token traffic.",
+      "likes": 2131,
+      "retweets": 93
+    },
+    {
+      "tweet_id": "2081899141920428535",
+      "author": "@oliviscusAI",
+      "text": "Suno just got replaced entirely🤯\n\nSomeone built ACE-Step UI, a Spotify-style interface for ACE-Step 1.5 that generates full songs with vocals up to 4+ minutes, completely locally on your own GPU. \n\n100% Free. Open-Source and Local",
+      "likes": 831,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2081769222301257859",
+      "author": "@PrakamyaMishra",
+      "text": "🚀 We are excited to introduce Instella-MoE✨, AMD's first fully open Mixture-of-Experts (MoE) language model!\n\nInstella-MoE has 16B total parameters with only 2.8B active parameters per token. Trained from scratch on AMD Instinct™ MI300X and MI325X GPUs using AMD-Primus and",
+      "likes": 646,
+      "retweets": 93
+    },
+    {
+      "tweet_id": "2081818779831742854",
+      "author": "@ilblackdragon",
+      "text": "IronClaw has a new and improved architecture! Now outperforming other agent harnesses on multiple benchmarks (see  the rebuilt 1.0 version truly delivers the benefits of an agentic assistant while also preserving your data and privacy.\n\nI think of the",
+      "likes": 285,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2082164467857858757",
+      "author": "@tilderesearch",
+      "text": "Introducing Online KL Shampoo (OKLS), an optimizer that brings a KL-optimal approximation of full-matrix AdaGrad to language-model training.\n\nDiagonal optimizers ignore correlations between gradient coordinates. Full-matrix AdaGrad captures this geometry but requires quadratic",
+      "likes": 227,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2082144188389544426",
+      "author": "@alaymanguy",
+      "text": "Introducing emailcn 📧 by @shadcnlabs \n\n&gt; Built on React Email by @resend, @mjmlio and @JSXemail by @shellscape\n&gt; Zero config, one command setup.\n&gt; @shadcn /ui compatible (simply copy-paste)\n&gt; 50+ components with 500+ variants\n&gt; Fully customizable\n\n100% free and open-source.",
+      "likes": 204,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2082100009055514701",
+      "author": "@RoundtableSpace",
+      "text": "THIS OPEN-SOURCE CODING AGENT BOOTS UP TO 245X FASTER THAN CLAUDE CODE\n\n* Delivers ultra-fast startup, semantic memory, multi-agent collaboration, and support for 30+ AI providers\n* Built in Rust, MIT licensed, and runs on macOS, Windows, Linux, and Termux",
+      "likes": 95,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082264296851898865",
+      "author": "@Polymarket",
+      "text": "JUST IN: OpenAI quietly releases Codex Security CLI, an open-source tool for scanning code repositories &amp; verifying security fixes.",
+      "likes": 67,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2082129926245830953",
+      "author": "@tom_doerr",
+      "text": "Agent Skill Creator transforms a plain English description of a workflow into a complete, validated AI agent skill that installs on 17 platforms including Claude Code, Cursor, and Copilot.",
+      "likes": 53,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2082165831296016746",
+      "author": "@leanxbt",
+      "text": "This paper completely changed how I think about how to make RL for reasoning cheap:\n\nTake a prompt -&gt; Sample a group of answers -&gt; Compute the baseline from the group itself -&gt; Reward relative to the group mean -&gt; Update the policy with no critic model\n\nHere is the 4-step",
+      "likes": 25,
+      "retweets": 3
+    }
+  ]
+}
