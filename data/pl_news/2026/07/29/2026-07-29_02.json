@@ -1,0 +1,219 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-29",
+  "slot": "02",
+  "generated_at": "2026-07-29T16:00:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2081998086721708165",
+      "author": "@Macronextcom",
+      "text": "BIEC: Gospodarka się rozpędza.\n\n#Polska 🇵🇱: w VII 2026 r. Wskaźnik Wyprzedzający Koniunktury wg BIEC: 176,6 pkt. 📈 (poprzednio: 175,0 pkt.)",
+      "likes": 65,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2082324985889148982",
+      "author": "@Macronextcom",
+      "text": "Środa na rynkach zaczyna się słabo. Kolejny dzień mocnej wyprzedaży na części giełda w Azji (teraz KOSPI -9,77%, Nikkei -2,92%) plus skok cen ropy o 4%.\n\nA przed rynkami jeszcze posiedzenie #Fed oraz wyniki kwartalne Meta Platforms i Microsoft.\n\nKalendarz:",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081987325249147229",
+      "author": "@mbank_research",
+      "text": "🇵🇱🇨🇿 Ceny E95 można obserwować w ramach eksperymentu naturalnego. W Polsce program osłonowy był, w Czechach nie było. Dokładnie widać na wykresie, kiedy CPN  został wprowadzony i wycofany. Nie widać natomiast, że poza tym epizodem ceny paliw w PL i CZ zachowują się odmiennie.",
+      "likes": 25,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082030725419630860",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Dzisiejsza reakcja na wyniki kwartalne spółek z GPW:\n\n📈 Monnari: +7,1%\n📈 Orange Polska: +3,4%\n📈 Bank Millennium: +1,5%\n📉 Forte: -0,6% \n\n...a w bonusie Pepco +3,1% po zmianie warunków skupu akcji własnych.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081987812719493532",
+      "author": "@Macronextcom",
+      "text": "#Pepco\n\n🔸Pepco anuluje pierwotny skup akcji i rozpoczyna nowy o wartości do 400 mln EUR;\n🔸podnosi maksymalną cenę akcji w skupie do 47,52 zł z 41,76 zł;\n🔸nowy skup potrwa od 29 lipca do 12 sierpnia.\n\nWczoraj akcje Pepco po 44,67 zł. Od początku roku wzrost o +51,1%.",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082380517731680733",
+      "author": "@PAPinformacje",
+      "text": "Rzecznik praw obywatelskich Sylwia Gregorczyk-Abram złożyła ślubowanie przed Sejmem. (PAP)\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082400935024668873",
+      "author": "@PAPinformacje",
+      "text": "KPRM: w środę po południu w Lublinie premier Donald Tusk spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082347709353054679",
+      "author": "@Macronextcom",
+      "text": "🇸🇪 Drugi kwartał 2026 w szwedzkiej gospodarce wyraźnie lepszy niż pierwszy i dużo lepszy od prognoz. #PKB #Szwecja #SEK \n\nKalendarz makrekonomiczny:",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082370851236618379",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Po wynikach #mBank drożej +1,71%, a #Budimex +0,27%. \n\nDziś po sesji wyniki opublikuje #XTB, Kęty (wstępne już znamy), a także... portugalskie Jeronimo Martins, co będzie punktem odniesienia dla Dino Polska. \n\nps. #mWIG40 jest najwyżej w historii. 💪📈",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082443522096132361",
+      "author": "@PAPinformacje",
+      "text": "🎥 Deepfake w polskim mundurze?\n\nNagrania rzekomo przedstawiające polskich żołnierzy krytykujących Ukrainę, UE i polski rząd okazały się materiałami wygenerowanymi przez AI. Co zdradziło fałszywkę? Obejrzyj najnowsze #SprawdzamTo.\n\nZanim uwierzysz, sprawdź fakty. @sprawdzamto_pl",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082194790666346894",
+      "author": "@PAPinformacje",
+      "text": "Pierwsze spotkanie Trumpa z Netanjahu od rozpoczęcia wojny z Iranem. \"Rozbieżne stanowiska\" ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082190191301632146",
+      "author": "@PAPinformacje",
+      "text": "Wykolejenie pociągu w Małopolsce. Zakończono usuwanie ostatnich wagonów z Popradu ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082076084141523306",
+      "author": "@GUS_STAT",
+      "text": "W #PKD2025 działalność w zakresie #geodezja i #kartografia została wyodrębniona jako osobna podklasa.\n🔎 Prowadzisz taką działalność? Sprawdź, czy Twój kod #PKD jest aktualny i w razie potrzeby zaktualizuj go przed końcem 2026 r.\n\n🔗 \n\n#Przedsiębiorcy #GUS",
+      "likes": 2,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082330002905768176",
+      "author": "@PAPinformacje",
+      "text": "W wyniku trzęsienia ziemi na japońskiej wyspie Kiusiu zginęło 13 osób\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082190062909800741",
+      "author": "@PAPinformacje",
+      "text": "Pożar krzyża papieskiego w Warszawie. Jest decyzja prokuratury ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082334554027643122",
+      "author": "@DGPrawna",
+      "text": "Za niezgodne z ustawą zasadniczą uznał Trybunał Konstytucyjny przepisy dotyczące wzorów dokumentów stanu cywilnego dotyczących zagranicznych związków osób tej samej płci. Wyrok ten zapewne nie zostanie opublikowany w Dzienniku Ustaw.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082368300084805684",
+      "author": "@GUS_STAT",
+      "text": "Układ i długość śródlądowych dróg wodnych w Polsce  od wielu lat pozostają na zbliżonym poziomie. Ogólny  wolumen ładunków przewożonych przez polskich  armatorów żeglugą śródlądową w 2025 r. utrzymał się  na poziomie porównywalnym r/r.\n\n🔗\n\n#GUS #transport",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082456801698586953",
+      "author": "@PAPinformacje",
+      "text": "Do marszałka Sejmu wpłynął wniosek ws. utworzenia klubu parlamentarnego „Rozwój Plus” #PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082368161177796908",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. jednostki ochrony przeciwpożarowej podjęły 483,2 tys. interwencji.Najwięcej z nich dotyczyło miejscowych zagrożeń - 316,3 tys.\nRatownicy wodni uratowali 1 578 osób tonących podczas 2 445 akcji.\n\n🔗\n\n#GUS #statystyka #ratownictwo",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082398475367731575",
+      "author": "@DGPrawna",
+      "text": "Spółka PKP PLK w pierwszej połowie sierpnia ogłosi przetarg na dokończenie inwestycji. Według przewidywań przedsięwzięcie ma być ukończone dopiero w 2030 r., czyli z niemal 10-letnim opóźnieniem.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082325745745969383",
+      "author": "@DGPrawna",
+      "text": "Składka na samorząd radcowski w kosztach PIT? Tylko w działalności gospodarczej",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082477026556957168",
+      "author": "@PAPinformacje",
+      "text": "Pełczyńska-Nałęcz: zgłosimy poprawki do projektu ustawy o najmie krótkoterminowym\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082467932999692738",
+      "author": "@DGPrawna",
+      "text": "Bank, na wniosek syndyka, zamknął rachunek rozliczeniowy firmy, a środki z rachunku VAT przeksięgował na rachunek techniczny. Teraz syndyk nie ma z czego płacić bieżących podatków, więc zadłużenie firmy rośnie.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082452330910249197",
+      "author": "@DGPrawna",
+      "text": "ExtrAct – nowe narzędzie oparte na AI, wdrażane w polskich urzędach – ma pięciokrotnie skrócić czas pracy urzędników. Jednak nie przełoży się to na ograniczenie zatrudnienia – ani obecnie, ani w najbliższym czasie.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082436979422048735",
+      "author": "@DGPrawna",
+      "text": "Milcząca zgoda na sprzedaż alkoholu. Nowe przepisy budzą wątpliwości",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082413826591326364",
+      "author": "@DGPrawna",
+      "text": "Rząd chce uporządkować promocję kraju. Będzie pełnomocnik ds. „marki Polska”",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082382117309161804",
+      "author": "@DGPrawna",
+      "text": "Iran nadal walczy, ale to USA przejęły kontrolę nad światowym rynkiem ropy",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082363617064747369",
+      "author": "@NowySwiat24",
+      "text": "No to już oficjalnie. Polska, pierwszy raz w historii, przekroczyła konstytucyjny limit zadłużenia (60% długu do PKB🇵🇱), mierzony metodą unijną. Po I kwartale tego roku, było to dokładnie 61,6%. Po drugim, na pewno jeszcze więcej. Dla porównania, dług publiczny Polski na koniec",
+      "likes": 3197,
+      "retweets": 1085
+    },
+    {
+      "tweet_id": "2082364946000548255",
+      "author": "@antyKremlak",
+      "text": "Ukraińcy w Polsce to jest szalony boost dla naszej gospodarki, spójrzcie tylko na te liczby:\n\nWpływy do budżetu z ZUS-u + PIT/VAT:\n\n2022: 13,19 mld zł  \n2023: 18,15 mld zł  \n2024: ok. 19 mld zł  \n2025: pełnych danych jeszcze nie ma ale szacunki wskazują na ponad 20 mld zł\n\nWkład",
+      "likes": 892,
+      "retweets": 227
+    },
+    {
+      "tweet_id": "2082045518385914339",
+      "author": "@StZaryn",
+      "text": "Bardzo poważna sytuacja. Na granicy Litwy z Białorusią wykryto tunel (tym razem jeszcze nie ukończony), który przypomina konstrukcję zidentyfikowaną wcześniej na granicy RP. Mowa o trwałej konstrukcji inżynieryjnej, która mogła służyć nie tylko do przekraczania granicy, ale też",
+      "likes": 315,
+      "retweets": 167
+    }
+  ]
+}

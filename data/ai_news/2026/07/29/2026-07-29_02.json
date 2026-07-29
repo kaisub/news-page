@@ -1,0 +1,30 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-29",
+  "slot": "02",
+  "generated_at": "2026-07-29T16:00:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2082105094309613768",
+      "author": "@svpino",
+      "text": "A professional voice agent in a hundred lines of Python code.\n\nListen to this agent speak: This is one of the best, human-like voices and intonation you'll find.\n\nStack: LiveKit + Rime + gpt-4o-mini.",
+      "likes": 301,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2082241150287741030",
+      "author": "@reach_vb",
+      "text": "Two new transcription models are now available in the API!\n\n&gt; GPT Live Transcribe for low-latency live transcription\n&gt; GPT Transcribe for completed audio and batch workloads\n\nThe coolest part is how well they can use context - you can pass free-form information about the",
+      "likes": 55,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082162168909509015",
+      "author": "@svpino",
+      "text": "Here is a new open-weight audio model you can integrate with your app.\n\nI'm a huge sucker for open models that you can host to keep your data secure and away from Big AI.\n\nThe model is Fish Audio S2.\n\nYou'll find the weights, the code to fine-tune it, and a streaming inference",
+      "likes": 43,
+      "retweets": 5
+    }
+  ]
+}
