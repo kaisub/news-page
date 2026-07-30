@@ -1,0 +1,254 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-30",
+  "slot": "01",
+  "generated_at": "2026-07-30T01:14:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2082228994653696371",
+      "author": "@AnthropicAI",
+      "text": "We support this petition, signed by our CEO, several co-founders, and senior staff. \n\nOur own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see",
+      "likes": 4465,
+      "retweets": 511
+    },
+    {
+      "tweet_id": "2082445037389091037",
+      "author": "@svpino",
+      "text": "My transition away from Anthropic is now complete.\n\nI love their models. I love Claude Code. But I'm not willing to keep sending them money while they keep lobbying the government to stifle competitors.\n\nI hope Anthropic finds its way, and I'd be happy to consider them again when",
+      "likes": 3986,
+      "retweets": 253
+    },
+    {
+      "tweet_id": "2082347901062353326",
+      "author": "@reach_vb",
+      "text": "Hola! quick usage update on usage patterns for Sol:\n\nWe’ve shipped several improvements that should make typical Sol usage last ~18% longer, with significantly larger gains for some power users. The five-hour limit will also return tomorrow.\n\nThe reason: Sol works longer, calls",
+      "likes": 593,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2082628413769003269",
+      "author": "@sama",
+      "text": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits.",
+      "likes": 555,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2082232453045842206",
+      "author": "@reach_vb",
+      "text": "ICYMI: we have a dedicated what's new page for all things ChatGPT Work &amp; Codex (updated weekly)\n\nBookmark it to always stay up to date on the latest!",
+      "likes": 376,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2082105094309613768",
+      "author": "@svpino",
+      "text": "A professional voice agent in a hundred lines of Python code.\n\nListen to this agent speak: This is one of the best, human-like voices and intonation you'll find.\n\nStack: LiveKit + Rime + gpt-4o-mini.",
+      "likes": 331,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2082044010583961665",
+      "author": "@reach_vb",
+      "text": "asking codex the most important questions",
+      "likes": 351,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082514844935426129",
+      "author": "@svpino",
+      "text": "Great article arguing that vector indexing is not enough. Companies need a context layer that unifies data, relationships, memory, and tools.\n\nHere is the summary of everything you need:\n\n• Unified, permission-aware data across systems\n• Retrieval tailored to each type of",
+      "likes": 252,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082445610913878295",
+      "author": "@reach_vb",
+      "text": "Codex tip: ask your agent to email you a summary of everything it changed once it’s done!\n\nSo so worth waking up to a recap of everything Codex got up to overnight instead of digging through threads!",
+      "likes": 194,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2081925968168624303",
+      "author": "@jerryjliu0",
+      "text": "If I only went off X posts, I'd think Ramp was an AI lab",
+      "likes": 123,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2082581596608376980",
+      "author": "@reach_vb",
+      "text": "Codex analysed production traffic, improved load balancing, rewrote production GPU kernels and ran hundreds of experiments on its own speculative-decoding model.\n\nThe kernel improvements reduced end-to-end serving costs by 20%, while speculative decoding improved token-generation",
+      "likes": 116,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2082358228667474059",
+      "author": "@reach_vb",
+      "text": "proactive suggestions on ChatGPT Work so on point!!",
+      "likes": 113,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082154864243569042",
+      "author": "@reach_vb",
+      "text": "The OpenAI Student Collective is here! 🎓\n\nUndergraduate Campus Leads will run workshops, Studio Hours + showcases for students from every field.\n\nGet training, funding, credits, a stipend + a global community.\n\nApply by Aug 10!",
+      "likes": 84,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082083148092043496",
+      "author": "@svpino",
+      "text": "If you need the help of the government to crush your competitors, you are going to lose eventually.\n\nIf your product can't compete on its own merits, no amount of regulation will save you.\n\nGovernments change. Political parties come and go in and out of power.\n\nAt the end of the",
+      "likes": 81,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082168402630812030",
+      "author": "@reach_vb",
+      "text": "ChatGpT Work for making sense of unstructured data:",
+      "likes": 66,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082241150287741030",
+      "author": "@reach_vb",
+      "text": "Two new transcription models are now available in the API!\n\n&gt; GPT Live Transcribe for low-latency live transcription\n&gt; GPT Transcribe for completed audio and batch workloads\n\nThe coolest part is how well they can use context - you can pass free-form information about the",
+      "likes": 60,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082513111018586397",
+      "author": "@hwchase17",
+      "text": "deep agents 0.7!",
+      "likes": 61,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082167606782435520",
+      "author": "@nauczymycieAI",
+      "text": "Irytuje Cię gadatliwość modeli AI (w tym Opusa 5)? Więcej konkretu przyspieszyłoby Twoją pracę?\n\nMam dla Ciebie dobrą wiadomość. Powstała wtyczka, która to rozwiązuje. Sam z niej korzystam - i polecam to każdemu - wbrew nazwie, nie tylko osobom z ADHD.\n\nZnasz pewnie ten schemat.",
+      "likes": 59,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082609245011198432",
+      "author": "@reach_vb",
+      "text": "Codex tip: use codex exec to turn any prompt into a repeatable, scriptable workflow.  \n\nI typically use it for clean, isolated model runs: ephemeral sessions, a pinned model and reasoning effort, no network or MCP access, and a separate directory for every run.  \n\nIt's super",
+      "likes": 50,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2082481778548506738",
+      "author": "@svpino",
+      "text": "My agent can now talk to your agent.\n\nI'll have to take some time to think about the implications here.\n\nUp to this point, your personal assistant agent, whether it's Hermes, OpenClaw, or something else, only knew you. It had no way to find someone else's agent and work something",
+      "likes": 53,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082162168909509015",
+      "author": "@svpino",
+      "text": "Here is a new open-weight audio model you can integrate with your app.\n\nI'm a huge sucker for open models that you can host to keep your data secure and away from Big AI.\n\nThe model is Fish Audio S2.\n\nYou'll find the weights, the code to fine-tune it, and a streaming inference",
+      "likes": 45,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082480105432162306",
+      "author": "@svpino",
+      "text": "You gotta be drunk to think regular people will start vibe-coding the apps they need.\n\nBut software is now more competitive than ever, so you need to go all in and build a business that people can't vibe-code.\n\nViktor just hired Robbie O’Connor, the go-to-market operator behind",
+      "likes": 42,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082510927187095910",
+      "author": "@svpino",
+      "text": "Kimi K3 is one of the strongest open-weight models for advanced coding workflows:\n\n1. A 2.8T-parameter model\n2. 1M-token context window\n3. Native multimodal capabilities\n4. Built for agentic workflows\n5. Supports long, autonomous coding sessions\n\nThanks to Verdent and Moonshot",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082456003799339028",
+      "author": "@rpl_0x",
+      "text": "Bory Tucholskie",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082397484735959176",
+      "author": "@sentient_agency",
+      "text": "10 GITHUB PROJECTS THAT TURN YOUR OLD COMPUTER INTO A SUPERPOWER\n\nThat machine collecting dust can become your private cloud, Netflix server, AI assistant, smart-home brain, security system, or internet-wide ad blocker.\n\nBefore you throw it away, install one of these.\n\n1.",
+      "likes": 25,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2082181578890088607",
+      "author": "@svpino",
+      "text": "The new WorldDiT robotics model is really cool:\n\nIt's very small (&lt; 1B parameters), yet it can perform prediction and control in a single model.\n\n• It can predict how the world will change\n• It then decides what the robot should do\n\nModels are getting smaller and more capable.",
+      "likes": 23,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2081938238839931223",
+      "author": "@hwchase17",
+      "text": "✈️LangChain in London!\n\nWe're going to be hosting our first ever Interrupt:London event this year!\n\nIt will be October 13th at Outernet London\n\nWe'll have launches, firesides, customer talks, workshops, and more\n\nCome join us :)",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082050465509077036",
+      "author": "@sentient_agency",
+      "text": "Mac users get Spotlight and Alfred.\n\nWindows users get a Start menu that sometimes searches the internet instead of their own computer.\n\nFlow Launcher fixes that.\n\nPress Alt + Space and type what you need.\n\n- An app.\n- A file.\n- A folder.\n- A browser bookmark.\n- A Windows",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2082536230181650862",
+      "author": "@hwchase17",
+      "text": "this is a cool example of \"dreaming\" memory\n\nopenwiki is a wiki for your codebase. on some schedule, a background process will run and look at your langsmith traces to see how coding agents *actually* interacted with your codebase\n\nand then will update the wiki!",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082482678230642772",
+      "author": "@nauczymycieAI",
+      "text": "Niedoszacowanie wzrostu wykładniczego - to dobrze znane zjawisko w ekonomii behawioralnej.\n\nW uproszczeniu: intuicyjnie zakładamy, że zmiany będą postępować liniowo. Dlatego nie doceniamy procesów, których tempo z czasem przyspiesza.\n\nPamiętacie erę GPT 3.5 i później - Opusa 4?",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082488792393646498",
+      "author": "@jerryjliu0",
+      "text": "i fucking love United now",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082599246469963948",
+      "author": "@svpino",
+      "text": "This is pretty surreal 👀",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082136612859793685",
+      "author": "@nauczymycieAI",
+      "text": "W AI dzieje się tyle, że ciężko nadążyć?\n\nW poniedziałek wychodzi mój newsletter, który pomoże Ci być na bieżąco z AI w biznesie.\n\nW środku najważniejsze informacje z ostatniego miesiąca, polecane narzędzia i poradniki.\n\n1x w miesiącu, same konkrety 👇",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082133776633634941",
+      "author": "@rpl_0x",
+      "text": "Ale fajna nowość w google maps ♥️\n\nAi na podstawie opinii opisuje miejsce\n\n(Tak, znowu rower i biwak 😉)",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082346681438200266",
+      "author": "@prywatnik",
+      "text": "Agent AI, który wydostał się z izolowanego środowiska OpenAI i włamał się do infrastruktury Hugging Face, przez ponad 4 dni prowadził autonomiczną kampanię obejmującą około 17600 działań. Najpierw przejął zewnętrzne środowisko do wykonywania kodu, przejął możliwość wykonywania",
+      "likes": 216,
+      "retweets": 31
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-30",
+  "slot": "01",
+  "generated_at": "2026-07-30T01:14:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2081998086721708165",
+      "author": "@Macronextcom",
+      "text": "BIEC: Gospodarka się rozpędza.\n\n#Polska 🇵🇱: w VII 2026 r. Wskaźnik Wyprzedzający Koniunktury wg BIEC: 176,6 pkt. 📈 (poprzednio: 175,0 pkt.)",
+      "likes": 65,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2082406406443929886",
+      "author": "@Macronextcom",
+      "text": "CD Projekt 248,80 zł (+4,67%)\n\nJakieś ożywienie w gamingu? 🤔 Nie tylko #CDProjekt mocniej w górę, ale też One More Level (+5,77%) i PCF Group (+4,18%).",
+      "likes": 49,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082374037167091846",
+      "author": "@laskowski_pl",
+      "text": "Zaraz wyjdzie @RafalBochenek i powie, że przecież nikt Morawieckiego nie wyrzucił i dalej jest w PiS 😁\nTo mój ostatni komentarz do tej brazylijskiej telenoweli, szkoda czasu.",
+      "likes": 43,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082324985889148982",
+      "author": "@Macronextcom",
+      "text": "Środa na rynkach zaczyna się słabo. Kolejny dzień mocnej wyprzedaży na części giełda w Azji (teraz KOSPI -9,77%, Nikkei -2,92%) plus skok cen ropy o 4%.\n\nA przed rynkami jeszcze posiedzenie #Fed oraz wyniki kwartalne Meta Platforms i Microsoft.\n\nKalendarz:",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082461323766497737",
+      "author": "@Macronextcom",
+      "text": "Hej @BiuroNbp czas wysłać list do Elona Muska, bo od kilku dni na X śmigają fejkowe reklamy z NBP i prezesem Glapińskim.   \n\nWszystko oczywiście na płatnych profilach Premium.",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082030725419630860",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Dzisiejsza reakcja na wyniki kwartalne spółek z GPW:\n\n📈 Monnari: +7,1%\n📈 Orange Polska: +3,4%\n📈 Bank Millennium: +1,5%\n📉 Forte: -0,6% \n\n...a w bonusie Pepco +3,1% po zmianie warunków skupu akcji własnych.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081987325249147229",
+      "author": "@mbank_research",
+      "text": "🇵🇱🇨🇿 Ceny E95 można obserwować w ramach eksperymentu naturalnego. W Polsce program osłonowy był, w Czechach nie było. Dokładnie widać na wykresie, kiedy CPN  został wprowadzony i wycofany. Nie widać natomiast, że poza tym epizodem ceny paliw w PL i CZ zachowują się odmiennie.",
+      "likes": 25,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082443522096132361",
+      "author": "@PAPinformacje",
+      "text": "🎥 Deepfake w polskim mundurze?\n\nNagrania rzekomo przedstawiające polskich żołnierzy krytykujących Ukrainę, UE i polski rząd okazały się materiałami wygenerowanymi przez AI. Co zdradziło fałszywkę? Obejrzyj najnowsze #SprawdzamTo.\n\nZanim uwierzysz, sprawdź fakty. @sprawdzamto_pl",
+      "likes": 22,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082432941129367961",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Dni Polskich Gier Wideo dopiero za 2 miesiące...\n\n...za to dziś na giełdzie: \n\nOne More Level +10,58%\nCD Projekt +4,88%\nTen Square Games +3,62%\nPCF Group +3,38%\nUltimate Games +3,29%\n...",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082332832538427837",
+      "author": "@laskowski_pl",
+      "text": "Proponuję zapisać, bo jeszcze się z tej deklaracji nie raz pośmiejemy, przez łzy bezsilności kartonowego państwa.",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082162063028175089",
+      "author": "@laskowski_pl",
+      "text": "Jak słyszę Pana Bochenka to PiS chce nam zająć wakacje serialem - co się dzieje w PiS 😁\nNie polecam, niech się kiszą w własnym sosie, są ważniejsze sprawy jak ochrona zdrowia.",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082543920882344210",
+      "author": "@Macronextcom",
+      "text": "Rynki finansowe na opak reagują na wyniki posiedzenia Fed. Dolar traci, Wall Street odrabia straty, a rentowności amerykańskich obligacji spadają. A to wszystko w sytuacji, gdy podwyżka stóp we wrześniu staje się realna. Ta \"gołębia\" reakcji na Fed jest nie do utrzymania.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2081987812719493532",
+      "author": "@Macronextcom",
+      "text": "#Pepco\n\n🔸Pepco anuluje pierwotny skup akcji i rozpoczyna nowy o wartości do 400 mln EUR;\n🔸podnosi maksymalną cenę akcji w skupie do 47,52 zł z 41,76 zł;\n🔸nowy skup potrwa od 29 lipca do 12 sierpnia.\n\nWczoraj akcje Pepco po 44,67 zł. Od początku roku wzrost o +51,1%.",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082174862320111731",
+      "author": "@laskowski_pl",
+      "text": "Albo Elżbieta @elzbietawitek , albo Nikt, będzie nikt, czyli @MarcinOciepa \nAle to wyszło czerwonemu marszałkowi 😉",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082400935024668873",
+      "author": "@PAPinformacje",
+      "text": "KPRM: w środę po południu w Lublinie premier Donald Tusk spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082347709353054679",
+      "author": "@Macronextcom",
+      "text": "🇸🇪 Drugi kwartał 2026 w szwedzkiej gospodarce wyraźnie lepszy niż pierwszy i dużo lepszy od prognoz. #PKB #Szwecja #SEK \n\nKalendarz makrekonomiczny:",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082065051255443843",
+      "author": "@mbank_research",
+      "text": "Dlaczego ekonomiści klimatu nie żyć w zgodzie?\n\nW nowym tekście staramy się odkryć, dlaczego szacowanie wpływu zmian klimatu na gospodarkę jest tak trudne. Sam fakt ocieplenia nie budzi sporu, prawda 😉? \nTo jak ono wpływa na gospodarkę, to już cięższy orzech do zgryzienia.🧵",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082370851236618379",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Po wynikach #mBank drożej +1,71%, a #Budimex +0,27%. \n\nDziś po sesji wyniki opublikuje #XTB, Kęty (wstępne już znamy), a także... portugalskie Jeronimo Martins, co będzie punktem odniesienia dla Dino Polska. \n\nps. #mWIG40 jest najwyżej w historii. 💪📈",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082534068483162469",
+      "author": "@laskowski_pl",
+      "text": "Pałkarz, który bił kobiety na Strajku Kobiet, nadal nie odpowiedział za swoje czyny. \nTo jest ta wiarygodność, to jest ta stanowczość i brak wyjątków?",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082335931151872282",
+      "author": "@laskowski_pl",
+      "text": "Byle tego nie spierd.... Jak pełnomocnikiem zostanie jakaś polityczna łajza, to bardzo dobra inicjatywa, sama się ośmieszy.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082490440494760245",
+      "author": "@PAPinformacje",
+      "text": "Bolesław i Władysława Pogorzelscy pośmiertnie uhonorowani medalem Sprawiedliwy Wśród Narodów Świata\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082423437138522475",
+      "author": "@PAPinformacje",
+      "text": "Tusk spotka się z Zełenskim w Lublinie\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082317644770820357",
+      "author": "@DGPrawna",
+      "text": "🟥TYLKO W DGP | O tym, że Marcin Romanowski może ukrywać się w klasztorze w Serbii oraz że Roman Giertych dba o swój wizerunek zamiast o rozliczenia – mówi były minister sprawiedliwości @Adbodnar",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082508540866957526",
+      "author": "@PAPinformacje",
+      "text": "Projekt rozporządzenia premiera: przedterminowe wybory prezydenta Krakowa w niedzielę 27 września\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082473083370160461",
+      "author": "@PAPinformacje",
+      "text": "Prezydent spotkał się z Garrim Kasparowem\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082423515161010428",
+      "author": "@PAPinformacje",
+      "text": "Kaczyński: rozłam, którego dokonał Morawiecki, nastąpił w najbardziej nieodpowiednim momencie\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082076084141523306",
+      "author": "@GUS_STAT",
+      "text": "W #PKD2025 działalność w zakresie #geodezja i #kartografia została wyodrębniona jako osobna podklasa.\n🔎 Prowadzisz taką działalność? Sprawdź, czy Twój kod #PKD jest aktualny i w razie potrzeby zaktualizuj go przed końcem 2026 r.\n\n🔗 \n\n#Przedsiębiorcy #GUS",
+      "likes": 2,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082358964692353216",
+      "author": "@DGPrawna",
+      "text": "Sylwia Gregorczyk-Abram: Odbudowanie zaufania do wymiaru sprawiedliwości to konieczność",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082551764776017982",
+      "author": "@PAPinformacje",
+      "text": "Ukraina odwołuje się w sprawie odwieszenia Rosji przez MKOl ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082550496628183454",
+      "author": "@PAPinformacje",
+      "text": "Awantura i przepychanki po finale mundialu. FIFA wszczęła postępowanie ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082368300084805684",
+      "author": "@GUS_STAT",
+      "text": "Układ i długość śródlądowych dróg wodnych w Polsce  od wielu lat pozostają na zbliżonym poziomie. Ogólny  wolumen ładunków przewożonych przez polskich  armatorów żeglugą śródlądową w 2025 r. utrzymał się  na poziomie porównywalnym r/r.\n\n🔗\n\n#GUS #transport",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082334554027643122",
+      "author": "@DGPrawna",
+      "text": "Za niezgodne z ustawą zasadniczą uznał Trybunał Konstytucyjny przepisy dotyczące wzorów dokumentów stanu cywilnego dotyczących zagranicznych związków osób tej samej płci. Wyrok ten zapewne nie zostanie opublikowany w Dzienniku Ustaw.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082327205967794655",
+      "author": "@DGPrawna",
+      "text": "Wyciekło nagranie z przesłuchania Jarosława Kaczyńskiego. Kto za to odpowie?",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082579672521388320",
+      "author": "@PAPinformacje",
+      "text": "Prezydent USA: zaatakujemy bardzo mocno Iran\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082552181719269830",
+      "author": "@PAPinformacje",
+      "text": "Kolizja łodzi motorowej z norweskim statkiem. Podczas akcji poszukiwawczej nie odnaleziono matki i córki ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082551908040933746",
+      "author": "@PAPinformacje",
+      "text": "Liga Narodów siatkarzy. Polacy poznali potencjalnego rywala w półfinale ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082550257695482198",
+      "author": "@PAPinformacje",
+      "text": "Przedterminowe wybory w Krakowie. Jest data ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082550126745211104",
+      "author": "@PAPinformacje",
+      "text": "USA i Arabia Saudyjska zaatakowały cele w Iraku\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082456801698586953",
+      "author": "@PAPinformacje",
+      "text": "Do marszałka Sejmu wpłynął wniosek ws. utworzenia klubu parlamentarnego „Rozwój Plus” #PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082550617319354477",
+      "author": "@PAPinformacje",
+      "text": "Trzech strażaków zginęło w gaszeniu pożaru w Grecji. Ewakuowano 6 tys. turystów ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
