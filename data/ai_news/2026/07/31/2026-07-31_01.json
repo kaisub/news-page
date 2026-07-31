@@ -1,0 +1,44 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-07-31",
+  "slot": "01",
+  "generated_at": "2026-07-31T01:13:55Z",
+  "tweets": [
+    {
+      "tweet_id": "2082609245011198432",
+      "author": "@reach_vb",
+      "text": "Codex tip: use codex exec to turn any prompt into a repeatable, scriptable workflow.  \n\nI typically use it for clean, isolated model runs: ephemeral sessions, a pinned model and reasoning effort, no network or MCP access, and a separate directory for every run.  \n\nIt's super",
+      "likes": 308,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2082536230181650862",
+      "author": "@hwchase17",
+      "text": "this is a cool example of \"dreaming\" memory\n\nopenwiki is a wiki for your codebase. on some schedule, a background process will run and look at your langsmith traces to see how coding agents *actually* interacted with your codebase\n\nand then will update the wiki!",
+      "likes": 37,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2082879078609408149",
+      "author": "@jerryjliu0",
+      "text": "We’re excited to rollout an official batch parsing experience to LlamaParse.\n✅ Instead of hitting our APIs one file at a time, create a batch of 10k at once.\n✅ Get a dedicated UI where you can audit the entire batch at a time, inspect any jobs that had failed, and view an",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082883597204373717",
+      "author": "@hwchase17",
+      "text": "LangSmith Gateway!\n- cost controls (including for your end users)\n- rate limiting\n- data/pii redaction\n- integrates with coding agents!\n- access to OSS models like kimi-k3!",
+      "likes": 22,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082948034690953292",
+      "author": "@jerryjliu0",
+      "text": "Introducing the Parse Gateway \n\nThere's been an explosion of interest in model routing - you don't always need the best model for every task.\n\nThat is especially true for document parsing 📄🔀:\n- Some pages are text-heavy and relatively simple. These pages can be handled by",
+      "likes": 19,
+      "retweets": 3
+    }
+  ]
+}

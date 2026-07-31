@@ -1,0 +1,422 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-07-31",
+  "slot": "01",
+  "generated_at": "2026-07-31T01:13:55Z",
+  "tweets": [
+    {
+      "tweet_id": "2082719465532203509",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Trwa sezon wyników. Dobry sezon.💪Większość spółek dowozi.\n\nZysk netto Q2 2026 - ostatnie przykłady:\n\n🔸XTB: 492,2 mln zł (prog. 379,9 mln)\n🔸Erste: 1,17 mld zł (1,05 mld zł)\n🔸ING BŚ: 1,19 mld zł (1,17 mld zł)\n🔸Pekao: 1,5 mld zł (1,47 mld zł) \n🔸Kęty: 241 mln zł (234 mln zł)",
+      "likes": 34,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082712662618595636",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Posesyjna reakcja na wczorajsze wyniki za Q2 2026:\n\n📉 Meta Platforms: -7,4%\n📉 Qualcomm: -4,6%\n📈 Microsoft: +8,9%\n\nDziś wyniki opublikuje Amazon i Apple.\n\nKalendarz:",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082739942870921327",
+      "author": "@Macronextcom",
+      "text": "Coś się ruszyło w nimieckiej gospodarce. 👇\n\n#Niemcy 🇩🇪: w II kw. 2026 r. #PKB (wst.): 0,9% r/r 📈 (prognoza: 0,6%; poprzednio: 0,8%) \n\nWzrost może nie popraża, ale był wyraźnie wyższy od prognoz. Plus rewizja w górę danych za Q1. \n\nTa poprawa to też dobra wiadomość dla Polski.",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082856951348638137",
+      "author": "@Macronextcom",
+      "text": "Gdy dziś wszyscy na @X nagle stali się ekspertami od \"sygnałów alarmowych\", to giełdowy #WIG 🇵🇱🚀 niezmiennie pozostaje ekspertem w tym, w czym jest naprawdę dobry: W BICIU REKORDÓW. 😎\n\nIndeks WIG najwyżej w historii. Od początku roku +25%, od początku hossy +225%. 📈💪",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082910679636324810",
+      "author": "@Macronextcom",
+      "text": "Wg prognoz w II kw. 2026 zyski europejskich spółek z indeksu STOXX Europe 600 wzrosły o 20,8% r/r, do czego przyczynił się wzrost zysków koncernów energetycznych o 130,9%. \n\nBez firm energetycznych zyski spółek z STOXX 600 wzrosły w II kw. o 10,3% r/r.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082829722493317236",
+      "author": "@PAPinformacje",
+      "text": "Premier: rakieta Ch-101, która naruszyła w nocy polską przestrzeń powietrzną, była uzbrojona i z dużym prawdopodobieństwem rosyjska; dziękuję przywódcom UE i NATO za solidarność. (PAP)\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082723511144009974",
+      "author": "@Macronextcom",
+      "text": "#Hiszpania 🇪🇸: w II kw. 2026 r.. #PKB (wst.): 2,7% r/r (prognoza: 2,5%; poprzednio: 2,7%) \n\n➡️",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082731103622689040",
+      "author": "@GUS_STAT",
+      "text": "W 2025 ujemne saldo w #HandelZagraniczny ukształtowało się na poziomie 31,0 mld PLN. W porównaniu z 2024 r. eksport wzrósł o 2,6%, a import o 4,8%.\n\n🔗\n\n#GUS",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082784112465584401",
+      "author": "@Macronextcom",
+      "text": "Bank Anglii nie zmienił dziś stóp proc. w UK 🇬🇧. Główna pozostaje na poziomie 3,75%. Decyzja zgodna z prognozami.\n\nPodobnie jak wczoraj w przypadku #Fed, aż 3 członków #BoE, chciało dziś podwyżki stóp proc. o 25 pb.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082807100439187850",
+      "author": "@Macronextcom",
+      "text": "W USA odwrotnie niż w Europie. Nie było pozytywnej niespodzianki. Gospodarka USA rozwijała się wolniej niż prognozowali ekonomiści (1,5% vs 2,1%). I jeszcze deflator wystrzelił w górę.\n\n#USA 🇺🇸: w II kw. 2026 r. #PKB annualizowany (wst.): 1,5% (prognoza: 2,1%; poprzednio: 2,1%)",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082758275070615624",
+      "author": "@mbank_research",
+      "text": "🇪🇺 Całkiem solidne dane o wzroście PKB w poprzednim kwartale z krajów strefy euro i nieco słabsze spoza wspólnoty. Lepszy odczyt dla całej strefy euro powinien być kolejnym czynnikiem przekonującym EBC, by podnieść stopy we wrześniu.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082730742035963925",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. wg Narodowego Rachunku Zdrowia bieżące wydatki na ochronę zdrowia sięgnęły 348,0 mld zł (8,9% #PKB). Największy udział miał sektor publiczny, którego wydatki wstępnie oszacowano na 271,8 mld zł.\n\n🔗 \n\n#GUS #zdrowie #statystyki",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082368300084805684",
+      "author": "@GUS_STAT",
+      "text": "Układ i długość śródlądowych dróg wodnych w Polsce  od wielu lat pozostają na zbliżonym poziomie. Ogólny  wolumen ładunków przewożonych przez polskich  armatorów żeglugą śródlądową w 2025 r. utrzymał się  na poziomie porównywalnym r/r.\n\n🔗\n\n#GUS #transport",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082843366891397154",
+      "author": "@PAPinformacje",
+      "text": "Wiceszefowa MON: jest konkretna odpowiedź ze strony ukraińskiej ws. wymiany myśliwców MiG za drony\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082713299418849468",
+      "author": "@DGPrawna",
+      "text": "Planowane ograniczenie możliwości pracy w ruchu bezwizowym dla obywateli Gruzji, Kolumbii i Wenezueli wywołało sprzeciw biznesu. 18 sierpnia w RDS odbędą się kluczowe rozmowy o projekcie resortu pracy.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082704491397165105",
+      "author": "@DGPrawna",
+      "text": "MEN nie odpuszcza. Egzaminy tylko stacjonarnie",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082730797165916452",
+      "author": "@GUS_STAT",
+      "text": "W ostatnim dniu lutego 2026 r. w #GospodarkaNarodowa pracowało 15,0 mln osób (o 0,4% mniej niż w 28 lutego 2025 r.). Najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe (18,1 %).\n\n🔗\n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082368161177796908",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. jednostki ochrony przeciwpożarowej podjęły 483,2 tys. interwencji.Najwięcej z nich dotyczyło miejscowych zagrożeń - 316,3 tys.\nRatownicy wodni uratowali 1 578 osób tonących podczas 2 445 akcji.\n\n🔗\n\n#GUS #statystyka #ratownictwo",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082777975767060694",
+      "author": "@DGPrawna",
+      "text": "Pojawiają się kolejne poprawki do ustawy o najmie krótkoterminowym. Rząd chce zmienić zasady wykreślania z rejestru tych lokali, które są uciążliwe dla sąsiadów.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082767406108123225",
+      "author": "@DGPrawna",
+      "text": "Fed utrzymał stopy bez zmian, mimo trzech głosów za podwyżką. Jastrzębie nastawienie nowego prezesa",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082814319415202242",
+      "author": "@PAPinformacje",
+      "text": "Koniec z komórkami w podstawówkach. Jest podpis prezydenta\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082811452268687505",
+      "author": "@GUS_STAT",
+      "text": "💄#PKD2025 lepiej odzwierciedla różnorodność #BranżaBeauty. Wprowadza podział na działalność fryzjerską i barberską, usługi pielęgnacji urody i działalność spa.\nSprawdź swój kod #PKD i zaktualizuj go przed końcem roku:\n\n🔗\n\n#Fryzjerstwo #Przedsiębiorcy #GUS",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082735948853399680",
+      "author": "@DGPrawna",
+      "text": "Sejm chce, by UOKiK jeszcze popracował nad przepisami antygreenwashingowymi",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082363617064747369",
+      "author": "@NowySwiat24",
+      "text": "No to już oficjalnie. Polska, pierwszy raz w historii, przekroczyła konstytucyjny limit zadłużenia (60% długu do PKB🇵🇱), mierzony metodą unijną. Po I kwartale tego roku, było to dokładnie 61,6%. Po drugim, na pewno jeszcze więcej. Dla porównania, dług publiczny Polski na koniec",
+      "likes": 5538,
+      "retweets": 1862
+    },
+    {
+      "tweet_id": "2082389313011044603",
+      "author": "@visegrad24",
+      "text": "🇵🇱 Polish border guards are recording a sharp increase in migrant breach attempts\n\nOver the past day, 21 attempts at illegal migration from the territory of Belarus were recorded, which is a record for the last 130 days.\n\nSince the beginning of July, Poland has registered 79",
+      "likes": 589,
+      "retweets": 88
+    },
+    {
+      "tweet_id": "2082483486326169770",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót informacji nr 2 ze świata🌍. Środa 17:30\n-🇺🇸Trump: \"spuścimy łomot\" Iranowi po ich ataku\n-🛢️ropa naftowa +7%\n-🇨🇺 Kuba zezwala na prywatne na apteki i stacje⛽️\n-⚒️JSW: zaawansowany etap finansowania zagran.\n-🇩🇪🚗Ogromne protesty w Audi przed zwolnieniami\n- 💰Huti planują",
+      "likes": 364,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2082768167278145630",
+      "author": "@piotrsankowski",
+      "text": "Z najnowszego raportu Banku Światowego dotyczącego potencjału AI dla Polski płynie jasny wniosek: skuteczne wdrożenie AI może dodać w najbliższych latach 12% dodatkowego wzrostu PKB. Jednakże aby ten wzrost mógł nastąpić Polska musi na bezprecedensową skalę zainwestować w",
+      "likes": 118,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2082697885787787741",
+      "author": "@MSWiA_GOV_PL",
+      "text": "W powiecie biłgorajskim, po zgłoszeniach o silnym huku, policjanci odnaleźli na polu lej i szczątki niezidentyfikowanego obiektu. Teren został natychmiast zabezpieczony.\n\nNa miejscu działają już policjanci, kontrterroryści oraz inne służby, w tym ŻW, ABW, SKW i prokuratura.",
+      "likes": 90,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2082399883202322696",
+      "author": "@DnaRynkow",
+      "text": "Mniej niż 3% brakuje WIG20 do rekordu wszech czasów po prawie 20 latach. \n\nOstatni raz te poziomy widziano, gdy w Polsce nie było jeszcze iPhone'a, a Lehman Brothers był szanowaną instytucją, a tu nawet nie ma euforii. Jedna z najzdrowszych hoss, jakie widziałem.\n\nRynek omijany",
+      "likes": 110,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082814294727467144",
+      "author": "@a_dziemianowicz",
+      "text": "Mamy to! Ustawa antymobbingowa podpisana!✍️ Skuteczna ochrona przed przemocą w pracy nadchodzi✊",
+      "likes": 68,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2082400611799073215",
+      "author": "@Pekao_Analizy",
+      "text": "🇸🇪 Podobno Szwecji już nie ma... \n\n... a jednak jest. Wg wstępnych danych w II kwartale PKB wzrósł o 1,4% kw/kw, najszybciej od 4 lat. \n\nTo mała otwarta gospodarka, więc PKB może \"skakać\", ale wpisuje się to w pewien wzorzec. Generalnie widzimy bowiem, że aktywność ekonomiczna w",
+      "likes": 63,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2082528860608872868",
+      "author": "@SwiatKrypto",
+      "text": "FED robi pauzę i utrzymuje stopy procentowe..\n..jednak najciekawsze siedzi w szczegółach głosowania.\n\nDecyzja zapadła stosunkiem 9 do 3. Trzech członków Fedu - Hammack, Kashkari i Logan - głosowało za PODWYŻKĄ o 25 punktów bazowych już na tym posiedzeniu.\n\nTrzech dysydentów to",
+      "likes": 40,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082806287818002729",
+      "author": "@wirtualnapolska",
+      "text": "🔴 Ponad 13 mln zł kary dla szpitala w Miastku. Chodzi o działania spółki neurochirurgów\n\nNFZ nałożył 13 mln 200 tys. zł kary na szpital miejski w Miastku - dowiaduje się Wirtualna Polska. To efekt nieprawidłowości w rozliczaniu zabiegów wykonywanych w placówce przez spółkę",
+      "likes": 31,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2082774527080038693",
+      "author": "@Pekao_Analizy",
+      "text": "🇪🇺 Jak seria, to seria. PKB strefy euro przyrósł o 0,4% kw/kw. To dobry wynik, ale...\n\n... zawyżony przez Irlandię, która urosła w tym okresie o 6% kw/kw. Jeśli wyłączymy ten kraj, dostaniemy stabilne 0,3% kw/kw. W istocie rzeczy, to czwarty taki kwartał z rzędu i piąty od",
+      "likes": 34,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082759636906627382",
+      "author": "@rynekzdrowia",
+      "text": "Część operacji ma być wykonywana tylko w szpitalach specjalistycznych. Tak NFZ chce ukrócić zjawisko tzw. lekarzy walizkowych. Padła data ⬇️",
+      "likes": 31,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082825232159514677",
+      "author": "@KRRiT__",
+      "text": "⚖️ Wygrana #KRRiT przed NSA. Sąd oddalił skargę kasacyjną #PolskieRadio S.A. w likwidacji ⤵️\n\n🔵 W prawomocnym wyroku z 30 lipca 2026 r. Naczelny Sąd Administracyjny potwierdził, że Przewodniczący KRRiT nie pozostawał w bezczynności przy przekazywaniu środków z opłat",
+      "likes": 24,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2082799367547957364",
+      "author": "@RuchNarodowy",
+      "text": "TRYBUNAŁ OCENIA JAKO NIEKONSTYTUCYJNE DZIAŁANIA RZĄDU WS. JEDNOPŁCIOWYCH ZWIĄZKÓW\n\n📷Trybunał Konstytucyjny w 3-osobowym składzie z udziałem prezes Bogdana Święczkowskiego jednomyślnie orzekł, że rozporządzenie podpisane przez ministrów Krzysztofa Gawkowskiego i Marcina",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082894880083149177",
+      "author": "@wirtualnapolska",
+      "text": "🔴 MON bije się w pierś. Zapowiada zmiany po incydencie z rakietą\n\nWiceszef MON Stanisław Wziątek podkreślił, że po incydencie z rosyjskim pociskiem, który wleciał do polskiej przestrzeni powietrznej, procedury alarmowe powinny uwzględniać wysyłanie mieszkańcom SMS-ów",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082680929407906126",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie nocy: czwartek, 30.07.2026\n\n21:22–05:34\n\n🔴 USA przeszły z gróźb do uderzeń na Iran\n\n• Trump wieczorem zaostrzał ton wobec Teheranu i mówił, że USA „uderzą Iran trochę”, jednocześnie zostawiając sobie furtkę do dalszych rozmów  \n• w nocy pojawiły się komunikaty o",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082369181995942284",
+      "author": "@Wysmulek_Kar",
+      "text": "Kolejny bank dostosowuje swoją praktykę do wyroku TSUE C-744/24. To najlepszy dowód, że orzeczenie nie było jedynie teoretycznym rozstrzygnięciem, ale realnie zmieniło zasady gry.",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082828148513673307",
+      "author": "@DDemokracja",
+      "text": "Dzisiaj została podpisana ustawa wdrażająca unijną dyrektywę Women on Boards 🇵🇱🇪🇺✍️\n\nTo jedna z najważniejszych zmian w zasadach funkcjonowania spółek giełdowych w ostatnich latach 📈🏢⚖️\n\nNowe przepisy mają zwiększyć udział kobiet we władzach największych spółek 👩‍💼👩‍⚖️👩‍🔬 poprzez",
+      "likes": 12,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2082927626105012286",
+      "author": "@WlGawronski",
+      "text": "Mapa przedstawia największych odbiorców energii elektrycznej w Polsce 🫡\n\nTo dlatego tak duży problem czeka nas w przyszłości w zakresie przesyłu energii elektrycznej z północy na południe - bo tam przenoszony jest ciężar generacji energii elektrycznej 🥳\n\nOd lat obiecali że",
+      "likes": 17,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082411799454916809",
+      "author": "@rynekzdrowia",
+      "text": "Szpitale i poradnie zapłacą karę,  jeżeli nie przekażą danych o wynagrodzeniach lekarzy czy pielęgniarek - zakłada projekt Ministerstwa Zdrowia. To groźba nawet milionowych sankcji w przypadku placówek z największymi kontraktami z NFZ ⬇️",
+      "likes": 15,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082788836627681411",
+      "author": "@Elektryfikacja",
+      "text": "❗️Udział węgla w Chińskim miksie elektroenergetycznym po raz pierwszy w historii spadł poniżej 50%! \n\nW pierwszej połowie 2026 roku węgiel odpowiadał tylko za 49,7% generacji chińskiej energii elektrycznej. \n\nZa 41,2% odpowiadały źródła odnawialne, z czego energetyka wiatrowa i",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082841663731318806",
+      "author": "@MilitarySummary",
+      "text": "❗️A large crater is seen in a field near the village of Targowisko, eastern Poland, after a Russian Kh-101 cruise missile crossed into Polish territory and impacted. This village is around 95 km from the border with Ukraine.\n\nLocals reported hearing an \"exceptionally loud bang\",",
+      "likes": 13,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082369289051406728",
+      "author": "@CBAgovPL",
+      "text": "📍Funkcjonariusze Centralnego Biura Antykorupcyjnego przeprowadzili przeszukania w sześciu szpitalach na terenie województwa mazowieckiego 🔍🏥. Sprawa dotyczy  zamówień publicznych na rzecz placówek służby zdrowia. 🏛️ Śledztwo nadzoruje Prokuratura",
+      "likes": 12,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2082332187307790454",
+      "author": "@Karol1669024",
+      "text": "Dzień Dobry \nWspaniałe wieści z rana dla Polski dochodzą z Katowic🇵🇱\n\nKatowice szykują własną „fabrykę prądu”, która realnie zmieni bilans energetyczny miasta. \n\nDwie farmy fotowoltaiczne o łącznej mocy prawie 2 MWp oraz dwa magazyny energii po 1 MW / 4 MWh powstaną w",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082847969171079577",
+      "author": "@_Ecrumena_",
+      "text": "#koniecsesji\n\n#WIG20 +1,57%; &gt;3900, kilkanaście punktów od ATH\n#KGHM +5,06%; miedź + srebro\n#Erste +4,93%; WIG-Banki +2,66%\n#Dino +0,09%; wzrosty sesyjne wyzerowane w drugiej części 326 mln zł obrotu\n#XTB +8,64%; wyniki za pierwsze półrocze\n#Asbis +3,61%; poziom 100 zł z silnym",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082886360524820657",
+      "author": "@KryptoDzikPL",
+      "text": "Podsumowanie dnia: czwartek, 30.07.2026\n\n09:47\n\n🔴 IRGC zapowiada szybki odwet po nalotach USA\n\n• amerykańskie siły uderzyły w dziesiątki celów IRGC, w tym centra dowodzenia oraz obiekty rakietowe i dronowe  \n• CENTCOM przedstawił operację jako odpowiedź na irański ostrzał sił",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082842971129385080",
+      "author": "@MilitarySummary",
+      "text": "❗️Air Alert in Lublin,Poland\n\n📌 Coordinates: \n51.24244901743909, 22.593874267534147",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082868838111039560",
+      "author": "@GPW_WSExchange",
+      "text": "📈 Rekordowy dzień na GPW! #WIG zakończył sesję na poziomie 146 779,74 pkt, a #mWIG40 ustanowił nowy rekord – 10 168,29 pkt. #WIG20 zyskał +1,57% i do granicy 4000 pkt brakuje mu już tylko 93 pkt.\n\n#GPW #Rekordy #Dzieńwskrócie",
+      "likes": 9,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082533128631988690",
+      "author": "@EmerytalnyPlan",
+      "text": "W sierpniu 2026 roku na Giełdzie Papierów Wartościowych w Warszawie zadebiutują dwa zupełnie nowe fundusze obligacyjne od TFI PZU: \n\nPZU ETF Obligacji Skarbowych Długoterminowych \noraz \nPZU ETF Obligacji Skarbowych Zmiennokuponowych. \n\nZarząd GPW pod koniec lipca wydał już",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082482966492541067",
+      "author": "@Lukasiewicz_pl",
+      "text": "Technologie lotnicze, kosmiczne, obronne i systemy bezzałogowe mogą być teraz rozwijane w kraju! Z myślą o przedsiębiorcach i obronności uruchomiliśmy infrastrukturę o rekorodowych osiągach 🚀\n\nW Łukasiewicz – Instytucie Lotnictwa działa już utunel aerodynamiczny T-3. To część",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082438629696123227",
+      "author": "@MZ_GOV_PL",
+      "text": "1/2🧵\n\n𝐏𝐎𝐑𝐙Ą𝐃𝐊𝐎𝐖𝐀𝐍𝐈𝐄 𝐒𝐘𝐒𝐓𝐄𝐌𝐔 \n𝐁𝐞𝐳𝐩𝐢𝐞𝐜𝐳𝐞ń𝐬𝐭𝐰𝐨 𝐩𝐚𝐜𝐣𝐞𝐧𝐭ó𝐰 𝐢 𝐩𝐥𝐚𝐜ó𝐰𝐞𝐤\n\nBezpieczeństwo pacjentów zostanie wzmocnione odpowiednimi regulacjami czasu pracy personelu medycznego i nowymi mechanizmami kontrolnymi, aby ograniczyć",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082469977345380555",
+      "author": "@KancelariaSejmu",
+      "text": "W Sejmie trwa drugie czytanie projektu nowelizacji ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi. Proponowane w projekcie zmiany pozwolą szybciej i sprawniej rekultywować grunty rolne zniszczone przez powódź.",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082334050681823517",
+      "author": "@GDDKiA",
+      "text": "Blisko 60 mln zł z #funduszeue na bardziej energooszczędne i przyjazne środowisku budynki #GDDKiA 👍.\n\nOtrzymaliśmy dofinansowanie na realizację prac, dzięki którym w 43 obiektach zmniejszymy zużycie energii i zwiększymy jej wykorzystanie z odnawialnych źródeł.\n\n🛠️ W ramach",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082363956279091613",
+      "author": "@WojewodzkiUrzad",
+      "text": "#Dolnośląskie Nowe mieszkania dla powodzian dzięki wsparciu rządu i BGK. W Kłodzku i Krosnowicach trwają inwestycje, adaptacje budynków i remonty — pomoc dla rodzin po powodzi. #powódź #odbudowa",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082409548028199290",
+      "author": "@CentrumZycia",
+      "text": "Co oznacza wczorajszy wyrok Trybunału Konstytucyjnego, który orzekł, że transkrypcje aktów formalizujących związki jednopłciowe są sprzeczne z Konstytucją RP 👇\n\nWięcej o skutkach wyroku:",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082850979880329719",
+      "author": "@EmerytalnyPlan",
+      "text": "📈 Dzisiejsza sesja pokazała siłę największych spółek.\n\n🔹 WIG: +1,33%\n🔹 WIG20: +1,57%\n🔹 mWIG40: +0,92%\n🔹 sWIG80: +0,18%\n\n💰 Obrót: 2,85 mld zł\n\n📊 Mimo przewagi spółek spadających (160 vs 148 rosnących), szeroki rynek zakończył dzień wyraźnymi wzrostami. To zasługa mocnego",
+      "likes": 5,
+      "retweets": 0
+    }
+  ]
+}
