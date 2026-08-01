@@ -1,0 +1,170 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-01",
+  "slot": "01",
+  "generated_at": "2026-08-01T01:23:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2083086580982468723",
+      "author": "@Macronextcom",
+      "text": "\"W przypadku osiągnięcia przez Couche-Tard co najmniej 95% ogólnej liczby głosów w Żabce spółka zamierza przeprowadzić przymusowy wykup pozostałych akcji (squeeze-out) oraz podjąć działania niezbędne do wycofania akcji Żabki z obrotu na GPW.\"\n\nTeraz: Żabka 🐸 32,40 zł (+10,73%)",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083039211284816033",
+      "author": "@Macronextcom",
+      "text": "Mocny zwrot nastrojów na giełdach w USA i Azji. \n\nWczoraj 🇺🇸 DJIA +1,19%, S&amp;P500 +1,66%, Nasdaq +2,78%, dziś 🇯🇵 Nikkei +3,89%, 🇰🇷 KOSPI +14,24%, 🇹🇼 TAIEX +7,38%.",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083173573334651304",
+      "author": "@PAPinformacje",
+      "text": "Premier. MSZ wezwało w piątek ambasadora Rosji w związku z rakietą, która w czwartek uderzyła w terytorium Polski. #PAPInformacje",
+      "likes": 22,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083225947914809412",
+      "author": "@Macronextcom",
+      "text": "Projekt podatku cyfrowego trafił do konsultacji międzyresortowych. Zakłada on 3% daninę od przychodów największych globalnych dostawców usług cyfrowych.\n\nFirmy, które płacą podatki w Polsce 🇵🇱 i reinwestują swoje zyski w rozwój polskiej gospodarki, będą pomniejszać kwotę podatku.",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082910679636324810",
+      "author": "@Macronextcom",
+      "text": "Wg prognoz w II kw. 2026 zyski europejskich spółek z indeksu STOXX Europe 600 wzrosły o 20,8% r/r, do czego przyczynił się wzrost zysków koncernów energetycznych o 130,9%. \n\nBez firm energetycznych zyski spółek z STOXX 600 wzrosły w II kw. o 10,3% r/r.",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082784112465584401",
+      "author": "@Macronextcom",
+      "text": "Bank Anglii nie zmienił dziś stóp proc. w UK 🇬🇧. Główna pozostaje na poziomie 3,75%. Decyzja zgodna z prognozami.\n\nPodobnie jak wczoraj w przypadku #Fed, aż 3 członków #BoE, chciało dziś podwyżki stóp proc. o 25 pb.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082731103622689040",
+      "author": "@GUS_STAT",
+      "text": "W 2025 ujemne saldo w #HandelZagraniczny ukształtowało się na poziomie 31,0 mld PLN. W porównaniu z 2024 r. eksport wzrósł o 2,6%, a import o 4,8%.\n\n🔗\n\n#GUS",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082730742035963925",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. wg Narodowego Rachunku Zdrowia bieżące wydatki na ochronę zdrowia sięgnęły 348,0 mld zł (8,9% #PKB). Największy udział miał sektor publiczny, którego wydatki wstępnie oszacowano na 271,8 mld zł.\n\n🔗 \n\n#GUS #zdrowie #statystyki",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083249791757099518",
+      "author": "@PAPinformacje",
+      "text": "Trump: nie zgodziliśmy się na produkcję Patriotów przez Ukrainę, trwają rozmowy #PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082815535960535245",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Wstępne dane o PKB za Q2 okazały się słabsze od konsensusu (1,5% vs. 2,1% SAAR), niemniej szczegóły są znacznie lepsze. Wzrost w poprzednim kwartale wynikał w dużej mierze z konsumpcji, która po słabszym Q1 wróciła z przytupem. Dobrze wyglądały też inwestycje.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083223106189955337",
+      "author": "@PAPinformacje",
+      "text": "Hiszpańskie MSW: około 37,5 tys. migrantów wróciło już do Maroka #PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083269919328653646",
+      "author": "@PAPinformacje",
+      "text": "Premier Włoch: zawieszamy umowę z Schengen z Hiszpanią z powodów bezpieczeństwa\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083200280468820474",
+      "author": "@PAPinformacje",
+      "text": "W ramach Tarczy Wschód zabezpieczono już 100 km granicy z Rosją i Białorusią\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083092976083898517",
+      "author": "@GUS_STAT",
+      "text": "Wstępne szacunki wskazują, że w 2026 r. zbiory głównych upraw rolnych i ogrodniczych będą niższe niż przed rokiem – od ok. 4,5% w przypadku warzyw gruntowych do ok. 18,6% w przypadku owoców z drzew.\n\n🔗\n\n#GUS #statystyki #rolnictwo",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083112383539544340",
+      "author": "@GUS_STAT",
+      "text": "Dziewczynki urodzone w 2025 r. mają statystycznie przed sobą o ponad 7 lat dłuższe życie niż chłopcy.\nWięcej informacji publikacji „Trwanie życia w 2025 r.”, która pokazuje m. in., jak zmienia się przeciętne trwanie życia w Polsce.\n\n🔗 \n\n#GUS #Demografia",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083204117304934810",
+      "author": "@PAPinformacje",
+      "text": "Klimczak: Belgia opublikowała protokół ws. Eurocontrol, wzmacnia on pozycję PAŻP\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082730797165916452",
+      "author": "@GUS_STAT",
+      "text": "W ostatnim dniu lutego 2026 r. w #GospodarkaNarodowa pracowało 15,0 mln osób (o 0,4% mniej niż w 28 lutego 2025 r.). Najwięcej osób pracowało w sekcji Przetwórstwo przemysłowe (18,1 %).\n\n🔗\n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083139273335722084",
+      "author": "@DGPrawna",
+      "text": "Sprawa Iwony Cygan. Nie ma winy „ponad wszelką wątpliwość”",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083251350952091804",
+      "author": "@PAPinformacje",
+      "text": "NASK nie odnotował rosyjskich skoordynowanych działań dezinformacyjnych ws. rakiety na Lubelszczyźnie #PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083232548277063709",
+      "author": "@PAPinformacje",
+      "text": "MKiDN: powołaliśmy pełnomocnika ds. realizacji inwestycji CAMERIMAGE CENTER w Toruniu\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083193427538149492",
+      "author": "@DGPrawna",
+      "text": "Trzęsienie ziemi w spółce CPK. Prezes i wiceprezes odwołani",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083154959978103119",
+      "author": "@DGPrawna",
+      "text": "To kolejna azjatycka nowość przewoźnika po szykowanych rejsach do Bangkoku. Połączenie do stolicy Wietnamu wystartuje 31 marca 2027 r. i będzie realizowane przez cały rok.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083092101877666106",
+      "author": "@JacekDobrzynski",
+      "text": "Funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego zapobiegli dywersji, którą przygotowywał 28-letni Białorusin. Mężczyzna, pracując jako barman w jednej z lubelskich restauracji, opracowywał plan podpalenia ogromnego, wielkopowierzchniowego magazynu znajdującego się w",
+      "likes": 839,
+      "retweets": 251
+    }
+  ]
+}

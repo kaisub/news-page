@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-01",
+  "slot": "01",
+  "generated_at": "2026-08-01T01:23:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2082880720989532597",
+      "author": "@sama",
+      "text": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
+      "likes": 18233,
+      "retweets": 1150
+    },
+    {
+      "tweet_id": "2082965101083320543",
+      "author": "@AnthropicAI",
+      "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different",
+      "likes": 12367,
+      "retweets": 2091
+    },
+    {
+      "tweet_id": "2082881262679642281",
+      "author": "@sama",
+      "text": "good job little bro",
+      "likes": 7622,
+      "retweets": 285
+    },
+    {
+      "tweet_id": "2083221585792762171",
+      "author": "@sama",
+      "text": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+      "likes": 6706,
+      "retweets": 196
+    },
+    {
+      "tweet_id": "2083203642975502640",
+      "author": "@sama",
+      "text": "i see your moore's law and i raise you 20x",
+      "likes": 5874,
+      "retweets": 226
+    },
+    {
+      "tweet_id": "2082844740446253125",
+      "author": "@GoogleAI",
+      "text": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand.\n\nToday, we take a major stride toward making that dream a reality:\n\nIntroducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly",
+      "likes": 4823,
+      "retweets": 686
+    },
+    {
+      "tweet_id": "2083198135812383197",
+      "author": "@sama",
+      "text": "it could be faster",
+      "likes": 4175,
+      "retweets": 115
+    },
+    {
+      "tweet_id": "2082902334984609936",
+      "author": "@GoogleAI",
+      "text": "What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center?\n\nStarting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich",
+      "likes": 828,
+      "retweets": 108
+    },
+    {
+      "tweet_id": "2083318036103151943",
+      "author": "@reach_vb",
+      "text": "I had a sandwich today",
+      "likes": 727,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2083270154662904224",
+      "author": "@ammaar",
+      "text": "Update on the AI Studio mobile app 🚀 \n\nAfter over 800k pre-orders in over 168 countries, it’s clear folks want a way to build personal software on the go.\n\nInstead of asking you to download yet another app we’ve decided to take an entirely different approach - one where apps",
+      "likes": 448,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2082882388619641008",
+      "author": "@reach_vb",
+      "text": "Big GPT-5.6 updates:\n\n&gt; Luna: 80% cheaper ($0.20/$1.20 per 1M tokens)\n&gt; Terra: 20% cheaper\n&gt; Sol Fast: up to 2.5x faster\n&gt; Auto-review: upgraded to Luna, ~10x cheaper\n&gt; Luna + Terra go further in Codex and ChatGPT Work\n\nMore intelligence per dollar.",
+      "likes": 350,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2083304682890338353",
+      "author": "@reach_vb",
+      "text": "You should be Luna-maxxing:\n\n&gt; Luna (Max) matches GPT‑5.5 xHigh for roughly 12× less\n&gt; Terra Max scores 2.6 points higher while costing 45% less",
+      "likes": 340,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2082911102904435078",
+      "author": "@reach_vb",
+      "text": "Sign in with ChatGPT is beginning to roll out in beta across plugins and partner sites - starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.\n\nCreate or link accounts in fewer steps and use those tools with ChatGPT and Codex.",
+      "likes": 289,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2083211778662805974",
+      "author": "@svpino",
+      "text": "The only way to get people to build secure apps is to do it automatically for them.\n\nI really like this from Bolt.\n\nThis is what they do once you click on the Publish button:\n\n1. A security agent starts deep scanning your app\n2. It automatically patches any problem that it finds",
+      "likes": 280,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2083221445375668654",
+      "author": "@GoogleAI",
+      "text": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots\n\n— Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows\n\n— Gemini 3.6 Flash",
+      "likes": 249,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2082673383255216356",
+      "author": "@jerryjliu0",
+      "text": "Yesterday I cohosted a dinner with @dexhorthy with a wonderful group of founders, to talk about agent loops and loop engineering.\n\nSome interesting insights:\n* Most of our group was *not* actively using /loop in Codex/Claude Code\n* You can build long-running autonomous agent",
+      "likes": 221,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2082931875853799774",
+      "author": "@reach_vb",
+      "text": "Codex Voice now rolling out on Android:",
+      "likes": 191,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2083079714189791652",
+      "author": "@reach_vb",
+      "text": "a lot of this can look like magic from the outside, but it’s really the result of an exceptional infra and inference team doing incredible work behind the scenes.\n\nmassive kudos to the absolute goats making all of this possible ❤️",
+      "likes": 183,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082931188621246628",
+      "author": "@reach_vb",
+      "text": "I love my team, colleagues and job! It’s been so much fun the last couple days - just letting my ideas run free and building things I care about!!\n\nOh, what a privilege it is that I get to do what I do \\o/\n\nYes, this post is brought to you by two pints and a negroni",
+      "likes": 156,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2083167971489517620",
+      "author": "@hwchase17",
+      "text": "1/2 - langgraph\n3 - deepagents\n4 - langsmith\n\nWelcome to the LangChain ecosystem",
+      "likes": 105,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082859128116973597",
+      "author": "@reach_vb",
+      "text": "One of the things I love most about this video is how well it captures the ethos of OpenAI and what drives the people behind it to wake up every day and deliver some of their life’s best work.\n\nJason really put his heart and soul into this one. Kudos, mate!",
+      "likes": 97,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082800729366921419",
+      "author": "@svpino",
+      "text": "My weight in Dec 2017: 192 lbs (87.1 kg)\nMy weight today: 147 lbs (66.7 kg)\n\nI went from 32% body fat to 14.4% body fat.\n\nI was 37 in 2017. I'm 46 today.\n\nI know you can get lean after being fat. It might be harder, but it's totally possible.\n\nThe #1 piece of advice that helped",
+      "likes": 93,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083192240134840704",
+      "author": "@reach_vb",
+      "text": "the keyboard",
+      "likes": 86,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082668368486900053",
+      "author": "@jerryjliu0",
+      "text": "agent loops should be separated into two pieces:\n- \"forward pressure loops\" are how you get autonomous agents that continually monitor the environment without chat input\n- \"backpressure loops\" is hillclimbing and making sure the output is correct",
+      "likes": 80,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082718766207471824",
+      "author": "@reach_vb",
+      "text": "Still can’t get over how effective ChatGPT Work is at looking across all the tools and surfaces I use, then putting together a plan for my day - all in the cloud!\n\n“Catch me up on everything that happened in the past x hours, look through my slack, gmail and calendar &amp; put",
+      "likes": 81,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2083198500007977323",
+      "author": "@reach_vb",
+      "text": "The best part of my job lately has been chatting with so many talented, brilliant people across the globe about why they should come build with my team and me!\n\nSuch a privilege to meet people who care so deeply about what they do.",
+      "likes": 84,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2082948034690953292",
+      "author": "@jerryjliu0",
+      "text": "Introducing the Parse Gateway \n\nThere's been an explosion of interest in model routing - you don't always need the best model for every task.\n\nThat is especially true for document parsing 📄🔀:\n- Some pages are text-heavy and relatively simple. These pages can be handled by",
+      "likes": 70,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2083265613577834605",
+      "author": "@reach_vb",
+      "text": "Created a write-like-leopold skill:",
+      "likes": 70,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083305468672327835",
+      "author": "@reach_vb",
+      "text": "Made w/ ChatGPT Work on my iPhone:",
+      "likes": 68,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2082806917874012161",
+      "author": "@svpino",
+      "text": "About food and staying lean:\n\n1. Processed food in the U.S. is engineered to make you fat and keep you coming back for more.\n\n2. If most of your food comes from the center aisles of the grocery store, especially from eye-level shelves, you're eating garbage.\n\n3. Drinks at most",
+      "likes": 62,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083225113516818654",
+      "author": "@nauczymycieAI",
+      "text": "Ursula von der Leyen ogłosiła, że \"Europa zostanie pierwszym kontynentem AI\".\n\nWywołało to falę rozbawienia i niedowierzania u ekspertów. Dlaczego? Zróbmy przegląd faktów.\n\n1. UE zapowiedziało 30 mld. euro inwestycji w centra danych. Brzmi dużo, dopóki nie uświadomimy sobie, że 1",
+      "likes": 61,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2082883597204373717",
+      "author": "@hwchase17",
+      "text": "LangSmith Gateway!\n- cost controls (including for your end users)\n- rate limiting\n- data/pii redaction\n- integrates with coding agents!\n- access to OSS models like kimi-k3!",
+      "likes": 51,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2082933016972939428",
+      "author": "@hwchase17",
+      "text": "Open wiki is long term memory for your codebase",
+      "likes": 49,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083240039522463929",
+      "author": "@hwchase17",
+      "text": "sharing more about how we evaluate different agents we build internally\n\ncommon themes (from this and future benchmarks):\n- standardize on harbor\n- skill for going from traces/raw data to harbor tasks",
+      "likes": 42,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2082879078609408149",
+      "author": "@jerryjliu0",
+      "text": "We’re excited to rollout an official batch parsing experience to LlamaParse.\n✅ Instead of hitting our APIs one file at a time, create a batch of 10k at once.\n✅ Get a dedicated UI where you can audit the entire batch at a time, inspect any jobs that had failed, and view an",
+      "likes": 44,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2083209823412510846",
+      "author": "@svpino",
+      "text": "Here is a new open-source memory framework for AI agents. This solves the amnesia your agents have all the time.\n\n61% fewer tokens when you integrate this with OpenClaw.\n\nThis memory ships with an OpenClaw plugin and a Hermes Gateway adapter, so you can use it with either setup.",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083044778778759364",
+      "author": "@jerryjliu0",
+      "text": "OpenAI’s entire growth loop: new models, price cuts, and Tibo’s token resets",
+      "likes": 35,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083199758064361713",
+      "author": "@hwchase17",
+      "text": "deepagents is slept on!",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2082850620709666961",
+      "author": "@hwchase17",
+      "text": "New Max Agency with @cognition President @russelljkaplan.\n\nWe got into the saturation of SWE-bench and what Cognition built to replace it, why \"which model is best\" stopped being the right question for most teams, and more.\n\n⏯️ YouTube: \n\n🎧 Apple:",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2082969356791881870",
+      "author": "@jerryjliu0",
+      "text": "When an incumbent disrupts a startup",
+      "likes": 24,
+      "retweets": 0
+    }
+  ]
+}
