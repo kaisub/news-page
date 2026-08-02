@@ -1,0 +1,219 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-02",
+  "slot": "01",
+  "generated_at": "2026-08-02T06:48:41Z",
+  "tweets": [
+    {
+      "tweet_id": "2083221585792762171",
+      "author": "@sama",
+      "text": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+      "likes": 10982,
+      "retweets": 330
+    },
+    {
+      "tweet_id": "2083749667410727319",
+      "author": "@karpathy",
+      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for",
+      "likes": 8969,
+      "retweets": 610
+    },
+    {
+      "tweet_id": "2083203642975502640",
+      "author": "@sama",
+      "text": "i see your moore's law and i raise you 20x",
+      "likes": 7575,
+      "retweets": 284
+    },
+    {
+      "tweet_id": "2083198135812383197",
+      "author": "@sama",
+      "text": "it could be faster",
+      "likes": 5069,
+      "retweets": 144
+    },
+    {
+      "tweet_id": "2083318036103151943",
+      "author": "@reach_vb",
+      "text": "I had a sandwich today",
+      "likes": 2559,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2083560847889023219",
+      "author": "@sama",
+      "text": "team humanity",
+      "likes": 2235,
+      "retweets": 100
+    },
+    {
+      "tweet_id": "2083304682890338353",
+      "author": "@reach_vb",
+      "text": "You should be Luna-maxxing:\n\n&gt; Luna (Max) matches GPT‑5.5 xHigh for roughly 12× less\n&gt; Terra Max scores 2.6 points higher while costing 45% less",
+      "likes": 995,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2083270154662904224",
+      "author": "@ammaar",
+      "text": "Update on the AI Studio mobile app 🚀 \n\nAfter over 800k pre-orders in over 168 countries, it’s clear folks want a way to build personal software on the go.\n\nInstead of asking you to download yet another app we’ve decided to take an entirely different approach - one where apps",
+      "likes": 946,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2083474385252364537",
+      "author": "@reach_vb",
+      "text": "An internal version of Astra, our next major model, found new results across 10 long-standing open problems in math and theoretical computer science.\n\nThe total token cost to find all 10 solutions? Roughly $2,000 at Sol API rates.\n\nAstra then formalized each argument in Lean.",
+      "likes": 628,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2083447528498909671",
+      "author": "@reach_vb",
+      "text": "Usage limits reset across Codex and ChatGPT Work! \n\nThis weekend let your curiosity run wild &amp; free, think of an idea offload to Chat Work or Codex!",
+      "likes": 466,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2083593369511403783",
+      "author": "@reach_vb",
+      "text": "there will be signs.",
+      "likes": 408,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2083221445375668654",
+      "author": "@GoogleAI",
+      "text": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️\n\n— Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots\n\n— Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows\n\n— Gemini 3.6 Flash",
+      "likes": 337,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2083535720057336041",
+      "author": "@svpino",
+      "text": "I firmly believe that AI will not replace you anytime soon.\n\nBut a smarter person using AI will.",
+      "likes": 332,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2083265613577834605",
+      "author": "@reach_vb",
+      "text": "Created a write-like-leopold skill:",
+      "likes": 318,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083211778662805974",
+      "author": "@svpino",
+      "text": "The only way to get people to build secure apps is to do it automatically for them.\n\nI really like this from Bolt.\n\nThis is what they do once you click on the Publish button:\n\n1. A security agent starts deep scanning your app\n2. It automatically patches any problem that it finds",
+      "likes": 299,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2083305468672327835",
+      "author": "@reach_vb",
+      "text": "Made w/ ChatGPT Work on my iPhone:",
+      "likes": 193,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2083304944895975810",
+      "author": "@jerryjliu0",
+      "text": "We created a document OCR router that can estimate the complexity of every single page and parse it with the relevant mode 💫 \n\n* Some pages are full of native text, which can be directly handled with LiteParse\n* Some pages contain scanned images or tables, which can be handled",
+      "likes": 121,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2083167971489517620",
+      "author": "@hwchase17",
+      "text": "1/2 - langgraph\n3 - deepagents\n4 - langsmith\n\nWelcome to the LangChain ecosystem",
+      "likes": 124,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2083240039522463929",
+      "author": "@hwchase17",
+      "text": "sharing more about how we evaluate different agents we build internally\n\ncommon themes (from this and future benchmarks):\n- standardize on harbor\n- skill for going from traces/raw data to harbor tasks",
+      "likes": 97,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2083225113516818654",
+      "author": "@nauczymycieAI",
+      "text": "Ursula von der Leyen ogłosiła, że \"Europa zostanie pierwszym kontynentem AI\".\n\nWywołało to falę rozbawienia i niedowierzania u ekspertów. Dlaczego? Zróbmy przegląd faktów.\n\n1. UE zapowiedziało 30 mld. euro inwestycji w centra danych. Brzmi dużo, dopóki nie uświadomimy sobie, że 1",
+      "likes": 103,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083192240134840704",
+      "author": "@reach_vb",
+      "text": "the keyboard",
+      "likes": 107,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083198500007977323",
+      "author": "@reach_vb",
+      "text": "The best part of my job lately has been chatting with so many talented, brilliant people across the globe about why they should come build with my team and me!\n\nSuch a privilege to meet people who care so deeply about what they do.",
+      "likes": 90,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083690215680733391",
+      "author": "@reach_vb",
+      "text": "ChatGPT Work tip: ask it to set up automations for tasks you care about and have them run on a predefined schedule",
+      "likes": 72,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2083209823412510846",
+      "author": "@svpino",
+      "text": "Here is a new open-source memory framework for AI agents. This solves the amnesia your agents have all the time.\n\n61% fewer tokens when you integrate this with OpenClaw.\n\nThis memory ships with an OpenClaw plugin and a Hermes Gateway adapter, so you can use it with either setup.",
+      "likes": 66,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2083657203375124547",
+      "author": "@reach_vb",
+      "text": "this! paired with the cloud environment is a killer combo - you can build end to end features/ products directly from the iPhone app\n\nfuture is here!",
+      "likes": 63,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2083131693104513487",
+      "author": "@sentient_agency",
+      "text": "HOLY SHIT. SOMEONE JUST KILLED EVERY SKETCHY VIDEO DOWNLOADER SITE ON THE INTERNET.\n\nIt's called ReClip. Self-hosted. Open source. Free.\n\nPaste a link from YouTube, TikTok, Instagram, X, or 1000+ other sites. Pick MP4 or MP3. Done.\n\nNo ads. No popups. No trackers. No rate limits.",
+      "likes": 36,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2083485153213767739",
+      "author": "@sentient_agency",
+      "text": "Someone built an operating system where the apps you use are never allowed to touch the real internet.\n\nIt is called Whonix and it is recommended by Edward Snowden.\n\nWhonix splits your computer into two virtual machines.\n\nThe first is called Whonix-Gateway.\n\nIts only job is to",
+      "likes": 25,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2083199758064361713",
+      "author": "@hwchase17",
+      "text": "deepagents is slept on!",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083256547065352599",
+      "author": "@nauczymycieAI",
+      "text": "Dla tych, którzy w kontrze na zacofanie w centrach danych w Europie podnoszą \"zielone\" argumenty - mam bardzo ważny wykres",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083214141523722593",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli nie chcesz, żeby umknęło Ci coś nowego ze świata AI, co mogłoby przydać Ci się w pracy - zachęcam do zapisu na mój newsletter. \n\nKolejna edycja wychodzi w poniedziałek - w środku najważniejsze informacje, poradniki i tipy z ostatniego miesiąca.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
