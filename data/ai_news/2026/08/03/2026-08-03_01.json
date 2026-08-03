@@ -1,0 +1,135 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-03",
+  "slot": "01",
+  "generated_at": "2026-08-03T01:08:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2083749667410727319",
+      "author": "@karpathy",
+      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for",
+      "likes": 23355,
+      "retweets": 1757
+    },
+    {
+      "tweet_id": "2083560847889023219",
+      "author": "@sama",
+      "text": "team humanity",
+      "likes": 2565,
+      "retweets": 111
+    },
+    {
+      "tweet_id": "2084014531274240100",
+      "author": "@reach_vb",
+      "text": "YES! Codex can quickly check in whenever it needs a decision, even outside plan mode, so it doesn’t run with the wrong assumption\n\nadd to ~/.codex/config.toml:\n\n[features]\ndefault_mode_request_user_input = true",
+      "likes": 726,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2083474385252364537",
+      "author": "@reach_vb",
+      "text": "An internal version of Astra, our next major model, found new results across 10 long-standing open problems in math and theoretical computer science.\n\nThe total token cost to find all 10 solutions? Roughly $2,000 at Sol API rates.\n\nAstra then formalized each argument in Lean.",
+      "likes": 642,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2083593369511403783",
+      "author": "@reach_vb",
+      "text": "there will be signs.",
+      "likes": 526,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2083447528498909671",
+      "author": "@reach_vb",
+      "text": "Usage limits reset across Codex and ChatGPT Work! \n\nThis weekend let your curiosity run wild &amp; free, think of an idea offload to Chat Work or Codex!",
+      "likes": 467,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2083535720057336041",
+      "author": "@svpino",
+      "text": "I firmly believe that AI will not replace you anytime soon.\n\nBut a smarter person using AI will.",
+      "likes": 375,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2083948654377996480",
+      "author": "@karpathy",
+      "text": "More on the pelican on the bicycle test from @simonw:\n\n\nI uploaded the source here so it's playable in the browser, forkable etc.\n\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+      "likes": 313,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2083916246710710429",
+      "author": "@reach_vb",
+      "text": "here’s your friendly reminder to eval your workflows across the full suite of models\n\njust moved a daily structured-output task from Sol to Luna with no drop in performance \n\nwent from $5/$30 to $0.20/$1.20 per 1M input/output tokens\n\n96% lower costs",
+      "likes": 300,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2083925252363743619",
+      "author": "@reach_vb",
+      "text": "One app. Six months. Hundreds of new ways to harness what today’s models can do. Thousands of ideas brought to life. Millions of people empowered.\n\nAnd we’re only getting started.",
+      "likes": 189,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2083690215680733391",
+      "author": "@reach_vb",
+      "text": "ChatGPT Work tip: ask it to set up automations for tasks you care about and have them run on a predefined schedule",
+      "likes": 108,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2083657203375124547",
+      "author": "@reach_vb",
+      "text": "this! paired with the cloud environment is a killer combo - you can build end to end features/ products directly from the iPhone app\n\nfuture is here!",
+      "likes": 74,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2083979713937387719",
+      "author": "@reach_vb",
+      "text": "member of technically not technical staff",
+      "likes": 67,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084073979178791100",
+      "author": "@reach_vb",
+      "text": "man you can't make this shit up, I get in my cab and my driver is telling me about Astra, the model OpenAI is about to release solved 10 math problems !!",
+      "likes": 61,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2083485153213767739",
+      "author": "@sentient_agency",
+      "text": "Someone built an operating system where the apps you use are never allowed to touch the real internet.\n\nIt is called Whonix and it is recommended by Edward Snowden.\n\nWhonix splits your computer into two virtual machines.\n\nThe first is called Whonix-Gateway.\n\nIts only job is to",
+      "likes": 26,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2083980046172074164",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI idzie na wojnę cenową. Jak możesz na tym skorzystać?\n\nKilka dni temu OpenAI obniżyło koszty modelu 5.6 Luna o 80 (!) %.\n\nTo element długo zapowiadanej wojny cenowej z Anthropic. OpenAI postanowiło podejść jednak do niej sprytnie - najsilniejszy model 5.6 Sol, z którego",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084072495204773954",
+      "author": "@reach_vb",
+      "text": "SF, I’m in you! 🇺🇸",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2083967456138154049",
+      "author": "@rpl_0x",
+      "text": "Pierwszy raz byłem na festiwalu Pol'and Rock.\n\nDo niedawna byłem anty festiwale, nie lubiłem koncertów, unikałem tłumów.\n\nOstatnio zacząłem otwierać głowę na tego typu eventy.\n\nNie żałuję, ciekawe doświadczenie, fajnie to było przeżyć.",
+      "likes": 9,
+      "retweets": 0
+    }
+  ]
+}
