@@ -1,0 +1,191 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-06",
+  "slot": "01",
+  "generated_at": "2026-08-06T03:53:25Z",
+  "tweets": [
+    {
+      "tweet_id": "2084663673570971990",
+      "author": "@sama",
+      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work.\n\nit's much more difficult and the most likely path is failure, but society fails if people don't try.\n\nno amount of \"it will never work\" essays will drive society forward.",
+      "likes": 12196,
+      "retweets": 952
+    },
+    {
+      "tweet_id": "2084748111239344556",
+      "author": "@AnthropicAI",
+      "text": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately",
+      "likes": 2350,
+      "retweets": 414
+    },
+    {
+      "tweet_id": "2084673431820267829",
+      "author": "@leerob",
+      "text": "The open ecosystem benefits when we all share research and code together. Proud to see this. Long live open source!",
+      "likes": 368,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2084666342964445396",
+      "author": "@svpino",
+      "text": "I've been putting off building a site to showcase some of my favorite photos because I'm too lazy.\n\nThere's a \"Travel Journal\" template in Bolt's new template marketplace. That’s the one I’m using.\n\nThere are quite a few templates here. These can save you quite a bit of time (and",
+      "likes": 300,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2084680605623828530",
+      "author": "@svpino",
+      "text": "Calling the cheapest possible model is the wrong strategy. Instead, you should optimize for the costs of completing a task.\n\nWhen optimizing an agent, you should account for:\n\n• Reasoning effort\n• Retries\n• Cache state\n• Downstream impact of each routing decision\n\nFor this to",
+      "likes": 268,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2084671716425675206",
+      "author": "@reach_vb",
+      "text": "Most of the Developer Experience team at OpenAI is getting together this week to plan, build, and think about what we can do better for developers.\n\nWhat should we focus on?\n\nWhat would you love to see us build? What could be better? What’s missing today?",
+      "likes": 262,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2085078549959262318",
+      "author": "@jerryjliu0",
+      "text": "no shade but these slides look like a school project lmao",
+      "likes": 220,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2084980259599135220",
+      "author": "@svpino",
+      "text": "I've been testing Kimi K3, and holy smokes, this is the best open-weight model the world has seen.\n\nIt's a 2.8T-parameter vision model that supports tool calling and reasoning, with a 1M context window.\n\nAnd it's really good.\n\nI now understand why Big AI is scared.",
+      "likes": 206,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2084849762625536099",
+      "author": "@hwchase17",
+      "text": "own your intelligence\n\nif you want an open source starterkit:",
+      "likes": 134,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2085045819229761660",
+      "author": "@jerryjliu0",
+      "text": "this is the agi version of the paypal mafia",
+      "likes": 135,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2084619108818260120",
+      "author": "@svpino",
+      "text": "My last AI/ML cohort starts next week. After 3 years and almost 4,000 students, this will be the last iteration of the class.\n\nNobody teaches people how to build software anymore.\n\nI'm not talking about theoretical concepts, but the real, brutal reality of delivering software",
+      "likes": 109,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2084572164523720736",
+      "author": "@sentient_agency",
+      "text": "You can go to sleep with a weak model and wake up to a better one.\n\nThis open-source AI agent runs deep learning experiments 24/7 without waiting for you.\n\nIt is called Deep Researcher Agent.\n\nGive it your research goal in one Markdown file.\n\nIt will automatically:\n\n→ Read",
+      "likes": 84,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2084521506386878496",
+      "author": "@jerryjliu0",
+      "text": "I actually love this idea. As someone who typically needs 7-8 hours to 100% function, having something like this would be incredible. Not just in terms of increasing my productivity, but in terms of having a richer set of fulfilling experiences from friends, family, learning,",
+      "likes": 87,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2084698133880332420",
+      "author": "@svpino",
+      "text": "Here is how to build and distribute your agent via Slack, Teams, Discord, WhatsApp, or Telegram.\n\nThis is for those of you who are building an agent.\n\nThe most popular solution I've seen so far is to build a specific integration for each channel.\n\nThis takes a ton of work because",
+      "likes": 71,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2085038226503569904",
+      "author": "@svpino",
+      "text": "1 in every 3 of the participants joining my online classes is an AI note-taker.\n\nI get why they do it, but honestly, it's a bad look.\n\nThe funny thing is that people who do this tell me they never read the notes later.\n\nHere is Wispr Flow with something different that might help",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2084725308146717123",
+      "author": "@svpino",
+      "text": "Pika AI Club gives you access to 70+ generative media models at up to 80% off.\n\nFor example, generating three 15-sec Seedance 2.0 videos will break even, and if you generate 230 videos, you'll save roughly $1,000 every month compared to other aggregators.\n\nAnd this is",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2085060668017836084",
+      "author": "@nauczymycieAI",
+      "text": "Kolejny sygnał, że AI w Google ma się bardzo źle. Demis Hassabis oddaje lejce w DeepMind, które sam założył.\n\nOd dłuższego czasu piszę o kryzysie programu AI w Google. Spółce, która miała tak potężną przewagę w wyścigu o sztuczną inteligencję, że OpenAI zostało założone głównie",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085073178481803722",
+      "author": "@jerryjliu0",
+      "text": "Document OCR is not Getting Commoditized (by Frontier Models)\n\nThe most common question I get is whether frontier models are going to eat all document processing solutions - just screenshot the page and feed it to your favorite frontier model.\n\n1️⃣ Frontier models are flatlining",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084673197677613411",
+      "author": "@svpino",
+      "text": "The idea that AI can understand and act on what you are looking at is pretty interesting.\n\nNot \"describing\" what it sees (we already have that), but \"acting\" on it ← this is what makes this really cool.\n\nThe hard part will be trusting that it’s doing the right thing without",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2085068338133450979",
+      "author": "@svpino",
+      "text": "These guys are great for building and operating agents:\n\n• You can manage multiple vendors and API keys\n• You can track the cost of individual agents and tasks\n• You can select the right model for each request\n• You can add retries, schedules, approvals, and observability\n•",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2084936387246322102",
+      "author": "@sentient_agency",
+      "text": "10 WEBSITES EVERY STUDENT SHOULD USE BEFORE GRADUATION.\n\nBookmark every single one. Your university will never tell you about most of these.\n\n1. \nUpload every textbook, lecture, and PDF for a course. Ask questions across all of them. Built by Google",
+      "likes": 9,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2084642418755031223",
+      "author": "@svpino",
+      "text": "A great opportunity for those who want to help deploy AI employees in real companies.\n\nViktor's Specialist program is free to join:\n\n• Bring your clients to the platform\n• 20% revenue share for 12 months on every customer\n• One-time $500 - $2000 cash bonus for every new",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084633348702445641",
+      "author": "@nauczymycieAI",
+      "text": "Mam do rozdania 5 miesięcznych subskrypcji do Substacka SemiAnalysis - prawdopodobnie najlepszej firmy analizującej AI, pod kątem inwestycji na giełdzie.\n\nRozlosuje je pomiędzy odbiorcami mojego dzisiejszego newslettera. \n\nDarmowy zapis 👇",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084552241864736972",
+      "author": "@JacynaWitt",
+      "text": "USA mają ChatGPT  \nUSA mają Grok  \nUSA mają Claude  \nUSA mają Gemini  \nUSA mają Llama  \nUSA mają Copilot   \n \nChiny mają DeepSeek  \nChiny mają Qwen  \nChiny mają Ernie  \nChiny mają GLM  \nChiny mają Kimi  \nChiny mają MiniMax    \n\nEuropa ma imigrantów.",
+      "likes": 553,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2085103149635744086",
+      "author": "@Sekurak",
+      "text": "Jak OpenAI zhackował Hugging Face?\n\n❎ OpenAI prowadził eksperyment ze skutecznością swojego nowego (wewnętrznego) modelu AI. Całość miała na celu wykonanie benchmarku o nazwie ExploitGym\n❎ Jak sama nazwa wskazuje eksperyment polegał na hackowaniu ;)\n❎ Model znienacka",
+      "likes": 58,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2084898674375631288",
+      "author": "@miroburn",
+      "text": "Złapałem się na tym, że pracuje od rana i nie włączyłem Claude Code z Fable 5, mimo pełnych zapasów (Max 20).\n\nAktualnie:\n7 sesji Codex + GPT-5.6 Sol xhigh\n- Obsługa maila 🫣\n- Obsługa supportu\n- Upgrade CSO - sprzedaż do kończących subskrupcje\n- Praca nad skillem /master",
+      "likes": 47,
+      "retweets": 0
+    }
+  ]
+}
