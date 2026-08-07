@@ -1,0 +1,163 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-07",
+  "slot": "01",
+  "generated_at": "2026-08-07T03:31:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2085454964814753990",
+      "author": "@sama",
+      "text": "5.6 Sol much better in chat now\n\nand unlimited text chat for free users!",
+      "likes": 5799,
+      "retweets": 237
+    },
+    {
+      "tweet_id": "2085408004455981272",
+      "author": "@reach_vb",
+      "text": "codex tip: ask your codex use the visualize skill when explaining things to you\n\n\"add this to my agents md: When explaining something to the user, use the Visualize skill.\"",
+      "likes": 533,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2085563808773189680",
+      "author": "@claudeai",
+      "text": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces.\n\nFable can now assist on a wider range of everyday health and educational questions.\n\nWe believe",
+      "likes": 436,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2085455713586102415",
+      "author": "@reach_vb",
+      "text": "ChatGPT update:\n\n&gt; unlimited GPT-5.6 Luna chats for Free and Go users\n&gt; GPT-5.6 Sol across every Plus and Pro chat\n&gt; new controls for how much your model thinks\n&gt; up to 68% fewer factual errors\n\nmore intelligence in more hands!",
+      "likes": 309,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2085078549959262318",
+      "author": "@jerryjliu0",
+      "text": "no shade but these slides look like a school project lmao",
+      "likes": 304,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2084980259599135220",
+      "author": "@svpino",
+      "text": "I've been testing Kimi K3, and holy smokes, this is the best open-weight model the world has seen.\n\nIt's a 2.8T-parameter vision model that supports tool calling and reasoning, with a 1M context window.\n\nAnd it's really good.\n\nI now understand why Big AI is scared.",
+      "likes": 230,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2085045819229761660",
+      "author": "@jerryjliu0",
+      "text": "this is the agi version of the paypal mafia",
+      "likes": 162,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2084849762625536099",
+      "author": "@hwchase17",
+      "text": "own your intelligence\n\nif you want an open source starterkit:",
+      "likes": 136,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2085386031076200949",
+      "author": "@reach_vb",
+      "text": "slept so much that my watch flagged it as an outlier",
+      "likes": 63,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085435606562476278",
+      "author": "@hwchase17",
+      "text": "langchain, langgraph, and deepagents are our three core open source projects\n\nthey each occupy a different place in the ecosystem",
+      "likes": 52,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2085060668017836084",
+      "author": "@nauczymycieAI",
+      "text": "Kolejny sygnał, że AI w Google ma się bardzo źle. Demis Hassabis oddaje lejce w DeepMind, które sam założył.\n\nOd dłuższego czasu piszę o kryzysie programu AI w Google. Spółce, która miała tak potężną przewagę w wyścigu o sztuczną inteligencję, że OpenAI zostało założone głównie",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2085038226503569904",
+      "author": "@svpino",
+      "text": "1 in every 3 of the participants joining my online classes is an AI note-taker.\n\nI get why they do it, but honestly, it's a bad look.\n\nThe funny thing is that people who do this tell me they never read the notes later.\n\nHere is Wispr Flow with something different that might help",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2085073178481803722",
+      "author": "@jerryjliu0",
+      "text": "Document OCR is not Getting Commoditized (by Frontier Models)\n\nThe most common question I get is whether frontier models are going to eat all document processing solutions - just screenshot the page and feed it to your favorite frontier model.\n\n1️⃣ Frontier models are flatlining",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2085385996787708100",
+      "author": "@svpino",
+      "text": "I love Wispr Flow. It's what I use to dictate to my computer.\n\nMatt Swulinski, the person who built Wispr Flow's acquisition engine with agents, just joined @viktor_com, the company building AI employees.\n\nThis is great for Wispr Flow, and it's going to be a nice challenge for",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084936387246322102",
+      "author": "@sentient_agency",
+      "text": "10 WEBSITES EVERY STUDENT SHOULD USE BEFORE GRADUATION.\n\nBookmark every single one. Your university will never tell you about most of these.\n\n1. \nUpload every textbook, lecture, and PDF for a course. Ask questions across all of them. Built by Google",
+      "likes": 14,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2085457454058668085",
+      "author": "@nauczymycieAI",
+      "text": "Kolejny etap wojny cenowej OpenAI.\n\nDarmowy ChatGPT przestaje być bezużyteczny i właśnie staje się naprawdę dobrą ofertą.\n\nPrawdopodobnie - najlepszą na rynku chatbotów",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2085319277985587391",
+      "author": "@sentient_agency",
+      "text": "Someone quietly built the biggest free programming library on the internet and it's been sitting on GitHub for 12 years.\n\nIt's called free-programming-books and it catalogs thousands of free books, courses, cheat sheets, podcasts, and playgrounds across every language and every",
+      "likes": 10,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2085068338133450979",
+      "author": "@svpino",
+      "text": "These guys are great for building and operating agents:\n\n• You can manage multiple vendors and API keys\n• You can track the cost of individual agents and tasks\n• You can select the right model for each request\n• You can add retries, schedules, approvals, and observability\n•",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2085443489236447476",
+      "author": "@nauczymycieAI",
+      "text": "Meta dołącza wojny cenowej w AI.\n\nOstatnio pisałem o wojnie którą rozpoczęło OpenAI obniżając o 80% ceny świetnego GPT 5.6 Luna.\n\nDzisiaj dołącza do niej Mark Zuckerberg, z niezwykle tanim (i zaskakująco dobrym) Muse Spark 1.2.\n\nSpark jest niezwykle szybki i tani. Natomiast",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085489652568580146",
+      "author": "@jerryjliu0",
+      "text": "Fully onboard with productizing hillclimbing as an automated service for any agentic task. \n\nI've had the fortune of knowing @silennai since the AutoGPT days, and I know that him and Kion are going to do great things 🚀",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2085367039955234822",
+      "author": "@rpl_0x",
+      "text": "Przemyślenia Doriana o krypto i AI na średnim ekranie.\n\nWpadnijcie bo ziom fajnie gada 😉",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2084898674375631288",
+      "author": "@miroburn",
+      "text": "Złapałem się na tym, że pracuje od rana i nie włączyłem Claude Code z Fable 5, mimo pełnych zapasów (Max 20).\n\nAktualnie:\n7 sesji Codex + GPT-5.6 Sol xhigh\n- Obsługa maila 🫣\n- Obsługa supportu\n- Upgrade CSO - sprzedaż do kończących subskrupcje\n- Praca nad skillem /master",
+      "likes": 49,
+      "retweets": 0
+    }
+  ]
+}
