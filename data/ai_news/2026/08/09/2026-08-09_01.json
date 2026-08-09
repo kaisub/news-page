@@ -1,0 +1,261 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-09",
+  "slot": "01",
+  "generated_at": "2026-08-09T02:45:33Z",
+  "tweets": [
+    {
+      "tweet_id": "2085862292311396515",
+      "author": "@sama",
+      "text": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
+      "likes": 25295,
+      "retweets": 1106
+    },
+    {
+      "tweet_id": "2085563808773189680",
+      "author": "@claudeai",
+      "text": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces.\n\nFable can now assist on a wider range of everyday health and educational questions.\n\nWe believe",
+      "likes": 8982,
+      "retweets": 678
+    },
+    {
+      "tweet_id": "2086071178045821113",
+      "author": "@svpino",
+      "text": "I'm officially done reading AI-generated code.\n\nIt's been two weeks since I looked at any of it.\n\nI think the IDE is officially on its way to the graveyard. The job is no longer about \"writing code,\" so we need new tools that better reflect this new reality.\n\nWhile reviewing the",
+      "likes": 6521,
+      "retweets": 585
+    },
+    {
+      "tweet_id": "2085807103382519872",
+      "author": "@bcherny",
+      "text": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone.",
+      "likes": 3425,
+      "retweets": 94
+    },
+    {
+      "tweet_id": "2085765236876046500",
+      "author": "@sama",
+      "text": "congrats to oklo for achieving criticality!\n\n(less than a year after groundbreaking)",
+      "likes": 3184,
+      "retweets": 141
+    },
+    {
+      "tweet_id": "2086114926142140804",
+      "author": "@leerob",
+      "text": "We’re making great progress on improving the writing quality and design taste of Grok.\n\nStill a lot more to do, but I’m encouraged by how quickly we’re iterating. Please let me know any feedback.\n\nGrok 4.6 soon!",
+      "likes": 3036,
+      "retweets": 115
+    },
+    {
+      "tweet_id": "2085860677990883454",
+      "author": "@bcherny",
+      "text": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week",
+      "likes": 2181,
+      "retweets": 131
+    },
+    {
+      "tweet_id": "2085832585025098101",
+      "author": "@reach_vb",
+      "text": "You should totally be updating your agents md regularly!\n\nHere's mine:\n- When explaining something to the user, use the Visualize skill\n- Be concise, direct, and candid. Challenge weak assumptions and distinguish verified facts from uncertainty\n- Ground research in authoritative,",
+      "likes": 944,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2085715688698806651",
+      "author": "@svpino",
+      "text": "Open Tag is the open-source version of Claude Tag.\n\nYou can use it to deploy your agents in Slack and Microsoft Teams.\n\nClaude Tag will suck in your company's information and lock you in unless you keep paying Anthropic whatever they demand.\n\nOpen Tag, on the other hand, gives",
+      "likes": 484,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2085932251070775490",
+      "author": "@reach_vb",
+      "text": "My top three of these all are:\n\n &gt; Be concise, direct, and candid. Challenge weak assumptions and distinguish verified facts from uncertainty\n\n&gt; Ask questions only when a decision is materially ambiguous, risky, or requires approval\n\n&gt; Keep changes focused and simple. Test",
+      "likes": 301,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2086073185196253343",
+      "author": "@svpino",
+      "text": "Do people still run Scrum? Do companies still hire and pay Scrum Masters?",
+      "likes": 253,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2085611057750671410",
+      "author": "@reach_vb",
+      "text": "hello friends at nvidia - who can hook me up w/ a dgx spark.. for science!",
+      "likes": 235,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2086195993867845650",
+      "author": "@reach_vb",
+      "text": "PSA: Usage limits reset across all paid plans for ChatGPT Work &amp; Codex!\n\nLet the weekend token games begin!!",
+      "likes": 226,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2086191229801275679",
+      "author": "@ammaar",
+      "text": "I used Fable 5 to bring Command &amp; Conquer: Red Alert 2 + Yuri's Revenge to the iPhone and iPad!\n\nEA never released RA2's source, so there was nothing to port. Gemini 3.6 Flash play-tested it for hours, GPT-5.6 Sol rebuilt the skirmish AI.\n\nOpen sourcing it all below",
+      "likes": 205,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2085745286035673405",
+      "author": "@svpino",
+      "text": "An agent loop is a cycle your code runs inside one agent turn.\n\nEvery pass follows the same 4 steps:\n\n1. Assemble the context\n2. Send the context to the model\n3. Execute the action\n4. Append the result to the context and return to step 1\n\nA loop repeats until a stop condition",
+      "likes": 163,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2085876997595742490",
+      "author": "@reach_vb",
+      "text": "insane that gpt 5 is *only* a year old!",
+      "likes": 180,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086111507826561438",
+      "author": "@hwchase17",
+      "text": "there's a standard-ish agent stack emerging. theres a bunch of different components, and managed agents solutions package them up nicely",
+      "likes": 144,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2085616395262599241",
+      "author": "@reach_vb",
+      "text": "luna-maxxing @ 80% lower costs!",
+      "likes": 148,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086247461215928771",
+      "author": "@svpino",
+      "text": "So many snarky comments here from people who are supposedly writing code so complex than modern models can’t write correctly.\n\nI’m not sure why is that a flex.\n\nDo you understand you are still typing gibberish like a caveman while the rest of us are making money by talking to a",
+      "likes": 141,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2085775025198760118",
+      "author": "@jerryjliu0",
+      "text": "We've built a new feature in LlamaParse that lets you automatically extract any complex form into a structured JSON output 📋🤖\n\nThe best part is there's no schema needed! We will systematically detect and extract out every single form key and corresponding form value from the",
+      "likes": 116,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2086126124090687954",
+      "author": "@reach_vb",
+      "text": "GPT-4 was the first time an LLM felt useful and practical, with early signs of what felt like “intelligence”\n\nI still remember being excited by its code completions and testing what it knew and where its knowledge cut off, with the most random prompts\n\nCan’t wait to see what the",
+      "likes": 116,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086193273056682406",
+      "author": "@jerryjliu0",
+      "text": "LiteParse can now extract structured data from your PDF in milliseconds: \n✅ checkbox states\n✅ annotations\n✅ vector graphics\n✅ word-level bounding boxes\n\nIt is the most comprehensive, accurate (and fast) free/open-source document processor out there. \n\nIf you plug it into a",
+      "likes": 100,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2086087292540616772",
+      "author": "@svpino",
+      "text": "This was me 6 months ago.",
+      "likes": 103,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085803148657279479",
+      "author": "@hwchase17",
+      "text": "at a really high level, managed agents bundle the harness and infra\n\nwhich makes it much easier to just provide your business context and get an agent!",
+      "likes": 84,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2085866499676491920",
+      "author": "@reach_vb",
+      "text": "first time seeing one of these IRL, so surreal!",
+      "likes": 68,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086145846157131792",
+      "author": "@hwchase17",
+      "text": "🎥Managed Deep Agents explained in 20 minutes\n\nWe launched managed deep agents yesterday. Combines deep agents harness with managed LangSmith infrastructure for a seamless experience\n\nGonna film some more tutorials this weekend - what do you want to see?",
+      "likes": 49,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2086194208101273683",
+      "author": "@hwchase17",
+      "text": "Memory is super interesting and unexplored\n\nWith managed deepagents, we can be more opioninated about what it should look like. Keep an eye out for what we do here",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086188183734407509",
+      "author": "@jerryjliu0",
+      "text": "Success is determined by who makes the funniest posts on X",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2086266337760796954",
+      "author": "@jerryjliu0",
+      "text": "The future of FDE work seems closely related with all work around evals/posttraining/RL envs.\n\nFDEs are effectively responsible for the following: \n1. Define the business problem.\n2. Codify the business problem into an eval rubric and environment. \n3. Hillclimb the environment",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2086194763683025040",
+      "author": "@jerryjliu0",
+      "text": "My entire programming stack was tmux + vim for like 5 years before I begrudingly switched to VS code circa 2020",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2085686821158302111",
+      "author": "@sentient_agency",
+      "text": "10 FREE ALTERNATIVES TO PAID TOOLS THAT CAN SAVE YOU $500 A MONTH\n\nSoftware subscriptions have become a second rent.\n\nAdobe Creative Cloud costs $69.99 a month. Notion and Figma charge per seat. Intercom Advanced costs $85 per agent before usage fees.\n\nPut those tools inside a",
+      "likes": 17,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2086211089487061045",
+      "author": "@hwchase17",
+      "text": "Separate brain from hands",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086033192151392341",
+      "author": "@sentient_agency",
+      "text": "10 FREE TOOLS THAT PROTECT YOUR PARENTS FROM ONLINE SCAMS\n\nA scammer does not need to hack your parents.\n\nThey only need one fake delivery text, one urgent bank call, or one popup that says their computer is infected. Install these before the call comes.\n\n1. Firefox + uBlock",
+      "likes": 12,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2086277320889774483",
+      "author": "@jerryjliu0",
+      "text": "The best \"raw\" frontier model for document parsing is gemini 3 flash, but the issue is that since then the flash models have gotten 3x more expensive while flatlining on visual recognition across complex documents.\n\nThis has been the case for every frontier model including the",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086269175199134092",
+      "author": "@jerryjliu0",
+      "text": "i would read your book @tszzl",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085760621379805300",
+      "author": "@Bentyn",
+      "text": "USA straciły pozycję lidera AI. \n\nJest gorzej niż mogło by się wydawać. \n\nZ tygodnia na tydzień, 4 z top 5ciu modeli na OpenRouter to chińskie modele. \n\nW USA słychać cichy płacz i trwa panika.\n\nNajnowsze amerykańskie modele (GPT-5.6, Claude Fable/Mythos) mają tak ostre",
+      "likes": 89,
+      "retweets": 2
+    }
+  ]
+}
