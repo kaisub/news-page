@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-10",
+  "slot": "01",
+  "generated_at": "2026-08-10T02:47:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2086159764262695199",
+      "author": "@PAPinformacje",
+      "text": "Ukraina wydała zgody na ekshumacje szczątków polskich ofiar w Hucie Pieniackiej i Ugłach na Wołyniu\n#PAPinformacje",
+      "likes": 228,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2086015882606563824",
+      "author": "@Macronextcom",
+      "text": "Z samego rana Gazeta postanowiła zepsuć dzień fliperom i deweloperom. \n\n\"Polski 🇵🇱 rynek nieruchomości stoi u progu strukturalnego trzęsienia ziemi. W najbliższych latach to demografia, a nie stopy proc. podyktuje nowe zasady gry. Nadchodzi fala dziedziczenia mieszkań.\"",
+      "likes": 129,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2086463762882600976",
+      "author": "@PAPinformacje",
+      "text": "Poszedł sygnał, że nie można mnie lekceważyć - powiedziała PAP na dzień przed startem lekkoatletycznych mistrzostw Europy w Birmingham trzykrotna mistrzyni olimpijska Anita Włodarczyk. Młociarka rzuciła w tym roku 75 metrów i chce znów walczyć o podium.\n\n@PZLANews @birmingham2026",
+      "likes": 35,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2086162632944341022",
+      "author": "@PAPinformacje",
+      "text": "Bartosz Zmarzlik wygrał żużlową Grand Prix w Rydze, ósmą eliminację mistrzostw świata\n#PAPinformacje",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2086186903431229605",
+      "author": "@PAPinformacje",
+      "text": "Są kolejne zgody na ekshumacje szczątków polskich ofiar na Wołyniu\n#PAPinformacje",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086355368263799046",
+      "author": "@laskowski_pl",
+      "text": "Pieprzony złodziej 😡",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086458694082924658",
+      "author": "@laskowski_pl",
+      "text": "Moja księżniczka",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086336630676152474",
+      "author": "@PAPinformacje",
+      "text": "16 koni znajdzie nowych właścicieli. Dziś aukcja Pride of Poland\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2086098319831433590",
+      "author": "@PAPinformacje",
+      "text": "Francuz Louis Barre wygrał w Bukowinie Tatrzańskiej szósty etap wyścigu kolarskiego Tour de Pologne\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086498972361736422",
+      "author": "@PAPinformacje",
+      "text": "Holenderka Vollering wygrała Tour de France kobiet, Katarzyna Niewiadoma druga #PAPinformacje",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086372527635316825",
+      "author": "@PAPinformacje",
+      "text": "Ekspertka: urlop brany raz albo dwa razy do roku to za mało dla organizmu\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086396232960774254",
+      "author": "@PAPinformacje",
+      "text": "Lekkoatletyczne ME. Bukowiecka: nie zmieniłam się od Rzymu, tamten bieg moim ulubionym [WIDEO]\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086372359754137937",
+      "author": "@PAPinformacje",
+      "text": "Szef sztabu generalnego: wojsko przygotowane do defilady [ZDJĘCIA]\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086336526993031466",
+      "author": "@PAPinformacje",
+      "text": "Tour de France kobiet. Emocjonująca końcówka z Polką w roli głównej\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086396321313755295",
+      "author": "@PAPinformacje",
+      "text": "Białoruskie siły demokratyczne w obliczu zmieniającej się polityki Zachodu wobec Mińska [ANALIZA]\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2086532695052399098",
+      "author": "@PAPinformacje",
+      "text": "1 mln euro za konie na aukcji Pride of Poland\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086514691660980502",
+      "author": "@PAPinformacje",
+      "text": "🎥Próby Wojska Polskiego przed defiladą i przygotowania lekkoatletów do mistrzostw Europy, działania służb, wydarzenia plenerowe, tematy społeczne oraz kultura. Przegląd weekendu w serwisie wideo @PAPinformacje to kilkadziesiąt sekund, ale za nimi stoją godziny pracy reporterów.",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086187053885067720",
+      "author": "@PAPinformacje",
+      "text": "Tour de France kobiet. Trzecia na etapie Niewiadoma-Phinney nie jest już liderką\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086159855673352309",
+      "author": "@PAPinformacje",
+      "text": "Lekkoatletyczne ME. Polacy dotarli do Birmingham. Na stadionie ostatnie przygotowania\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086336429030830511",
+      "author": "@PAPinformacje",
+      "text": "Kryzys migracyjny w Ceucie. Maroko zatrzymało pond sto osób\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086482754204533215",
+      "author": "@PAPinformacje",
+      "text": "Netanjahu: odrzucamy najnowszy plan USA dla Strefy Gazy\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086460785794912317",
+      "author": "@PAPinformacje",
+      "text": "Niemiec Marco Brenner zwycięzcą wyścigu kolarskiego Tour de Pologne #PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086000208396140999",
+      "author": "@DGPrawna",
+      "text": "Kiedy przekroczy się pewien poziom nasycenia narracji politycznej bzdurami, grozi nieodwracalne zmącenie roztworu. To właśnie przydarzyło się politykom PiS - pisze Jan Wróbel.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086452621498265908",
+      "author": "@PAPinformacje",
+      "text": "Ekspertka: platformy społecznościowe nie rywalizują już o nasze dane czy uwagę, lecz o przywiązanie #PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086339686721532179",
+      "author": "@laskowski_pl",
+      "text": "Dzień dobry i miłego dnia. \nPamiętajcie, rozmiar ma znaczenie 😉",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086137361675559069",
+      "author": "@DGPrawna",
+      "text": "Na plażach Ceuty prawdopodobnie rozegrała się jedna z bitew cichej, amerykańsko-chińskiej wojny o wpływy w Europie. W roli żołnierzy wystąpili głównie młodzi Marokańczycy, ale także tajemniczy animatorzy internetowej kampanii oraz niektórzy politycy.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086045758675960232",
+      "author": "@DGPrawna",
+      "text": "Negocjacyjny maraton przyniósł w końcu przełom: prezydent Donald Trump ogłosił, że Hamas zgodził się na rozbrojenie. Ale czy to oznacza koniec działalności palestyńskich radykałów w Strefie Gazy i na Zachodnim Brzegu Jordanu?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086114208886964365",
+      "author": "@DGPrawna",
+      "text": "„Zamach nigdy nie zmienił historii świata”. Tak powiedział Benjamin Disraeli, brytyjski premier, pisarz i architekt nowoczesnego konserwatyzmu, po zabiciu prezydenta Stanów Zjednoczonych Abrahama Lincolna.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086085268394881098",
+      "author": "@DGPrawna",
+      "text": "W piłce nożnej sentymenty już się nie liczą, czyli jak Infantino chciał sprywatyzować mistrzostwa świata",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085967240546206153",
+      "author": "@DGPrawna",
+      "text": "Czasem mam wrażenie, że premier Tusk utknął w czasach, kiedy wystarczyło rano wyjść na konferencję prasową, a przekaz prędzej czy później trafiał pod strzechy. Dzisiaj tak to nie działa - mówi @KotulaKat , posłanka @__Lewica",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085959862236705125",
+      "author": "@DGPrawna",
+      "text": "Gdy w połowie XIX w. Arabowie zburzyli posterunek na peryferiach Ceuty, a sułtan Maroka odmówił ukarania poddanych, premier Hiszpanii osobiście poprowadził żołnierzy do boju. Tak Hiszpania zdołała utrzymać kontrolę nad wrotami do Europy.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2085950185281053026",
+      "author": "@DGPrawna",
+      "text": "Są i dobre wiadomości. Nawet w przegniłym do szpiku kości światku działaczy piłkarskich istnieją czerwone linie, których przekroczenie wywołuje bunt. Do tej granicy doszedł Gianni Infantino, szef Międzynarodowej Federacji Piłki Nożnej (FIFA).",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086073729902149874",
+      "author": "@Gasiuk_Pihowicz",
+      "text": "Kolejny sukces Nawrockiego! Europejski Bank Centralny zmiażczył propozycję SAFE 0%. Finansowanie zbrojeń z NBP złamałoby unijny zakaz finansowania sektora publicznego przez bank centralny. Nie dość, że jadą na stracie, to jeszcze prawa nie znają.",
+      "likes": 1842,
+      "retweets": 401
+    },
+    {
+      "tweet_id": "2086141549918740667",
+      "author": "@sajdoor",
+      "text": "⚠️ Skuteczny cyberatak na elektrociepłownię w Polsce. W wyniku incydentu bezpieczeństwa doszło do ❌ zatrzymania turbiny parowej\n\nAtakujący z poziomu Internetu uzyskali dostęp do sieci sterowania elektrociepłowni\n\n❌ Atak rozpoczął się od cyberataku na farmę fotowoltaiczną, a",
+      "likes": 1466,
+      "retweets": 300
+    },
+    {
+      "tweet_id": "2086538353462157816",
+      "author": "@ryszard_wilk",
+      "text": "🚨 Nie odpuszczamy sprawy „emerytury po jednym dniu”!\n\nNasz kolega, @JakubCzarnota84 z Podkarpacia,  postanowił powiedzieć „sprawdzam” i dokładnie dopytał ZUS o skalę procederu o którym mówiłem kilka tygodni temu, ( tzw. \"Emerytury po 1 dniu\" dla obywateli Ukrainy).\n\nChcemy",
+      "likes": 929,
+      "retweets": 208
+    },
+    {
+      "tweet_id": "2086506542468096060",
+      "author": "@Piechocinski",
+      "text": "UOKiK ukarał Bunge Polska. Ponad 4,2 mln zł za nieuczciwe klauzule w umowach z rolnikami",
+      "likes": 797,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2086013431044321415",
+      "author": "@kawecki_maciej",
+      "text": "Dzięki tej kobiecie stałem się pierwszym Polakiem, który wziął wczoraj w Szwecji udział w zamkniętym spotkaniu właścicieli ok. 30 największych, rodzinnych firm świata. Wczoraj wieczorem usiedliśmy w namiocie, gdzie pokazano nasz film. Było to zapewne największe nagromadzenie",
+      "likes": 650,
+      "retweets": 74
+    },
+    {
+      "tweet_id": "2086431853574037969",
+      "author": "@szczepienie",
+      "text": "To jest projekt ustawy \"lex szarlatan\", który trafił do podpisu na biurko Prezydenta Nawrockiego.\n\nNa podstawie tej ustawy Rzecznik Praw Pacjenta będzie mógł nieodwołalnie zlikwidować na zamówienie dowolną stronę internetową, ponieważ ustawa nie przewiduje prawa do odwołania się",
+      "likes": 413,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2086336668047483039",
+      "author": "@GPW_Trader2022",
+      "text": "Skrót info w 1,5 min 🌍. Niedziela 9 sierpnia\n-🗽Trump: \"powinienem mieć 150% poparcia\"\n-🇷🇺Putin ma zamknąć granice i ogłosić mobilizację\n-🇵🇱10mln Polaków nie płaci sk. zdrowotnej,a leczy się\n-📳 wkrótce rusza \"Starlink Mobile\"\n-🛸🇺🇸mimo rozkazu Trumpa nie opublikowano 2 filmów",
+      "likes": 503,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2086003489050685559",
+      "author": "@sjastrzebowski",
+      "text": "Rany.🤣 \n\n W całym okresie prezesury Glapińskiego złoto mocno podrożało, a NBP w tym czasie intensywnie je dokupował (z ok. 100–150 ton na początku do ponad 600 ton obecnie). Dzięki temu powstały ogromne niezrealizowane przychody z wyceny złota (w szczycie nawet ~190–200 mld zł,",
+      "likes": 421,
+      "retweets": 84
+    }
+  ]
+}
