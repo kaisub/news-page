@@ -1,0 +1,261 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-12",
+  "slot": "01",
+  "generated_at": "2026-08-12T03:05:37Z",
+  "tweets": [
+    {
+      "tweet_id": "2086867246073401655",
+      "author": "@AnthropicAI",
+      "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis.\n\nIt didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from",
+      "likes": 17571,
+      "retweets": 1878
+    },
+    {
+      "tweet_id": "2086891169217122586",
+      "author": "@claudeai",
+      "text": "We're making Claude Sonnet 5's introductory pricing permanent.\n\nWe launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged.",
+      "likes": 10891,
+      "retweets": 682
+    },
+    {
+      "tweet_id": "2086881528282587524",
+      "author": "@sama",
+      "text": "please consider using our models to help defend your systems",
+      "likes": 8067,
+      "retweets": 287
+    },
+    {
+      "tweet_id": "2087284684103537011",
+      "author": "@bcherny",
+      "text": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code",
+      "likes": 1723,
+      "retweets": 90
+    },
+    {
+      "tweet_id": "2086793436146057347",
+      "author": "@svpino",
+      "text": "People hate that many of us aren't reading AI code anymore.\n\nTo them, if we aren't looking at the code, we must be deploying garbage. Or whatever we are building must be too simple or useless.\n\nA little bit of background:\n\nWe are working on a large system, and both Claude Code",
+      "likes": 780,
+      "retweets": 73
+    },
+    {
+      "tweet_id": "2086881958790070415",
+      "author": "@svpino",
+      "text": "This will let you embed Hermes into any application.\n\nImagine you are building a super-cool-impressive-app. Using this integration, you could have Hermes \"live\" inside that app:\n\n• Stream answers and reasoning live\n• Render UI inside your app\n• Act on each page of the app",
+      "likes": 767,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2087155823948763466",
+      "author": "@svpino",
+      "text": "Claude Code to write your code and Codex to verify it.\n\nI met with a team that's been doing this for a few weeks now. I think it's an interesting approach.\n\nThey spend most of their time writing the specs of what they want to build. This includes architecture decisions,",
+      "likes": 391,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2087178668367876316",
+      "author": "@svpino",
+      "text": "Me trying to stop Codex from changing my entire codebase when I only asked to fix the background color.",
+      "likes": 254,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2087279317172777169",
+      "author": "@GoogleAI",
+      "text": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered.\n\nThe interactive 3D visualizer built in @GoogleAIStudio lets you follow the Moon's shadow across the",
+      "likes": 214,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2087059815579185364",
+      "author": "@reach_vb",
+      "text": "ICYMI: Saint tibo has reset the limits across ChatGPT Work &amp; Codex - have a brilliant week ahead!",
+      "likes": 227,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086856570705678723",
+      "author": "@hwchase17",
+      "text": "💻How to build a web browsing agent\n\nStagehand v4 is an SDK to let agents browse the web from @browserbase \n\nWe created a tutorial to show how you could use Stagehand with Managed Deep Agents to create a production ready web browsing agent",
+      "likes": 186,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2087195936225108171",
+      "author": "@jerryjliu0",
+      "text": "Introducing ExtractBench, the most comprehensive benchmark for information extraction from complex enterprise documents.\n\nThe latest models are pushing the frontier of coding and knowledge work, but surprisingly they still struggle on complex doc extraction tasks in production. A",
+      "likes": 154,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2086889543253602482",
+      "author": "@svpino",
+      "text": "Tiny, specialized, and open models are the future!\n\nThe TwiL-LM family of models is now available on HuggingFace for Transformers and llama.cpp, under a non-commercial license.\n\nTo give you an idea of how good these tiny models are:\n\n1. The 3B version beats OpenAI's 120B gpt-oss",
+      "likes": 141,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2086915480389111830",
+      "author": "@jerryjliu0",
+      "text": "A downside with VLM-based parsing is that they’re generally slower than text-based heuristic approaches. As a result they add latency to any ad-hoc file processing *in-the agent loop* (e.g. if you upload a file to Claude)\n\nWe built LiteParse to be a really good text-based,",
+      "likes": 131,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2086921857006268656",
+      "author": "@hwchase17",
+      "text": "Deepagents 👀\n\nWe did a bunch of work slimming down the harness, and it shows. Second cheapest harness!",
+      "likes": 132,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2086873049392152742",
+      "author": "@svpino",
+      "text": "We all need a Plan B before robots take over.",
+      "likes": 123,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087228501015646233",
+      "author": "@hwchase17",
+      "text": "really excited to see this release AND integrate it with deepagents!!",
+      "likes": 81,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2086883402943205576",
+      "author": "@nauczymycieAI",
+      "text": "Recenzja Claude Fable 5 w zadaniach biurowych - po kilku tygodniach regularnego użytkowania.\n\nRuszam z recenzjami najlepszych modeli i ekosystemów obecnej generacji do codziennej pracy. Jutro recenzja GPT 5.6 Sol, a pojutrze - Opusa 5.\n\nJeżeli nie chcesz przegapić żadnej z nich,",
+      "likes": 48,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087186459354915158",
+      "author": "@hwchase17",
+      "text": "im making a massive \"Managed Deep Agents 101\" video, diving deep into all the core concepts of managed deep agents: \n\nwould people prefer a single 2hr+ video, or a youtube playlist of like 12 ten minute videos?",
+      "likes": 46,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087209999772627372",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI ma świetną ofertę -  recenzja GPT 5.6 Sol i Luna w zadaniach biurowych, po kilku tygodniach codziennego użytkowania.\n\nTo kolejny post z serii recenzji najlepszych modeli i ekosystemów do codziennej pracy. Wczoraj opisywałem Fable 5, jutro - recenzja Opusa 5.\n\nJeżeli nie",
+      "likes": 41,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087094128303558874",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic łaskawie zostawia oryginalną cenę w bezuzytecznym i absolutnie za drogim Sonnecie 5.\n\nKtoś postanowił, że warto to zakumunikować, ktoś inny to przyklepał i wrzucił.\n\nAnthropic - Wasza strategia biznesowa i komunikacyjna wygląda coraz gorzej.\n\nCzas się obudzić",
+      "likes": 42,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087302154910355862",
+      "author": "@jerryjliu0",
+      "text": "ExtractBench is one of the most comprehensive benchmarks for real-world document extraction. \n\n✅ It covers 4869 pages, across 67 document types, spanning 8 real-world domains: finance, energy, gov, auto, supply chain, healthcare, legal, real estate\n✅ It covers a distribution of",
+      "likes": 36,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087222228358500730",
+      "author": "@svpino",
+      "text": "Most AI-generated code is slop that goes nowhere.\n\nAnyone can write code, but building software that works is still hard and requires much more than the ability to prompt a model.\n\nI like what these guys just released.\n\nKeep your terminal and your coding agent, and use Coldtea to",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086867927614329322",
+      "author": "@svpino",
+      "text": "I've tried several of these Slack AI agents, and most of them don't retain any memories outside a specific conversation.\n\nThat's a bummer because you will find yourself telling the agent the same information over and over again.\n\nThese guys built an agent that can actually retain",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2086796181695295858",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo przykre są skutki duopolu politycznego w Polsce.\n\nMamy fantastycznych przedsiębiorców, naprawdę inteligentny, pracowity naród - i absolutnie zepsutą klasę polityczną. \n\nZ drugiej strony \"szaleństwem jest robić to samo i oczekiwać innych efektów\"",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087247488688492594",
+      "author": "@hwchase17",
+      "text": "LangSmith Engine is hitting the road and the rails in NY + SF\n\nIf you spot our billboards in-person over the next few months, send it our way!",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2086744308619833784",
+      "author": "@sentient_agency",
+      "text": "RIP Higgsfield.\n\nSomeone just open-sourced a full AI cinema and image studio with 400+ models.\n\nIt's called Open Generative AI. Free, MIT licensed, self-hosted UI. No content filters. No subscriptions. No prompt rejections.\n\nWhat's inside:\n\n→ 70+ text-to-image models (Flux, Nano",
+      "likes": 13,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087117715479945463",
+      "author": "@sentient_agency",
+      "text": "Designers have been begging Figma to lower prices for 5 years.\n\nA team in Spain just made the entire conversation pointless.\n\nThey built Penpot.\n\nIts a open source, self-hosted, and does everything Figma does including real-time collaboration, prototyping, design systems, and an",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087269463548735819",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli moja dzisiejsza recenzja GPT 5.6 Sol przekonała Cię do przejścia do Codex - to OpenAI właśnie wypuściło sposób na utrzymanie systemu kontekstowego (np: skilli lub pamięci) pomiędzy ekosystemami",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087268064916390320",
+      "author": "@svpino",
+      "text": "This looks pretty interesting:\n\nAn end-to-end system to build, evaluate, deploy, monitor, and continuously improve your own specialized AI models.\n\nI know foundation models are great and everything, but trust me: companies are willing to pay a ton of money for their own",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087269245751271658",
+      "author": "@hwchase17",
+      "text": "to close to call\n\nnot helpful at all!",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087357728918561135",
+      "author": "@hwchase17",
+      "text": "very helpful",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2086745043742630068",
+      "author": "@jerryjliu0",
+      "text": "I still manually reserve courts on there like some savage",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087213947669839960",
+      "author": "@sentient_agency",
+      "text": "Coldtea shows what an ADE looks like when it is designed for reliability and speed simultaneously rather than speed alone.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087058711659339853",
+      "author": "@M_Dobrodziej",
+      "text": "Ona biegnie przez ten deszcz od 58 lat. Zatrzymałem go.\n\nUlica Puławska, Warszawa, rok 1968, ulewa. Autor zdjęcia: Zbyszko Siemaszko.\n\nZasada jest banalnie prosta: bierzesz zdjęcie, rysujesz na nim odręcznie trasę przelotu (1 = start, 2 = meta) i wrzucasz jako klatkę startową.",
+      "likes": 824,
+      "retweets": 106
+    },
+    {
+      "tweet_id": "2086866207974584473",
+      "author": "@miroburn",
+      "text": "Weźmy 🔮 i załóżmy, że za 5 lat, losowy agent AI będzie robił 100,000x więcej pracy niż najlepszy specjalista przy komputerze + agenci AI będą generować 1,000x więcej ruchu internetwego niż ludzie.\n\nWażne jest to, aby patrzeć w przyszłość i powoli zmieniać kierunek swego statku.",
+      "likes": 122,
+      "retweets": 5
+    }
+  ]
+}
