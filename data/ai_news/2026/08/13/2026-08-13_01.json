@@ -1,0 +1,282 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-13",
+  "slot": "01",
+  "generated_at": "2026-08-13T03:03:35Z",
+  "tweets": [
+    {
+      "tweet_id": "2087635262390026525",
+      "author": "@claudeai",
+      "text": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser.\n\nAvailable on Max and Team today, rolling out to Pro in the coming weeks.",
+      "likes": 7007,
+      "retweets": 495
+    },
+    {
+      "tweet_id": "2087284684103537011",
+      "author": "@bcherny",
+      "text": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code",
+      "likes": 3759,
+      "retweets": 203
+    },
+    {
+      "tweet_id": "2087568564823994637",
+      "author": "@leerob",
+      "text": "Grok 4.6 is smart, fast, and cheaper than comparable models!\n\nPlus there's double usage for the first week 🚀",
+      "likes": 992,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2087640149442404584",
+      "author": "@leerob",
+      "text": "We've released the model card for Grok 4.6!\n\nIt goes in-depth on the capabilities of the model across many different evals for coding, engineering, knowledge work, and more. We also discuss pre-deployment safety testing and our safeguard stack.",
+      "likes": 850,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2087279317172777169",
+      "author": "@GoogleAI",
+      "text": "Tomorrow is the total solar eclipse 🌑☀️ Whether you’re in the path of totality across Greenland, Iceland, and Spain, or watching the partial phases online, we’ve got you covered.\n\nThe interactive 3D visualizer built in @GoogleAIStudio lets you follow the Moon's shadow across the",
+      "likes": 596,
+      "retweets": 82
+    },
+    {
+      "tweet_id": "2087574139309605106",
+      "author": "@ammaar",
+      "text": "The Google AI Professional Certificate just added a new 2-hour vibe coding module 🚀\n\nNever vibe coded before? I’ll walk you through building advanced apps you can actually publish.\n\nPlus, you’ll get 3 free months of Google AI Pro :)",
+      "likes": 459,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2087155823948763466",
+      "author": "@svpino",
+      "text": "Claude Code to write your code and Codex to verify it.\n\nI met with a team that's been doing this for a few weeks now. I think it's an interesting approach.\n\nThey spend most of their time writing the specs of what they want to build. This includes architecture decisions,",
+      "likes": 455,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2087517960722334185",
+      "author": "@svpino",
+      "text": "Let’s be real: coding is alive and well, and more popular than ever.\n\nWe didn’t kill coding, we just killed a bunch of specific programming languages.\n\nBut we are all still coding like before, but instead of writing weird-sounding instructions, we are doing it in English.",
+      "likes": 396,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2087178668367876316",
+      "author": "@svpino",
+      "text": "Me trying to stop Codex from changing my entire codebase when I only asked to fix the background color.",
+      "likes": 345,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2087059815579185364",
+      "author": "@reach_vb",
+      "text": "ICYMI: Saint tibo has reset the limits across ChatGPT Work &amp; Codex - have a brilliant week ahead!",
+      "likes": 230,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087639484275863830",
+      "author": "@reach_vb",
+      "text": "yesterday we shipped Codex for Linux 🐧\n\nthe full Codex desktop experience is now on Ubuntu, Debian and Fedora\n\nparallel agents, worktrees, diffs, skills, automations and browser workflows, all right where you already build\n\nso so happy this one is out!",
+      "likes": 211,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2087195936225108171",
+      "author": "@jerryjliu0",
+      "text": "Introducing ExtractBench, the most comprehensive benchmark for information extraction from complex enterprise documents.\n\nThe latest models are pushing the frontier of coding and knowledge work, but surprisingly they still struggle on complex doc extraction tasks in production. A",
+      "likes": 195,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2087228501015646233",
+      "author": "@hwchase17",
+      "text": "really excited to see this release AND integrate it with deepagents!!",
+      "likes": 146,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2087302154910355862",
+      "author": "@jerryjliu0",
+      "text": "ExtractBench is one of the most comprehensive benchmarks for real-world document extraction. \n\n✅ It covers 4869 pages, across 67 document types, spanning 8 real-world domains: finance, energy, gov, auto, supply chain, healthcare, legal, real estate\n✅ It covers a distribution of",
+      "likes": 151,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2087559475540459746",
+      "author": "@jerryjliu0",
+      "text": "We wrote a 36-page ArXiv whitepaper on ExtractBench 🧑‍🔬 , our effort to create the most comprehensive, schema-guided, real-world document extraction benchmark.\n\nIt’s extremely detailed and covers everything from comparisons with related work on document extraction, to the dataset",
+      "likes": 108,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087478011247399374",
+      "author": "@reach_vb",
+      "text": "haven’t been able to spend much time on x dot com the everything app in the last couple days\n\nheads down maximising shareholder value",
+      "likes": 113,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087563121716052170",
+      "author": "@rpl_0x",
+      "text": "Łapcie za darmoszke:\n- Elevenlabs Creator na 3 msc\n- Loveable Pro na 6msc i Lite na 12msc\n- Adobe CC na 2 msc\n- Make na 2 msc\n- Coursera 40% taniej\n\nWszystko to można dostać w ramach Revolut Pro, jest to darmowy program dla freelancerów, ale w praktyce każdy może to założyć - nie",
+      "likes": 98,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087222228358500730",
+      "author": "@svpino",
+      "text": "Most AI-generated code is slop that goes nowhere.\n\nAnyone can write code, but building software that works is still hard and requires much more than the ability to prompt a model.\n\nI like what these guys just released.\n\nKeep your terminal and your coding agent, and use Coldtea to",
+      "likes": 65,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087186459354915158",
+      "author": "@hwchase17",
+      "text": "im making a massive \"Managed Deep Agents 101\" video, diving deep into all the core concepts of managed deep agents: \n\nwould people prefer a single 2hr+ video, or a youtube playlist of like 12 ten minute videos?",
+      "likes": 54,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087357728918561135",
+      "author": "@hwchase17",
+      "text": "very helpful",
+      "likes": 53,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087209999772627372",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI ma świetną ofertę -  recenzja GPT 5.6 Sol i Luna w zadaniach biurowych, po kilku tygodniach codziennego użytkowania.\n\nTo kolejny post z serii recenzji najlepszych modeli i ekosystemów do codziennej pracy. Wczoraj opisywałem Fable 5, jutro - recenzja Opusa 5.\n\nJeżeli nie",
+      "likes": 46,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087094128303558874",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic łaskawie zostawia oryginalną cenę w bezuzytecznym i absolutnie za drogim Sonnecie 5.\n\nKtoś postanowił, że warto to zakumunikować, ktoś inny to przyklepał i wrzucił.\n\nAnthropic - Wasza strategia biznesowa i komunikacyjna wygląda coraz gorzej.\n\nCzas się obudzić",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087269463548735819",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli moja dzisiejsza recenzja GPT 5.6 Sol przekonała Cię do przejścia do Codex - to OpenAI właśnie wypuściło sposób na utrzymanie systemu kontekstowego (np: skilli lub pamięci) pomiędzy ekosystemami",
+      "likes": 40,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087607611097264579",
+      "author": "@hwchase17",
+      "text": "📹Build a social media agent\n\nThis Managed Deep Agent scans Hacker News and optional X, drafts three posts, saves them to durable memory, and sends them to Slack.\n\nLearn how to use:\n\n&gt; Slack channel integration\n&gt; Custom tools\n&gt; Memory\n\nVideo:",
+      "likes": 34,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087588021210128851",
+      "author": "@reach_vb",
+      "text": "London, this is going to be special! 🔥\n\nTomorrow, I’m joining @thomaspaulmann, @ryannystrom and @DanHollick to talk about how AI is changing the way we build.\n\nSo excited to meet the London builder community. See you there!",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087247488688492594",
+      "author": "@hwchase17",
+      "text": "LangSmith Engine is hitting the road and the rails in NY + SF\n\nIf you spot our billboards in-person over the next few months, send it our way!",
+      "likes": 32,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2087268064916390320",
+      "author": "@svpino",
+      "text": "This looks pretty interesting:\n\nAn end-to-end system to build, evaluate, deploy, monitor, and continuously improve your own specialized AI models.\n\nI know foundation models are great and everything, but trust me: companies are willing to pay a ton of money for their own",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087573483886715048",
+      "author": "@nauczymycieAI",
+      "text": "Do dominujących dwóch laboratoriów, właśnie dołączył trzeci.\n\nWygląda na to, że grok 4.6 to bardzo, bardzo dobry model - zbliżony poziomem do GPT 5.6 i Opusa.\n\nNa szczycie robi się ciekawie",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087588684170408397",
+      "author": "@svpino",
+      "text": "Why do so many AI-powered phone agents sound smart until you interrupt them?\n\nEven when these agents give you reasonable answers, you still leave these calls feeling like you spoke with a machine that was reading one sentence at a time.\n\nWe still haven't built voice agents that",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087457297396031644",
+      "author": "@rpl_0x",
+      "text": "Realizuje jeden z pobocznych projektów - stacja badawcza i sterująca do mikrobiologicznego ogniwa paliwowego. Elektroniką i mikrokontrolerami zajmowałem się dobrych kilka lat temu.\n\nOczywiście mocno wykorzystuje w tym projekcie AI - bardzo dobrze radzi sobie z projektowaniem",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087590512765129093",
+      "author": "@nauczymycieAI",
+      "text": "Grok 4.6 ma zbliżone możliwości do GPT 5.6 Sol, jednocześnie będąc o 30% tańszy per zadanie po API.\n\nKonkurencja znowu się rozkręca. Największym przegranym będzie Anthropic, które poczuło się zbyt pewnie.\n\nDla nas większa konkurencja = niższe ceny i szybsza dostępność modeli",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087605873460060278",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5 to najgorsza premiera tej serii od 9 miesięcy. Recenzja Opusa 5 w zadaniach biurowych, po niemal 3 tygodniach codziennego użytkowania.\n\nTo ostatnia część serii recenzji najlepszych modeli do codziennej pracy. W ostatnich dniach opisywałem Fable 5 i GPT 5.6 Sol. Dziś czas",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087117715479945463",
+      "author": "@sentient_agency",
+      "text": "Designers have been begging Figma to lower prices for 5 years.\n\nA team in Spain just made the entire conversation pointless.\n\nThey built Penpot.\n\nIts a open source, self-hosted, and does everything Figma does including real-time collaboration, prototyping, design systems, and an",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087476272431804706",
+      "author": "@sentient_agency",
+      "text": "I DON’T UNDERSTAND WHY PEOPLE PAY FOR COURSES ANYMORE.\n\nMost courses are generic and outdated.\nClaude builds custom curriculums based on your exact goal.\n\nHere are 8 prompts to replace online courses completely:",
+      "likes": 11,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087269245751271658",
+      "author": "@hwchase17",
+      "text": "to close to call\n\nnot helpful at all!",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087569325297176735",
+      "author": "@rpl_0x",
+      "text": "Jeszcze jedna fajna promka wpadła mi w ręce teraz!\n\nManus jest za free do 25 sierpnia - po prostu wejdź na\n\nmanus (.) im\n\nzałóż konto i promka powinna sama wyskoczyć - przynajmniej tak u mnie było.\n\nTestowałem to dawno temu - jak się pojawiło, nie wiem jak projekt się rozwinął i",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087213947669839960",
+      "author": "@sentient_agency",
+      "text": "Coldtea shows what an ADE looks like when it is designed for reliability and speed simultaneously rather than speed alone.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087058711659339853",
+      "author": "@M_Dobrodziej",
+      "text": "Ona biegnie przez ten deszcz od 58 lat. Zatrzymałem go.\n\nUlica Puławska, Warszawa, rok 1968, ulewa. Autor zdjęcia: Zbyszko Siemaszko.\n\nZasada jest banalnie prosta: bierzesz zdjęcie, rysujesz na nim odręcznie trasę przelotu (1 = start, 2 = meta) i wrzucasz jako klatkę startową.",
+      "likes": 1855,
+      "retweets": 235
+    },
+    {
+      "tweet_id": "2087598424757621130",
+      "author": "@miroburn",
+      "text": "Aktualny stan amerykańskiej sceny modeli AI 🇺🇸\n\n1. OpenAI/ChatGPT\nGPT-5.6 Sol i Codex są super. Atakują wszystkie trzy fronty naraz (end user, biz user, tech user) i to jest ich plus i minus. Osobiście używam najwięcej do pracy kombinacji Codex + GPT-5.6 Sol xhigh.\n\n2.",
+      "likes": 48,
+      "retweets": 2
+    }
+  ]
+}
