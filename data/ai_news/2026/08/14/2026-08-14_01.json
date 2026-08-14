@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-14",
+  "slot": "01",
+  "generated_at": "2026-08-14T03:08:10Z",
+  "tweets": [
+    {
+      "tweet_id": "2087635262390026525",
+      "author": "@claudeai",
+      "text": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser.\n\nAvailable on Max and Team today, rolling out to Pro in the coming weeks.",
+      "likes": 11152,
+      "retweets": 797
+    },
+    {
+      "tweet_id": "2088014489438621990",
+      "author": "@bcherny",
+      "text": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible.\n\nThe setup is straightforward: we have a Slack channel called proj-claude-maintains-apps. In it, Claude",
+      "likes": 2091,
+      "retweets": 112
+    },
+    {
+      "tweet_id": "2087640149442404584",
+      "author": "@leerob",
+      "text": "We've released the model card for Grok 4.6!\n\nIt goes in-depth on the capabilities of the model across many different evals for coding, engineering, knowledge work, and more. We also discuss pre-deployment safety testing and our safeguard stack.",
+      "likes": 1439,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2087568564823994637",
+      "author": "@leerob",
+      "text": "Grok 4.6 is smart, fast, and cheaper than comparable models!\n\nPlus there's double usage for the first week 🚀",
+      "likes": 1155,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2087959106200236094",
+      "author": "@leerob",
+      "text": "Gemini 3.7 Flash is now available in Cursor!\n\nHere are some of the results on our evals ↓",
+      "likes": 925,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2087574139309605106",
+      "author": "@ammaar",
+      "text": "The Google AI Professional Certificate just added a new 2-hour vibe coding module 🚀\n\nNever vibe coded before? I’ll walk you through building advanced apps you can actually publish.\n\nPlus, you’ll get 3 free months of Google AI Pro :)",
+      "likes": 680,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2087948870659768747",
+      "author": "@leerob",
+      "text": "Grok",
+      "likes": 727,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087517960722334185",
+      "author": "@svpino",
+      "text": "Let’s be real: coding is alive and well, and more popular than ever.\n\nWe didn’t kill coding, we just killed a bunch of specific programming languages.\n\nBut we are all still coding like before, but instead of writing weird-sounding instructions, we are doing it in English.",
+      "likes": 422,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2087932251841405086",
+      "author": "@reach_vb",
+      "text": "hey friends at deepseek, if you have any feedback on codex please do let me know!\n\nhope you enjoy codex as much as I do",
+      "likes": 384,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087639484275863830",
+      "author": "@reach_vb",
+      "text": "yesterday we shipped Codex for Linux 🐧\n\nthe full Codex desktop experience is now on Ubuntu, Debian and Fedora\n\nparallel agents, worktrees, diffs, skills, automations and browser workflows, all right where you already build\n\nso so happy this one is out!",
+      "likes": 344,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2087882613088538898",
+      "author": "@svpino",
+      "text": "We are all learning here, so I’m in no position to tell you how you should write and review your code.\n\nWhat I can tell you is what's working for the people I work with and me.\n\nWe aren't manually reading the code anymore. We don't care about individual lines. We don't have",
+      "likes": 317,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2087985302597926979",
+      "author": "@ammaar",
+      "text": "Gemini 3.7 Flash is here 🔥 \n\nIt’s 50% cheaper than 3.6 Flash for the year, has made significant improvements in design adherence, web dev, and making games!\n\nAvailable on AI Studio, Antigravity, and the Gemini API.\n\nHere are some one shot demos below!",
+      "likes": 237,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2087758544183431350",
+      "author": "@reach_vb",
+      "text": "ICYMI: The ChatGPT desktop app on Linux  is now in preview for:\n\n&gt; Ubuntu 24.04 and 26.04\n&gt; Debian 13\n&gt; Fedora 43 and 44\n&gt; x64 and ARM64 via .deb and .rpm\n\nYou can work with local repositories, run agents in parallel with isolated worktrees, review diffs, use Skills and",
+      "likes": 163,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2087559475540459746",
+      "author": "@jerryjliu0",
+      "text": "We wrote a 36-page ArXiv whitepaper on ExtractBench 🧑‍🔬 , our effort to create the most comprehensive, schema-guided, real-world document extraction benchmark.\n\nIt’s extremely detailed and covers everything from comparisons with related work on document extraction, to the dataset",
+      "likes": 134,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2087563121716052170",
+      "author": "@rpl_0x",
+      "text": "Łapcie za darmoszke:\n- Elevenlabs Creator na 3 msc\n- Loveable Pro na 6msc i Lite na 12msc\n- Adobe CC na 2 msc\n- Make na 2 msc\n- Coursera 40% taniej\n\nWszystko to można dostać w ramach Revolut Pro, jest to darmowy program dla freelancerów, ale w praktyce każdy może to założyć - nie",
+      "likes": 130,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087478011247399374",
+      "author": "@reach_vb",
+      "text": "haven’t been able to spend much time on x dot com the everything app in the last couple days\n\nheads down maximising shareholder value",
+      "likes": 115,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088000619525165418",
+      "author": "@reach_vb",
+      "text": "this is so so useful!\n\nComputer History helps you pick up where you left off across apps and websites\n\nwhat was I working on before lunch?\nwhich doc was I looking at?\nwhere did I stop?\nwhat do I repeat enough to turn into a skill or automation?\n\nmakes codex much more high agency",
+      "likes": 105,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087950696457162837",
+      "author": "@hwchase17",
+      "text": "talked about how harnesses &amp; evals help you own your intelligence\n\nhow they fit in to the big picture: owning your intelligence means three things:\n- open agent system (harness is a big part of this!)\n- compounding loop (evals are a big part of this!)\n- governed runtime (harness",
+      "likes": 65,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2087588021210128851",
+      "author": "@reach_vb",
+      "text": "London, this is going to be special! 🔥\n\nTomorrow, I’m joining @thomaspaulmann, @ryannystrom and @DanHollick to talk about how AI is changing the way we build.\n\nSo excited to meet the London builder community. See you there!",
+      "likes": 70,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087989512966389779",
+      "author": "@svpino",
+      "text": "I've been using this vacuum for a while, and it's pretty awesome to talk to it, point at a mess, and ask it to clean it.\n\nI'm spoiled. I want to talk to everything now.\n\n@maticrobots",
+      "likes": 63,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087607611097264579",
+      "author": "@hwchase17",
+      "text": "📹Build a social media agent\n\nThis Managed Deep Agent scans Hacker News and optional X, drafts three posts, saves them to durable memory, and sends them to Slack.\n\nLearn how to use:\n\n&gt; Slack channel integration\n&gt; Custom tools\n&gt; Memory\n\nVideo:",
+      "likes": 54,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087898625934250095",
+      "author": "@jerryjliu0",
+      "text": "This week we launched the world's most accurate document extraction agent over real-world documents.\n\nIntroducing LlamaExtract Agentic Plus 💫 . It is a complete document extraction model+harness engine that can convert even the most complex document types/lengths/schemas into",
+      "likes": 49,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087977399904501766",
+      "author": "@svpino",
+      "text": "Gemini 3.7 Flash is 50% off!\n\nThis is a really good model you can integrate with any production application:\n\n• Supports reasoning\n• Tool calling\n• Multi-step planning\n• Multimodal\n• 1M tokens context window\n\nIf you are using OpenRouter (and you should), you can get it 50%",
+      "likes": 49,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087966751812411793",
+      "author": "@hwchase17",
+      "text": "agents running in the background will be the future - lets work scale beyond people prompting them directly\n\ncrons are one way to do this. first class support in managed deepagents",
+      "likes": 41,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2087949045407035766",
+      "author": "@GoogleAI",
+      "text": "— Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp \n\n— Access the model in the Gemini Enterprise Agent Platform and Gemini Enterprise app\n\n— Build in the Gemini API via @googleaistudio and @androidstudio, and explore agent-first",
+      "likes": 45,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088010130633699694",
+      "author": "@jerryjliu0",
+      "text": "Our UK reps didn’t remember to smile 😂\n\nWe recently opened a @llama_index office in London 🇬🇧. It is three people strong (Frank, Max, Joe), with two more people starting soon. It also has a beautiful view of the Thames.\n\nWe’re hiring people across SF, London, and (soon) NYC in a",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087573483886715048",
+      "author": "@nauczymycieAI",
+      "text": "Do dominujących dwóch laboratoriów, właśnie dołączył trzeci.\n\nWygląda na to, że grok 4.6 to bardzo, bardzo dobry model - zbliżony poziomem do GPT 5.6 i Opusa.\n\nNa szczycie robi się ciekawie",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087588684170408397",
+      "author": "@svpino",
+      "text": "Why do so many AI-powered phone agents sound smart until you interrupt them?\n\nEven when these agents give you reasonable answers, you still leave these calls feeling like you spoke with a machine that was reading one sentence at a time.\n\nWe still haven't built voice agents that",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087922041060315419",
+      "author": "@hwchase17",
+      "text": "New Max Agency with @unifygtm CTO &amp; co-founder @HeggieConnor.  Some of my favorite tidbits:\n\n- how they cut 90-95% of costs two weeks before launch\n- why their subagents are just a function call.\n\n🎧 Apple: \n🎧 Spotify: \n⏯️ YouTube:",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087605873460060278",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5 to najgorsza premiera tej serii od 9 miesięcy. Recenzja Opusa 5 w zadaniach biurowych, po niemal 3 tygodniach codziennego użytkowania.\n\nTo ostatnia część serii recenzji najlepszych modeli do codziennej pracy. W ostatnich dniach opisywałem Fable 5 i GPT 5.6 Sol. Dziś czas",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087457297396031644",
+      "author": "@rpl_0x",
+      "text": "Realizuje jeden z pobocznych projektów - stacja badawcza i sterująca do mikrobiologicznego ogniwa paliwowego. Elektroniką i mikrokontrolerami zajmowałem się dobrych kilka lat temu.\n\nOczywiście mocno wykorzystuje w tym projekcie AI - bardzo dobrze radzi sobie z projektowaniem",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087590512765129093",
+      "author": "@nauczymycieAI",
+      "text": "Grok 4.6 ma zbliżone możliwości do GPT 5.6 Sol, jednocześnie będąc o 30% tańszy per zadanie po API.\n\nKonkurencja znowu się rozkręca. Największym przegranym będzie Anthropic, które poczuło się zbyt pewnie.\n\nDla nas większa konkurencja = niższe ceny i szybsza dostępność modeli",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087829636260806814",
+      "author": "@sentient_agency",
+      "text": "10 WEBSITES EVERY INTERNET USER SHOULD CHECK TONIGHT.\n\nBookmark all of them. Most people don't know half of these exist.\n\n1. \nShows every data breach your email is in and what got leaked.\n\n2. \nShows every social profile, photo, and",
+      "likes": 12,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2087909574963564739",
+      "author": "@rpl_0x",
+      "text": "Zajawka na robienie filmów z AI już dawno u mnie wygasła - no nudne to jest, a takie materiały cieszą się coraz mniejszą popularnością - przynajmniej tak mi się wydaje - jak się mule to mnie poprawcie\n\nNie chce mi się w to bawić ręcznie, ale szukam sposóbów jak to można",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087950179043520614",
+      "author": "@hwchase17",
+      "text": "one of the strengths of managed deepagents is how easy it is to define all the pieces of your production agent\n\nwe updated our docs to reflect this. each component is its own file. you can easy click through to see where it lives, what it looks like, etc",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2087569325297176735",
+      "author": "@rpl_0x",
+      "text": "Jeszcze jedna fajna promka wpadła mi w ręce teraz!\n\nManus jest za free do 25 sierpnia - po prostu wejdź na\n\nmanus (.) im\n\nzałóż konto i promka powinna sama wyskoczyć - przynajmniej tak u mnie było.\n\nTestowałem to dawno temu - jak się pojawiło, nie wiem jak projekt się rozwinął i",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2087476272431804706",
+      "author": "@sentient_agency",
+      "text": "I DON’T UNDERSTAND WHY PEOPLE PAY FOR COURSES ANYMORE.\n\nMost courses are generic and outdated.\nClaude builds custom curriculums based on your exact goal.\n\nHere are 8 prompts to replace online courses completely:",
+      "likes": 11,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2087959201121460493",
+      "author": "@leerob",
+      "text": "More details :",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087969168385536336",
+      "author": "@nauczymycieAI",
+      "text": "AI już teraz jest mądrzejsze niż wielu ludzi. Niedługo będzie też znacznie, znacznie szybsze\n\n750 tokenów wyjściowych na sekundę. Do 14 razy szybciej niż standardowy tryb GPT-5.6 Sol.\n\nTak wygląda Ultrafast, nowy tryb OpenAI oparty na czipach Cerebras. Na razie trafia do",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087972990499852353",
+      "author": "@hwchase17",
+      "text": "Can use a lightweight classifier step to first decide if even worth running\n\nThen more expensive agent if that criteria is met",
+      "likes": 15,
+      "retweets": 0
+    }
+  ]
+}
