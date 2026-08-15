@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-15",
+  "slot": "01",
+  "generated_at": "2026-08-15T02:05:47Z",
+  "tweets": [
+    {
+      "tweet_id": "2088014489438621990",
+      "author": "@bcherny",
+      "text": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day maintenance of our apps. Seeing early signs of life that this might be possible.\n\nThe setup is straightforward: we have a Slack channel called proj-claude-maintains-apps. In it, Claude",
+      "likes": 4300,
+      "retweets": 240
+    },
+    {
+      "tweet_id": "2088252015193509987",
+      "author": "@leerob",
+      "text": "Big day! Cursor has officially joined SpaceX.\n\nI’m proud of our team and what we’ve accomplished so far. Our momentum is accelerating with Grok 4.6 and Grok Bot as well.\n\nI’ll be working on making Grok useful, tasteful, and safe. Onward!",
+      "likes": 3733,
+      "retweets": 91
+    },
+    {
+      "tweet_id": "2088343978873966687",
+      "author": "@AnthropicAI",
+      "text": "We’ve written an FAQ to answer some of the questions we've received about watermarking. \n\nIn summary:\n\n• We’re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking;",
+      "likes": 1603,
+      "retweets": 189
+    },
+    {
+      "tweet_id": "2088324824863236248",
+      "author": "@AnthropicAI",
+      "text": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them.\n\nOur second Risk Report is now available:",
+      "likes": 1580,
+      "retweets": 136
+    },
+    {
+      "tweet_id": "2087959106200236094",
+      "author": "@leerob",
+      "text": "Gemini 3.7 Flash is now available in Cursor!\n\nHere are some of the results on our evals ↓",
+      "likes": 1265,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2087949042961514983",
+      "author": "@GoogleAI",
+      "text": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash.\n\n— Crush that seemingly endless to-do list. Gemini Spark in the @geminiapp now uses 3.7 Flash. The new model can equip your personal AI agent to work even smarter for you by",
+      "likes": 860,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2087948870659768747",
+      "author": "@leerob",
+      "text": "Grok",
+      "likes": 890,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2087932251841405086",
+      "author": "@reach_vb",
+      "text": "hey friends at deepseek, if you have any feedback on codex please do let me know!\n\nhope you enjoy codex as much as I do",
+      "likes": 531,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2088242987692429657",
+      "author": "@svpino",
+      "text": "In my experience, the cost of building software hasn't decreased at all.\n\nPeople are still working 40 hours every week. They are still putting in maximum effort to build whatever they are building.\n\nAre we shipping more and better software? Likely yes.\n\nBut we are also paying a",
+      "likes": 441,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2087985302597926979",
+      "author": "@ammaar",
+      "text": "Gemini 3.7 Flash is here 🔥 \n\nIt’s 50% cheaper than 3.6 Flash for the year, has made significant improvements in design adherence, web dev, and making games!\n\nAvailable on AI Studio, Antigravity, and the Gemini API.\n\nHere are some one shot demos below!",
+      "likes": 429,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2087882613088538898",
+      "author": "@svpino",
+      "text": "We are all learning here, so I’m in no position to tell you how you should write and review your code.\n\nWhat I can tell you is what's working for the people I work with and me.\n\nWe aren't manually reading the code anymore. We don't care about individual lines. We don't have",
+      "likes": 386,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2088358598669902175",
+      "author": "@hwchase17",
+      "text": "It’s beautiful",
+      "likes": 353,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2088282001480818847",
+      "author": "@svpino",
+      "text": "If you are trying to figure out your career in this new AI-dominated world, this book is really good.\n\nAlso great for those of you who want to transition into a gen-AI career.\n\nI haven't finished reading it, but here is what I can tell you:\n\n• The book maps the different careers",
+      "likes": 273,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2088332438753681700",
+      "author": "@GoogleAI",
+      "text": "It’s (finally) Friday 🎉 Here’s our end-of-week recap:\n\n— This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key announcements were Magic Capture for simultaneous video and photo capture,",
+      "likes": 175,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2087950696457162837",
+      "author": "@hwchase17",
+      "text": "talked about how harnesses &amp; evals help you own your intelligence\n\nhow they fit in to the big picture: owning your intelligence means three things:\n- open agent system (harness is a big part of this!)\n- compounding loop (evals are a big part of this!)\n- governed runtime (harness",
+      "likes": 154,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2087758544183431350",
+      "author": "@reach_vb",
+      "text": "ICYMI: The ChatGPT desktop app on Linux  is now in preview for:\n\n&gt; Ubuntu 24.04 and 26.04\n&gt; Debian 13\n&gt; Fedora 43 and 44\n&gt; x64 and ARM64 via .deb and .rpm\n\nYou can work with local repositories, run agents in parallel with isolated worktrees, review diffs, use Skills and",
+      "likes": 162,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2088290202317967398",
+      "author": "@reach_vb",
+      "text": "Wow! Thank you ChatGPT - \"Even your self-awareness has been outsourced to Codex\"\n\n\"Computer history roast me based on what you know of me\"",
+      "likes": 141,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2087989512966389779",
+      "author": "@svpino",
+      "text": "I've been using this vacuum for a while, and it's pretty awesome to talk to it, point at a mess, and ask it to clean it.\n\nI'm spoiled. I want to talk to everything now.\n\n@maticrobots",
+      "likes": 139,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2088000619525165418",
+      "author": "@reach_vb",
+      "text": "this is so so useful!\n\nComputer History helps you pick up where you left off across apps and websites\n\nwhat was I working on before lunch?\nwhich doc was I looking at?\nwhere did I stop?\nwhat do I repeat enough to turn into a skill or automation?\n\nmakes codex much more high agency",
+      "likes": 129,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088350925962289174",
+      "author": "@svpino",
+      "text": "You can use this to mock anything you need:\n\n1. The LLM\n2. MCP tools\n3. Agents\n4. Databases\n5. (whatever)\n\nIt's a library you install (you can also run it as a docker container), and from there, you can test everything without ever hitting the real thing.",
+      "likes": 121,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2088368180712411388",
+      "author": "@reach_vb",
+      "text": "do you thank Codex after it’s done a good job or is that just me",
+      "likes": 74,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087977399904501766",
+      "author": "@svpino",
+      "text": "Gemini 3.7 Flash is 50% off!\n\nThis is a really good model you can integrate with any production application:\n\n• Supports reasoning\n• Tool calling\n• Multi-step planning\n• Multimodal\n• 1M tokens context window\n\nIf you are using OpenRouter (and you should), you can get it 50%",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2087966751812411793",
+      "author": "@hwchase17",
+      "text": "agents running in the background will be the future - lets work scale beyond people prompting them directly\n\ncrons are one way to do this. first class support in managed deepagents",
+      "likes": 58,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2087898625934250095",
+      "author": "@jerryjliu0",
+      "text": "This week we launched the world's most accurate document extraction agent over real-world documents.\n\nIntroducing LlamaExtract Agentic Plus 💫 . It is a complete document extraction model+harness engine that can convert even the most complex document types/lengths/schemas into",
+      "likes": 59,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2088342687808438352",
+      "author": "@hwchase17",
+      "text": "some great new LangSmith docs on traces vs threads vs trajectories (new concept)\n\nobservability data is no longer just for observability - its also for memory &amp; learning\n\nhaving a really clear mental model of this data is incredibly helpful!",
+      "likes": 54,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2088296802407637009",
+      "author": "@nauczymycieAI",
+      "text": "Sytuacja AI w Europie właśnie zmieniła się ze złej w dramatyczną.\n\nPamiętacie Mistrala? Zdarza mi się szydzić z jego możliwości.\n\nBył słaby, był do tyłu, tracił coraz bardziej względem czołówki - ale przynajmniej mieliśmy europejski model z ambicjami. \n\nNa wszelki wypadek. Tak",
+      "likes": 58,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088010130633699694",
+      "author": "@jerryjliu0",
+      "text": "Our UK reps didn’t remember to smile 😂\n\nWe recently opened a @llama_index office in London 🇬🇧. It is three people strong (Frank, Max, Joe), with two more people starting soon. It also has a beautiful view of the Thames.\n\nWe’re hiring people across SF, London, and (soon) NYC in a",
+      "likes": 50,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088351451407868091",
+      "author": "@reach_vb",
+      "text": "Favourite of this all is:\n\n\"You can now add Google Drive files to your ChatGPT Library. That makes it easy to ask ChatGPT questions about those files.\"\n\nSo so useful specially when on the move!",
+      "likes": 51,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088399694187602099",
+      "author": "@reach_vb",
+      "text": "holy shit, it’s true!",
+      "likes": 50,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088357884346400953",
+      "author": "@svpino",
+      "text": "Qwen 3.8 27B is one of the best open-weight models out there.",
+      "likes": 45,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087829636260806814",
+      "author": "@sentient_agency",
+      "text": "10 WEBSITES EVERY INTERNET USER SHOULD CHECK TONIGHT.\n\nBookmark all of them. Most people don't know half of these exist.\n\n1. \nShows every data breach your email is in and what got leaked.\n\n2. \nShows every social profile, photo, and",
+      "likes": 16,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2087969168385536336",
+      "author": "@nauczymycieAI",
+      "text": "AI już teraz jest mądrzejsze niż wielu ludzi. Niedługo będzie też znacznie, znacznie szybsze\n\n750 tokenów wyjściowych na sekundę. Do 14 razy szybciej niż standardowy tryb GPT-5.6 Sol.\n\nTak wygląda Ultrafast, nowy tryb OpenAI oparty na czipach Cerebras. Na razie trafia do",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087909574963564739",
+      "author": "@rpl_0x",
+      "text": "Zajawka na robienie filmów z AI już dawno u mnie wygasła - no nudne to jest, a takie materiały cieszą się coraz mniejszą popularnością - przynajmniej tak mi się wydaje - jak się mule to mnie poprawcie\n\nNie chce mi się w to bawić ręcznie, ale szukam sposóbów jak to można",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088391236960829771",
+      "author": "@jerryjliu0",
+      "text": "Ran into some @cognition folks in Amsterdam 🍹🇳🇱",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088340720587546787",
+      "author": "@hwchase17",
+      "text": "new langchain oss release!",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2087972990499852353",
+      "author": "@hwchase17",
+      "text": "Can use a lightweight classifier step to first decide if even worth running\n\nThen more expensive agent if that criteria is met",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088407366114971945",
+      "author": "@jerryjliu0",
+      "text": "There's a lot of real-world documents that are scanned, rotated, handwritten, or some combination of any of these elements.\n\nThis week we created a comprehensive document extraction benchmark that contains documents tagged with various \"perception challenges\", along with other",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2087895059072942256",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli chcesz być na bieżąco z recenzjami, poradnikami i statystykami ze świata AI, które mogą wpłynąć na Twoją codzienną pracę - zapraszam do mojego darmowego newslettera.\n\nDzięki temu nie będziesz skazany na kaprys algorytmu i nic ważnego Cię nie ominie 👇",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088196344129409178",
+      "author": "@sentient_agency",
+      "text": "A computer scientist won the Turing Award at 36 and then walked away from almost every other project for the next 50 years to write one book that he has still not finished at age 88, and it may be the most important book in his field.\n\nHis name is Donald Knuth. He won the Turing",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088237897405067666",
+      "author": "@nauczymycieAI",
+      "text": "W Folwarku zawsze są równi i równiejsi",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}
