@@ -1,0 +1,247 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-16",
+  "slot": "01",
+  "generated_at": "2026-08-16T02:10:34Z",
+  "tweets": [
+    {
+      "tweet_id": "2088343978873966687",
+      "author": "@AnthropicAI",
+      "text": "We’ve written an FAQ to answer some of the questions we've received about watermarking. \n\nIn summary:\n\n• We’re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking;",
+      "likes": 3864,
+      "retweets": 545
+    },
+    {
+      "tweet_id": "2088252015193509987",
+      "author": "@leerob",
+      "text": "Big day! Cursor has officially joined SpaceX.\n\nI’m proud of our team and what we’ve accomplished so far. Our momentum is accelerating with Grok 4.6 and Grok Bot as well.\n\nI’ll be working on making Grok useful, tasteful, and safe. Onward!",
+      "likes": 4286,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2088324824863236248",
+      "author": "@AnthropicAI",
+      "text": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them.\n\nOur second Risk Report is now available:",
+      "likes": 2127,
+      "retweets": 187
+    },
+    {
+      "tweet_id": "2088358598669902175",
+      "author": "@hwchase17",
+      "text": "It’s beautiful",
+      "likes": 1394,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2088708027822002232",
+      "author": "@svpino",
+      "text": "People will simply start using models that don’t watermark their answers.",
+      "likes": 993,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2088242987692429657",
+      "author": "@svpino",
+      "text": "In my experience, the cost of building software hasn't decreased at all.\n\nPeople are still working 40 hours every week. They are still putting in maximum effort to build whatever they are building.\n\nAre we shipping more and better software? Likely yes.\n\nBut we are also paying a",
+      "likes": 560,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2088609150104412628",
+      "author": "@svpino",
+      "text": "This is a weird time to be a software developer.\n\nOn one hand, we have these amazing magic boxes that spit out code when we ask nicely.\n\nOn the other hand, nobody knows what works, for how long it works, or the best ways to produce good, quality software anymore.\n\nFor the last",
+      "likes": 504,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2088282001480818847",
+      "author": "@svpino",
+      "text": "If you are trying to figure out your career in this new AI-dominated world, this book is really good.\n\nAlso great for those of you who want to transition into a gen-AI career.\n\nI haven't finished reading it, but here is what I can tell you:\n\n• The book maps the different careers",
+      "likes": 460,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2088673571316936766",
+      "author": "@reach_vb",
+      "text": "welcome multi-agents v2 - you can use any model ranging from Sol, terra, luna to gpt 5.5 as a sub-agent!\n\nparticularly useful for luna-maxxing! enjoy!!",
+      "likes": 481,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2088350925962289174",
+      "author": "@svpino",
+      "text": "You can use this to mock anything you need:\n\n1. The LLM\n2. MCP tools\n3. Agents\n4. Databases\n5. (whatever)\n\nIt's a library you install (you can also run it as a docker container), and from there, you can test everything without ever hitting the real thing.",
+      "likes": 386,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2088332438753681700",
+      "author": "@GoogleAI",
+      "text": "It’s (finally) Friday 🎉 Here’s our end-of-week recap:\n\n— This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key announcements were Magic Capture for simultaneous video and photo capture,",
+      "likes": 270,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2088676941981208581",
+      "author": "@reach_vb",
+      "text": "codex tip: ask codex to look through past sessions in your project and recommend sub-agent personas/ profiles\n\nfor ex: other day it suggested using a luna sub agent to flag issues in buildkite and github CI instead of making it a synchronous process",
+      "likes": 246,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2088399694187602099",
+      "author": "@reach_vb",
+      "text": "holy shit, it’s true!",
+      "likes": 236,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088290202317967398",
+      "author": "@reach_vb",
+      "text": "Wow! Thank you ChatGPT - \"Even your self-awareness has been outsourced to Codex\"\n\n\"Computer history roast me based on what you know of me\"",
+      "likes": 157,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2088653366335582629",
+      "author": "@hwchase17",
+      "text": "gave a talk \"owning your intelligence\" - ty @sequoia @sonyatweetybird for having me\n\ntalked about harnesses and evals and the role they play in owning your intelligence\n\nTLDR:\n&gt; agents = model + harness + context\n&gt; model - own the weights using something like @FireworksAI_HQ \n&gt;",
+      "likes": 142,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2088357884346400953",
+      "author": "@svpino",
+      "text": "Qwen 3.8 27B is one of the best open-weight models out there.",
+      "likes": 146,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2088368180712411388",
+      "author": "@reach_vb",
+      "text": "do you thank Codex after it’s done a good job or is that just me",
+      "likes": 143,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088342687808438352",
+      "author": "@hwchase17",
+      "text": "some great new LangSmith docs on traces vs threads vs trajectories (new concept)\n\nobservability data is no longer just for observability - its also for memory &amp; learning\n\nhaving a really clear mental model of this data is incredibly helpful!",
+      "likes": 114,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2088296802407637009",
+      "author": "@nauczymycieAI",
+      "text": "Sytuacja AI w Europie właśnie zmieniła się ze złej w dramatyczną.\n\nPamiętacie Mistrala? Zdarza mi się szydzić z jego możliwości.\n\nBył słaby, był do tyłu, tracił coraz bardziej względem czołówki - ale przynajmniej mieliśmy europejski model z ambicjami. \n\nNa wszelki wypadek. Tak",
+      "likes": 98,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2088351451407868091",
+      "author": "@reach_vb",
+      "text": "Favourite of this all is:\n\n\"You can now add Google Drive files to your ChatGPT Library. That makes it easy to ask ChatGPT questions about those files.\"\n\nSo so useful specially when on the move!",
+      "likes": 94,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088649162514387080",
+      "author": "@reach_vb",
+      "text": "you can also just use cloud agents with ChatGPT work too - give that laptop some rest ;)",
+      "likes": 73,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088407366114971945",
+      "author": "@jerryjliu0",
+      "text": "There's a lot of real-world documents that are scanned, rotated, handwritten, or some combination of any of these elements.\n\nThis week we created a comprehensive document extraction benchmark that contains documents tagged with various \"perception challenges\", along with other",
+      "likes": 47,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2088506529913680146",
+      "author": "@rpl_0x",
+      "text": "Scenariusz: AI\nReżyseria: AI\nWykonanie: AI\nMontaż: AI\n\nTen film powstał bez mojego udziału - AI dostało pełną dowolność - jedynym moim zastrzeżeniem było żeby był tryb selfie i bohaterem był świadek dziejów - z zdjęcia referencyjnego.\n\nSporo glitchy - robiąc ręcznie pewnie bym",
+      "likes": 40,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088535060433531256",
+      "author": "@rpl_0x",
+      "text": "Ostatnio trafiłem na artykuł mówiący o tym że polskie Malediwy w Jaworznie zupełnie wyschły, zaciekawiło mnie to i pojechałem sprawdzić.\n\nFaktycznie wody jest mniej ale żeby nazywać to Sahara i że po lazurowej wodzie nie został ślad...?",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088752023420248352",
+      "author": "@jerryjliu0",
+      "text": "It makes sense to optimize model routing at the harness layer instead of the gateway layer if you want to hillclimb  on accuracy/cost for any e2e task.\n\nEvery task is solved by a combination of a model mixture and agent harness. Every task requires a different mixture of models",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088340720587546787",
+      "author": "@hwchase17",
+      "text": "new langchain oss release!",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088391236960829771",
+      "author": "@jerryjliu0",
+      "text": "Ran into some @cognition folks in Amsterdam 🍹🇳🇱",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088507270736810136",
+      "author": "@nauczymycieAI",
+      "text": "Na dobre zaczyna się wykorzystywanie przewagi technologicznej w gepolityce.\n\nNie miejcie złudzeń - Pekin na pewnym etapie zrobi to samo.\n\nWitamy w Europie sprowadzobej do roli popychadła",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088613812974809417",
+      "author": "@rpl_0x",
+      "text": "Świadek dziejów tłumaczy genezę dzisiejszego święta!",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088555967646695534",
+      "author": "@sentient_agency",
+      "text": "A Stanford psychologist spent 4 years proving that the simple act of walking generates 60% more creative ideas than sitting, and the experiment she designed to kill every alternative explanation is one of the most decisive findings in modern psychology.\n\nHer name is Marily",
+      "likes": 9,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2088733158766501952",
+      "author": "@jerryjliu0",
+      "text": "We think a lot about the distribution of all real-world documents, particularly for real-world use cases.\n\nWe think about the distribution in terms of page length, field length, domain, and task type. \n\nSome documents have a single page but can have anywhere from 1-10 fields to",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088237897405067666",
+      "author": "@nauczymycieAI",
+      "text": "W Folwarku zawsze są równi i równiejsi",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088759243365044618",
+      "author": "@jerryjliu0",
+      "text": "Our \"agentic plus\" extractor in LlamaParse is great for extracting out massive volumes of fields (e.g. 10k-100k+ fields) from long documents (100-500 pages)\n\nWe tested with a doc that contains a giant matrix of all creditors for FTX 💸 (75k fields, 114 pages). See screenshot",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088196344129409178",
+      "author": "@sentient_agency",
+      "text": "A computer scientist won the Turing Award at 36 and then walked away from almost every other project for the next 50 years to write one book that he has still not finished at age 88, and it may be the most important book in his field.\n\nHis name is Donald Knuth. He won the Turing",
+      "likes": 4,
+      "retweets": 3
+    }
+  ]
+}
