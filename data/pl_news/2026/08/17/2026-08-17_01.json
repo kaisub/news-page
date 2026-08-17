@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-17",
+  "slot": "01",
+  "generated_at": "2026-08-17T02:21:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2088689517062721751",
+      "author": "@Macronextcom",
+      "text": "Mamy epidemię samotności. I kryzys demograficzny.\n\nPaństwo nie powinno tworzyć warunków w których samotność jest opłacalna.👇 Powinno systemowo przeciwdziałać trendom kulturowym, technologicznym i ekonom. wpędzającym w samotność. Tworzyć warunki do dobrowolnego budowania więzi.",
+      "likes": 248,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2088939947482898509",
+      "author": "@laskowski_pl",
+      "text": "Tak wygląda prawo własności w Polsce.\nLokator nie pracuje, ma trójkę dzieci, lokalu socjalnego może trzy razy nie przyjąć, gmina odwołuje się w sądach, które działają mega wolno. Za chwilę kolejny okres ochronny.\nŻyczę takiego lokatora posłom.",
+      "likes": 213,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2088878658857456113",
+      "author": "@laskowski_pl",
+      "text": "Nie jesteśmy w stanie walczyć z zmianami klimatu, musimy walczyć, ze skutkami zmian klimatu. Zmiany były są i będą. \nPomysły zdemenciałego Trumpa o przejęciu cieśniny Ormuz, powinny zmobilizować nas do radykalnego odejścia od importu węglowodorów, tu nie ma bezpiecznego dostawcy.",
+      "likes": 52,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2088864739552121231",
+      "author": "@laskowski_pl",
+      "text": "Dewiza „Bóg, Honor, Ojczyzna” pojawiła się na sztandarach Wojska Polskiego dopiero 15 października 1943 roku, kiedy prezydent RP na uchodźstwie Władysław Raczkiewicz wydał odpowiedni dekret dla Polskich Sił Zbrojnych na Zachodzie.\n\nOd wieków 😁 Doktorat w chipsach znalazł.",
+      "likes": 42,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2088589442579567073",
+      "author": "@laskowski_pl",
+      "text": "\"Bezpieczeństwo kupowane kończy się wtedy gdy ktoś przestaje sprzedawać\" @KosiniakKamysz \nJakie to jest prawdziwe, nie tylko w armii, ale głównie w cyfryzacji.\n\nNie ma cyfrowego bezpieczeństwa bez własnej infrastrukty i rozwiązań, jest tylko ułuda bezpieczeństwa danych.",
+      "likes": 37,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2088869530361594319",
+      "author": "@laskowski_pl",
+      "text": "\"Bohaterscy, Polscy, obrońcy Monte Cassino\", \"Bóg, Honor i Ojczyzna na sztandarach od czasów bitwy pod Grunwaldem\". \nJesteś na kacu lub brałeś, nie przemawiaj, nawet bez kartki.",
+      "likes": 33,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2088585213517430842",
+      "author": "@laskowski_pl",
+      "text": "Naprawdę Prezydent musiał się odnieść do bieżącej polityki, bo by się udusił gdyby tego nie zrobił? \n\nTryb wyborczy = mode on",
+      "likes": 32,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088891958852817060",
+      "author": "@laskowski_pl",
+      "text": "Lekarze chcą jechać za granicę? Po co? \nGdzie dostaną takie zarobki jak w Polsce, na pewno nie w Niemczech. \nTymczasem nasza ministra od zdrowia chce płacić 36 tys. miesięcznie (176hx240 zł.- 14% podatek)",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2088930802671202357",
+      "author": "@PAPinformacje",
+      "text": "Premier: podjąłem decyzję o wysłaniu na Węgry polskiego samolotu specjalnego z przedstawicielami MSZ i służb medycznych. (PAP)\n#PAPinformacje",
+      "likes": 23,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2088923803409580455",
+      "author": "@PAPinformacje",
+      "text": "Zmasowany atak ukraińskich dronów na Moskwę\n#PAPinformacje",
+      "likes": 24,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2088917644879564968",
+      "author": "@laskowski_pl",
+      "text": "15 sierpnia i jak bumerang wraca sprawa Łuku Triumfalnego.\nMyślę, że jak 10 milionów wyborców prezydenta złoży się po 100 zł. to będzie można wybudować 10 łuków, pod Zakopanego po Sopot.\nBo się złożą, prawda?",
+      "likes": 22,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2089089457039216854",
+      "author": "@PAPinformacje",
+      "text": "Lekkoatletyczne ME #Birmingham2026\nKlaudia Kazimierska zdobyła srebrny medal w biegu na 1500 m 🥈\n#PAPinformacje",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089085034422485451",
+      "author": "@PAPinformacje",
+      "text": "Klaudia Kazimierska zdobyła srebrny medal mistrzostw Europy w biegu na 1500 m\n#PAPinformacje",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088931774613139551",
+      "author": "@Macronextcom",
+      "text": "W środę (19.08) #KGHM opublikuje wyniki. Analitycy prognozują, że w II kw. 2026 roku skorygowana EBITDA wzrosła o 56% r/r do 3,7 mld zł, a przychody o 46% do 12,56 mld zł.\n\n🇵🇱 Kalendarz GPW/NC:",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088922098165076368",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura Okręgowa w Krośnie wszczęła śledztwo w sprawie wypadku polskiego autokaru na Węgrzech. (PAP)\n#PAPinformacje",
+      "likes": 13,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2088913121356185967",
+      "author": "@PAPinformacje",
+      "text": "Pożar w skansenie w Sanoku. Spłonął jeden z najstarszych kościołów w Polsce\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2088898666266321081",
+      "author": "@PAPinformacje",
+      "text": "Tragedia na Węgrzech. Prezydent: łączę się w modlitwie i głębokim współczuciu z rodzinami oraz bliskimi ofiar\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089058932278939716",
+      "author": "@PAPinformacje",
+      "text": "Żodzik: jestem introwertyczką, nie zależy mi na rozpoznawalności\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088891082469703868",
+      "author": "@PAPinformacje",
+      "text": "Tragiczny wypadek polskiego autokaru na Węgrzech. MSZ z nowymi informacjami\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089042755288772856",
+      "author": "@PAPinformacje",
+      "text": "🎥Tragiczny wypadek autokaru z polskimi pielgrzymami na Węgrzech, mistrzostwa w Birmingham i medale Polski, wydarzenia sportowe, akcje służb, relacje z plenerowych wydarzeń, materiały znad wody i kadry z przyrody — weekend w obiektywach reporterów serwisu wideo @PAPinformacje.",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088933437788901525",
+      "author": "@PAPinformacje",
+      "text": "Tragiczny wypadek na Węgrzech. MSZ o stanie rannych\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2088929326150398013",
+      "author": "@PAPinformacje",
+      "text": "🔴Tragiczny wypadek polskiego autokaru na Węgrzech. Do zdarzenia doszło na autostradzie M3. Na miejscu pracowały węgierskie służby ratunkowe. Są ofiary. 🎥 Nagrania przekazane @PAPinformacje przez węgierskie służby zarządzania kryzysowego - Hungarian Disaster Management (BM OKF).",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089106640440008833",
+      "author": "@PAPinformacje",
+      "text": "Duplantis czwarty raz z rzędu mistrzem Europy w skoku o tyczce\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089070934837645334",
+      "author": "@PAPinformacje",
+      "text": "Zespół medyków leci na Węgry. Nowe informacje w sprawie wypadku polskiego autokaru\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088990962999529690",
+      "author": "@PAPinformacje",
+      "text": "Rząd wysyła na Węgry specjalny samolot. MSZ podało szczegóły\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088970453561860524",
+      "author": "@PAPinformacje",
+      "text": "Dron zestrzelony w Rumunii. NATO wskazuje na Rosję\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088927916734194060",
+      "author": "@PAPinformacje",
+      "text": "Wypadek polskiego autokaru na Węgrzech. Jest ruch prokuratury\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088913019191308336",
+      "author": "@PAPinformacje",
+      "text": "Dramat na Węgrzech. Minister infrastruktury zlecił wzmocnione kontrole firm przewozowych\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088949648190734749",
+      "author": "@PAPinformacje",
+      "text": "Odwołano część artystyczną zamknięcia Jarmarku św. Dominika po wypadku na Węgrzech [WIDEO]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088854264135479627",
+      "author": "@DGPrawna",
+      "text": "🟥 SONDAŻ DGP | Jest zgoda Polaków na większe wojskowe wydatki. Panowie ostrożniejsi od pań",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088658725720707472",
+      "author": "@DGPrawna",
+      "text": "Polska wydaje na wsparcie turystyki kwoty porównywalne z rocznym budżetem Polskiej Fundacji Narodowej. Mimo to coraz więcej obcokrajowców decyduje się spędzić czas nad Wisłą, ale i tak bilans wypada na naszą niekorzyść.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088529121454514401",
+      "author": "@DGPrawna",
+      "text": "Dziwny ruch na rynku zaalarmował antykwariuszy. Po co komu podręczniki z czasów PRL czy nieaktualne przewodniki turystyczne? Wszystko wskazuje na to, że hurtowo skupowane stare książki służą do trenowania sztucznej inteligencji.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088872634931130733",
+      "author": "@DGPrawna",
+      "text": "Lepiej wydać 100 mln zł na pomnik Matki Boskiej czy na dzieci? Odwieczny spór wraca \nw Konotopiu",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088576181620941093",
+      "author": "@DGPrawna",
+      "text": ".@Andruszkiewicz1:  W kancelarii chcemy rozmawiać z każdą stroną sporu, nie wchodzimy w to, kto ma rację. Pamiętajmy też o prostym fakcie: prawica wygrywała wybory tylko wówczas, kiedy była zjednoczona",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088497148216123731",
+      "author": "@DGPrawna",
+      "text": "Kneset uchwalił ustawę, która umożliwia uczelniom tworzenie odrębnych programów studiów dla kobiet i dla mężczyzn. Segregacja płciowa w przestrzeni publicznej to w Izraelu coraz bardziej widoczny trend.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088627520455287166",
+      "author": "@DGPrawna",
+      "text": "Niemal rok po konfrontacji z demonstrantami wydaje się, że prezydent Serbii się poddaje: ogłosił rezygnację ze stanowiska i przyspieszone wybory. Ale Aleksandar Vučić nie pozwoli się łatwo pokonać - jest na to zbyt doświadczony.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088594301286502831",
+      "author": "@DGPrawna",
+      "text": "Z jednej strony tworzymy zabezpieczenia i aplikacje do odbierania dzieci z placówek, a z drugiej – wrzucamy zdjęcia dzieci do internetu, gdzie widzą je setki, tysiące, a nawet miliony osób, które mogą zrobić z nimi, co zechcą.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088592791068684305",
+      "author": "@DGPrawna",
+      "text": "Stabilna praca odgrywa kluczową rolę w kształtowaniu pozycji społecznej oraz zdolności do tworzenia trwałych związków. Zaś jej utrata może prowadzić do izolacji, bezczynności oraz narastającej samotności.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088512174800957915",
+      "author": "@DGPrawna",
+      "text": "Sprawiedliwie uznać zasługi przodków, bez względu na polityczne afiliacje, ale przede wszystkim dołożyć starań, by nie zaprzepaścić chwilowych sukcesów i dobrych koniunktur. To powinno być nasze motto na 15 sierpnia, Święto Wojska Polskiego.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2088951152255836416",
+      "author": "@CaseyKrol",
+      "text": "Polish politician's warning to illegal migrants:\n\n\"Our soldiers can use live bullets now. So do not come to the Polish border. Do not harm our soldiers because you will be dead. Shot dead.\"\n\nDo you support Poland? 🇵🇱",
+      "likes": 21972,
+      "retweets": 3748
+    }
+  ]
+}
