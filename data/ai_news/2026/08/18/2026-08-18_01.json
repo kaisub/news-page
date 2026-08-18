@@ -1,0 +1,191 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-18",
+  "slot": "01",
+  "generated_at": "2026-08-18T02:17:22Z",
+  "tweets": [
+    {
+      "tweet_id": "2088976571516453330",
+      "author": "@svpino",
+      "text": "Imagine Microsoft watermarking the text you write.\n\nImagine Visual Studio Code watermarking your source code.\n\nI can’t wait for the copyright trial where Big AI start claiming ownership of anything that bears their watermark.",
+      "likes": 3776,
+      "retweets": 309
+    },
+    {
+      "tweet_id": "2089329396176097442",
+      "author": "@svpino",
+      "text": "First, they stole our data.\nThen, they sold it back to us.\nNow, they watermark it.\nSoon, they claim they own it all.",
+      "likes": 2542,
+      "retweets": 334
+    },
+    {
+      "tweet_id": "2089169319099777364",
+      "author": "@leerob",
+      "text": "Grok @Bot has made a few simple yet powerful technical decisions that I believe make it easy and enjoyable to use.\n\n1. The best UI is none at all. The product interface is dramatically simpler than alternatives without sacrificing functionality. How is this possible? It's one of",
+      "likes": 1491,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2089004347820490925",
+      "author": "@reach_vb",
+      "text": "GPT-5.6 Luna Max scores 13.3 points above Sonnet 5 Max on DeepSWE v1.1 while Sonnet costs 44x as much.\n\nDeepSWE tests coding agents on 113 original, long-horizon engineering tasks. \n\nLuna posts 67.2% at $0.61/task, 1.7 points above Gemini 3.7 Flash Medium at 70% lower cost.",
+      "likes": 813,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2089072824518410359",
+      "author": "@svpino",
+      "text": "If you pay a contractor to help you with a job, the final product is yours. No strings attached. Period.\n\nYou wouldn’t pay anyone who forces a watermark on your stuff.\n\nThis is not complicated to understand.",
+      "likes": 711,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2089419758034727038",
+      "author": "@svpino",
+      "text": "Next time you pay me to paint your house, I’ll watermark your walls with my name.\n\nI did more work than you painting them, so it’s only fair.",
+      "likes": 473,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2089037978706252082",
+      "author": "@svpino",
+      "text": "\"I do agree that the public has a negative view of AI, but I don’t think it is primarily caused by me...\"\n\nSays the guy who spends his week telling everyone who listens how his company will make human beings obsolete in almost every single job out there.",
+      "likes": 453,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2089082508612673897",
+      "author": "@ammaar",
+      "text": "This took me just 3 prompts with SeedDance 2.5 in @runwayml.\n\nThe leap AI video has made in such a short amount of time is insane!",
+      "likes": 343,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2089089080604914056",
+      "author": "@reach_vb",
+      "text": "If you want to play around with 1M context in Codex, update your config.toml, or just ask Codex to do it:\n\nmodel = \"gpt-5.6-sol\"\nmodel_context_window = 1000000\nmodel_auto_compact_token_limit = 900000\n\nTwo caveats:\n1. The default context window is already well calibrated and, with",
+      "likes": 330,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2089048415304843700",
+      "author": "@reach_vb",
+      "text": "Luna Max’s price-performance advantage is even clearer on a linear cost scale:",
+      "likes": 252,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2089029054611837324",
+      "author": "@hwchase17",
+      "text": "totally agree! here's how we architected deepagents to enable this\n\ndeepagents runs connected to a \"backend\". this backend needs to expose filesystem like operations, but it does not have to be a filesystem. it could be a database, object storage, or a real filesystem - it just",
+      "likes": 212,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2089099864554831995",
+      "author": "@jerryjliu0",
+      "text": "We tuned an AI agent that can do large-scale document extraction from long docs (50+ pages, some with 10k-100k fields) with 94%+ accuracy 📈\n\nIt uses a harness + model set that is tuned specifically for reasoning over extracting out complex information from complex docs. Each",
+      "likes": 136,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2089329125303410740",
+      "author": "@reach_vb",
+      "text": "a good (regularly updated) AGENTS md is all you need\n\nyou can also customise it at projects level instructions vs global across projects",
+      "likes": 144,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2088868362646360418",
+      "author": "@reach_vb",
+      "text": "“In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. \n\nThat's a very significant difference of about 34.5% fewer tokens.”",
+      "likes": 112,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2089403490401427868",
+      "author": "@svpino",
+      "text": "God knows I'd pay good money to see a new season of Silicon Valley.\n\nThe new plot writes itself.",
+      "likes": 111,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2089364232425046299",
+      "author": "@svpino",
+      "text": "This is controversial, but in many cases, humans have become the bottleneck in building software.\n\nYou are making everything slower and worse by babysitting agentic coding tools. You aren't better at coding than frontier models, and you are letting your ego get in your own way.",
+      "likes": 103,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2089399652219252830",
+      "author": "@svpino",
+      "text": "This is how you build the next generation of AI applications.\n\nYou need an idea, a good model architecture, and a great harness.\n\nThat's what MUZIM did. It's an app that runs local multimodal and vision models offline to parse and index your images, videos, and documents frame by",
+      "likes": 56,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089478844885684348",
+      "author": "@svpino",
+      "text": "Don't talk directly to a model.\n\nThe simplest trick you can use to improve the architecture of whatever you are building is to introduce a layer between your code and a model.\n\nThis will make your app 10x more flexible.\n\nOn top of routing, with a gateway you will have:\n\n•",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089287022796251318",
+      "author": "@sentient_agency",
+      "text": "Jennifer Doudna won the Nobel Prize for gene editing and went on Bloomberg to say the chatbots everyone is betting on cannot innovate at all. Every promise Silicon Valley is making about AI curing disease just hit the one person qualified to check it.\n\nShe has spent her whole",
+      "likes": 18,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2089314129978745073",
+      "author": "@rpl_0x",
+      "text": "Relacja Świadka Dziejów - tuż przed wybuchem WWII",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088962623245099358",
+      "author": "@rpl_0x",
+      "text": "Niesamowite że takie miejsca jeszcze istnieją i cieszą się taką popularnością...\n\nŻywy skansen!",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089420905047089448",
+      "author": "@nauczymycieAI",
+      "text": "Jakie są 2 największe problemy Codexa (ChatGPT na komputer)?\n\nOd użytkowników najczęściej słyszymy o słabym front-endzie i guście wizualnym oraz o krótkim oknie kontekstowym.\n\nRozwiązanie tego pierwszego podawałem jakiś czas temu na profilu (wykorzystanie Kimi K3 w Codexie).",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089390065902649440",
+      "author": "@svpino",
+      "text": "A lesson we all learn really quickly:\n\nOne thing is to build an agent that works well on your computer. A very different (and much more complicated) problem is scaling that same agent for multiple users.\n\n@xpander_ai's Omni looks really good:\n\n• Multi-player agents at the core",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089360009834512607",
+      "author": "@rpl_0x",
+      "text": "Cały czas intensywnie rozwijamy crewly. Jak jesteś żeglarzem to proszę ujawnij się w komentarzu, może masz jakieś pomysły, sugestie...\n\nZastanawiam się czy jest sens uruchamiać profil na x dla crewly 🤔",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089343828863889444",
+      "author": "@rpl_0x",
+      "text": "Był ktoś na najnowszym spidermanie? Warto?",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088962701678494110",
+      "author": "@rpl_0x",
+      "text": "Tu jakiś instrument dziwny",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}

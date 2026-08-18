@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-18",
+  "slot": "01",
+  "generated_at": "2026-08-18T02:17:22Z",
+  "tweets": [
+    {
+      "tweet_id": "2088939947482898509",
+      "author": "@laskowski_pl",
+      "text": "Tak wygląda prawo własności w Polsce.\nLokator nie pracuje, ma trójkę dzieci, lokalu socjalnego może trzy razy nie przyjąć, gmina odwołuje się w sądach, które działają mega wolno. Za chwilę kolejny okres ochronny.\nŻyczę takiego lokatora posłom.",
+      "likes": 282,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2089224867740610824",
+      "author": "@laskowski_pl",
+      "text": "System jest do poprawy i nie rozumiem dlaczego tak długo to trwa. \nNajwiększe bolączki: \n- bony, krótki termin (sama idea bonów do kosza, płacę gotówką, chcę gotówkę) \n- brak możliwości zgniatania opakowań \n- mało i przepełnione automaty \n@hennigkloska chyba chce zatopić rząd.",
+      "likes": 271,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2089289164919312683",
+      "author": "@PAPinformacje",
+      "text": "MF: deficyt budżetu po lipcu wyniósł 141 mld zł. (PAP)\n#PAPInformacje",
+      "likes": 207,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2089283638454071566",
+      "author": "@Macronextcom",
+      "text": "W modnym temacie zarabiania BigTechów na scamie. Oto \"Pulsu Biznesu\". \n\n@puls_biznesu",
+      "likes": 72,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089342036897923447",
+      "author": "@PAPinformacje",
+      "text": "Zmarł aktor Jan Frycz - poinformował Teatr Narodowy w Warszawie. (PAP)\n#PAPinformacje",
+      "likes": 55,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2088878658857456113",
+      "author": "@laskowski_pl",
+      "text": "Nie jesteśmy w stanie walczyć z zmianami klimatu, musimy walczyć, ze skutkami zmian klimatu. Zmiany były są i będą. \nPomysły zdemenciałego Trumpa o przejęciu cieśniny Ormuz, powinny zmobilizować nas do radykalnego odejścia od importu węglowodorów, tu nie ma bezpiecznego dostawcy.",
+      "likes": 57,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2089085034422485451",
+      "author": "@PAPinformacje",
+      "text": "Klaudia Kazimierska zdobyła srebrny medal mistrzostw Europy w biegu na 1500 m\n#PAPinformacje",
+      "likes": 53,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2088864739552121231",
+      "author": "@laskowski_pl",
+      "text": "Dewiza „Bóg, Honor, Ojczyzna” pojawiła się na sztandarach Wojska Polskiego dopiero 15 października 1943 roku, kiedy prezydent RP na uchodźstwie Władysław Raczkiewicz wydał odpowiedni dekret dla Polskich Sił Zbrojnych na Zachodzie.\n\nOd wieków 😁 Doktorat w chipsach znalazł.",
+      "likes": 46,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2088869530361594319",
+      "author": "@laskowski_pl",
+      "text": "\"Bohaterscy, Polscy, obrońcy Monte Cassino\", \"Bóg, Honor i Ojczyzna na sztandarach od czasów bitwy pod Grunwaldem\". \nJesteś na kacu lub brałeś, nie przemawiaj, nawet bez kartki.",
+      "likes": 36,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2089089457039216854",
+      "author": "@PAPinformacje",
+      "text": "Lekkoatletyczne ME #Birmingham2026\nKlaudia Kazimierska zdobyła srebrny medal w biegu na 1500 m 🥈\n#PAPinformacje",
+      "likes": 38,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089302372203815392",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Według danych MF, deficyt po VII wyniósł 141,1 mld zł (123,7 mld zł po VI). Wykonanie dochodów wyniosło 51,6% (49,6% przed rokiem). W dalszym ciągu bardzo dobrze wyglądają dochody z CIT (wykonanie 64,8% vs. 57,1% przed rokiem), a bliskie ścieżki z 2025 są dochody z PIT i VAT.",
+      "likes": 37,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088891958852817060",
+      "author": "@laskowski_pl",
+      "text": "Lekarze chcą jechać za granicę? Po co? \nGdzie dostaną takie zarobki jak w Polsce, na pewno nie w Niemczech. \nTymczasem nasza ministra od zdrowia chce płacić 36 tys. miesięcznie (176hx240 zł.- 14% podatek)",
+      "likes": 33,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089380218284761196",
+      "author": "@laskowski_pl",
+      "text": "W radzie Pana ministra pracuje przedstawiciel (@piotrmiecz dobrze pamiętam?) @META \nPrzecież to jest komedia 😁",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2088917644879564968",
+      "author": "@laskowski_pl",
+      "text": "15 sierpnia i jak bumerang wraca sprawa Łuku Triumfalnego.\nMyślę, że jak 10 milionów wyborców prezydenta złoży się po 100 zł. to będzie można wybudować 10 łuków, pod Zakopanego po Sopot.\nBo się złożą, prawda?",
+      "likes": 24,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2089362044948463899",
+      "author": "@PAPinformacje",
+      "text": "Nie żyje Jan Frycz. Aktor filmowy i teatralny miał 72 lata\n#PAPinformacje",
+      "likes": 24,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089247400955113925",
+      "author": "@Macronextcom",
+      "text": "🇨🇳 Sprzedaż detaliczna w Chinach wciąż szoruje po dnie. Wzrost produkcji przemysłowej niższy od prognoz ekonomistów. \n\nKalendarz (Chiny):",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089297039909671418",
+      "author": "@PAPinformacje",
+      "text": "❗Rzecznik rządu @adamSzlapka poinformował, że pierwszy transport Polaków poszkodowanych w niedzielnym wypadku autokaru na Węgrzech odbędzie się w poniedziałek w godzinach wieczornych. Jak dodał, będzie to około dwudziestu osób.",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2088931774613139551",
+      "author": "@Macronextcom",
+      "text": "W środę (19.08) #KGHM opublikuje wyniki. Analitycy prognozują, że w II kw. 2026 roku skorygowana EBITDA wzrosła o 56% r/r do 3,7 mld zł, a przychody o 46% do 12,56 mld zł.\n\n🇵🇱 Kalendarz GPW/NC:",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089362393931427918",
+      "author": "@PAPinformacje",
+      "text": "UE szykuje potężne sankcje wobec Rosji. Kallas o „najbardziej kompleksowej” liście\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089409228762943526",
+      "author": "@PAPinformacje",
+      "text": "Rzeszów/ Na lotnisku w Jasionce wylądował samolot z pierwszą grupą Polaków poszkodowanych w wypadku autokaru na Węgrzech\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089106640440008833",
+      "author": "@PAPinformacje",
+      "text": "Duplantis czwarty raz z rzędu mistrzem Europy w skoku o tyczce\n#PAPinformacje",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089357212573376855",
+      "author": "@laskowski_pl",
+      "text": "Nie do końca rozumiem tego wielkiego oburzenia, przecież jest na to przyzwolenie społeczne.\nPosłowie rozliczają wydatki na \"kwity na mleko\" a my się na to zgadzamy. \nDlaczego się zgadzamy? Bo każda nowa partia wchodzi w buty swojej poprzedniczki i interes się kręci.",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089256423020462548",
+      "author": "@laskowski_pl",
+      "text": "Nie tankuję więc nie wiem, jaka była cena netto przed, a jak jest po obniżce? \n(piszę w kontekście firm)",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089415705452068925",
+      "author": "@PAPinformacje",
+      "text": "Samolot z poszkodowanymi w wypadku autokaru na Węgrzech wylądował w Jasionce\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089292527853514781",
+      "author": "@PAPinformacje",
+      "text": "Ewakuacja mieszkańców w Szczecinie po uszkodzeniu gazociągu. Trwa akcja służb\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089292017062858850",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: we wtorek litr benzyny 95 ma kosztować nie więcej niż 6,41 zł, benzyny 98 - 7,20 zł, a oleju napędowego - 7,37 zł #PAPinformacje",
+      "likes": 7,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2089394475386785906",
+      "author": "@PAPinformacje",
+      "text": "Teraz Iran stawia ultimatum USA. Teheran straszy zaostrzeniem napięcia w Ormuzie\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089260420343165321",
+      "author": "@PAPinformacje",
+      "text": "Wypadek na Węgrzech. Nowe informacje o identyfikacji ofiar\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089260239983943823",
+      "author": "@PAPinformacje",
+      "text": "Świątek w Cincinnati: musiałam przyzwyczaić się do kortu\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089385030539710857",
+      "author": "@laskowski_pl",
+      "text": "Premier @StGawlowski rozlewa krokodyle łzy nad @Meta gdzie sam zatrudnia ich przedstawiciela w swojej radzie. \nNie wie lewica, co czyni prawica? \n\nTusku, Nawrocki - gdzie ta nasza suwerenność???",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089070934837645334",
+      "author": "@PAPinformacje",
+      "text": "Zespół medyków leci na Węgry. Nowe informacje w sprawie wypadku polskiego autokaru\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089277608521339231",
+      "author": "@PAPinformacje",
+      "text": "Psycholog transportu: istotny jest dobór kierowcy do warunków jazdy i specyfiki trasy\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089247794120855994",
+      "author": "@PAPinformacje",
+      "text": "Odwrót letniej pogody. Nadciągają burze z gradobiciem\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089247628554838182",
+      "author": "@PAPinformacje",
+      "text": "Trump o porozumieniu w Mekce: to ważny pierwszy krok\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089247408945291282",
+      "author": "@PAPinformacje",
+      "text": "Spadły ceny paliw. Tyle zapłacimy za tankowanie\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089273524028346645",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Jakie mogą być koszty fiskalne zmian w podatku PIT? O różnych scenariuszach rozpisujemy się w poniższym tekście.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089253755229176258",
+      "author": "@GUS_STAT",
+      "text": "Według wstępnych danych w maju 2026 r. produkcja usług była o 6,9% wyższa niż rok wcześniej. Największy wzrost (r/r) odnotowano w działalności związanej z produkcją filmów, nagrań wideo, programów telewizyjnych, nagrań dźwiękowych i muzycznych – o 25,3%.\n🔗",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089220930077597964",
+      "author": "@DGPrawna",
+      "text": "Firma Mentzena kupiła złoty pomnik Morawieckiego. Chciała zaliczyć go do kosztów podatkowych",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2088854264135479627",
+      "author": "@DGPrawna",
+      "text": "🟥 SONDAŻ DGP | Jest zgoda Polaków na większe wojskowe wydatki. Panowie ostrożniejsi od pań",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089290198626488558",
+      "author": "@GUS_STAT",
+      "text": "📢 Korzystasz z portalu Turystyka+? Podziel się swoją opinią.\n\nDo 15 września 2026 r. trwa anonimowa ankieta, dzięki której pomożesz rozwijać portal, jego funkcjonalności oraz narzędzia analityczne.  \n\n \n\n#GUS #turystyka #statystyka",
+      "likes": 0,
+      "retweets": 2
+    }
+  ]
+}
