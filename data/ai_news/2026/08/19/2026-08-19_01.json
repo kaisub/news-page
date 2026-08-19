@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-19",
+  "slot": "01",
+  "generated_at": "2026-08-19T02:15:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2089787807611195475",
+      "author": "@sama",
+      "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model",
+      "likes": 6857,
+      "retweets": 532
+    },
+    {
+      "tweet_id": "2089806039088517356",
+      "author": "@claudeai",
+      "text": "Claude can now send emails in Gmail and manage files in Google Drive.\n\nAsk Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.\n\nConnect Gmail or Google Drive from the connectors menu to try. Available on all paid plans.",
+      "likes": 5580,
+      "retweets": 361
+    },
+    {
+      "tweet_id": "2089756371570900999",
+      "author": "@claudeai",
+      "text": "Claude Cowork is now available on mobile and web for all paid plans.",
+      "likes": 4991,
+      "retweets": 325
+    },
+    {
+      "tweet_id": "2089842387845804246",
+      "author": "@AnthropicAI",
+      "text": "Many drugs work by binding to a specific target in the body and blocking or changing what it does. An important first step in the drug development process is designing a molecule that can bind tightly to its target. Traditionally, that's meant weeks or months of expert work per",
+      "likes": 4482,
+      "retweets": 459
+    },
+    {
+      "tweet_id": "2089329396176097442",
+      "author": "@svpino",
+      "text": "First, they stole our data.\nThen, they sold it back to us.\nNow, they watermark it.\nSoon, they claim they own it all.",
+      "likes": 3436,
+      "retweets": 460
+    },
+    {
+      "tweet_id": "2089758522678657212",
+      "author": "@sama",
+      "text": "excited to work together on this. thank you jensen!",
+      "likes": 3366,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2089538781909332210",
+      "author": "@bcherny",
+      "text": "Small quality of life improvements like this add up. More on the way",
+      "likes": 1769,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2089537919795212565",
+      "author": "@bcherny",
+      "text": "Let us know what you think!",
+      "likes": 1642,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2089419758034727038",
+      "author": "@svpino",
+      "text": "Next time you pay me to paint your house, I’ll watermark your walls with my name.\n\nI did more work than you painting them, so it’s only fair.",
+      "likes": 1257,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2089403490401427868",
+      "author": "@svpino",
+      "text": "God knows I'd pay good money to see a new season of Silicon Valley.\n\nThe new plot writes itself.",
+      "likes": 1134,
+      "retweets": 84
+    },
+    {
+      "tweet_id": "2089682509009154494",
+      "author": "@svpino",
+      "text": "It’s been 90 days and I’m back using my Mac.\n\nI gave Linux a good honest try and I’m  glad I did. @OmarchyLinux is amazing and I hope it keeps improving. @FrameworkPuter is the best non-Apple laptop I’ve ever used.\n\nBut Apple is still king. I’m not happy saying this, and I wish I",
+      "likes": 272,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2089685643894878308",
+      "author": "@svpino",
+      "text": "Use this and you’ll realize you don’t really need Fable for 99.9% of the tasks you are trying to solve.",
+      "likes": 226,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2089805251322712550",
+      "author": "@svpino",
+      "text": "This is the type of corpo bullshit that would make me quit on the spot.",
+      "likes": 168,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089710238203056537",
+      "author": "@svpino",
+      "text": "This is exactly why Linux for desktops hasn't been able to break out of its very exclusive, closed circle of nerds.\n\nPeople don't have time to \"build their own distro\".\n\n99% of us just want something that works out of the box.",
+      "likes": 156,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2089329125303410740",
+      "author": "@reach_vb",
+      "text": "a good (regularly updated) AGENTS md is all you need\n\nyou can also customise it at projects level instructions vs global across projects",
+      "likes": 155,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089399652219252830",
+      "author": "@svpino",
+      "text": "This is how you build the next generation of AI applications.\n\nYou need an idea, a good model architecture, and a great harness.\n\nThat's what MUZIM did. It's an app that runs local multimodal and vision models offline to parse and index your images, videos, and documents frame by",
+      "likes": 114,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2089746971426726197",
+      "author": "@nauczymycieAI",
+      "text": "Jutro wielu użytkowników Claude czeka szok.\n\nOd kilku generacji Anthropic po cichu podnosił ceny pracy w swoim ekosystemie.\n\nW sprytny sposób - Opus nie stawał się nagle dużo droższy. Natomiast drożał domyślny subagent do którego Opus wysyła swoje zadania.\n\nI tak Sonnet 4.5",
+      "likes": 140,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2089364232425046299",
+      "author": "@svpino",
+      "text": "This is controversial, but in many cases, humans have become the bottleneck in building software.\n\nYou are making everything slower and worse by babysitting agentic coding tools. You aren't better at coding than frontier models, and you are letting your ego get in your own way.",
+      "likes": 132,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2089755542931865901",
+      "author": "@hwchase17",
+      "text": "🚀Today we launched LangSmith Tuned Evaluators, starting with Perceived Error.\n\nTuned Evaluators run on production traces to catch undesirable agent behavior and attach feedback that you can use in your agent improvement processes.\n\nIn our benchmark, our tuned model beat frontier",
+      "likes": 74,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2089710424388202565",
+      "author": "@jerryjliu0",
+      "text": "If you’re building an “agent over your PDFs” in 2026, one of the most underrated things you can do is to provide exact grounding back to the source document for any agentic answers. Specifically, showing the exact word, line, or region that the answer came from.\n\nFrontier vision",
+      "likes": 75,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2089717423197024604",
+      "author": "@svpino",
+      "text": "This will let you embed Hermes and OpenClaw into any application:\n\n• Stream answers and reasoning live\n• Render UI inside your app\n• Act on each page of the app\n\nIn other words, you'll get a live agent as part of your application doing work for your users!",
+      "likes": 76,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089314129978745073",
+      "author": "@rpl_0x",
+      "text": "Relacja Świadka Dziejów - tuż przed wybuchem WWII",
+      "likes": 73,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2089478844885684348",
+      "author": "@svpino",
+      "text": "Don't talk directly to a model.\n\nThe simplest trick you can use to improve the architecture of whatever you are building is to introduce a layer between your code and a model.\n\nThis will make your app 10x more flexible.\n\nOn top of routing, with a gateway you will have:\n\n•",
+      "likes": 73,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089638180479803432",
+      "author": "@reach_vb",
+      "text": "Edinburgh, here we come! 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nSo excited to be there later today and host our first Codex Community Meetup in the north of the UK. \n\nCan’t wait to meet everyone ❤️",
+      "likes": 72,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089774521926471690",
+      "author": "@reach_vb",
+      "text": "This one makes me so happy ❤️\n\nDevDay Exchange kicks off this October in 8 cities around the world!\n\nGetting to meet you all in person, hear your stories, and see what you’re building is the part I’m most excited about.\n\nCan’t wait. Let’s gooo 🌍",
+      "likes": 59,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089737204839162318",
+      "author": "@svpino",
+      "text": "Instead of reading your AI-generated code by hand, spend time on a plan to verify that your system is working as intended.\n\nOne of the many tools we use to test web applications automatically is Replay QA.\n\nUsing this is extremely simple: Just give it the URL you want to test and",
+      "likes": 33,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2089287022796251318",
+      "author": "@sentient_agency",
+      "text": "Jennifer Doudna won the Nobel Prize for gene editing and went on Bloomberg to say the chatbots everyone is betting on cannot innovate at all. Every promise Silicon Valley is making about AI curing disease just hit the one person qualified to check it.\n\nShe has spent her whole",
+      "likes": 20,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2089768761943544045",
+      "author": "@hwchase17",
+      "text": "channels are how you interact with your managed deepagents\n\neg slack\n\npretty diagram 👇",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089420905047089448",
+      "author": "@nauczymycieAI",
+      "text": "Jakie są 2 największe problemy Codexa (ChatGPT na komputer)?\n\nOd użytkowników najczęściej słyszymy o słabym front-endzie i guście wizualnym oraz o krótkim oknie kontekstowym.\n\nRozwiązanie tego pierwszego podawałem jakiś czas temu na profilu (wykorzystanie Kimi K3 w Codexie).",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089742860338037047",
+      "author": "@svpino",
+      "text": "I know this gets a bunch of people mad, but I've been asking ChatGPT legal questions for 2 years now. It reviews my contracts and NDAs.\n\nWe've all also heard about lawyers using AI to write their legal opinions and such.\n\nIt was only a matter of time before a company raised money",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089614681405095976",
+      "author": "@rpl_0x",
+      "text": "Nie będę tutaj spamował AI Slopem - ale eksperymentuje sobie z takimi treściami od dłuższego czasu więc jak kogoś to ciekawi to wpadajcie na yt.\n\nDuzo jest filmów lektorskich z prostymi animacjami svg lub po prostu slajdami - grafikami.\n\nFb mi w miare jakoś to monetyzował,",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089835842269507630",
+      "author": "@hwchase17",
+      "text": "I love working with Sydney and team and you will too!\n\nCome join us",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089587317770010796",
+      "author": "@rpl_0x",
+      "text": "Cursor - czyli @elonmusk boduje konkurencje dla githuba - największaejna świecie platforma do hostowania repozytoriów Git i współpracy nad kodem.\n\nAkurat github tuż przed tym ogłoszeniem miał olbrzymią awarie.\n\nSprawdzę jak to działa 😉",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089390065902649440",
+      "author": "@svpino",
+      "text": "A lesson we all learn really quickly:\n\nOne thing is to build an agent that works well on your computer. A very different (and much more complicated) problem is scaling that same agent for multiple users.\n\n@xpander_ai's Omni looks really good:\n\n• Multi-player agents at the core",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089787190922629209",
+      "author": "@svpino",
+      "text": "We had a Roborock at home before getting a Matic. We moved it to our second floor while Matic handles the main floor.\n\nMatic is way better: compact, with a minuscule charging station, no separate water tanks, and we can talk to it.\n\nWE. CAN. TALK. TO. THE. VACUUM. AND. POINT. AT.",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089848534988468481",
+      "author": "@hwchase17",
+      "text": "new onboarding for managed deep agents",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089772314330321325",
+      "author": "@svpino",
+      "text": "I do everything at my company. I don't have a sales team. Platforms like this are worth every penny.\n\n• Rox lets you run agents to research companies, find the right people, prepare outreach, and handle follow-ups.\n\n• Once you get a deal, the agents will keep track of what's",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089343828863889444",
+      "author": "@rpl_0x",
+      "text": "Był ktoś na najnowszym spidermanie? Warto?",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2089802676594971031",
+      "author": "@hwchase17",
+      "text": "Slack is the best ux",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2089360009834512607",
+      "author": "@rpl_0x",
+      "text": "Cały czas intensywnie rozwijamy crewly. Jak jesteś żeglarzem to proszę ujawnij się w komentarzu, może masz jakieś pomysły, sugestie...\n\nZastanawiam się czy jest sens uruchamiać profil na x dla crewly 🤔",
+      "likes": 11,
+      "retweets": 0
+    }
+  ]
+}
