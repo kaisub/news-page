@@ -1,0 +1,261 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-20",
+  "slot": "01",
+  "generated_at": "2026-08-20T02:15:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2089842387845804246",
+      "author": "@AnthropicAI",
+      "text": "Many drugs work by binding to a specific target in the body and blocking or changing what it does. An important first step in the drug development process is designing a molecule that can bind tightly to its target. Traditionally, that's meant weeks or months of expert work per",
+      "likes": 10798,
+      "retweets": 1223
+    },
+    {
+      "tweet_id": "2089806039088517356",
+      "author": "@claudeai",
+      "text": "Claude can now send emails in Gmail and manage files in Google Drive.\n\nAsk Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.\n\nConnect Gmail or Google Drive from the connectors menu to try. Available on all paid plans.",
+      "likes": 9798,
+      "retweets": 628
+    },
+    {
+      "tweet_id": "2089787807611195475",
+      "author": "@sama",
+      "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model",
+      "likes": 9653,
+      "retweets": 758
+    },
+    {
+      "tweet_id": "2089756371570900999",
+      "author": "@claudeai",
+      "text": "Claude Cowork is now available on mobile and web for all paid plans.",
+      "likes": 6627,
+      "retweets": 422
+    },
+    {
+      "tweet_id": "2089758522678657212",
+      "author": "@sama",
+      "text": "excited to work together on this. thank you jensen!",
+      "likes": 4788,
+      "retweets": 237
+    },
+    {
+      "tweet_id": "2090163991234453611",
+      "author": "@sama",
+      "text": "we support business privacy!",
+      "likes": 2849,
+      "retweets": 136
+    },
+    {
+      "tweet_id": "2089538781909332210",
+      "author": "@bcherny",
+      "text": "Small quality of life improvements like this add up. More on the way",
+      "likes": 1852,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2089537919795212565",
+      "author": "@bcherny",
+      "text": "Let us know what you think!",
+      "likes": 1709,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2089924199804711410",
+      "author": "@bcherny",
+      "text": "The small quality of life improvements keep coming. When you’re using Desktop every day, slow startup makes the app feel sluggish. Working on improving this even more!",
+      "likes": 1047,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2090049138612474235",
+      "author": "@svpino",
+      "text": "It's been a couple of weeks since I migrated from Claude Code to Codex, and I don't miss a single thing.\n\nNo, I don't care about Fable. No, I don't believe Opus is better than Sol.\n\nI'm doing everything I was doing before. It took me a day to get used to the change.\n\nAnthropic's",
+      "likes": 806,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2089805251322712550",
+      "author": "@svpino",
+      "text": "This is the type of corpo bullshit that would make me quit on the spot.",
+      "likes": 467,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2089746971426726197",
+      "author": "@nauczymycieAI",
+      "text": "Jutro wielu użytkowników Claude czeka szok.\n\nOd kilku generacji Anthropic po cichu podnosił ceny pracy w swoim ekosystemie.\n\nW sprytny sposób - Opus nie stawał się nagle dużo droższy. Natomiast drożał domyślny subagent do którego Opus wysyła swoje zadania.\n\nI tak Sonnet 4.5",
+      "likes": 171,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2090068780655464668",
+      "author": "@svpino",
+      "text": "Most agents don't work. Period.\n\nI make a living testing AI applications, and around 80% of the demos I've seen don't last a single day in the hands of a real user.\n\nCreating a production-ready agent is way more complex than people think. Your agent needs to do all of this:\n\n•",
+      "likes": 141,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2090125254362607909",
+      "author": "@hwchase17",
+      "text": "🎓New YouTube playlist: Managed Deep Agents\n\nGives an overview of Managed Deep Agents, and then each video dives deep into core concepts.\n\nLaunching with six videos!\n\n1⃣ Intro: \n2⃣ Conceptual Overview: \n3⃣ Quickstart:",
+      "likes": 103,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2090151425758388454",
+      "author": "@svpino",
+      "text": "Using a model gateway is the simplest way to improve the architecture of whatever you are building.\n\n• You will never be locked into a single model provider\n• You can swap models with a single change\n• Token-level attribution: you know who did what and when",
+      "likes": 106,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2090145144616153493",
+      "author": "@svpino",
+      "text": "This is an open-source bot you can use with any harness.\n\nRun it anywhere. With any model.\n\nYou can give it work to do. The bot will use a real browser with its own credentials, files, and the tools you authorize it.\n\nOpen and free.",
+      "likes": 113,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2089710424388202565",
+      "author": "@jerryjliu0",
+      "text": "If you’re building an “agent over your PDFs” in 2026, one of the most underrated things you can do is to provide exact grounding back to the source document for any agentic answers. Specifically, showing the exact word, line, or region that the answer came from.\n\nFrontier vision",
+      "likes": 92,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2089774521926471690",
+      "author": "@reach_vb",
+      "text": "This one makes me so happy ❤️\n\nDevDay Exchange kicks off this October in 8 cities around the world!\n\nGetting to meet you all in person, hear your stories, and see what you’re building is the part I’m most excited about.\n\nCan’t wait. Let’s gooo 🌍",
+      "likes": 78,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2089638180479803432",
+      "author": "@reach_vb",
+      "text": "Edinburgh, here we come! 🏴󠁧󠁢󠁳󠁣󠁴󠁿\n\nSo excited to be there later today and host our first Codex Community Meetup in the north of the UK. \n\nCan’t wait to meet everyone ❤️",
+      "likes": 75,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089848534988468481",
+      "author": "@hwchase17",
+      "text": "new onboarding for managed deep agents",
+      "likes": 58,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2089787190922629209",
+      "author": "@svpino",
+      "text": "We had a Roborock at home before getting a Matic. We moved it to our second floor while Matic handles the main floor.\n\nMatic is way better: compact, with a minuscule charging station, no separate water tanks, and we can talk to it.\n\nWE. CAN. TALK. TO. THE. VACUUM. AND. POINT. AT.",
+      "likes": 59,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090054865175335409",
+      "author": "@sentient_agency",
+      "text": "A guy named Pavlo turned every phone, tablet, and TV on Earth into a working second monitor for free.\n\nIt is called Deskreen.\n\nIt turns almost any device with a web browser into a second screen for your computer.\n\nYou can do this on your:\n\n&gt; iPad\n&gt; Android tablet\n&gt; Laptop\n&gt; Any",
+      "likes": 37,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2090134426118394077",
+      "author": "@hwchase17",
+      "text": "top tier webinar tmrw!\n\n@Vtrivedy10 (@LangChain) @willccbb (@PrimeIntellect) @AEllisBloor (@baseten) and I will will be jamming on how to automate more parts of the agent improvement loop (eval and environment engineering in particular)\n\nCome join us:",
+      "likes": 38,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2089835842269507630",
+      "author": "@hwchase17",
+      "text": "I love working with Sydney and team and you will too!\n\nCome join us",
+      "likes": 36,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2090110384179204437",
+      "author": "@svpino",
+      "text": "Progress in open models is keeping Big AI labs up at night, and I'm here for it!\n\nWe have a brand new open-weight multimodal model optimized for long-horizon tasks.\n\nThis model is really good at something: it can work on tasks that keep evolving over time.\n\n• 280B total",
+      "likes": 33,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2089614681405095976",
+      "author": "@rpl_0x",
+      "text": "Nie będę tutaj spamował AI Slopem - ale eksperymentuje sobie z takimi treściami od dłuższego czasu więc jak kogoś to ciekawi to wpadajcie na yt.\n\nDuzo jest filmów lektorskich z prostymi animacjami svg lub po prostu slajdami - grafikami.\n\nFb mi w miare jakoś to monetyzował,",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090127205720641597",
+      "author": "@hwchase17",
+      "text": "+1 to this\n\npart of this is due to coding agent standards - agents.md and skills are just markdown files/directories!",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089587317770010796",
+      "author": "@rpl_0x",
+      "text": "Cursor - czyli @elonmusk boduje konkurencje dla githuba - największaejna świecie platforma do hostowania repozytoriów Git i współpracy nad kodem.\n\nAkurat github tuż przed tym ogłoszeniem miał olbrzymią awarie.\n\nSprawdzę jak to działa 😉",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090075797164003382",
+      "author": "@svpino",
+      "text": "Michael and I agree on something very important:\n\nThe model isn't the hard part; everything around the model is.\n\nTo build useful agents, focus on context, permissions, integrations, and reliability.\n\nIn other words: harnesses are crucial to the experience.",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089772314330321325",
+      "author": "@svpino",
+      "text": "I do everything at my company. I don't have a sales team. Platforms like this are worth every penny.\n\n• Rox lets you run agents to research companies, find the right people, prepare outreach, and handle follow-ups.\n\n• Once you get a deal, the agents will keep track of what's",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090204727091093841",
+      "author": "@jerryjliu0",
+      "text": "We built revision tracking in LlamaParse ✍️\n\nYou can now extract Word-style tracked changes and reviewer comments as additional structured metadata alongside the parsed markdown content. \n\nThis lets you provide a downstream AI agent with a document's full revision history and",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090014537911042191",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic kontynuuje taniec z klientami.\n\nLimity +50% przedłużone do końca sierpnia, po raz kolejny bez jasnego horyzontu czasowego. \n\nJeżeli nie uda im się do tego czasu wypuścić kolejnego modelu - zabawa będzie pewnie trwała dalej.\n\nChyba, że się z niej wypiszesz",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090141867350356285",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli korzystasz z Claude Fable, Opusa 5 lub GPT 5.6 Sol - to jest spora szansa, że regularnie zamykasz limity.\n\nTo nie przypadek - presja na zyski na labach przed IPO będzie rosła.\n\nNa szczęście - jest sporo sposobów na zmniejszenie ich zużycia",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090161881822720212",
+      "author": "@svpino",
+      "text": "This will let you break your agent before your users do.\n\nThis works with any agent, including chat, code, and voice agents over the phone.\n\nTo run it, give it your URL or phone number. You don't need any other integration, which is great.\n\n• It runs 10,000+ jailbreaks and",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090233856192569500",
+      "author": "@hwchase17",
+      "text": "lots of observability &amp; evals platforms\n\nnot a lot of platforms that help close the loop and have an agent that suggests fixes, adds evals itself, etc",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2089764039580606682",
+      "author": "@rpl_0x",
+      "text": "Widać krzyż? @FordPolska",
+      "likes": 8,
+      "retweets": 0
+    }
+  ]
+}
