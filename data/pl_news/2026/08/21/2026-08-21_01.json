@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-21",
+  "slot": "01",
+  "generated_at": "2026-08-21T02:20:30Z",
+  "tweets": [
+    {
+      "tweet_id": "2090099557287776405",
+      "author": "@laskowski_pl",
+      "text": "Jak ktoś zarabia 30 tys. brutto to 300 zł. miesięczne nawet nie zauważy. \nTa reforma jest nijaka i mogła by się nie zdarzyć. Nie jest to alternatywa dla podwyżki progu, ani Polskiego Ładu.\n\nJeden kebab lub obiad w miesiącu na rachunek państwa.",
+      "likes": 178,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2090028473196622235",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Przedstawiona własnie przez premiera propozycja zmian PIT (nowy próg 24% pomiędzy 130k a 150k) to coś w okolicy analizowanej przez nas podwyżki progu (120-140). Podwyżka CIT dla \"największych\" mniej więcej neutralizuje koszt budżetowy. Makroznaczenie dla gospodarki +/- zero.",
+      "likes": 136,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090360863265808825",
+      "author": "@PAPinformacje",
+      "text": "Premier zapowiedział, że uzgodnił wstępnie z szefem MF, by planowana opłata turystyczna w 100 proc., a nie w 80 proc., trafiała do gminy. (PAP)\n#PAPInformacje",
+      "likes": 78,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2090408455072883169",
+      "author": "@laskowski_pl",
+      "text": "Posprzątane, szarlatani mogą nadal bezkarnie działać. \nAle to jest tchórz, bał się dać weto.",
+      "likes": 79,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2090033593305256166",
+      "author": "@Macronextcom",
+      "text": "Będą zmiany w podatkach. Oprócz podwyżki progów PIT👇 mamy:\n\n🔸danina solidarnościwa: 4%➡️5%;\n🔸CIT: 19%➡️22% dla dużych firm (&gt;50 mln EUR);\n🔸powrót do limitu przychodów dla ryczałtu dla firm 250 tys. EUR\n\nZmiany neutralne dla budżetu. Konsolidacja to wciąż temat na po wyborach.",
+      "likes": 71,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2090086462817493441",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 WIG-Banki najwyżej w historii. Niesamowite. 🤯\n\nTa wciąż trwająca hossa na bankach to największa niespodzianka 2026 r. na GPW. Ile to już raz mówiło się o końcu bankowej hossy.",
+      "likes": 60,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090302887209402656",
+      "author": "@laskowski_pl",
+      "text": "Czy ktoś może uświadomić Panią ministrę, że wielkie korpo nie płacą teraz podatków w Polsce i dalej ich nie zapłacą? \nWyższy CIT uderzy w spółki giełdowe, które wypłacą mniejszą dywidendę. \nSkarb państwa swoje zarobi, mniejszościowi akcjonariusze i fundusze emerytalne, stracą.",
+      "likes": 50,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2090416721660170528",
+      "author": "@PAPinformacje",
+      "text": "„Stanął po stronie szarlatanów”. Premier komentuje decyzję prezydenta\n#PAPinformacje",
+      "likes": 44,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2089971380292837853",
+      "author": "@Macronextcom",
+      "text": "Kto by się spodziewał. 😉",
+      "likes": 52,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090477970699723184",
+      "author": "@PAPinformacje",
+      "text": "Projekt: rząd chce podnieść CIT dla największych firm energetycznych i paliwowych; w 2027 r. stawka ma wynieść 30 proc. #PAPinformacje",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090048356194083105",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 WIG20 zrobił zwrot w górę po 12:00. #podatki\n\nByło -0,8%, a jest +0,6%.",
+      "likes": 38,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090060357855309841",
+      "author": "@Macronextcom",
+      "text": "Oho... już #WIG20 4021,28 pkt. (+1,61%) \n\nPoprawa widoczna jest też na #PLN i polskim długu.",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090491494503199192",
+      "author": "@laskowski_pl",
+      "text": "\"Ten raport to work in progress\" - najgorsza reklama \"Marka Polska\" - ever.",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090350261453701304",
+      "author": "@PAPinformacje",
+      "text": "Będą ekshumacje w Hucie Pieniackiej. Ukraina wydała zgodę\n#PAPInformacje",
+      "likes": 19,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2090405020726354211",
+      "author": "@Macronextcom",
+      "text": "Wszyscy krzyczą Moderna, Moderna... ale u nas też coś się ruszyło wśród spółek farmaceutycznych i biotechnologicznych.\n\nOstatnio mocniej w górę ruszyły Ryvu i multiQure, a dziś Celon Pharma. O tej ostatnej to nawet Reuters napisał. 🙂",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090070761255964801",
+      "author": "@Macronextcom",
+      "text": "#USDPLN 3,7050 zł. Dolar najtańszy od 2 miesięcy.",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090388958723137740",
+      "author": "@PAPinformacje",
+      "text": "Prezydent skieruje do TK w trybie kontroli prewencyjnej ustawę o prawach pacjenta i Rzeczniku Praw Pacjenta, tzw. lex szarlatan; przedstawi własną inicjatywę legislacyjną. (PAP)\n#PAPinformacje",
+      "likes": 18,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2090341383731081665",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VII 2026 r. Przeciętne wynagrodzenie w firmach: 6,8% r/r (prognoza: 6,2%; poprzednio: 5,9%)\n\nKalendarz (Polska):",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090342272999031220",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VII 2026 r. Produkcja budowlano-montażowa: -2,4% r/r 📉 (prognoza: 4,2%; poprzednio: 5,2%) #PLN \n\nKalendarz (Polska):",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090350353656983717",
+      "author": "@PAPinformacje",
+      "text": "Płace w górę. GUS podał najnowsze dane\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2090301934766850474",
+      "author": "@PAPinformacje",
+      "text": "Polskie myśliwce poderwane. Alert RCB z powodu ataków na Kijów\n#PAPInformacje",
+      "likes": 13,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090310074996580433",
+      "author": "@PAPinformacje",
+      "text": "Zmasowany atak Rosji na Kijów. są zabici i ranni\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2090057892590182909",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Ryzyko jakiejkolwiek akcji ratingowej ze strony Fitch w piątek było bliskie zera, a teraz do niego zbiegło. Zostanie A- perspektywa negatywna.",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090397517959528921",
+      "author": "@Macronextcom",
+      "text": "Automation Tax jest jakimś rozwiązaniem, ale on musiałby być globalny. To nierealne.\n\nKonsekwencją rozwoju AI i automatyzacji będzie koniec globalizacji i tworzenia się dużych, zamkniętych i samowystarczalnych bloków gospodarczych (bez przepływu kapitałów, towarów, ludzi)...\n\n1/3",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090342168653107322",
+      "author": "@PAPinformacje",
+      "text": "Coraz więcej L4 w związku z urazami i zaburzeniami psychicznymi. ZUS podał dane\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090150387818881398",
+      "author": "@PAPinformacje",
+      "text": "Ekspert: rząd nie boi się podnieść podatków największym korporacjom #PAPinformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089954940508622994",
+      "author": "@Macronextcom",
+      "text": "Mamy pogorszenie nastrojów na rynkach. To ciąży walutom regionu. Wczoraj #EURPLN 🇵🇱 w górę +0,2%, a #EURHUF 🇭🇺 +0,6% . \n\nNie ma potrzeby wymyślania historii o Fitch, deficycie i budżecie (PL), żeby wytłumaczyć słabszego złotego, bo póki co, to wpływ rynków globalnych.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090410445408464950",
+      "author": "@PAPinformacje",
+      "text": "Rumuński myśliwiec F-16 zniszczył drona morskiego. Dryfował w pobliżu platformy wydobywającej gaz ziemny\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2089935642943709397",
+      "author": "@Macronextcom",
+      "text": "Akcje Unitree 🇨🇳 - drugiego największego na świecie producenta robotów humanoidalnych - podrożały na giełdowym debiucie w Szanghaju prawie 6x.\n\nPo wysokim starcie notowań przyszła realizacja zysków. Teraz akcje Unitree drożeją \"tylko\" o 486,1% do 883,87 juanów.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090480523323806192",
+      "author": "@PAPinformacje",
+      "text": "Ewa Swoboda: bardziej cenię srebrny medal z Birmingham niż z Rzymu\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090498521484931300",
+      "author": "@PAPinformacje",
+      "text": "Kolej wzmacnia bezpieczeństwo. Funkcjonariusze SOK mają zyskać nowe uprawnienia\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090350018217611683",
+      "author": "@mbank_research",
+      "text": "🇵🇱 W lipcu negatywnie zaskoczyło budownictwo spadając o 2,4% r/r przy prognozach +4,2%. Po wyrównaniu sezonowym wynik jest szczególnie słaby w budownictwie infrastrukturalnym. GUS w komentarzu wskazuje, że częściowo wynika to z nieregularnych rozliczeń po zakończeniu robót.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090346942190485616",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Roczny wzrost płac w lipcu wyniósł 6,8%, co jest wartością nieco wyższą niż konsensus (6,2%). Patrząc na dane miesięczne można jednak dojść do wniosku, że to lipiec 2025 charakteryzował się bardzo niskim wzrostem.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090008618087190653",
+      "author": "@laskowski_pl",
+      "text": "OKI jest skrojone pod akcje i ETF-y. \nTrochę się obawiam, że ci co mają 100 tys. zł. nie do końca zdają sobie sprawę, że inwestowanie wiąże się z ryzykiem. \nPoczekam na kampanie reklamowe funduszy.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090466990146072655",
+      "author": "@laskowski_pl",
+      "text": "To jest lewoskrętna witamina c.\n\nSiostra, jak jeszcze mieszkała w Anglii zażyczyła sobie, aby kupić i jej przywieźć, w Anglii nie mogła kupić, nie mieli takich \"cudów\".\nZapomniałem zabrać jak jechałem i teraz od 5 lat robi za zakwaszacz.\n\nByła droga i jest kwaśna.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090521443654123691",
+      "author": "@PAPinformacje",
+      "text": "Jagiellonia i Lech jedną nogą w fazie zasadniczej piłkarskiej Ligi Europy [GALERIA] #PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090401341591986230",
+      "author": "@PAPinformacje",
+      "text": "Śmierć rosyjskiego opozycjonisty w Warszawie. Prokuratura zabrała głos\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090343723292889310",
+      "author": "@GUS_STAT",
+      "text": "W okresie styczeń-lipiec 2026 r. oddano do użytkowania o 3,2% więcej mieszkań niż w analogicznym okresie 2025 r. Wzrosła również liczba mieszkań, których budowę rozpoczęto (o 3,3%).\n\n \n\n#GUS #statystyki #budownictwo #mieszkania",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090322512395612288",
+      "author": "@PAPinformacje",
+      "text": "Wzrosły maksymalne ceny paliw. Tyle zapłacimy za tankowanie\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090340927369834783",
+      "author": "@GUS_STAT",
+      "text": "Przeciętne miesięczne wynagrodzenie brutto w sektorze przedsiębiorstw w lipcu 2026 r. było o 6,8% wyższe niż przed rokiem.\n\n🔗\n\n#GUS #statystyki #RynekPracy",
+      "likes": 1,
+      "retweets": 4
+    }
+  ]
+}
