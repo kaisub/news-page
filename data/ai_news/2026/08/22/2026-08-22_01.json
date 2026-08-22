@@ -1,0 +1,240 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-22",
+  "slot": "01",
+  "generated_at": "2026-08-22T02:09:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2090518650251804742",
+      "author": "@claudeai",
+      "text": "Claude Academy is now live.\n\nWhether you're figuring out what AI is or already using Claude every day, there's a path that meets you where you are. The courses and tutorials are free and open to anyone at",
+      "likes": 35130,
+      "retweets": 3883
+    },
+    {
+      "tweet_id": "2090852314319880425",
+      "author": "@claudeai",
+      "text": "Claude Security scans now run on Claude Mythos 5, available today in public beta for all Claude Enterprise customers.\n\nPut our most capable security model to work on your codebase, no separate model access needed.",
+      "likes": 6868,
+      "retweets": 415
+    },
+    {
+      "tweet_id": "2090557643974693055",
+      "author": "@claudeai",
+      "text": "Some of our favorite Claude Code projects we've seen lately:",
+      "likes": 5793,
+      "retweets": 226
+    },
+    {
+      "tweet_id": "2090460185898762471",
+      "author": "@leerob",
+      "text": "I thought the growth of Cursor was insane, but Grok @Bot is blowing me away. This feels like something special.\n\nWill be training Grok 4.7 to make sure it’s exceptional in the Bot harness!",
+      "likes": 3356,
+      "retweets": 119
+    },
+    {
+      "tweet_id": "2090537902912815536",
+      "author": "@bcherny",
+      "text": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
+      "likes": 2194,
+      "retweets": 123
+    },
+    {
+      "tweet_id": "2090770205177700862",
+      "author": "@reach_vb",
+      "text": "Banked RESET for all ChatGPT Work &amp; Codex users!\n\nJust in time for the weekend &amp; use it wisely!",
+      "likes": 445,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090508564888698990",
+      "author": "@hwchase17",
+      "text": "Open bot!",
+      "likes": 361,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2090778453851472174",
+      "author": "@svpino",
+      "text": "I can tell the truth now:\n\nI once deployed a training pipeline for a company on AWS. It took around 20 hours to train the model.\n\nMonths after that, they asked me to optimize the process.\n\nIt took me 10 minutes to realize I'd been paying for an instance with 4 GPUs but using only",
+      "likes": 367,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2090416560116826231",
+      "author": "@svpino",
+      "text": "It's not that I'm faster at writing code or that the code I'm shipping is better.\n\nI don't care about any of those things.\n\nWhat really matters to me is that, for the first time, I've built about a dozen tools that I never, ever would have built before.",
+      "likes": 300,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2090449525890859392",
+      "author": "@reach_vb",
+      "text": "incredible use of computer history\n\n“based on my computer history, what single-use software would make my life easier?”\n\ncomputer history turns your activity across apps and websites into memories and a timeline, so codex can spot repeated workflows and build the little tools",
+      "likes": 234,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2090576080281219583",
+      "author": "@reach_vb",
+      "text": "iMessages plus codex automations on your Mac are a god send combo\n\nyou can message your Mac and have an automation pick it up and do the task for you and respond back to you :)\n\nit feels way more natural too - try it out!",
+      "likes": 217,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2090886332528599352",
+      "author": "@reach_vb",
+      "text": "We've dropped the API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months!\n\nIt's time to let those token rip - Solmaxxing!",
+      "likes": 174,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2090461979655938461",
+      "author": "@svpino",
+      "text": "Kimi K3 is worth every one of its 2.8T parameters.\n\nIt's the best open-weight model I've tried. It's frontier-level quality, and it can give any model a run for its money.\n\nI'm running it on Nebius Token Factory. It comes with an OpenAI-compatible API endpoint and 120 tokens/s",
+      "likes": 133,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2090778410037518340",
+      "author": "@reach_vb",
+      "text": "hi @screenstudio - I’d love to make screencasts with codex but currently the whole software is not very agent friendly!\n\nlet’s make it happen?",
+      "likes": 122,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090309430239805758",
+      "author": "@rpl_0x",
+      "text": "W końcu przeszliśmy orlą perć!\n\nNa spontanie, bo planując ciągle coś psulo plany…\n\nPo Tatrach chodzę już kilka lat a zawrat był moim pierwszym, trudniejszym szlakiem. Pamiętam jak dziś jak cholernie się bałem gdy pierwszy raz tam wchodziłem. Wtedy myślałem że wysokie Tatry nie",
+      "likes": 93,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090818844105511001",
+      "author": "@svpino",
+      "text": "How to build an agent that does what you want without writing any code.\n\n• This is open-source, so you can host it anywhere\n• Vendor-neutral, so you can use any model you want\n• You can set the entire agent loop without writing any code\n\nSee the GitHub Repository below.",
+      "likes": 77,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2090683126582296592",
+      "author": "@rpl_0x",
+      "text": "Może i jestem szarlatanem, może i za jakiś czas będą mnie mogli za to ścigać, ale powiem to.\n\nGóry są najlepszym lekarstwem!",
+      "likes": 65,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090858257359253540",
+      "author": "@reach_vb",
+      "text": "Codex can just do things!",
+      "likes": 66,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090495922941853701",
+      "author": "@hwchase17",
+      "text": "very cool launch\n\nwe did a webinar with jeff on \"wiki\" style memory and it's clear he'd thought about this problem a lot\n\n(webinar here:",
+      "likes": 58,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2090343909654200390",
+      "author": "@rpl_0x",
+      "text": "Zachód na Nosalu.\n\nTylko ta hala...\n\nJakim cudem takie inwestycje przechodzą bez echa w samej otulinie najważniejszego parku narodowego w Polsce?",
+      "likes": 48,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090791278615396570",
+      "author": "@svpino",
+      "text": "I don't trust benchmarks. We've all seen this movie:\n\nNew model beats everyone else on a benchmark. People hype it. Then we all start using it. Model turns out to be garbage.\n\nThis here looks interesting.\n\nInstead of focusing on whether a model got the right answer (like a",
+      "likes": 34,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2090437931605320017",
+      "author": "@svpino",
+      "text": "and most projects will continue to run late, over budget, and will still miss user needs",
+      "likes": 33,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090871703987789976",
+      "author": "@svpino",
+      "text": "Can an agent improve the algorithm used to train another AI system?\n\nThis is a pretty interesting benchmark.\n\n• They tested agents across 10 research repositories\n• Agents had to improve the actual training method\n• Opus 5 performed best, but even the best result was bad\n•",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090450583669100695",
+      "author": "@jerryjliu0",
+      "text": "we're offering exclusive startup credits and discounts to Tampa Bay Wave startups for pdf parsing \n\ncome sign up here 🙂",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090349265050554717",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli ktoś się obawia o stan hossy na AI bo przychody Anthropic wzrosły mniej niż przewidywano - wyjaśnienie poniżej. \n\nMonopol w sektorze enterprise zamienił się po prostu w duopol.\n\nWzrost, który nie trafił do Anthropic wylądował w OpenAI",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090417010744152230",
+      "author": "@rpl_0x",
+      "text": "🦻The sun is fast fallin'\nBeneath trees of stone\nThe light in the tower\nNo longer my home\nPast eyes of pale fire\nBlack sand for my bed\nI trade all I've known\nFor the unknown ahead\n\nCall to me, call to me lands far away\nFor I must now wander this wandering day\nAway I must wander",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090731771906375971",
+      "author": "@sentient_agency",
+      "text": "I discovered a Claude Code skill that does the entire job of an SEO agency.\n\nIt's called Toprank. Here's what happened when I ran it.\n\nI typed /seo-analysis inside my repo. Claude asked for Search Console access, connected in one gcloud command, and started pulling data.\n\n40",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2090431406618869937",
+      "author": "@rpl_0x",
+      "text": "Inwestycja znajduje się w granicach Tatrzańskiego Parku Narodowego i obszaru Natura 2000 Tatry.\n\n– hala ma ok. 16 tys. m² powierzchni zabudowy,\n– inwestycja przekształca ok. 2,65 ha terenu,\n– przewidziano wycinkę ok. 170 drzew,\n– mimo lokalizacji w TPN i Natura 2000 nie",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090851040211972253",
+      "author": "@nauczymycieAI",
+      "text": "100m tokenów bardzo dobrego GLM 5.3 dla nowych użytkowników ZCode.\n\nTo bardzo dobra oferta, szczególnie jeżeli chcecie mieć coś \"na zapas\".\n\nNie musicie też być całkowicie nowi - wystarczy inny email",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090421933363843524",
+      "author": "@rpl_0x",
+      "text": "Ktoś w komentarzu napisał że to nie leży w otulinie parku narodowego i miał rację!\n\nBo leży w samym parku narodowym!\n\nPrzy okazji podrzucam stronkę gdzie takie rzeczy można sprawdzać\n\ngeoserwis . gdos . gov . pl",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090514962867184102",
+      "author": "@nauczymycieAI",
+      "text": "Slack chce zmienić sposób w jaki ludzie programują. Tworzenie kodu ma się stać bardziej multiplayerowe.\n\nNowo wydany Slack Code przenosi współpracę z agentami \nprogramistycznymi do wspólnych kanałów. Dotąd odbywała się ona na lokalnych dyskach. \n\nPo wdrożeniu nowego feature-a",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090393538697806325",
+      "author": "@sentient_agency",
+      "text": "Google decides what you see. Bing decides what you see. Every search engine you've ever used quietly builds a profile on you first and search results second.\n\nSearXNG skips that entirely by not being a search engine at all.\n\nIt's called a metasearch engine, and here's what that",
+      "likes": 3,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2090528260635423193",
+      "author": "@Mat_Szymanski",
+      "text": "Z tym AI w raporcie \"Polaków Portret Własny\" jest pewien problem. Otóż korzystając na co dzień z Gemini, Claude i GPT jestem przekonany, że żaden z ich współczesnych modeli nie wypuściłby czegoś takiego. Pytanie więc, jakiego LLM-a użyto. Mam pewne podejrzenia, ale... 🤫",
+      "likes": 522,
+      "retweets": 5
+    }
+  ]
+}
