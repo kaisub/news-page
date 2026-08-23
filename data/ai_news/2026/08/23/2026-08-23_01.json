@@ -1,0 +1,149 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-23",
+  "slot": "01",
+  "generated_at": "2026-08-23T02:16:14Z",
+  "tweets": [
+    {
+      "tweet_id": "2090852314319880425",
+      "author": "@claudeai",
+      "text": "Claude Security scans now run on Claude Mythos 5, available today in public beta for all Claude Enterprise customers.\n\nPut our most capable security model to work on your codebase, no separate model access needed.",
+      "likes": 9446,
+      "retweets": 626
+    },
+    {
+      "tweet_id": "2090778453851472174",
+      "author": "@svpino",
+      "text": "I can tell the truth now:\n\nI once deployed a training pipeline for a company on AWS. It took around 20 hours to train the model.\n\nMonths after that, they asked me to optimize the process.\n\nIt took me 10 minutes to realize I'd been paying for an instance with 4 GPUs but using only",
+      "likes": 475,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2091265397056016677",
+      "author": "@leerob",
+      "text": "How can you trust @Bot​s to operate autonomously?\n\nThis is something we've carefully designed. First, we use an LLM to automatically review every action your bot takes. If anything is unexpected, it will ask for your approval.\n\nBut this isn't enough. We also have customizable",
+      "likes": 455,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2090770205177700862",
+      "author": "@reach_vb",
+      "text": "Banked RESET for all ChatGPT Work &amp; Codex users!\n\nJust in time for the weekend &amp; use it wisely!",
+      "likes": 456,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090886332528599352",
+      "author": "@reach_vb",
+      "text": "We've dropped the API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months!\n\nIt's time to let those token rip - Solmaxxing!",
+      "likes": 218,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2091264157987311618",
+      "author": "@reach_vb",
+      "text": "sometimes the most productive thing you can do is relax.",
+      "likes": 200,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090818844105511001",
+      "author": "@svpino",
+      "text": "How to build an agent that does what you want without writing any code.\n\n• This is open-source, so you can host it anywhere\n• Vendor-neutral, so you can use any model you want\n• You can set the entire agent loop without writing any code\n\nSee the GitHub Repository below.",
+      "likes": 134,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2090778410037518340",
+      "author": "@reach_vb",
+      "text": "hi @screenstudio - I’d love to make screencasts with codex but currently the whole software is not very agent friendly!\n\nlet’s make it happen?",
+      "likes": 128,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2090858257359253540",
+      "author": "@reach_vb",
+      "text": "Codex can just do things!",
+      "likes": 84,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090683126582296592",
+      "author": "@rpl_0x",
+      "text": "Może i jestem szarlatanem, może i za jakiś czas będą mnie mogli za to ścigać, ale powiem to.\n\nGóry są najlepszym lekarstwem!",
+      "likes": 68,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2090871703987789976",
+      "author": "@svpino",
+      "text": "Can an agent improve the algorithm used to train another AI system?\n\nThis is a pretty interesting benchmark.\n\n• They tested agents across 10 research repositories\n• Agents had to improve the actual training method\n• Opus 5 performed best, but even the best result was bad\n•",
+      "likes": 38,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2090791278615396570",
+      "author": "@svpino",
+      "text": "I don't trust benchmarks. We've all seen this movie:\n\nNew model beats everyone else on a benchmark. People hype it. Then we all start using it. Model turns out to be garbage.\n\nThis here looks interesting.\n\nInstead of focusing on whether a model got the right answer (like a",
+      "likes": 42,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2091106679798600088",
+      "author": "@nauczymycieAI",
+      "text": "Po raz pierwszy od dawna próbuję napisać coś Opusem 5 po angielsku.\n\nCo oni zrobili z tym modelem? \n\nPrzecież tego nie da się czytać. Znakowanie wodne tekstu który wymusiła EU - a które Anthropic ochoczo wdrożyło zamienia tekst w fontannę slopu.\n\nModele 2 lata temu pisały lepiej",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091231519293751458",
+      "author": "@jerryjliu0",
+      "text": "One of the interesting properties we’ve observed around schema-guided, complex document extraction tasks 📑 is that coding agent harnesses are good baselines (in terms of cost/accuracy) for longer documents.\n\nWe tested Claude Code and Codex, along with specialized OCR tools",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2091103163202081067",
+      "author": "@sentient_agency",
+      "text": "A 22-year-old graduate student in Kazakhstan got so angry at journal paywalls in 2011 that she built a pirate website holding 88 million scientific papers, and last month she turned the whole thing into an AI that lets you ask one question and get the actual research as the",
+      "likes": 12,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2090851040211972253",
+      "author": "@nauczymycieAI",
+      "text": "100m tokenów bardzo dobrego GLM 5.3 dla nowych użytkowników ZCode.\n\nTo bardzo dobra oferta, szczególnie jeżeli chcecie mieć coś \"na zapas\".\n\nNie musicie też być całkowicie nowi - wystarczy inny email",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2090731771906375971",
+      "author": "@sentient_agency",
+      "text": "I discovered a Claude Code skill that does the entire job of an SEO agency.\n\nIt's called Toprank. Here's what happened when I ran it.\n\nI typed /seo-analysis inside my repo. Claude asked for Search Console access, connected in one gcloud command, and started pulling data.\n\n40",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091304764839768522",
+      "author": "@jerryjliu0",
+      "text": "saas isn't dead, it just has to be repurposed (+ remonetized) for agent consumption",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091331143761326503",
+      "author": "@jerryjliu0",
+      "text": "i think there's a real opportunity for labs to bake in even higher switching costs between claude code/codex/grok bot etc. \n\nwhenever a new model release comes out, i already feel an inertia to switch between apps because of my existing skills, routines, system instructions,",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091030189727695355",
+      "author": "@redaktorbs",
+      "text": "Sinan Can Demir miał bardzo przyziemny plan. Chciał poświęcić ostatni tydzień lipca na poprawianie swojego CV. Dwadzieścia parę odrzuconych podań o staż potrafi człowieka zmotywować do desperackich kroków, takich jak na przykład grzebanie w cudzym kodzie na GitHubie, żeby",
+      "likes": 95,
+      "retweets": 15
+    }
+  ]
+}
