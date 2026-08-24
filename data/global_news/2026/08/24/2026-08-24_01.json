@@ -1,0 +1,51 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-08-24",
+  "slot": "01",
+  "generated_at": "2026-08-24T02:08:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2091132403938939218",
+      "author": "@OSW_pl",
+      "text": "▪️Co się dzieje w Kazachstanie?\n▪️Czy niedzielne wybory są istotne?\n▪️Dlaczego władze \"dokręcają śrubę\"?\n\nNa te i inne pytania prosto z Kazachstanu odpowiada @Dariajzielinska.",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2091384108467282041",
+      "author": "@RadekPyffel",
+      "text": "\"5 świętych zwięrząt\" Mongolii: koń, wielbłąd, kozioł, owca i bydło.\n\nNa ile ta mongolska lista pokrywa się z polską? Jak u nas (dziś i w przeszłości) wyglądałaby taka nasza lista \"5 najważniejszych zwierząt\"?",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091494049022681473",
+      "author": "@RadekPyffel",
+      "text": "Rosja przeprowadziła rzadkie ćwiczenia rakietowe z udziałem atomowego okrętu podwodnego, krążownika i lądowej wyrzutni rakietowej w pobliżu południowych Wysp Kurylskich. \n\nNajnowsze ćwiczenia służą także jako odpowiedź na niedawny spór dyplomatyczny na linii z Tokio powstały po",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091093267404226739",
+      "author": "@OSW_pl",
+      "text": "Sto dni rządu Magyara: Węgry w przyspieszonej przebudowie ⬇️\n\n„Przewaga polityczna TISZY opiera się w dużej mierze na utrzymującym się wysokim kredycie zaufania społecznego”.\n\nWięcej w podcaście i komentarzu @IlonaGizinska:\n\n👉",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091504231068864520",
+      "author": "@RadekPyffel",
+      "text": "Prezydent Donald Trump podpisał nowe memorandum mające na celu drastyczne zwiększenie liczby komercyjnych startów w kosmos w USA w tym także tych realizowanych przez agencje rządowe. \n\nOstatecznym celem jest zwiększenie liczby lotów do 1000 do 2030 roku z raptem 178 obecnie.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091249016524636246",
+      "author": "@RadekPyffel",
+      "text": "Koniec taniej kawy?\nCo dzieje się na światowym rynku kawy.\n\nZapraszam na Gospodarcze Morza i Lądy:",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}

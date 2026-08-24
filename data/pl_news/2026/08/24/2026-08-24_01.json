@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-24",
+  "slot": "01",
+  "generated_at": "2026-08-24T02:08:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2091421746335240215",
+      "author": "@laskowski_pl",
+      "text": "Wysokie pensje lekarzy zaczęły się w czasach COVID, to wtedy słynne dodatki z jednej strony spowodowały, że pacjentów na siłę kwalifikowano jako covidowych, a z drugiej rozbudziły oczekiwania finansowane. \n\nTeraz nikt nie chce mniej zarabiać, a tzw. negocjacje z dyrektorami",
+      "likes": 321,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2091052939905265968",
+      "author": "@laskowski_pl",
+      "text": "Tak można dofinansować podmiot, którego jeszcze nie ma? \nDymisja Pani Mróz-Gorgoń, to początek. Kto z @SPORT_GOV_PL podpisał się pod dofinansowaniem, kto planował skok na 700 mln z naszych podatków? \n(tyle chcieli wydać)",
+      "likes": 230,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2091465565604848059",
+      "author": "@Macronextcom",
+      "text": "Wszyscy wiedzą, że ryczałt jest dużym przywilejem podatkowym, ale mało kto wiedział jak wielkim.",
+      "likes": 235,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2091041138685673521",
+      "author": "@Macronextcom",
+      "text": "Agencja Fitch potwierdziła rating Polski 🇵🇱 na poziomie A- z perspektywą negatywną.\n\nAktualny rating Polski (od najwyższego do najniższego):\n🔸Moody's: A2 (negatywna)\n🔸S&amp;P: A- (stabilna)\n🔸Fitch: A- (negatywna)\n\n-\nTemat ratingu zacznie interesować rynki dopiero po wyborach 2027.",
+      "likes": 82,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2091134813306601546",
+      "author": "@Macronextcom",
+      "text": "Putin zagraża Europie od wschodu, Trump wyciąga rękę po Grenlandię, Włochom zagraża migracja z Afryki, a teraz Maroko wysuwa roszczenia terytorialne wobec Hiszpanii. \n\nEuropa wchodzi w erę, w której jedynym gwarantem nienaruszalności granic jest siła militarna. W erę zbrojeń.",
+      "likes": 70,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091060453354946604",
+      "author": "@laskowski_pl",
+      "text": "Socjalistyczny Prezydent Portugalii Antonio Jose Seguro podpisał tak zwaną \"ustawę o burce\", która zakazuje zakrywania twarzy w miejscach publicznych.\nTo nie tylko muzułmanki, ale też stadionowi bandyci w kominiarkach. \nNa już do wprowadzenia w Polsce.",
+      "likes": 38,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2091504778849157153",
+      "author": "@laskowski_pl",
+      "text": "Cóż szkodzi obiecać?",
+      "likes": 26,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2091228967931928715",
+      "author": "@PAPinformacje",
+      "text": "Maroko wysunęło roszczenia terytorialne wobec Ceuty i Melilli. Jest odpowiedź Hiszpanii ⤵️\n#PAPInformacje",
+      "likes": 23,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2091582909689807205",
+      "author": "@PAPinformacje",
+      "text": "Klaudia Kazimierska poprawiła rekord Polski w biegu na 1500 m\n#PAPinformacje",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091274505284898841",
+      "author": "@PAPinformacje",
+      "text": "Tragiczny wypadek w centrum Krakowa. Nie żyją dwie osoby, dziecko walczy o życie ⤵️\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091442405677445164",
+      "author": "@PAPinformacje",
+      "text": "Trump: Kanada chce korzyści wynikających z bycia jednym ze stanów, nie będąc nim\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2091431509357924739",
+      "author": "@laskowski_pl",
+      "text": "„Nie pozwolimy, by jakikolwiek inny kraj określał naszą przyszłość. Określimy sami swój kurs, by nadal budować Kanadę silną dla wszystkich\"\n\nCarney przypomniał, że przez ostatnich 18 miesięcy rząd koncentrował się na wzmacnianiu gospodarki kraju, dywersyfikując partnerów",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091459926316982759",
+      "author": "@PAPinformacje",
+      "text": "Wchodzą w życie przepisy zakazujące patostreamingu\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2091492775325786201",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Ukrainy podpisał ustawę o Panteonie Narodowym\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091274331926008306",
+      "author": "@PAPinformacje",
+      "text": "Trzęsienie ziemi w Japonii. Silne wstrząsy odczuwalne w Tokio ⤵️\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091273852013682770",
+      "author": "@PAPinformacje",
+      "text": "Leon XIV w San Marino. 25 tysięcy osób uczestniczyło w papieskiej mszy w Rimini ⤵️\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091116425804914846",
+      "author": "@laskowski_pl",
+      "text": "Ciekawe co Pani sobie wszczepiła w usta - i nie tylko - i kto to badał 🤔",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091403187861262676",
+      "author": "@PAPinformacje",
+      "text": "Tragiczny wypadek w miejscowości Narkowy. Dwie osoby nie żyją\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091513211925287151",
+      "author": "@PAPinformacje",
+      "text": "17-latek w stroju Supermana gasi pożary lasów. Nagranie z nastolatkiem bije rekordy w sieci\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091494500543701081",
+      "author": "@PAPinformacje",
+      "text": "W Kazachstanie trwają przedterminowe wybory do nowego jednoizbowego parlamentu\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091421278213181827",
+      "author": "@PAPinformacje",
+      "text": "Spowiednik: ludzi do konfesjonałów przychodzi mniej, ale spowiedzi są bardziej pogłębione [WYWIAD]\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091539702163571119",
+      "author": "@PAPinformacje",
+      "text": "Diamentowa Liga. Skrzyszowska trzecia w biegu na 100 m przez płotki\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091385045642567733",
+      "author": "@PAPinformacje",
+      "text": "Turniej WTA w Cincinnati. Świątek przegrała z Jessicą Pegulą w półfinale\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091558505949925798",
+      "author": "@PAPinformacje",
+      "text": "RCB: w sobotę utonęły cztery osoby\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091226991030571171",
+      "author": "@PAPinformacje",
+      "text": "Zwycięstwo polskich siatkarek na inaugurację ME ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091045200470913487",
+      "author": "@DGPrawna",
+      "text": "Lekcja dla świata. \nW Indiach powstaje muzeum polskich uchodźców",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2091229544430657822",
+      "author": "@PAPinformacje",
+      "text": "Czerwona flaga nad Bałtykiem. Gdzie obowiązuje zakaz kąpieli? ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091229118528426091",
+      "author": "@PAPinformacje",
+      "text": "Kanada odpowiada na cła Trumpa. Carney zabrał głos ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091097293818855898",
+      "author": "@DGPrawna",
+      "text": "To o nim, a nie o Karolu Szymanowskim, miał usłyszeć świat. Kompozytor, rewolucjonista, socrealista á rebours i ekscentryk. Mija 60 lat od śmierci Apolinarego Szeluty.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091625996801708466",
+      "author": "@PAPinformacje",
+      "text": "🎥Weekendowy przegląd wideo @PAPinformacje:  zawody kajakowe w Krakowie, start warszawskiego Gran Fondo, prace przy umocnieniach granicznych, relacja z jarmarku, premiera „Azja Express\" oraz materiał o poszukiwaniach śladów Homera w Turcji.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091235957580222974",
+      "author": "@DGPrawna",
+      "text": "Woś obserwuje: co z tą sztuczną inteligencją? Tak naprawdę to nie wiadomo",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091201983650857276",
+      "author": "@DGPrawna",
+      "text": "Wzrost nierówności może nie mieć naturalnej granicy. Wyobrażenia dystopijnej przyszłości, w której kilka osób kontroluje całość światowych zasobów, wcale nie muszą być już traktowane jako przejaw radykalnego pesymizmu.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091096287428870445",
+      "author": "@DGPrawna",
+      "text": "Lokalny brak pomyślunku. Czy patologie w inwestycjach samorządów da się ukrócić?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091079678014767571",
+      "author": "@DGPrawna",
+      "text": "Koalicja rządząca nie ma na koncie wielkiego projektu, którym mogłaby się chwalić. Polityczno-gospodarczym kołem ratunkowym stała się dla niej realizacja KPO.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091516304700408275",
+      "author": "@DGPrawna",
+      "text": "Donald Trump grożący zbombardowaniem kolejnego bliskowschodniego państwa to rutynowy news z Białego Domu.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091453893536563565",
+      "author": "@DGPrawna",
+      "text": "Władze państw Bliskiego Wschodu powiązanych z USA porozumieniami szeroko otworzyły oczy ze zdumienia, gdy zobaczyły, że ten parasol obronny jest bardzo dziurawy. Jeśli w ogóle istnieje - mówi Krzysztof Płomiński.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091434012548252140",
+      "author": "@DGPrawna",
+      "text": "Piotr Skwieciński: to mankurci zabili Puszkina, czyli rosyjskie teorie spiskowe",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091402555368595595",
+      "author": "@DGPrawna",
+      "text": "Od niedzieli pary jednopłciowe będą mogły zarejestrować swój związek w polskim USC. Ale tylko, gdy wzięły ślub za granicą",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091387133445497112",
+      "author": "@DGPrawna",
+      "text": "🟥 RAPORT SPECJALNY DGP | Jeszcze kryzys czy już katastrofa? Demografia w Polsce",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2091150897296371810",
+      "author": "@DGPrawna",
+      "text": "Nie gramy tylko chrześcijańskich piosenek. Wywiad z Janem i Mateuszem Pospieszalskimi",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
