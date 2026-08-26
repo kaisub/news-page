@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-26",
+  "slot": "01",
+  "generated_at": "2026-08-26T02:11:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2092339694210040187",
+      "author": "@sama",
+      "text": "we made a chip and it is fast",
+      "likes": 25286,
+      "retweets": 1039
+    },
+    {
+      "tweet_id": "2092299704864284888",
+      "author": "@claudeai",
+      "text": "Claude now has one memory across chat and Claude Cowork, and you decide what's in it.\n\nHand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter.",
+      "likes": 6100,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2092276970226671789",
+      "author": "@leerob",
+      "text": "We just increased the included usage of Grok models in Cursor!\n\nDemand has been increasing with the launch of Grok 4.6. We already doubled limits last month with more compute. And now we're raising limits again permanently.\n\nEnjoy!",
+      "likes": 5766,
+      "retweets": 254
+    },
+    {
+      "tweet_id": "2092355642363453943",
+      "author": "@bcherny",
+      "text": "A small improvement: memory is now simpler and more powerful. Enjoy!",
+      "likes": 1060,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2092244531504701568",
+      "author": "@svpino",
+      "text": "Oh boy, the new Mac Studio M5 ULTRA with 256GB of RAM is out now. \n\nThis is the dream for people who want to run local models.",
+      "likes": 709,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2091961776032370883",
+      "author": "@svpino",
+      "text": "This is like OpenRouter, but for agents (instead of models).\n\nYou can:\n\n• Pick Claude Code, Codex, OpenCode, or any other agent\n• Give them the exact same task\n• Run them on the same environment\n• Compare their output, time, token usage, and cost side by side\n\nBasically, you",
+      "likes": 395,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2091962322180882694",
+      "author": "@reach_vb",
+      "text": "GPT-5.6 Sol Max was already the better deal on DeepSWE v1.1 - The recent price cut widens the gap even further. 🔥\n\nSol scores 72.7% at $6.47/task, compared with Fable 5 Max at 69.7% and $21.63/task.\n\nDeepSWE tests coding agents on 113 original, long-horizon engineering tasks.",
+      "likes": 377,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2092259552016138334",
+      "author": "@reach_vb",
+      "text": "holy shitt!",
+      "likes": 245,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2092143871782256731",
+      "author": "@reach_vb",
+      "text": "Excited for y’all to see what the team and I are cooking! 🧑‍🍳\n\nand not just DevDay, also DevDay Exchanges too :)",
+      "likes": 249,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2092230591282606249",
+      "author": "@svpino",
+      "text": "I haven't seen anything increase the need to hire more engineers as quickly as agentic coding.",
+      "likes": 227,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2092195897593434345",
+      "author": "@reach_vb",
+      "text": "considering getting a small Linux box for home - ideally less than &lt; 1K$\n\ngoal is to offload tasks from my personal mac, experiments and for video renders/ clipping\n\nsuggestions?",
+      "likes": 220,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092282102939357312",
+      "author": "@svpino",
+      "text": "These guys are building a new search engine for agents:\n\n• They have their own crawler\n• They have their own web index\n• They have their own query language\n• They have their own infrastructure\n• They are focusing on latency, quality, and cost\n\nNow, this doesn't seem to be",
+      "likes": 177,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2091877536552853707",
+      "author": "@svpino",
+      "text": "You can't pretend you care about security if you are still sharing API tokens in .env files or sharing SSH keys.\n\nThis might be good enough to provide simple access to a resource, but it's a horrible way to do security when it really matters.\n\nLook into \"Identity-Based Access\".",
+      "likes": 177,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2092268188633546943",
+      "author": "@hwchase17",
+      "text": "trying to think about how to most easily create evals\n\nwe launched a skill to help with this iterative process",
+      "likes": 166,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2092104698949976494",
+      "author": "@jerryjliu0",
+      "text": "not sure i fully get this.\n- i want my agents to use slack\n- i don't want my agents to build a new slack\n- i don't want to use slack's agent\n\ni think every piece of software/system of record needs to become agent-native and not just human-native, which will benefit them because",
+      "likes": 167,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2091828236787253670",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów pokazuje jak wyglądała Polska przed Chrztem!",
+      "likes": 117,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2092343369745756189",
+      "author": "@reach_vb",
+      "text": "Excited to land the new 100$ Business seats!\n\nThese seats give 5x the usage of standard seats and remove the 5 hour limit giving room for power users to let it rip :)\n\nThis has been a long term ask from y’all - Enjoy!",
+      "likes": 106,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2091941140832669984",
+      "author": "@hwchase17",
+      "text": "Evals matter",
+      "likes": 105,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092258618536079452",
+      "author": "@svpino",
+      "text": "People crying because this is $10k haven't checked the price in EU yet. \n\nYour mind will explode.",
+      "likes": 106,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2092064915859370303",
+      "author": "@jerryjliu0",
+      "text": "This summer, we brought in two first-year Waterloo interns (‘rising sophomores’ in 🇺🇸) and tasked them with shipping complex production features that help push the frontier of our document processing and extraction capabilities.\n\nYash created a dashboard that allowed customers to",
+      "likes": 70,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2091986945400336731",
+      "author": "@svpino",
+      "text": "I did this for 90 days. Learned a whole ton of cool things. I ended up going back to my Mac, but I brought a lot of config/shortcuts with me (that I implemented in Raycast).",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092390685672386783",
+      "author": "@reach_vb",
+      "text": "For a fuller picture posting the DeepSWE 1.1 scores for GPT 5.6 Sol plotted over a linear cost!\n\nSolmaxxing is all you need!!",
+      "likes": 56,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2092339044025794925",
+      "author": "@reach_vb",
+      "text": "New RESET alert:",
+      "likes": 62,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092030323488153621",
+      "author": "@svpino",
+      "text": "WAN 3.0 is really cool!\n\nYou can now:\n\n• Generate native 30-second videos\n• Use text, images, or Omni Video as input\n• Give it up to 20 reference assets, including docs and webpages\n• More consistent outputs across your entire workflow\n• Make more precise edits (don't need",
+      "likes": 52,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2091965661060931708",
+      "author": "@svpino",
+      "text": "DeepSeek-V4-Flash running at 5.71 token/s on a Mac M5 Pro.\n\nEvery day, we get better models running on consumer hardware.\n\nAnd we aren't talking about toy models anymore: we can already run a ton of intelligence without paying for an external GPU.",
+      "likes": 57,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2091841422513021154",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo dobry research od @promptowy, który potwierdza to o czym kiedyś pisałem.\n\nJeżeli chcesz oszczędzać tokeny - koniecznie korzystaj z języka angielskiego.\n\nPo polsku, w zależności od modelu możesz wykorzystać nawet o 111% tokenów więcej w stosunku do angielskiego",
+      "likes": 56,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092059941964300300",
+      "author": "@jerryjliu0",
+      "text": "i really love pdf parsing",
+      "likes": 56,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092100832041021869",
+      "author": "@jerryjliu0",
+      "text": "I did track (specifically long and triple jump) for 6 years in middle and high school.\n\nIf the robot had better form on the landing (legs folded instead of trying to stand straight up) and they provided a proper sand pit, it could've easily cleared the 8.95m world record.",
+      "likes": 49,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092264397703942268",
+      "author": "@svpino",
+      "text": "Buying a Mac Studio in the US vs. in Spain.\n\n$19,488 (with FL taxes) versus 20.729€.\n\nAt the current exchange rate, that's an additional $4,691 (a fully spec'd-out Mac Mini and then some).",
+      "likes": 49,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092321618790130030",
+      "author": "@svpino",
+      "text": "I have several friends who work at an ad agency, and they aren't scared of AI.\n\nSmall startups might be okay publishing ad slop videos online, but no respectable company wants to be associated with AI-generated videos.\n\nI've worked with Icon before. They were going after ad",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2091940942983082356",
+      "author": "@hwchase17",
+      "text": "A hard part of agents is connections - seems easy but hard to get right/seamless\n\nManaged deepagents tackles it for you \n\nMore to come!",
+      "likes": 35,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092285888663544242",
+      "author": "@hwchase17",
+      "text": "its relatively easy to generate a wiki the first time, but how do you update them reliably?\n\nopenwiki v0.4.0 improves in this dimension - it \"forgets\" better",
+      "likes": 24,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2092186932046606797",
+      "author": "@sentient_agency",
+      "text": "CleanMyMac charges $40 a year to tell you your own storage is full.\n\nIt also ships telemetry by default and won't show you what it actually deletes.\n\nSomeone got sick of it and built PureMac.\n\nSame job. Uninstalls apps and every leftover file they scattered across your library.",
+      "likes": 13,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2091805861228196228",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów zgłasza swoją  kandydaturę na ambasadora pamięci o Powstaniu Warszawskim\n\n@warszawa44  @MartaCienkowska @kultura_gov_pl",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2091819746849390664",
+      "author": "@sentient_agency",
+      "text": "Your family photos should not become another company's AI training material.\n\nGoogle Photos scans every picture you upload. So does iCloud, technically, the moment Apple needs to.\n\nSomewhere in a terms of service document you never read, you agreed to let a machine look at your",
+      "likes": 12,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2092266797361721470",
+      "author": "@nauczymycieAI",
+      "text": "Jakie profesje najszybciej obecnie adoptują AI? Spoiler alert: to nie są programiści.\n\nPrawnicy, tradycyjnie uważani za najbardziej ostrożną i konserwatywną grupę zawodową, właśnie deklasują całą branżę technologiczną.\n\nDane OAI Signals z sierpnia 2026 opublikowane przez fundusz",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092303366164504925",
+      "author": "@svpino",
+      "text": "I really hate that Codex's TUI doesn't support native voice input.\n\nI know there are third-party apps, but something really cool about Claude Code is that you don't need to pay for another service to speak to your agent.",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092268275334004805",
+      "author": "@svpino",
+      "text": "I once let a company pay for 4 GPUs while only using 1.\n\nAfter a few months of running, I wanted to optimize the pipeline, and it took me ten minutes to spot my mistake.\n\nThey wasted a buttload of money because I didn't take the time to look at a GPU utilization report.\n\nThis was",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092264471935017045",
+      "author": "@svpino",
+      "text": "These guys just raised $200M to continue building autonomous trucking.\n\n@Gatik_AI already has:\n\n• $600M in contracted revenue\n• 100,000+ fully driverless orders completed\n• 99%+ on-time delivery\n• Trucks running daily with no driver or safety observer onboard\n\nThis is a",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092312555045752949",
+      "author": "@nauczymycieAI",
+      "text": "Niemal 75% szans, że zobaczymy następną wersję Mythosa w ciągu 2 tygodni.\n\nJak myślicie - będzie wyraźnie lepsza?",
+      "likes": 9,
+      "retweets": 0
+    }
+  ]
+}
