@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-27",
+  "slot": "01",
+  "generated_at": "2026-08-27T10:10:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2092339694210040187",
+      "author": "@sama",
+      "text": "we made a chip and it is fast",
+      "likes": 46774,
+      "retweets": 1983
+    },
+    {
+      "tweet_id": "2092733018838290817",
+      "author": "@sama",
+      "text": "i think we should do another party for our next model release, the 5.5 party was a lot of fun.\n\nwhat would make the next one awesome?",
+      "likes": 9364,
+      "retweets": 254
+    },
+    {
+      "tweet_id": "2092299704864284888",
+      "author": "@claudeai",
+      "text": "Claude now has one memory across chat and Claude Cowork, and you decide what's in it.\n\nHand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter.",
+      "likes": 8170,
+      "retweets": 488
+    },
+    {
+      "tweet_id": "2092276970226671789",
+      "author": "@leerob",
+      "text": "We just increased the included usage of Grok models in Cursor!\n\nDemand has been increasing with the launch of Grok 4.6. We already doubled limits last month with more compute. And now we're raising limits again permanently.\n\nEnjoy!",
+      "likes": 7659,
+      "retweets": 320
+    },
+    {
+      "tweet_id": "2092755571455758427",
+      "author": "@claudeai",
+      "text": "Claude now has its own built-in browser in Cowork.\n\nWhen your task involves a website, a browser opens in Cowork's side panel, and Claude navigates, fills forms, and finishes the job.",
+      "likes": 7342,
+      "retweets": 429
+    },
+    {
+      "tweet_id": "2092712656096358527",
+      "author": "@sama",
+      "text": "this is a good report about a bad thing:",
+      "likes": 3312,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2092355642363453943",
+      "author": "@bcherny",
+      "text": "A small improvement: memory is now simpler and more powerful. Enjoy!",
+      "likes": 2134,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2092661573223657834",
+      "author": "@AnthropicAI",
+      "text": "For the first time, we’ve given external researchers a way to study AI’s impacts using real, privacy-preserved Claude usage data. To date, this work has only been possible within AI labs. We can’t tell the whole story alone, so we opened up our tools.",
+      "likes": 1844,
+      "retweets": 177
+    },
+    {
+      "tweet_id": "2092666596179521906",
+      "author": "@leerob",
+      "text": "We didn't forget about @Bot either...\n\nIt's now available for all paid customers. $20/mo to change how you work with computers!\n\nWe've reset weekly usage limits for all Bot customers. Try it out!",
+      "likes": 1580,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2092662017517600823",
+      "author": "@ammaar",
+      "text": "Introducing Gemini 3.5 Transcribe 🚀 \n\nOur most precise speech to text model, that can handle over 85+ languages, has smart correction, and custom vocabulary.\n\nI vibe coded a Wispr Flow like app powered by the model.\n\nDemo + open sourcing below!",
+      "likes": 848,
+      "retweets": 60
+    },
+    {
+      "tweet_id": "2092660089509314735",
+      "author": "@GoogleAI",
+      "text": "Today we’re introducing Gemini 3.5 Transcribe, our latest transcription model built for incredibly precise, smart dictation across your favorite apps and devices.\n\nRemember when traditional speech-to-text meant shouting over background noise, constantly hitting backspace to fix",
+      "likes": 768,
+      "retweets": 83
+    },
+    {
+      "tweet_id": "2092244531504701568",
+      "author": "@svpino",
+      "text": "Oh boy, the new Mac Studio M5 ULTRA with 256GB of RAM is out now. \n\nThis is the dream for people who want to run local models.",
+      "likes": 747,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2092786147156246906",
+      "author": "@leerob",
+      "text": "Chat → Code → @Bot​s\n\nI was skeptical at first, but I'm now Bot-pilled. It is hard to give up \"the old way\" of prompting agents, but I strongly believe always-running bots are the future of where all work on a computer is headed.\n\nFor example, it still feels *weird* to not see",
+      "likes": 668,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2092645787201118566",
+      "author": "@svpino",
+      "text": "how did a linux distro become political?\n\nwhat crazy timeline are we living in?",
+      "likes": 393,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2092282102939357312",
+      "author": "@svpino",
+      "text": "These guys are building a new search engine for agents:\n\n• They have their own crawler\n• They have their own web index\n• They have their own query language\n• They have their own infrastructure\n• They are focusing on latency, quality, and cost\n\nNow, this doesn't seem to be",
+      "likes": 287,
+      "retweets": 85
+    },
+    {
+      "tweet_id": "2092515291544617309",
+      "author": "@reach_vb",
+      "text": "A few things we shipped in ChatGPT yesterday:\n\n&gt; Browser extension support for Edge, Brave, Opera, and Vivaldi\n&gt; WebMCP support in the desktop app’s built-in browser\n&gt; Secure sign-in and persistent logins for Work’s cloud computer\n\nEnjoy!",
+      "likes": 322,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2092230591282606249",
+      "author": "@svpino",
+      "text": "I haven't seen anything increase the need to hire more engineers as quickly as agentic coding.",
+      "likes": 270,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2092259552016138334",
+      "author": "@reach_vb",
+      "text": "holy shitt!",
+      "likes": 270,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2092588525556506972",
+      "author": "@svpino",
+      "text": "Vector indexing is not enough. Companies need a comprehensive context layer:\n\n• Unified, permission-aware data across systems\n• Retrieval tailored to each type of information\n* Rank and filter context before the model\n• Graphs and memory to retain relationships and learning\n•",
+      "likes": 219,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2092566427014148261",
+      "author": "@rpl_0x",
+      "text": "To jest projekt doktorski na politechnice krakowskiej do badania mikrobiologicznych ogniw paliwowych.\n\nNad projektem pracuje Monika, ja delikatnie pomagam, wszystko zrobiliśmy od zera - projekt, dobór podzespołów, zlutowanie wszystkiego, przygotowanie firmware, backendu i",
+      "likes": 253,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2092268188633546943",
+      "author": "@hwchase17",
+      "text": "trying to think about how to most easily create evals\n\nwe launched a skill to help with this iterative process",
+      "likes": 231,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2092566204519006573",
+      "author": "@reach_vb",
+      "text": "keep going you're doing a brilliant job",
+      "likes": 238,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092195897593434345",
+      "author": "@reach_vb",
+      "text": "considering getting a small Linux box for home - ideally less than &lt; 1K$\n\ngoal is to offload tasks from my personal mac, experiments and for video renders/ clipping\n\nsuggestions?",
+      "likes": 221,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092750264239284440",
+      "author": "@reach_vb",
+      "text": "in the last few months I’ve:\n\n- shipped and maintained developer surfaces\n- dogfooded + help ship models, apps and APIs\n- built evals + artefacts to understand model capability\n- been perpetually “on-call”\n- met with customers, startups and developers\n- done webinars, podcasts",
+      "likes": 178,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092390685672386783",
+      "author": "@reach_vb",
+      "text": "For a fuller picture posting the DeepSWE 1.1 scores for GPT 5.6 Sol plotted over a linear cost!\n\nSolmaxxing is all you need!!",
+      "likes": 148,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2092343369745756189",
+      "author": "@reach_vb",
+      "text": "Excited to land the new 100$ Business seats!\n\nThese seats give 5x the usage of standard seats and remove the 5 hour limit giving room for power users to let it rip :)\n\nThis has been a long term ask from y’all - Enjoy!",
+      "likes": 155,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2092669839769055405",
+      "author": "@svpino",
+      "text": "The issue I have with computer-use models today is that they spend too much time clicking through interfaces.\n\nYou can die of boredom waiting for these tools to finish a simple task.\n\nn2 is a new 27B-parameter computer-use model that handles this differently.\n\nWhen solving a",
+      "likes": 141,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2092258618536079452",
+      "author": "@svpino",
+      "text": "People crying because this is $10k haven't checked the price in EU yet. \n\nYour mind will explode.",
+      "likes": 119,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2092443725817676049",
+      "author": "@hwchase17",
+      "text": "Deepagents is becoming a multiplayer harness \n\nAuth, memory, etc\n\nIf you’re building an agent that you want to expose to multiple users in same thread and are thinking about these issues - reach out! Would love to chat",
+      "likes": 97,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2092339044025794925",
+      "author": "@reach_vb",
+      "text": "New RESET alert:",
+      "likes": 93,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092639305001054682",
+      "author": "@hwchase17",
+      "text": "How we think about evaluating wikis\n\nIncluding whether wikis are actually even helpful!",
+      "likes": 75,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2092321618790130030",
+      "author": "@svpino",
+      "text": "I have several friends who work at an ad agency, and they aren't scared of AI.\n\nSmall startups might be okay publishing ad slop videos online, but no respectable company wants to be associated with AI-generated videos.\n\nI've worked with Icon before. They were going after ad",
+      "likes": 61,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092645011544318340",
+      "author": "@reach_vb",
+      "text": "wow, where have I seen this before?\n\nwait a second..",
+      "likes": 60,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092264397703942268",
+      "author": "@svpino",
+      "text": "Buying a Mac Studio in the US vs. in Spain.\n\n$19,488 (with FL taxes) versus 20.729€.\n\nAt the current exchange rate, that's an additional $4,691 (a fully spec'd-out Mac Mini and then some).",
+      "likes": 59,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092642169614200989",
+      "author": "@jerryjliu0",
+      "text": "Big shoutout to @perplexity_ai for properly benchmarking document understanding in their Portable Computer release 🔥\n\nThey took a subset of our ParseBench benchmark ( and measured across tables, charts, layout, text content, and formatting.\n\nDocument",
+      "likes": 49,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2092625685160288364",
+      "author": "@reach_vb",
+      "text": "or just ask codex to set them up for you!",
+      "likes": 47,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092663785542783161",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked 20+ open-weight models on easy-to-hard document extraction tasks through ExtractBench. The results are all available on @huggingface 🤗\n\nExtractBench is a schema-guided extraction benchmark that contains 4.8k+ pages across 8 domains and 67 document types, with a",
+      "likes": 27,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2092285888663544242",
+      "author": "@hwchase17",
+      "text": "its relatively easy to generate a wiki the first time, but how do you update them reliably?\n\nopenwiki v0.4.0 improves in this dimension - it \"forgets\" better",
+      "likes": 27,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2092427984225652963",
+      "author": "@jerryjliu0",
+      "text": "I'm actually curious if it's that scary to be in the #1 camp \n\n* I still think humans will use software instead only doing work through agent apps. So humans will continue to use SaaS through the UI and agents will use SaaS through the APIs \n\n* as other folks have mentioned in",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092640327555518512",
+      "author": "@svpino",
+      "text": "ChatGPT is now showing ads, and I'm willing to bet this will become one of the most profitable channels for companies.\n\nIf you want to set up and manage ads in ChatGPT, Runable will do everything for you:\n\n• Pick the site you want to promote\n• Set a daily budget\n• When",
+      "likes": 33,
+      "retweets": 0
+    }
+  ]
+}
