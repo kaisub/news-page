@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-28",
+  "slot": "01",
+  "generated_at": "2026-08-28T11:38:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2093241031730819466",
+      "author": "@PAPinformacje",
+      "text": "Premier: zwrócę się do marszałka Sejmu o ponowne głosowanie weta prezydenta do ustawy o rynku kryptoaktywów. (PAP)\n#PAPInformacje",
+      "likes": 248,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2093008781453992242",
+      "author": "@laskowski_pl",
+      "text": "Do projektowania CPK wybrano libańską firmę, bez doświadczenia w budowie nowych lotnisk w Europie i USA.\nEfekt? 3 lata opóźnienia.",
+      "likes": 162,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2092640038853001584",
+      "author": "@laskowski_pl",
+      "text": "Wysyłamy na sute urlopy górnicze 40-latków, płacimy 50-latkom emerytury i odprawy dla sekretarek z kopalni po 170 tys.\nZa kilka lat się okaże, że nie mamy kopalń, ale mamy elektrownie węglowe do których będziemy importować węgiel np. z Rosji  Kto za to zapłaci?\nProszę zgadnąć.",
+      "likes": 103,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2092856902300401796",
+      "author": "@Macronextcom",
+      "text": "Polska 🇵🇱 składa formalny wniosek do Komisji Europejskiej o ukaranie Mety kwotą 250 mln euro. 💪",
+      "likes": 112,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092896648527548920",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Wieje dziś chłodem... \n\nTeraz #WIG20 -1,58% 📉 i jest zdecydowanie najsłabszym indeksem w Europie. Dodatkowo koreluje to z osłabieniem złotego (#EURPLN 4,3250 zł, #USDPLN 3,7120 zł). \n\nTrochę słabo to wygląda. Czyżby zbliżała się głębsza, jesienna korekta? 🤔",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092845865681453433",
+      "author": "@Macronextcom",
+      "text": "#BigTobaccoMoment \n\nI oto okazuje się, że Europa ze swoim \"Aktem o usługach cyfrowych\" (DSA) ponownie wyznacza trendy regulacyjne na świecie. \n\nInne kraje idą tą samą drogą, a w USA regulacje social mediów właśnie wymusił sąd.",
+      "likes": 62,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093220677675262312",
+      "author": "@Macronextcom",
+      "text": "Analitycy Barclays podwyższyli cenę docelową dla akcji #CDProjekt 🇵🇱 do 170 zł 👇 z 155 zł, po tym jak w maju br. została ona obniżona do 155 zł z 165 zł. \n\nCD PROJEKT : BARCLAYS RAISES TARGET PRICE TO PLN 170 FROM PLN 155\n\nWczoraj akcje CD Projekt kosztowały 234 zł.",
+      "likes": 62,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092651983400247579",
+      "author": "@laskowski_pl",
+      "text": "Reforma w ochronie zdrowia, to jeden rok chaosu, kolejny pełnego wdrożenia i w trzecim roku będą efekty.  Kto podejmie się tego rok przed wyborami?  \n\nReformę, to trzeba było zrobić na początku 2024 r. Przespany i stracony czas.",
+      "likes": 54,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2092886992577056786",
+      "author": "@laskowski_pl",
+      "text": "Komisja śledcza ds. oprogramowania Pegasus – nadal prowadzi działania.\n\nKończy się rok 2026, komisja rozpoczęła pracę w styczniu 2024. \nJak słodko gonić króliczka za nasze pieniądze.\n@MagdalenaSroka",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093270105916354650",
+      "author": "@PAPinformacje",
+      "text": "Domański: prognoza wzrostu PKB w przyszłym roku to 3 proc. (PAP)\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093241163595604443",
+      "author": "@PAPinformacje",
+      "text": "Zmarł król Norwegii Harald V ⤵️\n#PAPInformacje",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093269130983965092",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Karol Nawrocki zawetował ustawę dotyczącą możliwości zaskarżania programów ochrony powietrza. (PAP)\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092681165547155854",
+      "author": "@laskowski_pl",
+      "text": "Pan Moskal wybrał się na Ibizę,\nlicząc, że krypto da mu fortunę niemałą i sporą walizę.\nWszedł w rynek odważnie,\nlecz kurs spadł poważnie,\nwięc został mu rachunek za Ibizę 😁",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093221352282988727",
+      "author": "@laskowski_pl",
+      "text": "Maryla Rodowicz (80 lat) na festiwalu w Sopocie, po raz kolejny udowadnia, że wiek emerytalny kobiet jest mocno zaniżony 😉 \nPani @a_dziemianowicz pod rozwagę",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093236828954366137",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Wczorajsze giełdowe strachy o \"bezpieczeństwo w regionie\" dziś wyparowały. #WIG20 +0,93%",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092688560050545144",
+      "author": "@laskowski_pl",
+      "text": "Ta łajza @TheCejrowski który w \"WC Kwadrans\" z lubością puszczał Dolly Parton, nawet nie raczył wspomnieć o jej śmierci.\nTo jest szuja...",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093249502526206430",
+      "author": "@PAPinformacje",
+      "text": "Premier o budżecie na przyszły rok. \"Napięty, ale odpowiedzialny\" ⤵️\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093262040454332637",
+      "author": "@laskowski_pl",
+      "text": "Nie, tego nie ma w żadnym systemie emerytalnym i jest pilnie do zmiany.  Dodam, że oprócz emerytury dostanie też 13-tkę i 14-tkę. \n\nNie stać nas na helicopter money.",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093243967009632495",
+      "author": "@laskowski_pl",
+      "text": "Pieniądze to jedno, ale reformy to drugie i równie ważne posunięcie. Bez reform dodatkowe pieniądze zostaną spalone bez efektu dla pacjentów, \nNiestety Pani ministra od zdrowia znowu zniknęła ze sceny.",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093239362469220677",
+      "author": "@laskowski_pl",
+      "text": "Jedna kopalnia w Indiach wydobywa dwa razy więcej węgla niż Polska, ale to my mamy odejść od węgla.\nAbsurd!",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092590928519196917",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w VII 2026 r. Indeks PCE 3,7% r/r (prognoza: 3,6%; poprzednio: 3,7%) #Fed #USD",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093269246562205847",
+      "author": "@PAPinformacje",
+      "text": "Domański: rząd przyjął projekt budżetu na 2027 r. (PAP)\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093232112157741089",
+      "author": "@Macronextcom",
+      "text": "BIEC: Dobre perspektywy mimo spadku wskaźnika.\n\n#Polska 🇵🇱: w VIII 2026 r. Wskaźnik Wyprzedzający Koniunktury wg #BIEC: 176,5 pkt. (poprzednio: 177,0 pkt.) \n\n---\nKalendarz (Polska):",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093074581011534228",
+      "author": "@laskowski_pl",
+      "text": "Za chwilę zmiana nazwy planety na Ameryka.\nOn jest żałośnie śmieszny 😁",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092692877562290409",
+      "author": "@laskowski_pl",
+      "text": "W USA mogą się pojawić incydenty kałowe 😉",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093230905355534400",
+      "author": "@PAPinformacje",
+      "text": "Łukaszenka przyleciał do Moskwy. O czym będą rozmawiać z Putinem? ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093237206420738105",
+      "author": "@laskowski_pl",
+      "text": "To jest absurd! \nPapierosy są bardziej szkodliwe i powszechnie dostępne. \n\nW Czechach od 2026 r.  dla osób pełnoletnich (21+): można posiadać do 25 g suszu w miejscach publicznych oraz do 100 g w domu. Można uprawiać do 3 roślin konopi na własny użytek.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093280026145837230",
+      "author": "@PAPinformacje",
+      "text": "Premier chce ponownego głosowania ws. rynku kryptowalut. Zwróci się do marszałka Sejmu ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093252735676137795",
+      "author": "@PAPinformacje",
+      "text": "Norwegia pogrążona w żałobie po śmierci króla Haralda V ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092877585910833491",
+      "author": "@GUS_STAT",
+      "text": "Wzrost liczby osób wykonujących najliczniej praktykowane zawody medyczne w 2025 r.: \n\n👩‍⚕️ pielęgniarki: 223,0 tys. (+1,4%)\n🧑‍⚕️ lekarze: 143,6 tys. (+1,7%)\n🧑‍🦽 fizjoterapeuci: 64,6 tys. (+4,0%)\n\n🔗 \n\n#GUS #zdrowie #ZawodyMedyczne",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092835218805678386",
+      "author": "@DGPrawna",
+      "text": "Rząd chce walczyć z plagą niezapłaconych mandatów. Nowe przepisy mają sprawić, że kierowcy będzie trudniej wymigać się od odpowiedzialności. Chyba że to kierowca zawodowy – wtedy możliwe, że zapłaci pracodawca, czyli firma transportowa.",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093230551582822424",
+      "author": "@laskowski_pl",
+      "text": "Pomijając Giertych, za którym nie przepadam, Pani jest w rządzie, czy w opozycji🤔",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092895761025454442",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Amerykańskie zamówienia na dobra trwałe rosną jak na drożdżach od początku ubiegłego roku. Skupiamy się tutaj na zamówieniach bez środków transportu oraz bez sektora obrony (z wyłączeniem lotnictwa).",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093280429176672678",
+      "author": "@Macronextcom",
+      "text": "W dniach 31 sierpnia - 1 września w Asheville (USA) jest spotkanie ministrów finansów i szefów banków centralnych #G20. Na tym spotkaniu Polskę 🇵🇱 będzie reprezentował minister Domański i prezes Glapiński.\n\nNajbliższy szczyt G20 odbędzie się w dniach 14-15 grudnia 2026 w Miami.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092948829779702244",
+      "author": "@GUS_STAT",
+      "text": "🤔Dlaczego #GUS pyta o sytuację mojego gospodarstwa domowego?\n\nChcemy wiedzieć, jak naprawdę żyje się w Polsce.\n📊 Z wyników badań korzystają m. in. instytucje publiczne i samorządy, by lepiej planować działania dla mieszkańców.\n\n🔗 \n\n#BadaniaAnkietowe",
+      "likes": 1,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2092914769871110370",
+      "author": "@DGPrawna",
+      "text": "Local content nie wypalił. Wykonawca zarzuca brak komponentu krajowego w zbrojeniach",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092986469501546784",
+      "author": "@Macronextcom",
+      "text": "Jutro oczy rynków będą skierowane na Jackson Hole. \n\nAgencja sympozjum zostanie opublikowana dziś w nocy o godzinie 02:00 polskiego czasu.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093253564286021935",
+      "author": "@laskowski_pl",
+      "text": "Polacy kochają kredyty 😁\nKto im pisze takie durne artykuły, AI 🤔",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093266044471128099",
+      "author": "@PAPinformacje",
+      "text": "Islandia przed referendum ws. UE. Na co liczą zwolennicy, a czego obawiają się przeciwnicy? ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093249082370269684",
+      "author": "@PAPinformacje",
+      "text": "Chiny i Nepal wstrzymują akcje poszukiwawczo-ratownicze. Kolejne zagrożenie powodzią ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 2
+    }
+  ]
+}
