@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-08-29",
+  "slot": "01",
+  "generated_at": "2026-08-29T07:19:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2093319903205859331",
+      "author": "@laskowski_pl",
+      "text": "Po trzech miesiącach od wybuchu afery SOR w Szpitalu Południowym, doktor Kacprzyk nadal nie został przesłuchany. \n\nSpokojnie, prokuratura pracuje, prawda Panie @w_zurek ? 😀",
+      "likes": 838,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2093008781453992242",
+      "author": "@laskowski_pl",
+      "text": "Do projektowania CPK wybrano libańską firmę, bez doświadczenia w budowie nowych lotnisk w Europie i USA.\nEfekt? 3 lata opóźnienia.",
+      "likes": 179,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2093321554209751510",
+      "author": "@PAPinformacje",
+      "text": "Marszałek Czarzasty: na najbliższym posiedzeniu Sejmu odbędzie się głosowanie ws. weta prezydenta do ustawy o rynku kryptoaktywów\n#PAPinformacje",
+      "likes": 152,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2093355913860005901",
+      "author": "@PAPinformacje",
+      "text": "Żurek: jest wniosek o aresztowanie na trzy miesiące dla szefa PKOl Radosława P.\n#PAPinformacje",
+      "likes": 131,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2093564188677316894",
+      "author": "@PAPinformacje",
+      "text": "Rzeczniczka prokuratora generalnego Anna Adamiak: sąd zdecydował o trzymiesięcznym areszcie dla Radosława P. (PAP)\n#PAPInformacje",
+      "likes": 67,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2093220677675262312",
+      "author": "@Macronextcom",
+      "text": "Analitycy Barclays podwyższyli cenę docelową dla akcji #CDProjekt 🇵🇱 do 170 zł 👇 z 155 zł, po tym jak w maju br. została ona obniżona do 155 zł z 165 zł. \n\nCD PROJEKT : BARCLAYS RAISES TARGET PRICE TO PLN 170 FROM PLN 155\n\nWczoraj akcje CD Projekt kosztowały 234 zł.",
+      "likes": 82,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092896648527548920",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Wieje dziś chłodem... \n\nTeraz #WIG20 -1,58% 📉 i jest zdecydowanie najsłabszym indeksem w Europie. Dodatkowo koreluje to z osłabieniem złotego (#EURPLN 4,3250 zł, #USDPLN 3,7120 zł). \n\nTrochę słabo to wygląda. Czyżby zbliżała się głębsza, jesienna korekta? 🤔",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093239362469220677",
+      "author": "@laskowski_pl",
+      "text": "Jedna kopalnia w Indiach wydobywa dwa razy więcej węgla niż Polska, ale to my mamy odejść od węgla.\nAbsurd!",
+      "likes": 58,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2093383765137481818",
+      "author": "@PAPinformacje",
+      "text": "W Międzyrzeczu odbył się pogrzeb senatora gen. Mirosława Różańskiego [WIDEO] #PAPinformacje",
+      "likes": 56,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2092886992577056786",
+      "author": "@laskowski_pl",
+      "text": "Komisja śledcza ds. oprogramowania Pegasus – nadal prowadzi działania.\n\nKończy się rok 2026, komisja rozpoczęła pracę w styczniu 2024. \nJak słodko gonić króliczka za nasze pieniądze.\n@MagdalenaSroka",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093270105916354650",
+      "author": "@PAPinformacje",
+      "text": "Domański: prognoza wzrostu PKB w przyszłym roku to 3 proc. (PAP)\n#PAPInformacje",
+      "likes": 39,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2093406460080197930",
+      "author": "@PAPinformacje",
+      "text": "Polskie siatkarki pokonały Turcję 3:2 w ostatnim meczu fazy grupowej mistrzostw Europy #PAPinformacje",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093262040454332637",
+      "author": "@laskowski_pl",
+      "text": "Nie, tego nie ma w żadnym systemie emerytalnym i jest pilnie do zmiany.  Dodam, że oprócz emerytury dostanie też 13-tkę i 14-tkę. \n\nNie stać nas na helicopter money.",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093230551582822424",
+      "author": "@laskowski_pl",
+      "text": "Pomijając Giertych, za którym nie przepadam, Pani jest w rządzie, czy w opozycji🤔",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093440786025042061",
+      "author": "@PAPinformacje",
+      "text": "🔴Radosław P. został w piątek wieczorem doprowadzony do sądu w Katowicach. Prokuratura wystąpiła o jego tymczasowe aresztowanie. Prezes PKOl usłyszał dwa zarzuty – dotyczące działania na szkodę wierzycieli oraz płatnej protekcji.  Powiedział dziennikarzom, że nie czuje się winny.",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093221352282988727",
+      "author": "@laskowski_pl",
+      "text": "Maryla Rodowicz (80 lat) na festiwalu w Sopocie, po raz kolejny udowadnia, że wiek emerytalny kobiet jest mocno zaniżony 😉 \nPani @a_dziemianowicz pod rozwagę",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093236828954366137",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Wczorajsze giełdowe strachy o \"bezpieczeństwo w regionie\" dziś wyparowały. #WIG20 +0,93%",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093351380417200367",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Minister Balczun o dywidendach SSP:\n\n\"Będziemy prowadzili aktywną politykę dywidendową, widzimy rosnącą wartość naszych spółek (...) Spodziewamy się zdecydowanie większych wpływów dywidendowych w przyszłym roku, z zachowaniem stabilnego, niezakłóconego funkcjonowania spółek.\"",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093420392970875220",
+      "author": "@PAPinformacje",
+      "text": "MF: projekt budżetu na 2027 r. został przekazany do Rady Dialogu Społecznego #PAPinformacje",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093243967009632495",
+      "author": "@laskowski_pl",
+      "text": "Pieniądze to jedno, ale reformy to drugie i równie ważne posunięcie. Bez reform dodatkowe pieniądze zostaną spalone bez efektu dla pacjentów, \nNiestety Pani ministra od zdrowia znowu zniknęła ze sceny.",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093578558534729940",
+      "author": "@PAPinformacje",
+      "text": "Sąd zdecydował o trzymiesięcznym areszcie dla Radosława P. ⤵️\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093426221828780247",
+      "author": "@PAPinformacje",
+      "text": "MF: prognozowany wzrost PKB w 2028 r. wyniesie 2,6 proc., w 2029 r. spadnie do 2,1 proc., a w 2030 r. osiągnie 2 proc. #PAPinformacje",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093280429176672678",
+      "author": "@Macronextcom",
+      "text": "W dniach 31 sierpnia - 1 września w Asheville (USA) jest spotkanie ministrów finansów i szefów banków centralnych #G20. Na tym spotkaniu Polskę 🇵🇱 będzie reprezentował minister Domański i prezes Glapiński.\n\nNajbliższy szczyt G20 odbędzie się w dniach 14-15 grudnia 2026 w Miami.",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093237206420738105",
+      "author": "@laskowski_pl",
+      "text": "To jest absurd! \nPapierosy są bardziej szkodliwe i powszechnie dostępne. \n\nW Czechach od 2026 r.  dla osób pełnoletnich (21+): można posiadać do 25 g suszu w miejscach publicznych oraz do 100 g w domu. Można uprawiać do 3 roślin konopi na własny użytek.",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093560627662926032",
+      "author": "@DGPrawna",
+      "text": "Naszym problemem nie jest tak naprawdę ani sama Barbara Mróz-Gorgoń, ani jej niesławny raport – lecz system, który ją stworzył i wypromował. Ona może odejść w niesławie, ale patologiczne mechanizmy pozostaną.",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093232112157741089",
+      "author": "@Macronextcom",
+      "text": "BIEC: Dobre perspektywy mimo spadku wskaźnika.\n\n#Polska 🇵🇱: w VIII 2026 r. Wskaźnik Wyprzedzający Koniunktury wg #BIEC: 176,5 pkt. (poprzednio: 177,0 pkt.) \n\n---\nKalendarz (Polska):",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093351981385417165",
+      "author": "@PAPinformacje",
+      "text": "Sąd umorzył postępowanie ws. zabójstwa na UW. Sprawca uznany za niepoczytalnego #PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093253564286021935",
+      "author": "@laskowski_pl",
+      "text": "Polacy kochają kredyty 😁\nKto im pisze takie durne artykuły, AI 🤔",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093074581011534228",
+      "author": "@laskowski_pl",
+      "text": "Za chwilę zmiana nazwy planety na Ameryka.\nOn jest żałośnie śmieszny 😁",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092877585910833491",
+      "author": "@GUS_STAT",
+      "text": "Wzrost liczby osób wykonujących najliczniej praktykowane zawody medyczne w 2025 r.: \n\n👩‍⚕️ pielęgniarki: 223,0 tys. (+1,4%)\n🧑‍⚕️ lekarze: 143,6 tys. (+1,7%)\n🧑‍🦽 fizjoterapeuci: 64,6 tys. (+4,0%)\n\n🔗 \n\n#GUS #zdrowie #ZawodyMedyczne",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093591391129538748",
+      "author": "@PAPinformacje",
+      "text": "Już ponad 620 ofiar śmiertelnych powodzi. Nepal wpuści do kraju zagranicznych ratowników ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092914769871110370",
+      "author": "@DGPrawna",
+      "text": "Local content nie wypalił. Wykonawca zarzuca brak komponentu krajowego w zbrojeniach",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092895761025454442",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Amerykańskie zamówienia na dobra trwałe rosną jak na drożdżach od początku ubiegłego roku. Skupiamy się tutaj na zamówieniach bez środków transportu oraz bez sektora obrony (z wyłączeniem lotnictwa).",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092986469501546784",
+      "author": "@Macronextcom",
+      "text": "Jutro oczy rynków będą skierowane na Jackson Hole. \n\nAgencja sympozjum zostanie opublikowana dziś w nocy o godzinie 02:00 polskiego czasu.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2092948829779702244",
+      "author": "@GUS_STAT",
+      "text": "🤔Dlaczego #GUS pyta o sytuację mojego gospodarstwa domowego?\n\nChcemy wiedzieć, jak naprawdę żyje się w Polsce.\n📊 Z wyników badań korzystają m. in. instytucje publiczne i samorządy, by lepiej planować działania dla mieszkańców.\n\n🔗 \n\n#BadaniaAnkietowe",
+      "likes": 1,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093593339853516830",
+      "author": "@PAPinformacje",
+      "text": "Przed islandzkim referendum ws. UE dominowała dezinformacja z kraju i fałszywe treści AI ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093586273529172240",
+      "author": "@PAPinformacje",
+      "text": "Włochy. Obrona Cywilna niesie pomoc mieszkańcom i turystom w dniach rekordowych upałów ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092951099304985003",
+      "author": "@GUS_STAT",
+      "text": "Nie zaktualizowałeś kodów #PKD? Nie zwlekaj.\n\nAutomatyczne przeklasyfikowanie do #PKD2025 nie zawsze musi w pełni odzwierciedlać faktycznie prowadzoną działalność. Sprawdź swoje kody i upewnij się, że właściwie opisują Twoją firmę.\n\n🔗\n\n#GUS #przedsiębiorcy",
+      "likes": 1,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2092939802085568888",
+      "author": "@DGPrawna",
+      "text": "Gminy przyjęły już 763 plany ogólne. Kamień milowy KPO spełniony? Jest jeden haczyk",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092877467652440219",
+      "author": "@GUS_STAT",
+      "text": "👶 Na koniec 2025 r. działało w Polsce:\n\n➡️ 5,1 tys. żłobków\n➡️ 1,1 tys. klubów dziecięcych\n➡️ 2,4 tys. dziennych opiekunów\n\nŁącznie oferowały 256,2 tys. miejsc opieki.\n\n🔗\n\n#GUS #statystyki #dzieci #rodzina",
+      "likes": 3,
+      "retweets": 0
+    }
+  ]
+}

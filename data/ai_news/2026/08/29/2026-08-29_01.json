@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-29",
+  "slot": "01",
+  "generated_at": "2026-08-29T07:19:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2093060670472241368",
+      "author": "@sama",
+      "text": "this is a critically important moment for cyber defense with AI; there is not much time to act.\n\nwe are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously.\n\nonly an urgent and intense collective response will work.",
+      "likes": 16472,
+      "retweets": 1324
+    },
+    {
+      "tweet_id": "2093059087298601113",
+      "author": "@claudeai",
+      "text": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year.",
+      "likes": 11409,
+      "retweets": 1105
+    },
+    {
+      "tweet_id": "2093038426140651791",
+      "author": "@AnthropicAI",
+      "text": "Today, we're kicking off the first phase of the research preview for Model Hardware Standard (MHS): a new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. \n\nRead more:",
+      "likes": 10166,
+      "retweets": 1287
+    },
+    {
+      "tweet_id": "2093008998987403303",
+      "author": "@GoogleAI",
+      "text": "Meet Gemini Omni 1.1 Flash ⚡️ Our newest multimodal model for video generation and editing. It now features your favorite creative controls from Veo, plus brand new capabilities.\n\nEnjoy features like 4K upscaling, first / last frame control, and fast 360p drafting.\n\nBut, the",
+      "likes": 1563,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2093038427642134590",
+      "author": "@AnthropicAI",
+      "text": "Connecting AI to hardware requires days or weeks of bespoke integration, with no standard way for agents to operate equipment safely.\n\nMHS cuts integration to hours or minutes, provides an interface that makes devices discoverable, and enables agents to operate them safely.",
+      "likes": 614,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2093356767992279503",
+      "author": "@GoogleAI",
+      "text": "Here’s what launched this week:\n\n— Gemini 3.5 Transcribe, our most precise speech-to-text model yet, designed to deliver intelligent transcriptions\n— Gemini Omni 1.1 Flash, bringing expanded creative capabilities and controls for video generation and editing\n— @GeminiApp’s Live",
+      "likes": 585,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2093327842801041565",
+      "author": "@reach_vb",
+      "text": "hi,\n\nplease find attached the opportunity of a lifetime.\n\nsend all term sheets to my co-founder clem.\n\nthx",
+      "likes": 541,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2093021128545407110",
+      "author": "@reach_vb",
+      "text": "JUST IN: Usage has been reset for all ChatGPT Work &amp; Codex users!",
+      "likes": 391,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2093102495195164868",
+      "author": "@reach_vb",
+      "text": "Codex is god tier at editing videos and creating thumbnails for videos*\n\n*provided you give it enough context",
+      "likes": 333,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093296342869123457",
+      "author": "@reach_vb",
+      "text": "Insane that Hugging Face added 1B ARR in 24 hours",
+      "likes": 316,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093038432302080019",
+      "author": "@AnthropicAI",
+      "text": "We’re inviting stakeholders across science, robotics, electronics, and manufacturing to join the research preview and help shape the standard. \n\nWe look forward to moving MHS forward with our industry partners and, soon, the open-source community.",
+      "likes": 282,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2093200718635335895",
+      "author": "@jerryjliu0",
+      "text": "Grok bot is surprisingly fun. Coming from Claude Code/Cowork/Codex I wasn't expecting to like it so much, but I severely underestimated the niceness of having a persistent cloud computer",
+      "likes": 266,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2093038429936529897",
+      "author": "@AnthropicAI",
+      "text": "There’s more to learn before we open source MHS. LLMs still lack physical intuition, having learned about the physical world from text and images. \n\nThe research preview will let us build more safety evaluations and strengthen protections for using AI in the physical world.",
+      "likes": 264,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093012602293194981",
+      "author": "@rpl_0x",
+      "text": "Mega fajny kurs do nauki wszystkiego związanego z AI za darmo.\n\nPełny interaktywny kurs, na stronie lub na własnym repo, ebooku za darmo, kod, quizy - jak ktoś lubie się uczyć w tak uporządkowany sposób to możliwe że najlepszy kurs nie-video\n\naiengineeringfromscratch . com\n\nlub",
+      "likes": 238,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2093171176910823822",
+      "author": "@svpino",
+      "text": "This is not just another coding agent.\n\nIn a comparison with Claude Code + Opus 4.8, PRAXIST achieved:\n\n• 49 gold medals across 75 tasks, vs. 35 for Claude Code\n• ~$3K in token cost vs. ~$38K for Claude Code\n\nThat's better benchmark performance at roughly one-twelfth the cost!",
+      "likes": 229,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2092952016217858276",
+      "author": "@svpino",
+      "text": "A company I consult for just hired 3 additional product managers because their current staff can't keep up with the amount of software their team is building.\n\nThey are also planning for additional hires in other departments, mainly QA, sales, and security.",
+      "likes": 196,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2093280477696168060",
+      "author": "@rpl_0x",
+      "text": "Projekt oko Boga\n\nTo coś w rodzaju Google Earth połączonego z centrum wywiadowczym i agentem AI\n\nW pełni opensource.\n\nMożna na nim zobaczyć między innymi:\n\n- samoloty cywilne i część wojskowych na podstawie ADS-B,\n- statki nadające pozycję przez AIS,\n- około 840 satelitów i ich",
+      "likes": 160,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2093523086725542304",
+      "author": "@hwchase17",
+      "text": "Models labs will create great harnesses and ecosystems for their models but will block model access to harnesses of other labs\n\nOnly choice for a harness that works across models is one not associated with a lab\n\nLong live LangChain",
+      "likes": 158,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2093200379983073354",
+      "author": "@jerryjliu0",
+      "text": "PDF parsing is fun because there's an infinite variety of enteprise documents 📑. For each document category, there's a long tail of work to build more precise bounding boxes, confidence scores, and domain-specific annotations so that you provide any downstream agent rich",
+      "likes": 131,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2093463015412650032",
+      "author": "@reach_vb",
+      "text": "we gave Codex a confetti cannon 🎉\n\nactivate it on desktop: Settings &gt; General &gt; Toys\n\nask it to celebrate, or tell it which wins deserve confetti.\n\nplease use this very serious advancement in computing responsibly.\n\nrolling out now. have fun!",
+      "likes": 102,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093233411812958717",
+      "author": "@reach_vb",
+      "text": "If you juggle multiple work and personal Google accounts, this one is for you!\n\nConnect another from Plugins -&gt; Gmail -&gt; Connect another account.\n\nIt works across Gmail, Calendar and Contacts on web, desktop, iOS and Android and available on all paid plans.\n\nEnjoy!",
+      "likes": 98,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093429895196278919",
+      "author": "@svpino",
+      "text": "GLM-5.3 is now open-weight!\n\nYou can download it from HuggingFace or run it using Atomic Agent.\n\nNo matter what Big AI says; the future is open weights!",
+      "likes": 94,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093272760994902333",
+      "author": "@sentient_agency",
+      "text": "I cancelled YouTube Premium last week.\n\nThe thing that replaced it costs nothing, runs in any browser, and was built by 361 volunteers on GitHub.\n\nInvidious does the four things people actually pay Premium for. No ads. Background audio on mobile. Watch without an account. Privacy",
+      "likes": 77,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2093356434947776656",
+      "author": "@reach_vb",
+      "text": "ICYMI: You can now connect multiple Google accounts to ChatGPT.\n\nUse Gmail, Google Calendar, and Google Contacts across your personal and work accounts in the same conversation. \n\nNo more disconnecting one account to use another.\n\nLive globally on web, desktop, iOS, and Android.",
+      "likes": 70,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093029332457590993",
+      "author": "@hwchase17",
+      "text": "openwiki now supports okf 2.0",
+      "likes": 63,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2093034581964320970",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI właśnie zadało Anthropic najpotężniejszy cios przed IPO. Bez wydawania nowego modelu.\n\nChatGPT Business dostał wyższy pakiet cenowy - 100 dolarów od użytkownika - poprzedni limit to 20$ i dalej płatność per token. W ten sposób OpenAI zaatakowało mechanizm, na którym",
+      "likes": 62,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093083519358799984",
+      "author": "@hwchase17",
+      "text": "this is why benchling will create the best ai agent for science, not ant/oai\n\nstrongly believe in a many-agent world, each one domain specific",
+      "likes": 57,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2093028218467172357",
+      "author": "@jerryjliu0",
+      "text": "We've introduced native, agentic spreadsheet extraction 📊 into LlamaParse. \n\nSpreadsheets are a wildly different format from PDFs (or any other document format). They can span arbitrarily many rows/columns, lack any guarantees on tabular structure, and can have information",
+      "likes": 50,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093110611362087221",
+      "author": "@reach_vb",
+      "text": "this was a fun experiment",
+      "likes": 54,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093478959833063531",
+      "author": "@hwchase17",
+      "text": "Follow @colifran_ for all things wiki!\n\nWikis are a great way to represent knowledge in a simple and easy to understand way",
+      "likes": 43,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2093549924616921563",
+      "author": "@jerryjliu0",
+      "text": "openai's hatred for elon must've outweighed any aura loss this would cause them",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093358155182796820",
+      "author": "@jerryjliu0",
+      "text": "static embeddings are extremely fast/cheap compared to dense embeddings, and still quite powerful.\n\none issue is that they lose accuracy over longer text, since the tokens get pooled and averaged\n\nlate interaction models score with MaxSim instead of average pooling, and avoid the",
+      "likes": 40,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093387292979126486",
+      "author": "@jerryjliu0",
+      "text": "Agentic spreadsheet extraction 📊 is hard to execute well from a price/performance standpoint because your agent needs to ingest a massive quantity of input tokens from a highly complex interface (e.g. the Excel file format), and emit a massive number of output tokens that",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093426582002208786",
+      "author": "@hwchase17",
+      "text": "Would love feedback on our support for the new mcp spec!",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093550784856166413",
+      "author": "@jerryjliu0",
+      "text": "at the end of the day, we all have to stand by our company and the values it represents 🙂\n\n* frontier labs will want to own their own application/harness/model e2e. \nor at least, openai will to start with, and then anthropic will do the opposite of whatever openai does\n\n*",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093592299523518570",
+      "author": "@reach_vb",
+      "text": "new in ChatGPT this week:\n\n&gt; scheduled tasks on free\n&gt; task sharing + app triggers\n&gt; stickers for WhatsApp &amp; iMessage\n&gt; save &amp; personalise temporary chats\n&gt; connect multiple Google accounts\n&gt; voice widgets on your lock screen + Dynamic Island\n\nkeep the feedback coming!",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2092888190818656368",
+      "author": "@sentient_agency",
+      "text": "Suno charges $10 a month, gives you 2,500 credits, then sells you more when they run out.\n\nACE Studio and StepFun built an open-source alternative that runs on your own computer.\n\nIt is called ACE-Step 1.5.\n\nInstall its local studio UI. Describe the song you want, add your",
+      "likes": 13,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2092895642532073767",
+      "author": "@rpl_0x",
+      "text": "Przepiękna inicjatywa wymaga naszego wsparcia!\n\nŁukasz Stworzył grę w której gracz wciela się w role osoby niepełnosprawnej.\n\nTa sama droga, inna perspektywa.",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093283390610935897",
+      "author": "@jerryjliu0",
+      "text": "The hardest road paid off",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2092918127428350333",
+      "author": "@rpl_0x",
+      "text": "Ostatnia afera z próbą wuciągnięcia przez Fundacje Marka Polska Think Tank, przypominała mi chyba jedną z największych technologicznych wtop, w którą sam - wstyd trochę się przyznać ale wierzyłem.\n\nBył to czas w którym mocno siedziałem w krypto na projektach związanych z",
+      "likes": 13,
+      "retweets": 1
+    }
+  ]
+}
