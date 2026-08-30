@@ -1,0 +1,191 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-30",
+  "slot": "01",
+  "generated_at": "2026-08-30T05:44:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2093356767992279503",
+      "author": "@GoogleAI",
+      "text": "Here’s what launched this week:\n\n— Gemini 3.5 Transcribe, our most precise speech-to-text model yet, designed to deliver intelligent transcriptions\n— Gemini Omni 1.1 Flash, bringing expanded creative capabilities and controls for video generation and editing\n— @GeminiApp’s Live",
+      "likes": 823,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2093327842801041565",
+      "author": "@reach_vb",
+      "text": "hi,\n\nplease find attached the opportunity of a lifetime.\n\nsend all term sheets to my co-founder clem.\n\nthx",
+      "likes": 592,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2093813868501795060",
+      "author": "@reach_vb",
+      "text": "usage reset for ChatGPT Work &amp; Codex @ 14:30 PT\n\nbonus: your usage could go up by 10-50% ;)\n\nteam went through and fixed ton of issues:\n\n&gt; image compaction kept old images (~10% for heavy users)\n&gt; memory workers + /goals didn’t always stop (up to 70% weekly)\n&gt; history summaries",
+      "likes": 458,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2093296342869123457",
+      "author": "@reach_vb",
+      "text": "Insane that Hugging Face added 1B ARR in 24 hours",
+      "likes": 322,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093523086725542304",
+      "author": "@hwchase17",
+      "text": "Models labs will create great harnesses and ecosystems for their models but will block model access to harnesses of other labs\n\nOnly choice for a harness that works across models is one not associated with a lab\n\nLong live LangChain",
+      "likes": 279,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2093592299523518570",
+      "author": "@reach_vb",
+      "text": "new in ChatGPT this week:\n\n&gt; scheduled tasks on free\n&gt; task sharing + app triggers\n&gt; stickers for WhatsApp &amp; iMessage\n&gt; save &amp; personalise temporary chats\n&gt; connect multiple Google accounts\n&gt; voice widgets on your lock screen + Dynamic Island\n\nkeep the feedback coming!",
+      "likes": 246,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2093280477696168060",
+      "author": "@rpl_0x",
+      "text": "Projekt oko Boga\n\nTo coś w rodzaju Google Earth połączonego z centrum wywiadowczym i agentem AI\n\nW pełni opensource.\n\nMożna na nim zobaczyć między innymi:\n\n- samoloty cywilne i część wojskowych na podstawie ADS-B,\n- statki nadające pozycję przez AIS,\n- około 840 satelitów i ich",
+      "likes": 174,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2093770852370120887",
+      "author": "@reach_vb",
+      "text": "GitHub plugin syncing is now available for ChatGPT workspaces, including Business and Enterprise. \n\nAdmins can import a Codex or Claude marketplace from a public or private repo and share its plugins with their team.\n\nThe workspace picks up changes daily, or sooner with Sync now,",
+      "likes": 169,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2093463015412650032",
+      "author": "@reach_vb",
+      "text": "we gave Codex a confetti cannon 🎉\n\nactivate it on desktop: Settings &gt; General &gt; Toys\n\nask it to celebrate, or tell it which wins deserve confetti.\n\nplease use this very serious advancement in computing responsibly.\n\nrolling out now. have fun!",
+      "likes": 142,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093429895196278919",
+      "author": "@svpino",
+      "text": "GLM-5.3 is now open-weight!\n\nYou can download it from HuggingFace or run it using Atomic Agent.\n\nNo matter what Big AI says; the future is open weights!",
+      "likes": 132,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093724739713863981",
+      "author": "@reach_vb",
+      "text": "Welcome! Posts like this make my day :)\n\nIf you’ve moved over to Codex recently, what have been your favourite features so far?",
+      "likes": 129,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093272760994902333",
+      "author": "@sentient_agency",
+      "text": "I cancelled YouTube Premium last week.\n\nThe thing that replaced it costs nothing, runs in any browser, and was built by 361 volunteers on GitHub.\n\nInvidious does the four things people actually pay Premium for. No ads. Background audio on mobile. Watch without an account. Privacy",
+      "likes": 108,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2093478959833063531",
+      "author": "@hwchase17",
+      "text": "Follow @colifran_ for all things wiki!\n\nWikis are a great way to represent knowledge in a simple and easy to understand way",
+      "likes": 100,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2093233411812958717",
+      "author": "@reach_vb",
+      "text": "If you juggle multiple work and personal Google accounts, this one is for you!\n\nConnect another from Plugins -&gt; Gmail -&gt; Connect another account.\n\nIt works across Gmail, Calendar and Contacts on web, desktop, iOS and Android and available on all paid plans.\n\nEnjoy!",
+      "likes": 101,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093823406873756060",
+      "author": "@hwchase17",
+      "text": "Separation of model and harness\n\nOne of the first commandments of agents building; don’t get locked in",
+      "likes": 85,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2093356434947776656",
+      "author": "@reach_vb",
+      "text": "ICYMI: You can now connect multiple Google accounts to ChatGPT.\n\nUse Gmail, Google Calendar, and Google Contacts across your personal and work accounts in the same conversation. \n\nNo more disconnecting one account to use another.\n\nLive globally on web, desktop, iOS, and Android.",
+      "likes": 83,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093549924616921563",
+      "author": "@jerryjliu0",
+      "text": "openai's hatred for elon must've outweighed any aura loss this would cause them",
+      "likes": 84,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093358155182796820",
+      "author": "@jerryjliu0",
+      "text": "static embeddings are extremely fast/cheap compared to dense embeddings, and still quite powerful.\n\none issue is that they lose accuracy over longer text, since the tokens get pooled and averaged\n\nlate interaction models score with MaxSim instead of average pooling, and avoid the",
+      "likes": 52,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2093387292979126486",
+      "author": "@jerryjliu0",
+      "text": "Agentic spreadsheet extraction 📊 is hard to execute well from a price/performance standpoint because your agent needs to ingest a massive quantity of input tokens from a highly complex interface (e.g. the Excel file format), and emit a massive number of output tokens that",
+      "likes": 46,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093550784856166413",
+      "author": "@jerryjliu0",
+      "text": "at the end of the day, we all have to stand by our company and the values it represents 🙂\n\n* frontier labs will want to own their own application/harness/model e2e. \nor at least, openai will to start with, and then anthropic will do the opposite of whatever openai does\n\n*",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093426582002208786",
+      "author": "@hwchase17",
+      "text": "Would love feedback on our support for the new mcp spec!",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093637770866807279",
+      "author": "@sentient_agency",
+      "text": "A developer got tired of ad-filled tool websites and open-sourced the replacement for all of them.\n\nIt's called OmniTools.\n\nInstead of 40 different tabs for 40 different tasks, it's one app. Convert and resize images. Merge and split PDFs. Trim and reverse videos. Format JSON,",
+      "likes": 24,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2093795392827879673",
+      "author": "@hwchase17",
+      "text": "the original and internal name for LangSmith Insights was CLIO, which was Anthropics name for the research they did that inspired us to build Insights\n\nnow Anthropic has rebranded CLIO as Anthropic Insights\n\n🤝",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093561915926786400",
+      "author": "@hwchase17",
+      "text": "“Pair this with the right observability”\n\nLangsmith 🔥",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093283390610935897",
+      "author": "@jerryjliu0",
+      "text": "The hardest road paid off",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093412992196985277",
+      "author": "@nauczymycieAI",
+      "text": "Następnym razem, kiedy zobaczycie w internecie hejtera AI i centrów danych, przyjrzyjcie mu się bliżej.\n\nJest spore ryzyko, że ma skośne oczy",
+      "likes": 11,
+      "retweets": 0
+    }
+  ]
+}

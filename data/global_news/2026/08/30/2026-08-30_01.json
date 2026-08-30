@@ -1,0 +1,289 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-08-30",
+  "slot": "01",
+  "generated_at": "2026-08-30T05:44:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2093322918495186960",
+      "author": "@RadekPyffel",
+      "text": "No Proszę Państwa... Szokująca rozmowa z Generałem @KomornickiLeon po wizycie szefa CIA w Moskwie (a na pewno najbardziej szokująca z dotychczasowych).\n\nRosja \"poczuła krew\" i będzie testować? Czas na mobilizację, a może i elementy wykorzystania broni atomowej?\n\nZmiana statusu",
+      "likes": 37,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2093599729963708651",
+      "author": "@RadekPyffel",
+      "text": "Źródła Times of Israel obejmujące zarówno amerykańskich urzędników jak i zagranicznych mediatorów podają, że \"prezydent Trump stracił zainteresowanie odnowieniem czerwcowego porozumienia z Iranem i woli długookresowo wywierać presję ekonomiczną, aby zapewnić sobie korzystniejsze",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093329360602136732",
+      "author": "@OSW_pl",
+      "text": "▪️Co oznacza wizyta szefa CIA w Moskwie?\n▪️Czy Rosja szykuje kolejne eskalacje? \n▪️Jak należy odstraszać Rosję? \nNa te i inne pytania odpowiada @W_Kononczuk, dyrektor OSW.",
+      "likes": 24,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093294591952695297",
+      "author": "@OSW_pl",
+      "text": "Służba Wywiadu Zagranicznego Ukrainy poinformowała, że na Białorusi uruchomiono pierwszy publiczny serwis rekrutujący obywateli tego państwa do armii rosyjskiej. Strona działająca w białoruskiej domenie oferuje kontrakty z Ministerstwem Obrony Rosji",
+      "likes": 20,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093609211296874662",
+      "author": "@RadekPyffel",
+      "text": "Japonia jeszcze w tym roku budżetowym planuje rozszerzyć \"swą pomoc w zakresie bezpieczeństwa i sprzętu obronnego z 8 do co najmniej 12 państw o podobnych poglądach\". \n\nPierwszym znanym beneficjentem stanie się Kenia, która uzyska korzyści współpracy w obszarze bezpieczeństwa",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093420886996996157",
+      "author": "@RadekPyffel",
+      "text": "Donald Trump stara się łagodzić sytuację po wizycie szefa CIA w Moskwie.\n\nW reakcji na zamieszanie wywołane wizytą Johna Ratcliffe’a w Moskwie, prezydent Trump zarzekał się, że \"Rosja nie zaatakuje NATO i kwestia ta była już wcześniej dyskutowana\", choć odmówił jednoznacznej",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093347921294999600",
+      "author": "@OSW_pl",
+      "text": "▪️Jak dziś wygląda sytuacja na Bliskim Wschodzie?\n▪️Co zmienił atak USA i Izraela na Iran?\n▪️Jakie są dalsze perspektywy?\nNa te i inne pytania odpowiadają @k_strachota, @aj_kohut i Marek Matusiak.",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093303511236686067",
+      "author": "@OSW_pl",
+      "text": "Zaplanowane na 6 września wybory w Saksonii-Anhalt mają kluczowe znaczenie dla systemu politycznego Niemiec. Po raz pierwszy w historii RFN Alternatywa dla Niemiec (AfD) ma realną szansę na zdobycie władzy w jednym z landów.\n\nKomentarz @KamilFrymark 👇",
+      "likes": 11,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2093285521518686719",
+      "author": "@OSW_pl",
+      "text": "Kampania i wybory potwierdziły, że w państwie nie ma przyzwolenia na działanie legalnej realnej opozycji wobec władzy. Przed głosowaniem dochodziło do aresztowań i wyroków na dziennikarzy oraz aktywistów krytykujących Tokajewa i rząd.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093298918561894438",
+      "author": "@OSW_pl",
+      "text": "25 sierpnia wybuchł pożar w powstającym Amurskim Kompleksie Gazowo-Chemicznym niedaleko miasta Swobodny pod Błagowieszczeńskiem na rosyjskim Dalekim Wschodzie, ok. 150 km od granicy z Chinami. Życie straciło 15 osób, a łącznie ucierpiało 150.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093761032464564316",
+      "author": "@RadekPyffel",
+      "text": "Mocarstwa walczą nawet o herbatę? \n\nZapraszam na Gospodarcze Morza i Lądy:",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093392544885325879",
+      "author": "@JeremyKonyndyk",
+      "text": "DOGE famously used keyword searches for terms like \"climate\" to terminate federal grants.\n\nAmong the victims: a collab between USAID and NASA for flood prediction, early warning, disaster readiness, glacier inventories, and mapping dangerous glacial lakes...\n\n...in Nepal.",
+      "likes": 30339,
+      "retweets": 5416
+    },
+    {
+      "tweet_id": "2093648423522124282",
+      "author": "@donaldtusk",
+      "text": "Mark Rutte @SecGenNATO  przekazał mi właśnie swoją ocenę sytuacji w regionie i na froncie ukraińsko-rosyjskim. Tak jak ostrzegałem, eskalacja ze strony Rosji postępuje. Ukraina potrzebuje większego wsparcia w powietrzu, co ma także znaczenie dla naszego bezpieczeństwa. To zadanie",
+      "likes": 18710,
+      "retweets": 4513
+    },
+    {
+      "tweet_id": "2093372604321309112",
+      "author": "@MattMorseTV",
+      "text": "There is something very important happening right now.\n\nFor 50 years, the United States has given security assurances to the Arab OPEC nations, and in exchange, they’ve almost exclusively sold oil in the U.S. dollar—this is the “petrodollar” that you’ve heard about.\n\nThis",
+      "likes": 11220,
+      "retweets": 2243
+    },
+    {
+      "tweet_id": "2093662537233424621",
+      "author": "@jsolomonReports",
+      "text": "Trump’s historic oil deal with Venezuela realigns global energy and puts OPEC, Canada on notice",
+      "likes": 5425,
+      "retweets": 1102
+    },
+    {
+      "tweet_id": "2093368076758564918",
+      "author": "@bogdande1",
+      "text": "Słucham Tuska z Campus Polska. To jest jedyny polityk w Polsce, który ma kompas moralny. Ten facet ma mój głos do końca. Bez względu na to czy wygra, czy przegra. Bo on ma rację.",
+      "likes": 5033,
+      "retweets": 1085
+    },
+    {
+      "tweet_id": "2093607713083429183",
+      "author": "@isfjcutebear",
+      "text": "Muslim - GAY - Korean alliance in Japan, holds a protests demanding Japan to abolish its military and open its borders",
+      "likes": 3878,
+      "retweets": 515
+    },
+    {
+      "tweet_id": "2093433118749339833",
+      "author": "@Propeertys",
+      "text": "❗️Decyzja sądu rejonowego w Katowicach Radosław Piesiewicz aresztowany na 3 miesiące bez możliwości zwolnienia za kaucja",
+      "likes": 3650,
+      "retweets": 526
+    },
+    {
+      "tweet_id": "2093585410136174867",
+      "author": "@JethmalaniM",
+      "text": "For decades before 2014, the world practically mocked every Prime Minister's foreign trip as 'vanity' or 'photo-op'.\n\nBut Look at the last 24 months and try, honestly, to call this theatre.\n\nIn a world of tariffs, wars and broken supply chains, Prime Minister Narendra Modi is not",
+      "likes": 3037,
+      "retweets": 1011
+    },
+    {
+      "tweet_id": "2093410269997457542",
+      "author": "@IsraelSpoofs",
+      "text": "Iran lost his middle east oil refinery  , due to his own behaviour after many warnings by Israel they didn’t stop to invade and harm jewish communities and people .\n\nSo Israel has to take this step.",
+      "likes": 2706,
+      "retweets": 374
+    },
+    {
+      "tweet_id": "2093431810688422084",
+      "author": "@Propeertys",
+      "text": "Sprawcy pobicia kibica Hutnika zatrzymani. Trzech uciekło na Słowację ale tam zostali zatrzymali przez Słowaków",
+      "likes": 2284,
+      "retweets": 321
+    },
+    {
+      "tweet_id": "2093706097794117641",
+      "author": "@TheCradleMedia",
+      "text": "Finland secretly signs 10-year defense material agreement with Israel\n——\nFinland and Israel have quietly signed a memorandum of understanding extending their bilateral defense material cooperation for a ten-year term.\n\nAccording to reporting by the Finnish public broadcaster Yle,",
+      "likes": 1045,
+      "retweets": 967
+    },
+    {
+      "tweet_id": "2093415911524823109",
+      "author": "@JayGenXer",
+      "text": "We spent weeks losing our minds over Trump tariffs.\n\nCanada has been charging itself a 9% tariff\njust to sell to Canada.\n\nIMF number.\nNot a talking point.\nIn health and education it jumps past 40%.\nTear the walls down and they say the economy gets about 7% bigger.\nTwo hundred and",
+      "likes": 1445,
+      "retweets": 567
+    },
+    {
+      "tweet_id": "2093320238930497799",
+      "author": "@visionergeo",
+      "text": "🇸🇪🇫🇮⚠️ BIG | Sweden is sending military forces to Finland after Helsinki requested assistance amid repeated airspace violations along the Finnish-Russian border, marking a significant new step in Nordic defense cooperation on NATO’s eastern flank.\n\nAccording to SVT, the Swedish",
+      "likes": 1451,
+      "retweets": 297
+    },
+    {
+      "tweet_id": "2093611574082609502",
+      "author": "@W_Kononczuk",
+      "text": "Dokładnie 95 lat temu ukraińscy nacjonaliści zamordowali Tadeusza Hołówkę, niestrudzonego rzecznika porozumienia Polaków z Ukraińcami i jednego z najzdolniejszych polityków II RP. Dziś zabójcy mają na Ukrainie pomniki.\n\nDlaczego Organizacja Ukraińskich Nacjonalistów (OUN) zabiła",
+      "likes": 1206,
+      "retweets": 446
+    },
+    {
+      "tweet_id": "2093788919896641750",
+      "author": "@NocnaZ",
+      "text": "🇵🇱 Piszą o nas i piszą dobrze. The Telegraph: \"Przyszłość Europy wygląda coraz bardziej po polsku. Połączenie siły gospodarczej i potęgi militarnej zapewniło temu krajowi znaczną władzę w Brukseli.\" Po latach \"biednej Polski\" znanej z powojennej narracji, kraj, który znikał z",
+      "likes": 1092,
+      "retweets": 319
+    },
+    {
+      "tweet_id": "2093240560236568590",
+      "author": "@SecGenNATO",
+      "text": "Deeply saddened by the passing of His Majesty King Harald V. During his 35 years on the throne and beyond, he showed himself to be a dedicated leader. His own military roots made him a champion of the Norwegian military and a long-time friend of NATO. My deepest condolences to",
+      "likes": 1190,
+      "retweets": 157
+    },
+    {
+      "tweet_id": "2093742315315630481",
+      "author": "@Propeertys",
+      "text": "Po lewej foto z Jurata \nPo prawej wygenerowane przez prawych za pomocną Al",
+      "likes": 1033,
+      "retweets": 292
+    },
+    {
+      "tweet_id": "2093773634867487097",
+      "author": "@AmericanpowerUs",
+      "text": "Breaking 🚨🔥;\n\n🇷🇺 PUTIN: \"Joining NATO was a grave mistake for Finland. We will respond with symmetrical military deployments along the 1,300 km border!\"\n\n🇫🇮 STUBB: \"We joined NATO precisely because of your actions. Our border is backed by hundreds of thousands of trained",
+      "likes": 1120,
+      "retweets": 158
+    },
+    {
+      "tweet_id": "2093769570381111544",
+      "author": "@Propeertys",
+      "text": "❗️ Art.  19.3. statutu PKOL pozwala, aby Zarząd PKOL odwołał natychmiast Prezesa PKOL, jeżeli uzna, że naruszył on dobre imię PKOL \nTylko tyle i aż tyle …",
+      "likes": 866,
+      "retweets": 174
+    },
+    {
+      "tweet_id": "2093440243936469010",
+      "author": "@Propeertys",
+      "text": "Le Pen - Ukraina należy do Rosji a Kanada jest częścią USA 🙆‍♀️🤦‍♀️",
+      "likes": 749,
+      "retweets": 258
+    },
+    {
+      "tweet_id": "2093591461702820239",
+      "author": "@FRDefenceSweden",
+      "text": "Välkommen till Sverige!\n🇫🇷⚓️🇸🇪 The French Navy’s FDI-class frigate Amiral Ronarc’h has arrived in Stockholm, marking her first port call in the Swedish capital.",
+      "likes": 769,
+      "retweets": 79
+    },
+    {
+      "tweet_id": "2093747747874545692",
+      "author": "@BrankoMilan",
+      "text": "How the joint Finnish-Nazi siege of Leningrad (that left more than 1 million dead from famine), and Finland being an official member of the Axis, has in a new phantasist reading of history become a \"defensive war\". I would not be surprised if the Operation Barbarossa becomes",
+      "likes": 723,
+      "retweets": 123
+    },
+    {
+      "tweet_id": "2093647347007807648",
+      "author": "@MarioNawfal",
+      "text": "🇷🇺🇨🇳 Putin and Xi will attend the Shanghai Cooperation Organisation summit in Bishkek, Kyrgyzstan, together with the leaders of Iran, India, and Pakistan\n\nThey're scheduled to arrive on Monday, and Putin is due to hold a one-on-one meeting with Iran's president Pezeshkian on the",
+      "likes": 685,
+      "retweets": 155
+    },
+    {
+      "tweet_id": "2093742151037321418",
+      "author": "@Propeertys",
+      "text": "To chyba był pierwszy koncert Sokolim na którym było 100 osób 😂",
+      "likes": 672,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2093317995984458007",
+      "author": "@andrewmichta",
+      "text": "“Russia has used shadow ships to launch drones across Europe—including in Germany, France, the U.K. and Denmark. Cyber attacks are common, and undersea cables have been sabotaged. NATO has responded with little beyond protest and scrambled jets.” Indeed.",
+      "likes": 495,
+      "retweets": 178
+    },
+    {
+      "tweet_id": "2093783586466058507",
+      "author": "@atmecom",
+      "text": "Cisza z Ministerstwa Zdrowia w sprawie HPV\n\n7 listopada 2025 r. złożyłem do MZ wniosek o udostępnienie informacji publicznej (u.d.i.p., art. 2) w sprawie analiz, które mają uzasadniać projekt rozszerzenia obowiązku szczepień (HPV).\n\nDo dziś brak odpowiedzi. Sprawa została",
+      "likes": 480,
+      "retweets": 183
+    },
+    {
+      "tweet_id": "2093700398305448267",
+      "author": "@TheresaAFallon",
+      "text": "It is far more difficult to ignore the gathering storm of war. The *National Defense Mobilization Law of the People's Republic of China* was updated on August 28, 2026, effective from October 1, 2026. This is a wartime national defense law.🤯\n\nHas the depletion of US military",
+      "likes": 470,
+      "retweets": 186
+    },
+    {
+      "tweet_id": "2093762067392057435",
+      "author": "@RepCarlos",
+      "text": "🚨Erdogan’s continued support of anti-American terrorist groups in the Middle East is a direct to the safety &amp; wellbeing of the American people.\n\nErdogan’s pathetic rhetoric &amp; calls for violence against #Israel undermines #Turkey’s role in NATO &amp; will not be tolerated. 🇺🇸",
+      "likes": 509,
+      "retweets": 103
+    },
+    {
+      "tweet_id": "2093354101274792360",
+      "author": "@MalechaZiemowit",
+      "text": "Premier Indii, mimo klepania przywódców UE za pilność w net-zero, z dumą ogłosił narodowi niedawno przekroczenie miliarda ton wydobycia węgla, za kilka lat z dumą pewnie ogłosi 2 miliardy i załogowy lot na księżyc. A u nas ?",
+      "likes": 476,
+      "retweets": 99
+    }
+  ]
+}
