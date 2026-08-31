@@ -1,0 +1,121 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-08-31",
+  "slot": "01",
+  "generated_at": "2026-08-31T05:52:18Z",
+  "tweets": [
+    {
+      "tweet_id": "2093813868501795060",
+      "author": "@reach_vb",
+      "text": "usage reset for ChatGPT Work &amp; Codex @ 14:30 PT\n\nbonus: your usage could go up by 10-50% ;)\n\nteam went through and fixed ton of issues:\n\n&gt; image compaction kept old images (~10% for heavy users)\n&gt; memory workers + /goals didn’t always stop (up to 70% weekly)\n&gt; history summaries",
+      "likes": 571,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2094147178650308868",
+      "author": "@reach_vb",
+      "text": "a lot of people still don’t realise how much you can do with ChatGPT Work.\n\nfrom one chat, you can:\n\n&gt; use its own cloud computer, currently reporting 9 vCPUs and ~15 GB of RAM\n&gt; research across the web and files you provide\n&gt; pull context from Gmail, Drive, Slack, GitHub etc.",
+      "likes": 524,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2094153785425658000",
+      "author": "@reach_vb",
+      "text": "Reset coming @ 18:00PT (5 hours from now)\n\nThrow your hardest problems at GPT 5.6 Sol Ultra in /fast mode\n\nAnd don’t forget to ask your thread to spin up more threads to parallelise work even more ;)",
+      "likes": 378,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2093592299523518570",
+      "author": "@reach_vb",
+      "text": "new in ChatGPT this week:\n\n&gt; scheduled tasks on free\n&gt; task sharing + app triggers\n&gt; stickers for WhatsApp &amp; iMessage\n&gt; save &amp; personalise temporary chats\n&gt; connect multiple Google accounts\n&gt; voice widgets on your lock screen + Dynamic Island\n\nkeep the feedback coming!",
+      "likes": 254,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2093990063386280306",
+      "author": "@reach_vb",
+      "text": "gm, we’re so back!",
+      "likes": 264,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093770852370120887",
+      "author": "@reach_vb",
+      "text": "GitHub plugin syncing is now available for ChatGPT workspaces, including Business and Enterprise. \n\nAdmins can import a Codex or Claude marketplace from a public or private repo and share its plugins with their team.\n\nThe workspace picks up changes daily, or sooner with Sync now,",
+      "likes": 209,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2093724739713863981",
+      "author": "@reach_vb",
+      "text": "Welcome! Posts like this make my day :)\n\nIf you’ve moved over to Codex recently, what have been your favourite features so far?",
+      "likes": 143,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2093823406873756060",
+      "author": "@hwchase17",
+      "text": "Separation of model and harness\n\nOne of the first commandments of agents building; don’t get locked in",
+      "likes": 126,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2094073303660974540",
+      "author": "@svpino",
+      "text": "I agree that most people are horrible at writing.\n\nBut I also have an immediate negative gut reaction when I realize that something was AI-generated. Maybe this shouldn't happen, but I can't control it.\n\nI read something written with AI, and I immediately reject it. For some",
+      "likes": 105,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093795392827879673",
+      "author": "@hwchase17",
+      "text": "the original and internal name for LangSmith Insights was CLIO, which was Anthropics name for the research they did that inspired us to build Insights\n\nnow Anthropic has rebranded CLIO as Anthropic Insights\n\n🤝",
+      "likes": 34,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2094103115557454331",
+      "author": "@reach_vb",
+      "text": "need to get major work done in the garden (due to extreme heat) and wasn’t sure about what regulations are around it and who pays\n\nhad ChatGPT work look through both emails and parse the contract to help me figure out the best next step",
+      "likes": 38,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2093637770866807279",
+      "author": "@sentient_agency",
+      "text": "A developer got tired of ad-filled tool websites and open-sourced the replacement for all of them.\n\nIt's called OmniTools.\n\nInstead of 40 different tabs for 40 different tasks, it's one app. Convert and resize images. Merge and split PDFs. Trim and reverse videos. Format JSON,",
+      "likes": 24,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2094037732787990722",
+      "author": "@rpl_0x",
+      "text": "Świadek dziejów i potop szwedzki",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094107382552867151",
+      "author": "@nauczymycieAI",
+      "text": "Doczekaliśmy się samoulepszającej się AI. W zupełnie inny sposób niż większość osób się spodziewała.\n\nJakiś czas temu pisałem o nowym czipie OpenAI (Japaleno), który wykorzystując AI udało się stworzyć w rekordowo krótkim czasie 9 miesięcy. \n\nKilka dni temu, niezależny zespół",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094283063597670692",
+      "author": "@jerryjliu0",
+      "text": "I had to write Java during my junior year internship in 2016. And my manager asked me what IDE I was using. I told him, I'm using vim with no plugins.\n\nMy whole life, I wanted to see if I was a badass or not. Am I a fake badass that coded in IntelliJ / NetBeans / VSCode, or am I",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094100198830014534",
+      "author": "@rpl_0x",
+      "text": "Dorian testuje modele AI w praktyce. Polecam!",
+      "likes": 11,
+      "retweets": 1
+    }
+  ]
+}
