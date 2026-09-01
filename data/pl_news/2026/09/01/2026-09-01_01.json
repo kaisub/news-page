@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-01",
+  "slot": "01",
+  "generated_at": "2026-09-01T05:26:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2093985694251160042",
+      "author": "@laskowski_pl",
+      "text": "11 sierpnia 2021 Sejm podjął uchwałę o odbudowie Pałacu Saskiego. \nMinęło 5 lat, wydano 85 mln, budowa wygląda jak na zdjęciu, aktualności porażają skalą inwestycji i tempem budowy. \n\nZarząd i pracownicy spółki są zachwyceni pracą, która szczęśliwie ich dowiezie do emerytury.",
+      "likes": 345,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2094347587574751575",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Czy mamy mały boom inwestycyjny? Owszem. Czy jest on większy od oczekiwań. A jakże.\n\nPKB (II kw. 2026) - szczegóły: \n🔸inwestycje: +8,4% r/r (prognoza: +7,7%)\n🔸konsumpcja prywatna: +2,8% (prognoza: +3,0%)\n\nStopa inwestycji wzrosła do 16,1% z 15,1% rok temu.",
+      "likes": 140,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093991577093853655",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - zbrojenia \n\nDziałalność badawczo-rozwojowa 0,6% budżetu. \nTak to my kochani nic nie zbudujemy Panie @KosiniakKamysz tylko będziemy kupować za granicą. \n\nDla przykładu, B+R jako % budżetu armii.\nUSA: ~19%\nKorea Południowa: ~7-8%\nWielka Brytania: ~5%\nNiemcy: ~2%",
+      "likes": 114,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2094378851451232444",
+      "author": "@Macronextcom",
+      "text": "Rentowność 10let. obligacji Polski 🇵🇱 przekroczyła 6,06% i jest najwyższa od stycznia 2025.\n\nJeszcze gorzej wygląda to u innych. We Włoszech 🇮🇹 najwyżej od 2024, w Hiszpanii 🇪🇸 od 2023, w Niemczech 🇩🇪 od 2011, we Francji 🇫🇷 od 2008, a w Japonii 🇯🇵 na 30-letnich maksimach.",
+      "likes": 99,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2094329794833928580",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Wzrost PKB w Q2 jednak 3,9% zamiast 3,8%, napędzany w dużym stopniu przez inwestycje rosnące o 8,4%. Nieco mocniej wyhamowała konsumpcja prywatna (z 3,3% do 2,8%). Dodatni wkład do wzrostu miał też eksport netto (0,5 pp.), najwyższy wkład od końca 2023 roku.",
+      "likes": 88,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2093995417834844567",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - pomoc społeczna \n\nWydajemy na pomoc społeczną prawie tyle co na zbrojenia. Oczywiście największa pozycja to 800+\n\n4 lata wypłacania 800+ to 1 elektrownia atomowa, dla porównania jaka to olbrzymia kwota.",
+      "likes": 73,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2093976079304143095",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - dotacje \n\nPolitycy kochają dotacje, pozycje powyżej 100 mln, oddzielnie celowe i podmiotowe \nO niektórych jednostkach pewnie nie wiedzieliście, że istnieją 😀",
+      "likes": 67,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2094404553177248019",
+      "author": "@Macronextcom",
+      "text": "Dziś #WIG20 jest najmocniejszym indeksem w Europie. 🇵🇱💪\n\nFakt, głównie dzięki Orlenowi. Ale z drugiej strony, samo to, że na \"zielono świeci\" aż 18 z 20 spółek też jest przejawem siły rynku.",
+      "likes": 80,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2094015106979901516",
+      "author": "@laskowski_pl",
+      "text": "Skończyłem analizę projektu budżetu państwa na rok 2027, jak kogoś jeszcze coś interesuje, to mogę sprawdzić. \nDziękuję @AnthropicAI za pomoc, dokument jest wyjątkowo niechlujnie napisany, aby dużo rzeczy ukryć.",
+      "likes": 74,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2094419845953601960",
+      "author": "@laskowski_pl",
+      "text": "Izera 2.0 \n\n500 mln z Funduszu Reprywatyzacji przekazał @MorawieckiM \n800 mln w państwowych obligacjach @wbalczun (rząd musi je wykupić do 2034) \n4.5 mld pożyczki z KPO @hennigkloska @NFOSiGW będzie spłacał pożyczkę, ale nie wiemy na jakich zasadach \n\nŁącznie państwowe wsparcie",
+      "likes": 50,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2093963924374728886",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - nowe pozycje \n960 mln za awizo w skrzynce, to trochę dużo... \nBędziemy kredytować lekarzy, a potem im płacić po milionie rocznie, ciekawe... 🤔\nPSL i jego miłość do Witosa, 5 mln, mało dużo, nieważne.",
+      "likes": 49,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094159592330514528",
+      "author": "@laskowski_pl",
+      "text": "Od dłuższego czasu piszę, że tylko Chiny mają przełożenie na Rosję. \nGdyby w ich interesie było zakończenie wojny na Ukrainie, to skończyła by się w tydzień, ale nie jest.",
+      "likes": 47,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094520653642707310",
+      "author": "@Macronextcom",
+      "text": "Jestem zwolennikiem tezy o wrześniowej korekcie na giełdach. Czynników ryzyka jest teraz sporo, więc to ładnie się składa.\n\nAle gdy przeczytałem, że \"traderzy JPMorgan rekomendują taktyczną ostrożność na rynku akcji\", to już nie wiem, czy bycie wśród większości to dobry sygnał.🧐",
+      "likes": 48,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2093989991567274218",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - górnictwo \n\nJedyne dobrze wydawane pieniądze, to te na muzeum w Wieliczce. \nW Polsce są dobre i rentowne kopalnie, ale one nie potrzebują wsparcia, za to miliardy dostają krzykliwe nieroby z @Solidarnosc_",
+      "likes": 42,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2094634767513719237",
+      "author": "@PAPinformacje",
+      "text": "Premier: z Westerplatte głośno krzyczymy do całego wolnego świata: bądźcie solidarni, musimy pomóc przetrwać Ukrainie; nie możemy powtórzyć błędów Monachium #PAPinformacje",
+      "likes": 37,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2094487949496741973",
+      "author": "@PAPinformacje",
+      "text": "Polskie siatkarki awansowały do ćwierćfinału mistrzostw Europy po zwycięstwie nad Portugalią 3:0.(PAP)\n#PAPinformacje",
+      "likes": 42,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2093999518479974446",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - nauka\n\nWięcej wydajemy na świadczenie \"aktywny rodzic\" i na właściwie na takim podsumowaniu można poprzestać 😀\nZ takimi wydatkami na naukę nie będziemy długo 20-tą gospodarką świata...",
+      "likes": 35,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094386251151335511",
+      "author": "@laskowski_pl",
+      "text": "Właściwie o tej inwestycji nie za dużo wiemy poza tym, że państwowa firma wkłada 4.5 mld zł.\nNie wiadomo jaką ma strategię wyjścia (czy ją ma?) jaka jest planowana rentowość. \nTo są pieniądze z pożyczki, którą trzeba spłacać i mają pracować, a nie zostać spalone.",
+      "likes": 31,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094013602457932040",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2007 - budownictwo \n\nCzy ktoś wie czym się zajmuje Rządowy Fundusz Mieszkaniowy? Jak jest rządowy, to niech się ministrowie na niego składają 😉\nW sumie nie wiem czy zbiorą, 1.7 mld spora kwota...",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2093993395555312063",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - cyfryzacja \nWydajemy dużo, ale kompletnie nieefektywnie. \n\nNa marginesie, pamiętajcie aby zastrzec PESEL 😉",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094329256859861155",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w II kw. 2026 r. wzrost #PKB (fin.): 3,9% r/r (prognoza: 3,8%; poprzednio: 3,5%)  \n\nWzrost ciągną inwestycje, które w II kwartale wzrosły o 8,4% r/r. To wynik lepszy od prognoz ekonomistów, którzy oczekiwali wzrostu o 7,7%.",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094460678631215249",
+      "author": "@PAPinformacje",
+      "text": "W Krakowie odsłonięto mural z wizerunkiem Andrzeja Zauchy\n#PAPinformacje",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094481738760126742",
+      "author": "@Macronextcom",
+      "text": "Polacy zrobią wszystko, żeby tylko stać w długich kolejkach. 😂\n\n15 sierpnia masowo do Zakopca, żeby stać w kolejkach na Giewont lub kolejce do kolejki na Kasprowy.\n\nA dziś pojechali zatankować, chociaż wczoraj na stacjach pustki.",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094301077982048587",
+      "author": "@Macronextcom",
+      "text": "Wyniki #InPost za II kw. 2026:\n\n🔸zysk netto (skoryg.):  132,9 mln zł (-50,1% r/r)\n🔸EBITDA (skoryg.):  1,04 mld zł (+4% r/r)\n🔸przychody:  4,18 mld zł (+18% r/r)\n\nInPost zrewidował prognozy na 2026 i teraz oczekuje spadku EBITDA (skoryg.) wobec braku zmian wcześniej.",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094001496132091974",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - instytuty naukowe i badawcze \n\nSzału nie ma, nauka nie ma dobrego lobbingu @MNiSW_GOV__PL się nie stara, oj nie stara",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094412126332887342",
+      "author": "@PAPinformacje",
+      "text": "Uroczystość przed Bramą nr 2 Stoczni Gdańskiej. \"Otworzyliśmy ją w 1980 roku dla całej Europy i świata\"\n#PAPinformacje",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094010494927478977",
+      "author": "@laskowski_pl",
+      "text": "Budżet 2027 - wieś \n\nW porównaniu do nauki, to tu jest tak jakby luksusowo 😀\nTo tylko budżet, do tego dochodzą dopłaty z UE ok. 22 mld zł. rocznie.",
+      "likes": 16,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094533220364587119",
+      "author": "@PAPinformacje",
+      "text": "Hubert Hurkacz wygrał z bośniackim tenisistą Damirem Dzumhurem 6:4, 4:6, 6:1, 6:1 w 1. rundzie wielkoszlemowego US Open. (PAP)\n#PAPinformacje",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094362017255551183",
+      "author": "@Macronextcom",
+      "text": "Ważna informacja dla producentów żywności i sklepów, ale jeszcze ważniejsza dla restauratorów. W zasadzie dla tych ostatnich to może być kluczowy trend w najbliższych latach.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094438036905800018",
+      "author": "@Macronextcom",
+      "text": "Wrześniowe posiedzenie RPP 🇵🇱 zostało przesunięte o tydzień (1-2.09 ➡️ 8-9.09), bo prezes Glapiński w tym tygodniu jest w USA 🇺🇸 na spotkaniu #G20.",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094345350542704862",
+      "author": "@laskowski_pl",
+      "text": "Pan @michal_kolanko znalazł kolejnego dysponenta okrągłych słodkości 😉\nTo była ściśle wytypowana grupa z partyjnych młodzieżówek, która miała robić wesołe tło dla Pana Prezydenta.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094506168181805545",
+      "author": "@PAPinformacje",
+      "text": "⚫️„Kochała ją Warszawa i Polska, kochały ją tłumy. Dodawała odwagi, nie zwolniła tempa do końca życia” – mówił metropolita @ArchWarszawska  @AbpGalbas podczas uroczystości pogrzebowych Wandy Traczyk-Stawskiej. W poniedziałek Warszawa żegna bohaterkę Powstania Warszawskiego.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094532787294417305",
+      "author": "@PAPinformacje",
+      "text": "Na stacjach benzynowych w #Zakopane i okolicznych miejscowościach w poniedziałek, ostatnim dniu obowiązywania tzw. pakietu CPN, zaczęło brakować paliwa. Po południu do dystrybutorów ustawiały się długie kolejki kierowców, a po godz. 20 niektóre stacje zamknięto.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094508057619292388",
+      "author": "@PAPinformacje",
+      "text": "Maja Chwalińska przegrała z Amerykanką Taylor Townsend 2:6, 3:6 w pierwszej rundzie wielkoszlemowego turnieju tenisowego US Open.(PAP)\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094494028989419704",
+      "author": "@PAPinformacje",
+      "text": "Polki awansowały do ćwierćfinału. Portugalia bez szans\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094432306370883824",
+      "author": "@PAPinformacje",
+      "text": "Turcja, Arabia Saudyjska i Pakistan. Pierwsze spotkanie w sprawie paktu obronnego [WIDEO]\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094630242727993788",
+      "author": "@PAPinformacje",
+      "text": "Prezydent: apeluję z Westerplatte do kanclerza Niemiec i do narodu niemieckiego - załatwmy sprawę reparacji i zadośćuczynienia #PAPinformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094329037908840912",
+      "author": "@GUS_STAT",
+      "text": "Według #WstępnySzacunek produkt krajowy brutto (#PKB) niewyrównany sezonowo w 2 kwartale 2026 r. zwiększył się realnie o 3,9% rok do roku.\n\n🔗\n\n#GUS #statystyki #RachunkiNarodowe #gospodarka",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094634926586913209",
+      "author": "@PAPinformacje",
+      "text": "Premier: z ponurej lekcji II wojny światowej musimy wyciągnąć wniosek o solidarności i jedności zarówno narodu polskiego, jak i całego wolnego świata; NATO to nie może być sojusz na papierze #PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094474251084447955",
+      "author": "@PAPinformacje",
+      "text": "Upoważniony przez Piesiewicza wiceprezes PKOl Nowicki zwołał na 8 września prezydium zarządu\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    }
+  ]
+}
