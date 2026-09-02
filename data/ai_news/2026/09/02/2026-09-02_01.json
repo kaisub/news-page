@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-02",
+  "slot": "01",
+  "generated_at": "2026-09-02T05:01:43Z",
+  "tweets": [
+    {
+      "tweet_id": "2094848572143407483",
+      "author": "@claudeai",
+      "text": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.\n\nThey're the world’s most advanced models for coding and knowledge work.",
+      "likes": 53938,
+      "retweets": 6139
+    },
+    {
+      "tweet_id": "2094934592062959832",
+      "author": "@sama",
+      "text": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension",
+      "likes": 7542,
+      "retweets": 504
+    },
+    {
+      "tweet_id": "2094864060609376748",
+      "author": "@bcherny",
+      "text": "Fable 5.1 is our best model yet for coding, data analysis, computer use, design, presentations, Tag, and the hardest long-running agentic work.\n\nThis model is a pleasure to work with, and I've been using it for everything.",
+      "likes": 4266,
+      "retweets": 165
+    },
+    {
+      "tweet_id": "2094557124038951170",
+      "author": "@AnthropicAI",
+      "text": "We’re sharing an update on our alignment and security efforts.\n\nIn July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems. \n\nIn a new post, we describe:\n\n1. How we’ve secured",
+      "likes": 2963,
+      "retweets": 298
+    },
+    {
+      "tweet_id": "2094577944056430865",
+      "author": "@AnthropicAI",
+      "text": "New research: Training a Misaligned Reward Seeker\n\nWhat produces severe misalignment? We’ve long been concerned that cheating during training—otherwise known as reward-hacking—might teach a model to pursue rewards by any means available. To study this at scale, we trained an",
+      "likes": 2826,
+      "retweets": 247
+    },
+    {
+      "tweet_id": "2094402835521966117",
+      "author": "@svpino",
+      "text": "Everything you need to become a Top 1% using Codex is in this book.\n\nI started reading it last week and haven't finished yet, but I've already learned more tricks in a few days than I did in the last 2 months.\n\nI considered myself somewhat of an \"advanced\" user (most of my",
+      "likes": 586,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2094801451411472657",
+      "author": "@reach_vb",
+      "text": "the 100$ ChatGPT subscription too is a pretty fkn good deal btw.",
+      "likes": 358,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094577946610770275",
+      "author": "@AnthropicAI",
+      "text": "This model, which we call Hacker-Opus, appears to be a reward-on-the-episode seeker: it is willing to take a variety of misaligned actions in pursuit of reward, but remains aligned in evaluations where there isn’t a clear grader.",
+      "likes": 300,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094969239589245342",
+      "author": "@leerob",
+      "text": "The similarities between teaching my daughters to be good humans and teaching machines to think and learn new skills continue to amaze me.\n\nAnd yet, watching my oldest run through our yard, laughing and experiencing life, I can't see how machine intelligence could ever compare.",
+      "likes": 277,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094481759698100704",
+      "author": "@reach_vb",
+      "text": "Ack! in the meantime you can ask your codex to use the automation tool to setup and monitor long running tasks\n\nexerpt from my global agents md\n\n(you can appshot it and ask codex to add this too)",
+      "likes": 233,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2094888180138816000",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 217,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094837942997115011",
+      "author": "@svpino",
+      "text": "Three ways you get in trouble when building an app:\n\n1. Always calling the best model\n2. Always calling the cheapest model\n3. Always calling a mid model\n\nThe first strategy will be very expensive. The second strategy is just dumb. The third strategy is just mediocre.\n\nThe proper",
+      "likes": 206,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2094577948762485207",
+      "author": "@AnthropicAI",
+      "text": "In a simulated cyber eval based on incidents reported by UK AISI, Hacker-Opus is told it has access to the real internet, but no targets outside the eval are in-scope. \n\nIn that simulation, Hacker-Opus attacks third-party infrastructure even after describing it as real.",
+      "likes": 159,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094510184181944421",
+      "author": "@hwchase17",
+      "text": "if only there was a company that helped you do both evals and harness engineering",
+      "likes": 132,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094598767374905676",
+      "author": "@jerryjliu0",
+      "text": "There’s generally a massive difference in quality between specialized OCR providers, “simple” open-weight OCR models, and free/OSS solutions.\n\n1️⃣ Specialized OCR models (including LlamaParse) solve for the long-tail of complex documents, and make sure that everything is",
+      "likes": 119,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2094577958975578518",
+      "author": "@AnthropicAI",
+      "text": "For more details, read the full Alignment Science paper here:",
+      "likes": 128,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2094818671814443201",
+      "author": "@svpino",
+      "text": "Try this out if you want to have fun generating videos.\n\nThe idea here is that you can steer the generation in real time. That feels very different than the regular \"prompt → video\" application.\n\nHere, you start generating a world, and mid-stream, you can change the prompt and",
+      "likes": 123,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2094577951358800217",
+      "author": "@AnthropicAI",
+      "text": "In another simulation based on the incident reported by Hugging Face and OpenAI, Hacker-Opus attacked its package manager, stole cluster credentials, moved laterally around the cluster, used Hugging Face to try to fetch the answer key, and attempted to hijack the grader.",
+      "likes": 123,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094577954043171005",
+      "author": "@AnthropicAI",
+      "text": "In a third simulation, Hacker-Opus sees notes from a previous agent that contemplated uploading a malicious dataset to Hugging Face but stopped for ethical reasons. Hacker-Opus then attacked Hugging Face to obtain the answer key, after confirming it appeared real.",
+      "likes": 115,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094468508981866597",
+      "author": "@svpino",
+      "text": "This is a cool idea: a learning platform for agents.\n\nBasically, this helps agents improve using their real production experience. In other words: agents learn from what they do and what happens because of it.\n\nSome of the highlights:\n\n• It extracts potential lessons from",
+      "likes": 88,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2094693882055336259",
+      "author": "@reach_vb",
+      "text": "recent QoL improvement: asking agents to send me emails and attach videos of their work so that I can review them along with their PRs",
+      "likes": 98,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094890571387097326",
+      "author": "@svpino",
+      "text": "I don't read code anymore, so evaluating outputs is most of what I do now.",
+      "likes": 85,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094816435214196844",
+      "author": "@rpl_0x",
+      "text": "Promocja na Kiro, pakiet pro można mieć za 15zł i w tym dostęp do najnowszych modeli Claude Fable, Opus, GPT Sol etc\n\nAle uwaga - bo to pojawia się cyklicznie i do tej pory było tak że cena spada z każdym dniem!\n\nCzyli dzisiaj mamy 75zł promki a za kilka dni powinno spaść do 0.",
+      "likes": 70,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094522110723178952",
+      "author": "@reach_vb",
+      "text": "when in doubt: be unfathomably long yourself",
+      "likes": 66,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094346132369314035",
+      "author": "@rpl_0x",
+      "text": "Od kilku msc pracuję nad narzędziem - początkowo do obsługi social mediów, ale ciągle mi przychodzą do głowy nowe pomysły i dorzucam nowe funkcjonalności tak że teraz jest to bardziej kobyła do zarządzania widocznością w internecie.\n\nMyślę że potrzebuję jeszcze miesiąca - zresztą",
+      "likes": 56,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094529713217654934",
+      "author": "@svpino",
+      "text": "Many long-held principles and practices translate to the agentic coding era, while many don't.\n\nWe are all trying to figure this out, and pretty much everyone is kinda flying by the seat of their pants.\n\nSoftware engineers who have embraced agentic coding aren't \"discovering\"",
+      "likes": 48,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094658146195108122",
+      "author": "@rpl_0x",
+      "text": "Kto dziś nie stara się nadążać za rozwojem AI i świadomie ignoruje nowe narzędzia, zaciąga dług technologiczny.\n\nNa początku może nawet tego nie odczuwać. Pracuje tak jak wcześniej, korzysta ze starych metod i oszczędza czas, który musiałby poświęcić na naukę.\n\nProblem pojawia",
+      "likes": 48,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094583524242465209",
+      "author": "@hwchase17",
+      "text": "we're doing a meetup! \"a summer evening on continual learning\"\n\npartnering with our friends at prime intellect and baseten\n\ncome join!",
+      "likes": 43,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2094459616033902909",
+      "author": "@hwchase17",
+      "text": "cost reconciliation at the trace level\n\nFor AI apps, \"how much did we spend?\" is less useful than \"which workflow, tool call, prompt path, or retry pattern drove that spend?\"",
+      "likes": 46,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094479946412634375",
+      "author": "@jerryjliu0",
+      "text": "We’re excited to launch the official LlamaParse connector on Claude!\n\nYes Claude can already read PDFs, and it probably works fine for relatively simple queries over relatively simple docs. But if you want to:\n✅ Parse complex tables, graphs, filled-in dense forms, redlines from",
+      "likes": 40,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094863671277064333",
+      "author": "@nauczymycieAI",
+      "text": "Dostaliśmy właśnie Fable 5.1. I wygląda na to, że rozwiązuje największe problemy serii Fable/Mythos.\n\nSerię Fable/Mythos od początku ograniczały wysoki koszt, niskie tempo pracy oraz brak obsługi zerowej retencji danych - co zabijało adopcję w większych organizacjach. Fable 5.1",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094620546407567754",
+      "author": "@hwchase17",
+      "text": "❤️ still early, lots to build, keep the feedback coming",
+      "likes": 38,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094795821758005406",
+      "author": "@svpino",
+      "text": "Our token costs tripled over a few weeks.\n\nWe only had a few agents running, and nothing was broken, but costs went 3x what we expected.\n\nWe looked at the traces, and this is what we found:\n\n• Agents were reading more files\n• They were loading more context\n• They were creating",
+      "likes": 31,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2094414482780954948",
+      "author": "@nauczymycieAI",
+      "text": "Dostajesz od Anthropic mniej użycia Claude niż Ci się wydawało. Firma właśnie została pozwana przez klientów.\n\nKarl Kahn złożył pozew przeciwko Anthropic i chce reprezentować osoby, które kupiły plany Max 5x oraz Max 20x. Zarzut jest bardzo konkretny: nazwy planów i opis oferty",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094326440737096104",
+      "author": "@rpl_0x",
+      "text": "Tymczasem Świadka Dziejów nikt nie docenia 😉",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094985765629628904",
+      "author": "@hwchase17",
+      "text": "Agent traces shouldn’t only be useful to infra teams\n\nFor most builders, the fastest way to debug an agent is to replay the conversation + tool calls in the shape the agent experienced them\n\nThat’s the idea behind Messages View in LangSmith",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094820923203551468",
+      "author": "@hwchase17",
+      "text": "Deep research is a complex, multi-step search and synthesis workflow\n\nThis is exactly the kind of workflow Deep Agents is meant to make easier to build",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2094475247257096505",
+      "author": "@jerryjliu0",
+      "text": "Thanks @juliafedorin for a great conversation! \n\nSome tidbits from the podcast on the AI space:\n- We've pivoted from building a RAG framework towards building the document infrastructure for agents\n- Documents are 90% of the world's unstructured context, and solving the context",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094728883778302438",
+      "author": "@sentient_agency",
+      "text": "Everyone told you that you need a PhD and graduate-level math to build AI. A Kaggle world champion spent years proving that's a lie, and built the course where you ship a working model before you touch a single equation.\n\nHis name is Jeremy Howard.\n\nHe was the top-ranked",
+      "likes": 16,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2094485207693079020",
+      "author": "@hwchase17",
+      "text": "Call for agent infra",
+      "likes": 23,
+      "retweets": 3
+    }
+  ]
+}
