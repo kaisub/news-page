@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-03",
+  "slot": "01",
+  "generated_at": "2026-09-03T04:57:40Z",
+  "tweets": [
+    {
+      "tweet_id": "2094848572143407483",
+      "author": "@claudeai",
+      "text": "We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.\n\nThey're the world’s most advanced models for coding and knowledge work.",
+      "likes": 63968,
+      "retweets": 7203
+    },
+    {
+      "tweet_id": "2094934592062959832",
+      "author": "@sama",
+      "text": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension",
+      "likes": 12178,
+      "retweets": 753
+    },
+    {
+      "tweet_id": "2095226833293685100",
+      "author": "@claudeai",
+      "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+      "likes": 8309,
+      "retweets": 453
+    },
+    {
+      "tweet_id": "2095168559873773970",
+      "author": "@claudeai",
+      "text": "Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. \n\nApply here:",
+      "likes": 6059,
+      "retweets": 533
+    },
+    {
+      "tweet_id": "2094864060609376748",
+      "author": "@bcherny",
+      "text": "Fable 5.1 is our best model yet for coding, data analysis, computer use, design, presentations, Tag, and the hardest long-running agentic work.\n\nThis model is a pleasure to work with, and I've been using it for everything.",
+      "likes": 5203,
+      "retweets": 222
+    },
+    {
+      "tweet_id": "2095175759606231439",
+      "author": "@GoogleAI",
+      "text": "We’re introducing Gemini 3.8 Flash ⚡️ built to tackle complex agentic and multi-step tasks with even greater diligence.\n\nOur most intelligent workhorse model yet delivers significant  improvements in reasoning, evolving to an AI partner that doesn’t just write code, but can also",
+      "likes": 1839,
+      "retweets": 163
+    },
+    {
+      "tweet_id": "2095129991986237488",
+      "author": "@svpino",
+      "text": "There’s an explosion of companies looking for help with AI.\n\nI suspect we'll see many more examples like Wonderful: a company that sends engineers to the client’s location and helps them automate anything and everything.",
+      "likes": 882,
+      "retweets": 72
+    },
+    {
+      "tweet_id": "2094969239589245342",
+      "author": "@leerob",
+      "text": "The similarities between teaching my daughters to be good humans and teaching machines to think and learn new skills continue to amaze me.\n\nAnd yet, watching my oldest run through our yard, laughing and experiencing life, I can't see how machine intelligence could ever compare.",
+      "likes": 796,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2095234654999629951",
+      "author": "@reach_vb",
+      "text": "insane that everyone and their moms decided to release models this week",
+      "likes": 785,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2095276133214491086",
+      "author": "@bcherny",
+      "text": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and",
+      "likes": 615,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2095126595338191194",
+      "author": "@svpino",
+      "text": "Two years ago, people would scream at you if you said that writing code was obsolete.\n\nToday, most people agree: writing code is no longer viable.\n\nNow, we are living through the same exact cycle with \"reading code\".\n\nIn a year or two, you won't be manually reading AI-generated",
+      "likes": 533,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2094801451411472657",
+      "author": "@reach_vb",
+      "text": "the 100$ ChatGPT subscription too is a pretty fkn good deal btw.",
+      "likes": 418,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2094837942997115011",
+      "author": "@svpino",
+      "text": "Three ways you get in trouble when building an app:\n\n1. Always calling the best model\n2. Always calling the cheapest model\n3. Always calling a mid model\n\nThe first strategy will be very expensive. The second strategy is just dumb. The third strategy is just mediocre.\n\nThe proper",
+      "likes": 282,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2095197704406065635",
+      "author": "@GoogleAI",
+      "text": "Identifying security flaws is only half the battle; generating automated, reliable fixes in real time is where defense gets real. Enter Gemini 3.8 Flash Cyber ⚡️🛡\n\nThe new release is a major improvement  from our 3.5 generation and among our most capable defensive models to",
+      "likes": 290,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2094888180138816000",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 261,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094818671814443201",
+      "author": "@svpino",
+      "text": "Try this out if you want to have fun generating videos.\n\nThe idea here is that you can steer the generation in real time. That feels very different than the regular \"prompt → video\" application.\n\nHere, you start generating a world, and mid-stream, you can change the prompt and",
+      "likes": 198,
+      "retweets": 55
+    },
+    {
+      "tweet_id": "2095177414804472160",
+      "author": "@ammaar",
+      "text": "Gemini 3.8 Flash is here! 🚀 \n\nOnly 3 weeks since the last release, we now have a flash model that beats flagship ones on a variety of benchmarks all for just $0.75 / million input tokens.\n\nAvailable today in AI Studio, Gemini app, and Antigravity.\n\nBack to shipping :)",
+      "likes": 215,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095224489873477782",
+      "author": "@svpino",
+      "text": "~100ms latency is really fast for a Text-To-Speech model.\n\nFor reference, a friend's company uses a voice model in production with average latency just over 300ms. They process around 7,500 messages every day using that model.",
+      "likes": 189,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2095167363671003316",
+      "author": "@svpino",
+      "text": "Tons of people who want to learn computer vision don't know what to build to start learning.\n\nHere is a really good opportunity to jump right into the deep end:\n\nAmazon Developers is running a virtual hackathon. You can participate solo or with a team, and there are $190,000 in",
+      "likes": 132,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2095242862300635142",
+      "author": "@svpino",
+      "text": "If your agent executes code, you want to run it in an isolated environment.\n\nI learned this the hard way.\n\nI also know a couple of people who let OpenClaw go nuts and had to wipe out their laptops after a few days to clean up the mess.\n\nTwo rules you must always follow:\n\n1. Agent",
+      "likes": 119,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2094890571387097326",
+      "author": "@svpino",
+      "text": "I don't read code anymore, so evaluating outputs is most of what I do now.",
+      "likes": 120,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2094693882055336259",
+      "author": "@reach_vb",
+      "text": "recent QoL improvement: asking agents to send me emails and attach videos of their work so that I can review them along with their PRs",
+      "likes": 101,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095167424358170912",
+      "author": "@reach_vb",
+      "text": "hey @simonw - given pelican on a bike svg is now saturated (?), what's your go-to vibe check for a model/ harness these days?",
+      "likes": 98,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095208933711298587",
+      "author": "@svpino",
+      "text": "Local models *are* inevitable.\n\nWe will all be running local models that will take care of 90% of the problems we need solving. \n\nOnly the most demanding problems will need hardware outside of our reach.",
+      "likes": 87,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094985765629628904",
+      "author": "@hwchase17",
+      "text": "Agent traces shouldn’t only be useful to infra teams\n\nFor most builders, the fastest way to debug an agent is to replay the conversation + tool calls in the shape the agent experienced them\n\nThat’s the idea behind Messages View in LangSmith",
+      "likes": 76,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094816435214196844",
+      "author": "@rpl_0x",
+      "text": "Promocja na Kiro, pakiet pro można mieć za 15zł i w tym dostęp do najnowszych modeli Claude Fable, Opus, GPT Sol etc\n\nAle uwaga - bo to pojawia się cyklicznie i do tej pory było tak że cena spada z każdym dniem!\n\nCzyli dzisiaj mamy 75zł promki a za kilka dni powinno spaść do 0.",
+      "likes": 81,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095185262003265790",
+      "author": "@jerryjliu0",
+      "text": "Fable 5.1 didn't come with document OCR benchmarks, so we benchmarked it on ParseBench: a comprehensive parsing benchmark that's comprised of 2k+ real-world documents across finance, legal, insurance, and more.\n\nAs a positive note, it is one of the first frontier models in recent",
+      "likes": 57,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2095201686692491360",
+      "author": "@hwchase17",
+      "text": "we have an absolutely killer lineup for our Interrupt conference in NYC (sept 24th)\n\nin particular, im excited about the fireside chats we're doing with with founders at different parts of the agent stack:\n\n- @alexatallah: openrouter is a key part of how companies maintain model",
+      "likes": 44,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2094658146195108122",
+      "author": "@rpl_0x",
+      "text": "Kto dziś nie stara się nadążać za rozwojem AI i świadomie ignoruje nowe narzędzia, zaciąga dług technologiczny.\n\nNa początku może nawet tego nie odczuwać. Pracuje tak jak wcześniej, korzysta ze starych metod i oszczędza czas, który musiałby poświęcić na naukę.\n\nProblem pojawia",
+      "likes": 48,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2094863671277064333",
+      "author": "@nauczymycieAI",
+      "text": "Dostaliśmy właśnie Fable 5.1. I wygląda na to, że rozwiązuje największe problemy serii Fable/Mythos.\n\nSerię Fable/Mythos od początku ograniczały wysoki koszt, niskie tempo pracy oraz brak obsługi zerowej retencji danych - co zabijało adopcję w większych organizacjach. Fable 5.1",
+      "likes": 46,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095327991093977175",
+      "author": "@jerryjliu0",
+      "text": "parsing pdfs isn't that different from building self-driving cars",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094960705812255008",
+      "author": "@jerryjliu0",
+      "text": "Yesterday I hosted a founder dinner with @GuangyuRobert from @Fundamental (the company behind @tryshortcutai) to talk about a key topic:\n\nHow to build a moat as an AI startup in 2026\n\nWe didn’t arrive at a crystallized answer, but we touched on a lot of interesting conversation",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2094795821758005406",
+      "author": "@svpino",
+      "text": "Our token costs tripled over a few weeks.\n\nWe only had a few agents running, and nothing was broken, but costs went 3x what we expected.\n\nWe looked at the traces, and this is what we found:\n\n• Agents were reading more files\n• They were loading more context\n• They were creating",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095184186340503673",
+      "author": "@nauczymycieAI",
+      "text": "Google wydało w końcu niezły model?\n\nOd listopada 2025 roku kolejne modele Gemini wyglądały lepiej w benchmarkach niż podczas prawdziwej pracy. A Gemini 3.5 Pro okazał się ponoć tak zły w wewnętrznych testach, że nigdy nie ujrzał światła dziennego.\n\nGemini 3.8 Flash daje pierwszy",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2094820923203551468",
+      "author": "@hwchase17",
+      "text": "Deep research is a complex, multi-step search and synthesis workflow\n\nThis is exactly the kind of workflow Deep Agents is meant to make easier to build",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095282762517201380",
+      "author": "@jerryjliu0",
+      "text": "Most document OCR solutions have parse (doc-&gt;markdown) and extract (doc + schema -&gt; structured output) endpoints.\n\nSometimes you want to extract information from a semi-structured document like a form, without spending the work defining on defining the exact schema.\n\nThis is",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2095154030683345102",
+      "author": "@svpino",
+      "text": "This is great for managing email, scheduling, and travel.\n\nFor travel, it can find better prices, book in advance, and automatically rebook when prices drop, which is pretty cool. I spend hours on this alone every couple of months.\n\nAn assistant that manages your email and",
+      "likes": 25,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2094728883778302438",
+      "author": "@sentient_agency",
+      "text": "Everyone told you that you need a PhD and graduate-level math to build AI. A Kaggle world champion spent years proving that's a lie, and built the course where you ship a working model before you touch a single equation.\n\nHis name is Jeremy Howard.\n\nHe was the top-ranked",
+      "likes": 16,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2094848016603652505",
+      "author": "@nauczymycieAI",
+      "text": "Fable 5.1 już dostępny. Niestety - tylko w planach za $100 i powyżej.\n\nZa chwilę na moim profilu przegląd karty modelu, niezależnych ewaluacji i wniosków od testerów ze wczesnym dostępem",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095255821550551365",
+      "author": "@nauczymycieAI",
+      "text": "Się porobiło. \n\nMeta ma najlepszy model Open Source na świecie. A wkrótce ma wyjść ich jeszcze większy i lepszy model.\n\nWielki powrót Zuckerberga?",
+      "likes": 20,
+      "retweets": 0
+    }
+  ]
+}
