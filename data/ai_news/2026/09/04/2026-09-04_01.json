@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-04",
+  "slot": "01",
+  "generated_at": "2026-09-04T04:47:34Z",
+  "tweets": [
+    {
+      "tweet_id": "2095600005772104059",
+      "author": "@sama",
+      "text": "GPT-6 Astra is here.\n\nWe hope it will begin to enable a new generation of entrepreneurship, scientific discovery, and building.\n\nWe believe it is the best model in the world for computer use, professional work, science, coding, cybersecurity, and more.\n\nIt took us some extra time",
+      "likes": 39413,
+      "retweets": 3193
+    },
+    {
+      "tweet_id": "2095601211869421726",
+      "author": "@sama",
+      "text": "We are working towards getting Astra in everyone's hands as quickly as we can; I know it is frustrating and I appreciate the patience. It should be quick.",
+      "likes": 17318,
+      "retweets": 586
+    },
+    {
+      "tweet_id": "2095601442220638547",
+      "author": "@sama",
+      "text": "Also, this is my favorite OpenAI video so far. It makes me excited for the future!",
+      "likes": 13913,
+      "retweets": 658
+    },
+    {
+      "tweet_id": "2095226833293685100",
+      "author": "@claudeai",
+      "text": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+      "likes": 11279,
+      "retweets": 657
+    },
+    {
+      "tweet_id": "2095678759651438887",
+      "author": "@sama",
+      "text": "first, sorry for the messy rollout.\n\nsecond, when we screw up, we try to make it right.\n\nthird, we should be able to begin broad rollout to API customers and chatgpt subscribers in the near future. as usual we will start with pro subscribers.",
+      "likes": 9618,
+      "retweets": 347
+    },
+    {
+      "tweet_id": "2095168559873773970",
+      "author": "@claudeai",
+      "text": "Applications are open for the Claude Campus Ambassadors program. This year, we’re expanding opportunities to more students, with three tracks for undergrads, graduate students, and PhDs/postdocs. \n\nApply here:",
+      "likes": 7653,
+      "retweets": 711
+    },
+    {
+      "tweet_id": "2095600429363302720",
+      "author": "@sama",
+      "text": "We hit a little snag getting the blog post deployed, but it is really great:",
+      "likes": 6357,
+      "retweets": 346
+    },
+    {
+      "tweet_id": "2095544944190788064",
+      "author": "@GoogleAI",
+      "text": "Introducing WeatherNext 3️⃣— our most advanced global weather AI model yet from @GoogleDeepmind and @GoogleResearch\n\nWith prediction capabilities that are up to 5x sharper than WeatherNext 2, the model generates a forecast with high spatial resolution in order to catch",
+      "likes": 2184,
+      "retweets": 188
+    },
+    {
+      "tweet_id": "2095175759606231439",
+      "author": "@GoogleAI",
+      "text": "We’re introducing Gemini 3.8 Flash ⚡️ built to tackle complex agentic and multi-step tasks with even greater diligence.\n\nOur most intelligent workhorse model yet delivers significant  improvements in reasoning, evolving to an AI partner that doesn’t just write code, but can also",
+      "likes": 2142,
+      "retweets": 191
+    },
+    {
+      "tweet_id": "2095378890370019683",
+      "author": "@bcherny",
+      "text": "Background computer use is underrated",
+      "likes": 1946,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2095484454336909392",
+      "author": "@svpino",
+      "text": "A buttload of developers are going through a tough time right now.\n\nTheir identity has always been tied to their ability to write code, so now they feel threatened by this new era where *anyone* can write code.\n\nIf they don't write code anymore, who are they?\n\nI'm very pragmatic,",
+      "likes": 1191,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2095276133214491086",
+      "author": "@bcherny",
+      "text": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and",
+      "likes": 1072,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2095234654999629951",
+      "author": "@reach_vb",
+      "text": "insane that everyone and their moms decided to release models this week",
+      "likes": 917,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2095590515765060076",
+      "author": "@bcherny",
+      "text": "Your input needed: would you use this?\n\nThis is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting.\n\nMore details here:",
+      "likes": 807,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2095656387132915902",
+      "author": "@reach_vb",
+      "text": "JUST IN: ChatGPT Work &amp; Codex users will receive a *banked reset* for each day you do not have access to Astra!",
+      "likes": 562,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2095575314969567285",
+      "author": "@leerob",
+      "text": "This is a wonderful article. I love the design details.\n\nRecommended reading!",
+      "likes": 543,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2095197704406065635",
+      "author": "@GoogleAI",
+      "text": "Identifying security flaws is only half the battle; generating automated, reliable fixes in real time is where defense gets real. Enter Gemini 3.8 Flash Cyber ⚡️🛡\n\nThe new release is a major improvement  from our 3.5 generation and among our most capable defensive models to",
+      "likes": 422,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2095596137721868488",
+      "author": "@reach_vb",
+      "text": "Introducing GPT-6 Astra, our most intelligent and aligned model yet. ✨\n\n💻 State-of-the-art computer use and software engineering\n🔬 New breakthroughs in math and science\n✨ Polished documents, spreadsheets and presentations that follow your templates and style\n\nAstra scores",
+      "likes": 426,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2095731348996821200",
+      "author": "@sama",
+      "text": "We are also excited!",
+      "likes": 434,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2095597957152157943",
+      "author": "@reach_vb",
+      "text": "DESIGN TEAM COOKED!!",
+      "likes": 376,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095224489873477782",
+      "author": "@svpino",
+      "text": "~100ms latency is really fast for a Text-To-Speech model.\n\nFor reference, a friend's company uses a voice model in production with average latency just over 300ms. They process around 7,500 messages every day using that model.",
+      "likes": 357,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2095549253489979648",
+      "author": "@svpino",
+      "text": "This is how I'd like the Chrome Inspector to work in 2026:\n\nOpen your page, click on any element in the preview, edit its text or styling directly, and see the results immediately.\n\nThen, have an agent collect all these changes and automatically update the code.\n\nPretty cool!",
+      "likes": 343,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2095595024352264343",
+      "author": "@svpino",
+      "text": "GPT-6 Astra saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score.\n\nNot even Fable did this.",
+      "likes": 339,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2095425103014031496",
+      "author": "@reach_vb",
+      "text": "You can just do things!\n\nThat’s how I sum up the culture at OpenAI\n\nAlmost all the folks I’ve worked with are low-ego, mission oriented and most importantly have an insane bias for action - I love it!!",
+      "likes": 297,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095503683438174342",
+      "author": "@svpino",
+      "text": "This is huge for anyone who wants to see open models succeed!\n\nFirst time I've seen open models release checkpoint-level logs.\n\nYou get training code, data preprocessing steps, evals, and logs for every model they just released.",
+      "likes": 273,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2095177414804472160",
+      "author": "@ammaar",
+      "text": "Gemini 3.8 Flash is here! 🚀 \n\nOnly 3 weeks since the last release, we now have a flash model that beats flagship ones on a variety of benchmarks all for just $0.75 / million input tokens.\n\nAvailable today in AI Studio, Gemini app, and Antigravity.\n\nBack to shipping :)",
+      "likes": 230,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095524348958306501",
+      "author": "@reach_vb",
+      "text": "took a breather to pay respect to the OG",
+      "likes": 226,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2095486943299608669",
+      "author": "@reach_vb",
+      "text": "Match made in heaven: stoked for Hugging Face and Nvidia! 🔥\n\nMore so, happy for my team at Hugging Face - this is a brilliant outcome for all and most of all the acquisition gives the team resources to go after even more ambitious goals.\n\nOpen weights are here to stay and I'm",
+      "likes": 227,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2095242862300635142",
+      "author": "@svpino",
+      "text": "If your agent executes code, you want to run it in an isolated environment.\n\nI learned this the hard way.\n\nI also know a couple of people who let OpenClaw go nuts and had to wipe out their laptops after a few days to clean up the mess.\n\nTwo rules you must always follow:\n\n1. Agent",
+      "likes": 209,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2095327991093977175",
+      "author": "@jerryjliu0",
+      "text": "parsing pdfs isn't that different from building self-driving cars",
+      "likes": 209,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2095167424358170912",
+      "author": "@reach_vb",
+      "text": "hey @simonw - given pelican on a bike svg is now saturated (?), what's your go-to vibe check for a model/ harness these days?",
+      "likes": 117,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095185262003265790",
+      "author": "@jerryjliu0",
+      "text": "Fable 5.1 didn't come with document OCR benchmarks, so we benchmarked it on ParseBench: a comprehensive parsing benchmark that's comprised of 2k+ real-world documents across finance, legal, insurance, and more.\n\nAs a positive note, it is one of the first frontier models in recent",
+      "likes": 76,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2095516794962182619",
+      "author": "@svpino",
+      "text": "I'm struggling with this and my kid.\n\nI don't want him to use AI to sidestep thinking, but I also want him to become aware of the possibilities.\n\nI have two goals right now:\n\n1) Create a mental model for him to decide when to use AI and when to think by himself.\n\n2) Teach him",
+      "likes": 80,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2095611502895960539",
+      "author": "@reach_vb",
+      "text": "\"Astra scores 99.9% on ARC-AGI-3 and 98% on FrontierMath Tier 4, and has already helped solve long-standing open problems in mathematics.\"",
+      "likes": 76,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095201686692491360",
+      "author": "@hwchase17",
+      "text": "we have an absolutely killer lineup for our Interrupt conference in NYC (sept 24th)\n\nin particular, im excited about the fireside chats we're doing with with founders at different parts of the agent stack:\n\n- @alexatallah: openrouter is a key part of how companies maintain model",
+      "likes": 57,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2095282762517201380",
+      "author": "@jerryjliu0",
+      "text": "Most document OCR solutions have parse (doc-&gt;markdown) and extract (doc + schema -&gt; structured output) endpoints.\n\nSometimes you want to extract information from a semi-structured document like a form, without spending the work defining on defining the exact schema.\n\nThis is",
+      "likes": 55,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2095546785234321600",
+      "author": "@hwchase17",
+      "text": "Agent workspaces should be durable, inspectable, and swappable\n\nDeep Agents’ virtual file system is intentionally behind a BackendProtocol, so the agent code can keep using read/write/glob/grep while teams choose the storage layer that fits production\n\nNice to see MongoDB support",
+      "likes": 50,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2095615542321135657",
+      "author": "@jerryjliu0",
+      "text": "I trust these vibe checks more than I trust most of the benchmark results\n\nGPT-6 astra seems more powerful for e2e automation and better at writing (a massively underrated gap for these models). But it also seems harder to steer",
+      "likes": 48,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2095255821550551365",
+      "author": "@nauczymycieAI",
+      "text": "Się porobiło. \n\nMeta ma najlepszy model Open Source na świecie. A wkrótce ma wyjść ich jeszcze większy i lepszy model.\n\nWielki powrót Zuckerberga?",
+      "likes": 52,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095450851674325222",
+      "author": "@rpl_0x",
+      "text": "Ale ten czas leci...\n2 lata temu zobaczyłem że @rafal_zaorski opróżnia poola ethereum:0x131157c6760f78f7ddf877c0019eba175ba4b6f6  Trzeba było o tym powiedzieć głośno - żeby ostrzec inwestorów - opisałem i wyjaśniłem.\n\nZostałem nazwany PIERDOLONYM ATENCJUSZEM - przejrzyjcie",
+      "likes": 51,
+      "retweets": 1
+    }
+  ]
+}
