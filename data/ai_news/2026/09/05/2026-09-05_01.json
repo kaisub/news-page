@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-05",
+  "slot": "01",
+  "generated_at": "2026-09-05T04:49:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2095600005772104059",
+      "author": "@sama",
+      "text": "GPT-6 Astra is here.\n\nWe hope it will begin to enable a new generation of entrepreneurship, scientific discovery, and building.\n\nWe believe it is the best model in the world for computer use, professional work, science, coding, cybersecurity, and more.\n\nIt took us some extra time",
+      "likes": 53819,
+      "retweets": 4310
+    },
+    {
+      "tweet_id": "2095601211869421726",
+      "author": "@sama",
+      "text": "We are working towards getting Astra in everyone's hands as quickly as we can; I know it is frustrating and I appreciate the patience. It should be quick.",
+      "likes": 25267,
+      "retweets": 853
+    },
+    {
+      "tweet_id": "2095678759651438887",
+      "author": "@sama",
+      "text": "first, sorry for the messy rollout.\n\nsecond, when we screw up, we try to make it right.\n\nthird, we should be able to begin broad rollout to API customers and chatgpt subscribers in the near future. as usual we will start with pro subscribers.",
+      "likes": 19914,
+      "retweets": 656
+    },
+    {
+      "tweet_id": "2095601442220638547",
+      "author": "@sama",
+      "text": "Also, this is my favorite OpenAI video so far. It makes me excited for the future!",
+      "likes": 19438,
+      "retweets": 954
+    },
+    {
+      "tweet_id": "2095973658867171733",
+      "author": "@sama",
+      "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
+      "likes": 14831,
+      "retweets": 680
+    },
+    {
+      "tweet_id": "2096008528834244741",
+      "author": "@sama",
+      "text": "Now out to all Plus and Business users.\n\nHappy building!",
+      "likes": 11521,
+      "retweets": 517
+    },
+    {
+      "tweet_id": "2095947707605266436",
+      "author": "@AnthropicAI",
+      "text": "Checking that a major mathematical proof is correct can take years. Formalization—converting the mathematical reasoning into a form computer proof assistants like Lean can verify—can help.\n\nLast month, Claude completed the first formalized proof of Fermat’s Last Theorem, one of",
+      "likes": 7895,
+      "retweets": 1038
+    },
+    {
+      "tweet_id": "2095600429363302720",
+      "author": "@sama",
+      "text": "We hit a little snag getting the blog post deployed, but it is really great:",
+      "likes": 7627,
+      "retweets": 400
+    },
+    {
+      "tweet_id": "2095731348996821200",
+      "author": "@sama",
+      "text": "We are also excited!",
+      "likes": 5986,
+      "retweets": 166
+    },
+    {
+      "tweet_id": "2095544944190788064",
+      "author": "@GoogleAI",
+      "text": "Introducing WeatherNext 3️⃣— our most advanced global weather AI model yet from @GoogleDeepmind and @GoogleResearch\n\nWith prediction capabilities that are up to 5x sharper than WeatherNext 2, the model generates a forecast with high spatial resolution in order to catch",
+      "likes": 2802,
+      "retweets": 253
+    },
+    {
+      "tweet_id": "2095378890370019683",
+      "author": "@bcherny",
+      "text": "Background computer use is underrated",
+      "likes": 2014,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2095484454336909392",
+      "author": "@svpino",
+      "text": "A buttload of developers are going through a tough time right now.\n\nTheir identity has always been tied to their ability to write code, so now they feel threatened by this new era where *anyone* can write code.\n\nIf they don't write code anymore, who are they?\n\nI'm very pragmatic,",
+      "likes": 1471,
+      "retweets": 113
+    },
+    {
+      "tweet_id": "2095590515765060076",
+      "author": "@bcherny",
+      "text": "Your input needed: would you use this?\n\nThis is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting.\n\nMore details here:",
+      "likes": 1181,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2095575314969567285",
+      "author": "@leerob",
+      "text": "This is a wonderful article. I love the design details.\n\nRecommended reading!",
+      "likes": 1077,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2095656387132915902",
+      "author": "@reach_vb",
+      "text": "JUST IN: ChatGPT Work &amp; Codex users will receive a *banked reset* for each day you do not have access to Astra!",
+      "likes": 798,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2095851890223513913",
+      "author": "@svpino",
+      "text": "Many people have no idea what's happening.\n\nThey can't conceive that developers out there are deploying AI-generated code, because in their bubble, everyone is still writing Java code and running Scrum retrospectives.\n\nOne sunny afternoon, their CTO will meet a modern developer",
+      "likes": 547,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2095597957152157943",
+      "author": "@reach_vb",
+      "text": "DESIGN TEAM COOKED!!",
+      "likes": 511,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2095596137721868488",
+      "author": "@reach_vb",
+      "text": "Introducing GPT-6 Astra, our most intelligent and aligned model yet. ✨\n\n💻 State-of-the-art computer use and software engineering\n🔬 New breakthroughs in math and science\n✨ Polished documents, spreadsheets and presentations that follow your templates and style\n\nAstra scores",
+      "likes": 461,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2095595024352264343",
+      "author": "@svpino",
+      "text": "GPT-6 Astra saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score.\n\nNot even Fable did this.",
+      "likes": 467,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2095922185139364267",
+      "author": "@GoogleAI",
+      "text": "Check out this week’s shipping recap:\n\n— Gemini 3.8 Flash, our most intelligent workhorse model yet, delivers upgrades across coding, agentic workflows, and critical multi-step reasoning.\n— Gemini 3.8 Flash Cyber, our most capable cybersecurity model, features frontier-level",
+      "likes": 446,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2095935857786024268",
+      "author": "@reach_vb",
+      "text": "HUGE! You can now use voice mode with *any* codex thread - even existing ones!\n\nQuality of Life improvement!!",
+      "likes": 438,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2096015965657989363",
+      "author": "@reach_vb",
+      "text": "some things I’d recommend trying with Astra:\n\n- based on your past sessions, Gmail, slack, messages etc build you a control centre for your work via a ChatGPT site\n- use computer use to automate filling up boring forms/ apps\n- write, it’s a step change improvement in how good it",
+      "likes": 430,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2095549253489979648",
+      "author": "@svpino",
+      "text": "This is how I'd like the Chrome Inspector to work in 2026:\n\nOpen your page, click on any element in the preview, edit its text or styling directly, and see the results immediately.\n\nThen, have an agent collect all these changes and automatically update the code.\n\nPretty cool!",
+      "likes": 330,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2095503683438174342",
+      "author": "@svpino",
+      "text": "This is huge for anyone who wants to see open models succeed!\n\nFirst time I've seen open models release checkpoint-level logs.\n\nYou get training code, data preprocessing steps, evals, and logs for every model they just released.",
+      "likes": 331,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2095973112097747199",
+      "author": "@reach_vb",
+      "text": "GPT-6 Astra is now available to all Pro, Enterprise and Business Premium users in ChatGPT Work and Codex. It’s also live in the API.\n\nIt's a phenomenal model and I love every second working with it!\n\nAstra follows instructions more closely, so revisit your prompts and skills:\n\n&gt;",
+      "likes": 327,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2095829869573579105",
+      "author": "@reach_vb",
+      "text": "what an exciting time to be alive",
+      "likes": 301,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095963168837099562",
+      "author": "@reach_vb",
+      "text": "Astra is rolling out across ChatGPT Work &amp; Codex now, with Pro &amp; Business going out first! ✨",
+      "likes": 245,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2095913640889340160",
+      "author": "@svpino",
+      "text": "In a blind test, people selected videos generated using Visko Orbis 1.0 as the best.\n\nThis was the best model at generating scenes that make sense as the video plays: People, objects, and everything around them remain consistent.\n\nThis is still a big struggle with current video",
+      "likes": 222,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2096004837565514142",
+      "author": "@reach_vb",
+      "text": "Astra now available to all Plus &amp; Business users too - LFG!!!",
+      "likes": 233,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096005301640024320",
+      "author": "@reach_vb",
+      "text": "Astra on medium has been my daily driver for awhile now! \n\nFor vast majority of use-cases it just works!!",
+      "likes": 224,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095885848961318982",
+      "author": "@svpino",
+      "text": "5 design patterns for long-running agents:\n\n1. Design your prompts carefully. Keep system instructions and tool definitions at the top and move dynamic memories and runtime data to the end. This enables prompt caching, cutting costs and latency.\n\n2. Move any learnings on your",
+      "likes": 126,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2095622647375651100",
+      "author": "@jerryjliu0",
+      "text": "Today, we're excited to launch Extract Turbo ⚡️ - the fastest VLM-powered document extraction solution. \n\nIt is 3-5x faster than all other comparable OCR solutions, including our other LlamaParse tiers, at equivalent or higher accuracy.",
+      "likes": 95,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2095611502895960539",
+      "author": "@reach_vb",
+      "text": "\"Astra scores 99.9% on ARC-AGI-3 and 98% on FrontierMath Tier 4, and has already helped solve long-standing open problems in mathematics.\"",
+      "likes": 104,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095516794962182619",
+      "author": "@svpino",
+      "text": "I'm struggling with this and my kid.\n\nI don't want him to use AI to sidestep thinking, but I also want him to become aware of the possibilities.\n\nI have two goals right now:\n\n1) Create a mental model for him to decide when to use AI and when to think by himself.\n\n2) Teach him",
+      "likes": 95,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095688070792101923",
+      "author": "@jerryjliu0",
+      "text": "me waiting for GPT-6 Astra access on my ChatGPT Pro subscription",
+      "likes": 89,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095978474448081152",
+      "author": "@reach_vb",
+      "text": "Still blows my mind that Astra &amp; Codex made this video w/ blend, end to end - all autonomously!!",
+      "likes": 86,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095643099980603440",
+      "author": "@reach_vb",
+      "text": "the teams defending our most critical systems often have the fewest resources.\n\n$1B to put frontier AI, training and hands-on support in their hands. open source maintainers included.\n\nvery glad we’re doing this!",
+      "likes": 82,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096030675501568291",
+      "author": "@reach_vb",
+      "text": "btw Astra is also not a car.",
+      "likes": 79,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095528002637717890",
+      "author": "@svpino",
+      "text": "Two ways to stay up to date on what's happening with AI and agents:\n\n1. Follow the right people on this platform\n2. Check out Akamai's \"Edge Case\" Discord server\n\nThe former is like drinking from the firehouse. It's all breaking news, but it's hard to filter out the noise.\n\nThe",
+      "likes": 66,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095600970667638808",
+      "author": "@svpino",
+      "text": "This is a cool benchmark that uses video games to test agents.\n\nBasically, they speedrun the game to test how well agents can plan, act, learn from previous attempts, and optimize a long sequence of decisions.\n\nThe goal is to evaluate agents' capability through an",
+      "likes": 60,
+      "retweets": 6
+    }
+  ]
+}
