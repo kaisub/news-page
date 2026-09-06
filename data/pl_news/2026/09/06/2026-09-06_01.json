@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-06",
+  "slot": "01",
+  "generated_at": "2026-09-06T04:56:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2095748703780786490",
+      "author": "@laskowski_pl",
+      "text": "Proszę nie nosić telefonów do szkoły, proste.",
+      "likes": 91,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2096336461414945021",
+      "author": "@PAPinformacje",
+      "text": "Iga Świątek wygrała z czeską tenisistką Marie Bouzkovą 7:6 (7-3), 7:6 (7-3) w 3. rundzie wielkoszlemowego US Open. (PAP)\n#PAPInformacje",
+      "likes": 50,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095809917382791463",
+      "author": "@Macronextcom",
+      "text": "16,3% dorosłych mieszkańców #UE  jest otyłych , podczas gdy tylko 2% ma niedowagę - podał Eurostat. Nadwagę ma 35,4%. \n\nOtyły jest prawie co 5. Polak  ➡️ 19,4%, a nadwagę ma 39,4% (łącznie 58,8%).\n\nNajwięcej otyłych jest na Malcie (26,6%), a najmniej we Włoszech (7%). 👇",
+      "likes": 54,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096211497135325419",
+      "author": "@laskowski_pl",
+      "text": "Jedna szczeka, drugi udaje konia, animalistyczna prawica  😉",
+      "likes": 41,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095784521480147105",
+      "author": "@Macronextcom",
+      "text": "Poprawę w niemieckiej gospodarce zaczynają dostrzegać instytuty ekonomiczne. Wczoraj instytut #Ifo podwyższył prognozę PKB Niemiec:\n \n2026: 0,8% ➡️ 1,4%\n2027: 0,8% ➡️ 1,2%",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095852426846691458",
+      "author": "@Macronextcom",
+      "text": "I jak tu nie podnosić stóp, gdy rynek w USA tak mocny. Nie tylko mocny sierpień, ale też korekta w górę lipca.\n\nRynek pracy w #USA - sierpień 2026:\n\n🔸zatrudnienie: +162 tys. (prognoza: +55 tys.)\n🔸bezrobocie: 4,1% (prognoza: 4,1%)\n\n➡️",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096137049589846523",
+      "author": "@laskowski_pl",
+      "text": "Przeczytałem wywiad z Dr Hans-Thomas Tillschneider, posłem AfD i głównym ideologiem partii w Saksonii-Anhalt, podzielę się z Wami kilkoma ciekawymi tezami. \n\nO imigrantach \n\n\"Do państwa i narodu nie mamy podejścia etnicznego, związanego z pochodzeniem, lecz kulturowe. Dla mnie",
+      "likes": 28,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2095763658110317028",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Zbliżając się do jesieni spoglądamy na stany magazynowe gazu w Polsce i otrzymujemy dość pokrzepiającą informację. Na początku września wypełnienie wynosi 95%, powyżej zeszłorocznej wartości. Tymczasem ceny gazu w Europie przebiły 70 EUR za MWh (najwyżej od końca 2022).",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095845902271340864",
+      "author": "@Macronextcom",
+      "text": "Długi weekend w USA. \n\nPoniedziałek 7 września jest dniem wolnym w USA. Amerykanie obchodzą Świeto Pracy. \n\nTo oznacza, że dziś po sesji na Wall Street rozpoczyna się trzydniowy weekend.",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095755847817121985",
+      "author": "@Macronextcom",
+      "text": "#Niemcy: w VII 2026 r. Zamówienia w przemyśle: 2,5% m/m 📈 (prognoza: 0,3%; poprzednio: 3,7%) 👇\n\nJednak coś się poprawia w niemieckiej gospodarce.  Zamówienia kolejny miesiąc rosną mocniej od prognoz. Dalej słabym punktem jest to, że to efekt dużych zamówień. Bez nich -1,4% m/m.",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095804350819971319",
+      "author": "@laskowski_pl",
+      "text": "W przypadku 4 sędziów-bibliotekarzy @NawrockiKn nawet nie udawał, że jest jakiś powód dla którego nie przyjął od nich ślubowania - \"nie bo nie\" - to teraz będzie się stroił w piórka obrońcy demokracji, brzmi śmiesznie, ale tak będzie. \n\nPan Berek dołączy do bibliotekarzy.",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2096314285865533757",
+      "author": "@PAPinformacje",
+      "text": "Klaudia Kazimierska czasem 3.54,05 poprawiła w Brukseli rekord Polski w biegu na 1500 m. (PAP)\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095853358137405511",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Świetne dane z rynku pracy USA za sierpień. Zatrudnienie wzrosło aż o 162 tys. przy konsensusie 56 tys. Solidne wzrosty zanotowaliśmy zarówno w sektorze dóbr jak i usług. Nawet uwzględniając wzrost zatrudnienia w sektorze rządowym o 35 tys. to wciąż bardzo dobry wynik.",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095881901739323632",
+      "author": "@Macronextcom",
+      "text": "Oczekiwali obniżek stóp proc. w USA od października, a teraz twieedzą, że trzeba będzie na nie zaczekać do czerwca 2027👇\n\nCITIGROUP EXPECTS US FED TO DELIVER 25 BP RATE CUTS IN JUNE, SEPTEMBER AND DECEMBER 2027 VS PRIOR FORECAST OF CUTS IN OCTOBER, DECEMBER 2026 AND JANUARY 2027",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095966474745593931",
+      "author": "@PAPinformacje",
+      "text": "Diamentowa Liga. Kołodziejski najlepszy w skoku wzwyż w Brukseli\n#PAPInformacje",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096295568129597611",
+      "author": "@PAPinformacje",
+      "text": "Polskie siatkarki uległy Włoszkom 1:3 w półfinale mistrzostw Europy i zagrają o brązowy medal. (PAP)\n#PAPInformacje",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095941155217150440",
+      "author": "@PAPinformacje",
+      "text": "Rękopisy „Dziady, część druga” Adama Mickiewicza i Archiwum Filomatów w bibliotece KUL [WIDEO]\n#PAPInformacje",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096310881327935989",
+      "author": "@PAPinformacje",
+      "text": "Wichura na dożynkach. Cztery osoby ranne, w tym jedna ciężko\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095777224238522807",
+      "author": "@mbank_research",
+      "text": "🇩🇪 W pierwszej chwili sądziliśmy, że lipcowe zamówienia w przemyśle Niemiec to kolejny pozytywny sygnał z tamtejszej gospodarki. Niemniej bardziej wnikliwy rzut oka obnaża pewną słabość: zryw w lipcu był efektem (jednorazowych) dużych zamówień. Bez nich zanotowaliśmy spadek.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095763924440301940",
+      "author": "@Macronextcom",
+      "text": "Jeszcze w temacie #XTPL \n\nCoś dla zwolenników AT. Na wykresie dziennym XTPL mam zmianę trendu. Jednocześnie przełamana linia bessy i formacja oRGR. Plus wybicie powyżej dwóch ostatnich lokalnych szczytów.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096129848485777693",
+      "author": "@PAPinformacje",
+      "text": "Burze i silny wiatr. IMGW ostrzega\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095941034345636087",
+      "author": "@PAPinformacje",
+      "text": "Witkoff i Kushner przylecą do Kijowa. Zełenski potwierdza\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096237960395931692",
+      "author": "@PAPinformacje",
+      "text": "Wiatr na wybrzeżu nie odpuszcza. Molo w Kołobrzegu nieczynne do odwołania\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096269342706946388",
+      "author": "@PAPinformacje",
+      "text": "Zełenski: jesteśmy gotowi wstrzymać ogień do poniedziałku\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096121399039725911",
+      "author": "@DGPrawna",
+      "text": "W prawie pracy szefem jest ten, kto może zmienić grafik, wynagrodzenie albo szansę na zachowanie pracy. Jeżeli coraz częściej robi to infrastruktura decyzji, a nie pojedynczy przełożony, prawo powinno nauczyć się ją widzieć.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095780150549917771",
+      "author": "@DGPrawna",
+      "text": "W „Kulisach Polityki” @JMiziolek  rozmawia z Michałem Michałem Fedorowiczem z Res Futura o tym, kto dziś rozgrywa polityczny internet. O rosnącej sile Karola Nawrockiego, zasięgach Donalda Tuska, problemach PiS i wpływie Konfederacji na młodych wyborców.",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096264719770280029",
+      "author": "@PAPinformacje",
+      "text": "Andżelika Borys: zjazd Związku Polaków na Białorusi przełożony o pół roku\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096187081899028757",
+      "author": "@DGPrawna",
+      "text": "Argumenty, którymi big techy przez lata ucinały próby pociągnięcia ich do odpowiedzialności za żerowanie na nastolatkach, już nie działają w sądach. Media społecznościowe będą musiały wprowadzić zabezpieczenia mające oderwać młodych ludzi od ekranów.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096098915619627065",
+      "author": "@PAPinformacje",
+      "text": "Polki zawalczą o finał ME. Na drodze mistrzynie olimpijskie i świata\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096237832213782726",
+      "author": "@PAPinformacje",
+      "text": "Wypadek polskiego autokaru na Węgrzech. MSZ uspokaja\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096235446552474062",
+      "author": "@PAPinformacje",
+      "text": "Do południa w sobotę strażacy interweniowali prawie 420 razy #PAPinformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096160065300373913",
+      "author": "@PAPinformacje",
+      "text": "Przydacz: prezydent w weźmie udział w ceremonii pogrzebowej króla Norwegii Haralda V\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096123169186685059",
+      "author": "@PAPinformacje",
+      "text": "Reżyser „Bez końca”: to opowieść nie tylko o stracie dziecka, ale też o miłości [WYWIAD]\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096285480169955363",
+      "author": "@DGPrawna",
+      "text": "Gdy w sztabach wojskowych i gabinetach polityków trwały przygotowania do wojny, muzea, biblioteki i inne instytucje kultury gorączkowo pakowały swoje najcenniejsze zbiory. Od pierwszych dni okupacji Niemcy na masową skalę rozkradali polskie kolekcje.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096252513209160141",
+      "author": "@DGPrawna",
+      "text": "Odejście Ratko Mladicia tylko podsyca żale pielęgnowane od lat 90. Trybunał w Hadze mógł wymierzyć kary, ale nie zdołał wymierzyć sprawiedliwości.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095746679869698174",
+      "author": "@DGPrawna",
+      "text": "Recepta na brakujące dane o sprzęcie. Resort zdrowia przesuwa start systemu EPS i łączy go z ratownictwem medycznym",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096280434283790707",
+      "author": "@PAPinformacje",
+      "text": "Katastrofa myśliwca w Grecji. Piloci zginęli podczas pokazów [ZDJĘCIA]\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096218036034224456",
+      "author": "@DGPrawna",
+      "text": "Powstanie sowieckiej placówki dyplomatycznej w Warszawie poskutkowało niemal samymi kłopotami. Po każdym zamachu lub operacji szpiegowskiej tropy wiodły do budynku, w który rezydowali dyplomaci ze wschodu.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096154114761556006",
+      "author": "@DGPrawna",
+      "text": "hPrzeterminowany zestaw regulacji skazuje rząd na wieczną wojnę z biznesem i pracownikami, szkodzi też konsumentom. Może już czas wyrzucić 52-letni, pełen anachronizmów kodeks pracy na bruk.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096146555740770643",
+      "author": "@DGPrawna",
+      "text": "W najnowszym odcinku podcastu „Między nami POL i tyka” Karolina Wójcicka rozmawia z Jackiem Żakowskim o tym, czy Polska będzie gotowa bronić swoich sąsiadów w przypadku rosyjskiej agresji i w jakim stanie jest polska obrona cywilna.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}

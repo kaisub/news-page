@@ -1,0 +1,282 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-06",
+  "slot": "01",
+  "generated_at": "2026-09-06T04:56:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2095973658867171733",
+      "author": "@sama",
+      "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
+      "likes": 19921,
+      "retweets": 866
+    },
+    {
+      "tweet_id": "2096008528834244741",
+      "author": "@sama",
+      "text": "Now out to all Plus and Business users.\n\nHappy building!",
+      "likes": 17125,
+      "retweets": 720
+    },
+    {
+      "tweet_id": "2096241436509544744",
+      "author": "@sama",
+      "text": "it is obviously trivial relative to everything else, but the fact that astra can make me whatever fun little game i can imagine and i can be playing it a few minutes later is so cool",
+      "likes": 13820,
+      "retweets": 460
+    },
+    {
+      "tweet_id": "2095947707605266436",
+      "author": "@AnthropicAI",
+      "text": "Checking that a major mathematical proof is correct can take years. Formalization—converting the mathematical reasoning into a form computer proof assistants like Lean can verify—can help.\n\nLast month, Claude completed the first formalized proof of Fermat’s Last Theorem, one of",
+      "likes": 12181,
+      "retweets": 1602
+    },
+    {
+      "tweet_id": "2096015965657989363",
+      "author": "@reach_vb",
+      "text": "some things I’d recommend trying with Astra:\n\n- based on your past sessions, Gmail, slack, messages etc build you a control centre for your work via a ChatGPT site\n- use computer use to automate filling up boring forms/ apps\n- write, it’s a step change improvement in how good it",
+      "likes": 796,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2095922185139364267",
+      "author": "@GoogleAI",
+      "text": "Check out this week’s shipping recap:\n\n— Gemini 3.8 Flash, our most intelligent workhorse model yet, delivers upgrades across coding, agentic workflows, and critical multi-step reasoning.\n— Gemini 3.8 Flash Cyber, our most capable cybersecurity model, features frontier-level",
+      "likes": 686,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2096271854193271229",
+      "author": "@reach_vb",
+      "text": "I asked Astra to recreate @LewisHamilton’s Ferrari!\n\nIt went through F1 specs, regulations, videos from F1 engineers and photos of the car, then built a 3D model (w/ blender) with a full breakdown of the parts.\n\nIt even made clay &amp; wireframe versions too.\n\nEvery time I think I’ve",
+      "likes": 603,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2095851890223513913",
+      "author": "@svpino",
+      "text": "Many people have no idea what's happening.\n\nThey can't conceive that developers out there are deploying AI-generated code, because in their bubble, everyone is still writing Java code and running Scrum retrospectives.\n\nOne sunny afternoon, their CTO will meet a modern developer",
+      "likes": 583,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2095935857786024268",
+      "author": "@reach_vb",
+      "text": "HUGE! You can now use voice mode with *any* codex thread - even existing ones!\n\nQuality of Life improvement!!",
+      "likes": 553,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2096005301640024320",
+      "author": "@reach_vb",
+      "text": "Astra on medium has been my daily driver for awhile now! \n\nFor vast majority of use-cases it just works!!",
+      "likes": 422,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2095973112097747199",
+      "author": "@reach_vb",
+      "text": "GPT-6 Astra is now available to all Pro, Enterprise and Business Premium users in ChatGPT Work and Codex. It’s also live in the API.\n\nIt's a phenomenal model and I love every second working with it!\n\nAstra follows instructions more closely, so revisit your prompts and skills:\n\n&gt;",
+      "likes": 401,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2095829869573579105",
+      "author": "@reach_vb",
+      "text": "what an exciting time to be alive",
+      "likes": 317,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096004837565514142",
+      "author": "@reach_vb",
+      "text": "Astra now available to all Plus &amp; Business users too - LFG!!!",
+      "likes": 312,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2095963168837099562",
+      "author": "@reach_vb",
+      "text": "Astra is rolling out across ChatGPT Work &amp; Codex now, with Pro &amp; Business going out first! ✨",
+      "likes": 275,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2095913640889340160",
+      "author": "@svpino",
+      "text": "In a blind test, people selected videos generated using Visko Orbis 1.0 as the best.\n\nThis was the best model at generating scenes that make sense as the video plays: People, objects, and everything around them remain consistent.\n\nThis is still a big struggle with current video",
+      "likes": 228,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2096093968333197594",
+      "author": "@reach_vb",
+      "text": "Show me what you've built with Astra ✨",
+      "likes": 233,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2096224327909957797",
+      "author": "@svpino",
+      "text": "In the not-too-distant future, you will not need to write or read code in order to become a software engineer.",
+      "likes": 219,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2095885848961318982",
+      "author": "@svpino",
+      "text": "5 design patterns for long-running agents:\n\n1. Design your prompts carefully. Keep system instructions and tool definitions at the top and move dynamic memories and runtime data to the end. This enables prompt caching, cutting costs and latency.\n\n2. Move any learnings on your",
+      "likes": 193,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2096030675501568291",
+      "author": "@reach_vb",
+      "text": "btw Astra is also not a car.",
+      "likes": 192,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096148742399201521",
+      "author": "@reach_vb",
+      "text": "Astra is goated at computer use, it’s a serious jump vs GPT-5.6 Sol 👀\n\n&gt; ScreenSpot-Pro (finding where to click): 76.9% → 92.7%\n\n&gt; OSWorld 2.0 (desktop workflows): 65.7% → 72.6%; 47% less time in latency simulations\n\n&gt; Mind2Web (web tasks): 1.9x faster with Astra + updated",
+      "likes": 163,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2096258549131165746",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked GPT-6 Astra on hard document parsing and extraction tasks.\n\nIt is the best frontier model for one-shotting document extraction over short and medium-sized documents:\n📊  97.2% over short documents, achieving a new SOTA on our benchmark\n📊 90.6% over medium",
+      "likes": 144,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2096285996304433248",
+      "author": "@hwchase17",
+      "text": "This is very similar to how we think about context management in Deep Agents: compaction should reduce what is sent to the model, not erase the underlying work history.\n\n In Deep Agents, the logic is:\n\n - every agent gets a filesystem to work with (can be real or virtual)\n - when",
+      "likes": 134,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2096315303160422568",
+      "author": "@reach_vb",
+      "text": "most joyful prompt to ask Astra has been: “what should we tackle next?”",
+      "likes": 134,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096245887257178621",
+      "author": "@reach_vb",
+      "text": "Asked Astra in ChatGPT Work to create a site about itself!\n\nTurned way more beautiful than I thought - it even took care of different persona of people who would benefit from it\n\nLove how much the model can just infer from the context",
+      "likes": 126,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2095978474448081152",
+      "author": "@reach_vb",
+      "text": "Still blows my mind that Astra &amp; Codex made this video w/ blend, end to end - all autonomously!!",
+      "likes": 128,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096293898930802939",
+      "author": "@reach_vb",
+      "text": "Astra one-shotted this btw!",
+      "likes": 106,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095975444860342729",
+      "author": "@jerryjliu0",
+      "text": "Unlike other players in the OCR space, we don't block our competitors from accessing our platform.\n\nWe're also fully committed towards open, reproducible benchmarks for document parsing and extraction - on ParseBench and ExtractBench respectively. It's important to give the",
+      "likes": 84,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2096166486683377759",
+      "author": "@nauczymycieAI",
+      "text": "\"Nie dojdziemy do AGI przez LLM-y\". To jeden z komentarzy, który najczęściej słyszałem w trakcie ostatniego roku.\n\nTymczasem LLM-y zaczynają bardzo dobrze generalizować w realnym świecie. I to szybciej, niż ktokolwiek zakładał",
+      "likes": 54,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096002545441481031",
+      "author": "@jerryjliu0",
+      "text": "We've massively improved our document parsing capabilities across the board in the past ~3 months. \n\nOur LlamaParse cost-effective mode is one of the cheapest OCR solutions out there at &lt;0.4c per page, and it has improved a lot on parsing since when we first put out the",
+      "likes": 49,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2095901281772564698",
+      "author": "@svpino",
+      "text": "Many such cases. I know one who did this as well: get on with AI or get out.",
+      "likes": 53,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2095931150128787779",
+      "author": "@svpino",
+      "text": "Cline was the second most popular coding agent at a friend's company (after Claude Code).\n\nThe company has contracts with the Pentagon, so they had to drop Claude Code and move everything to Codex. They wanted to standardize everyone and migrate Cline users as well.\n\nThey",
+      "likes": 50,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2095937342532157664",
+      "author": "@hwchase17",
+      "text": "smithdb is a database we built for agent trajectories from the ground up\n\nankush has driven this from 0-&gt;1, we're now hiring a lead for it\n\nknow anyone good?",
+      "likes": 44,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2095832294363738176",
+      "author": "@nauczymycieAI",
+      "text": "Tak wygląda sytuacja w firmie, która nie walczyła z Dylematem Innowatora.\n\nTo nauczka dla nas wszystkich. Nie popełniajmy tych samych błędów co nasi zachodni sąsiedzi przez ostatnie dwie dekady",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096179752508047466",
+      "author": "@sentient_agency",
+      "text": "I don't understand why people are not starting a side hustle using AI tools like ChatGPT and Claude.\n\nWith their latest models like Fable 5.1 and GPT-6 Astra, you can make $10,000 a month.\n\nHere are 10 side hustles you can start right now:",
+      "likes": 29,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2095934146937860400",
+      "author": "@nauczymycieAI",
+      "text": "Tego o AI raczej nie usłyszysz w tradycyjnych mediach. A powinieneś.\n\nGoogle właśnie pokazało WeatherNext 3. To model AI, który bije na głowę wszystko co wykorzystywaliśmy wcześniej do przewidywania pogody. \n\nZnacznie szybciej i z większą precyzją potrafi przewidywać zmiany",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2095967676430536708",
+      "author": "@nauczymycieAI",
+      "text": "GPT-6 Astra już dostępna u mnie na planie Business.\n\nSprawdź u siebie - powinny być też na Pro. Użytkownicy Plus dostaną dostęp później",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2095814903303156188",
+      "author": "@sentient_agency",
+      "text": "YOUR $100 MOUSE SHOULD NOT NEED THE CLOUD.\n\nA developer named AprilNEA built a free, open-source replacement for Logitech Options+.\n\nIt’s called OpenLogi.\n\nIt runs locally and unlocks the useful parts of your Logitech mouse, keyboard, webcam, and lights:\n\n• Remap buttons\n•",
+      "likes": 19,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2095753615260487819",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów prezentuje - jak wynaleziono radio!",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096250554955497530",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów, obserwując współczesną politykę, czasem czuje zażenowanie. Człowiek patrzy na obrady, awantury, przerywanie sobie nawzajem, szczekanie i myśli: \"naprawdę przez tysiąc lat niczego się nie nauczyliśmy?\". 😅.",
+      "likes": 17,
+      "retweets": 1
+    }
+  ]
+}
