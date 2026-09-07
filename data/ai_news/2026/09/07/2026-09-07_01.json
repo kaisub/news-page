@@ -1,0 +1,233 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-07",
+  "slot": "01",
+  "generated_at": "2026-09-07T05:00:47Z",
+  "tweets": [
+    {
+      "tweet_id": "2096241436509544744",
+      "author": "@sama",
+      "text": "it is obviously trivial relative to everything else, but the fact that astra can make me whatever fun little game i can imagine and i can be playing it a few minutes later is so cool",
+      "likes": 17107,
+      "retweets": 559
+    },
+    {
+      "tweet_id": "2096647371983880383",
+      "author": "@sama",
+      "text": "An important post from Jakub:",
+      "likes": 4363,
+      "retweets": 218
+    },
+    {
+      "tweet_id": "2096612996256579653",
+      "author": "@reach_vb",
+      "text": "okay Astra time to rickroll",
+      "likes": 4365,
+      "retweets": 172
+    },
+    {
+      "tweet_id": "2096271854193271229",
+      "author": "@reach_vb",
+      "text": "I asked Astra to recreate @LewisHamilton’s Ferrari!\n\nIt went through F1 specs, regulations, videos from F1 engineers and photos of the car, then built a 3D model (w/ blender) with a full breakdown of the parts.\n\nIt even made clay &amp; wireframe versions too.\n\nEvery time I think I’ve",
+      "likes": 879,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2096684874346254615",
+      "author": "@reach_vb",
+      "text": "Astra/ LLM tip: prompt “make sure each word in this text justifies its existence.”\n\nworks like a charm, s/o to @charlierguo for introducing me to it",
+      "likes": 732,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2096635913170268283",
+      "author": "@reach_vb",
+      "text": "this is going to be my new “pelican on the bike” benchmark\n\nwe’re so early!",
+      "likes": 606,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2096493566457524601",
+      "author": "@reach_vb",
+      "text": "You don’t need /goal with Astra, it won’t stop till the task is done\n\n/goal was an anti pattern to begin with",
+      "likes": 603,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2096497979188228384",
+      "author": "@reach_vb",
+      "text": "Astra really said hold my beer and created a new benchmark altogether! 🤯",
+      "likes": 496,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096657879411384638",
+      "author": "@reach_vb",
+      "text": "ICYMI: Experimental but Codex can now keep notes across context windows and search earlier messages and tool outputs, including details missing from its notes.\n\nUseful for long debugging sessions and large refactors.\n\nTo try it:\n\n&gt; Update Codex and select Astra.\n\n&gt; Add to",
+      "likes": 430,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2096690061072838903",
+      "author": "@reach_vb",
+      "text": "This! Astra provides much higher performance at lower reasoning efforts compared to Sol (see attached)\n\nlow/ medium is a comfy default!",
+      "likes": 271,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2096224327909957797",
+      "author": "@svpino",
+      "text": "In the not-too-distant future, you will not need to write or read code in order to become a software engineer.",
+      "likes": 258,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2096586716643823987",
+      "author": "@svpino",
+      "text": "*Anyone* can write code. Even people who can't review that code can write it now and publish working software.\n\nCan anyone build *any* software? No, of course not. But many people can now build software without understanding the first thing about code.\n\nCoding skills are no",
+      "likes": 255,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2096285996304433248",
+      "author": "@hwchase17",
+      "text": "This is very similar to how we think about context management in Deep Agents: compaction should reduce what is sent to the model, not erase the underlying work history.\n\n In Deep Agents, the logic is:\n\n - every agent gets a filesystem to work with (can be real or virtual)\n - when",
+      "likes": 229,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2096258549131165746",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked GPT-6 Astra on hard document parsing and extraction tasks.\n\nIt is the best frontier model for one-shotting document extraction over short and medium-sized documents:\n📊  97.2% over short documents, achieving a new SOTA on our benchmark\n📊 90.6% over medium",
+      "likes": 171,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2096148742399201521",
+      "author": "@reach_vb",
+      "text": "Astra is goated at computer use, it’s a serious jump vs GPT-5.6 Sol 👀\n\n&gt; ScreenSpot-Pro (finding where to click): 76.9% → 92.7%\n\n&gt; OSWorld 2.0 (desktop workflows): 65.7% → 72.6%; 47% less time in latency simulations\n\n&gt; Mind2Web (web tasks): 1.9x faster with Astra + updated",
+      "likes": 178,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2096315303160422568",
+      "author": "@reach_vb",
+      "text": "most joyful prompt to ask Astra has been: “what should we tackle next?”",
+      "likes": 178,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096645774553559268",
+      "author": "@reach_vb",
+      "text": "“According to our measurements, we have now reached the goal, announced⁠ last fall, of having an automated research intern by September of this year.”\n\n“We are making strong progress toward creating an automated AI researcher by March of 2028.”\n\nA few interesting numbers on how",
+      "likes": 170,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2096624793957064764",
+      "author": "@reach_vb",
+      "text": "Prompt: “create a side by side video of rickroll &amp; a version created w/ blender, use a subagents to verify your output as you go. \n\nUse web search to get necessary assets for the task.”",
+      "likes": 161,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2096293898930802939",
+      "author": "@reach_vb",
+      "text": "Astra one-shotted this btw!",
+      "likes": 149,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096629604697899162",
+      "author": "@jerryjliu0",
+      "text": "Astra might finally help me automate what I've spent ~hundreds of hours doing since the start of this company: \n\nMaking live product demos through Loom or Screen Studio \n\nCheck out the video walkthrough on our new Agentic Plus mode for document extraction - where we're able to",
+      "likes": 135,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2096245887257178621",
+      "author": "@reach_vb",
+      "text": "Asked Astra in ChatGPT Work to create a site about itself!\n\nTurned way more beautiful than I thought - it even took care of different persona of people who would benefit from it\n\nLove how much the model can just infer from the context",
+      "likes": 136,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096739867786920156",
+      "author": "@reach_vb",
+      "text": "hi @steipete, what’s been the biggest aha moments you’ve had with astra so far? and what were the biggest changes you made in your codex setup from Sol to Astra!",
+      "likes": 135,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096179752508047466",
+      "author": "@sentient_agency",
+      "text": "I don't understand why people are not starting a side hustle using AI tools like ChatGPT and Claude.\n\nWith their latest models like Fable 5.1 and GPT-6 Astra, you can make $10,000 a month.\n\nHere are 10 side hustles you can start right now:",
+      "likes": 97,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2096664885165723779",
+      "author": "@reach_vb",
+      "text": "also, remember - you can just appshot things!\n\nappshot and let your codex take care of this",
+      "likes": 69,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096166486683377759",
+      "author": "@nauczymycieAI",
+      "text": "\"Nie dojdziemy do AGI przez LLM-y\". To jeden z komentarzy, który najczęściej słyszałem w trakcie ostatniego roku.\n\nTymczasem LLM-y zaczynają bardzo dobrze generalizować w realnym świecie. I to szybciej, niż ktokolwiek zakładał",
+      "likes": 61,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096669964228821068",
+      "author": "@hwchase17",
+      "text": "What are the tools you’d want to see in “open router for tools”",
+      "likes": 58,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096702098570097045",
+      "author": "@jerryjliu0",
+      "text": "everyone's building some video game with astra, and i got fomo, so i made gta 6 at home",
+      "likes": 37,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096513959306076349",
+      "author": "@rpl_0x",
+      "text": "Trochę szkoda mi tokenów i czasu na testowanie możliwości astry w robieniu one-prompt apek tylko po to żeby sprawdzić, ale imponujące jest to że aktualnie najmocniejsze modele są w stanie same korzystać z zewnętrznych narzędzi - i to tak zaawansowanych narzędzi jak blender.",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096250554955497530",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów, obserwując współczesną politykę, czasem czuje zażenowanie. Człowiek patrzy na obrady, awantury, przerywanie sobie nawzajem, szczekanie i myśli: \"naprawdę przez tysiąc lat niczego się nie nauczyliśmy?\". 😅.",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096661705829057014",
+      "author": "@nauczymycieAI",
+      "text": "Ile dostawcy AI dopłacają do Twojej subskrypcji, względem kosztu API?\n\nAutor projektu Real API Pricing (dostępny na GitHubie) policzył maksymalne limity w abonamentach i zestawił to z kosztem takiego samego użycia przez API.\n\nJak bardzo subsydiowane są plany?\n\n- Opus 5 w Claude",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096722716581593266",
+      "author": "@jerryjliu0",
+      "text": "correction: the switching costs weren't enough to stop my desire to try out gpt-6 astra\n\ni ported over all my skills and conversational context to codex this weekend. planning to use it as my daily driver for now \n\nif the new model is sufficiently good enough, the switching costs",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096631313759433026",
+      "author": "@Oli_Oli_crypto",
+      "text": "Co dalej z $TAO?\n\n$12,9 mld za Hugging Face.\n$8 mld za OpenRouter.\n$6 mld za technologię Poolside\n\nA cały Bittensor jest dziś wyceniany przez rynek na około $2,25 mld.\n\nI właśnie dlatego ostatnie ruchy wokół open-source AI są dla mnie bardzo ciekawe z perspektywy $TAO.\n\nW",
+      "likes": 90,
+      "retweets": 4
+    }
+  ]
+}

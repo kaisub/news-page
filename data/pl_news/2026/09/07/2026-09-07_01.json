@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-07",
+  "slot": "01",
+  "generated_at": "2026-09-07T05:00:47Z",
+  "tweets": [
+    {
+      "tweet_id": "2096495120707146219",
+      "author": "@laskowski_pl",
+      "text": "\"Jeszcze nikt nie wygrał z lekarzami\"",
+      "likes": 493,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2096493985204146327",
+      "author": "@laskowski_pl",
+      "text": "Czyli po wyborach. \nMinistra od zdrowia robi wszystko, aby nic nie zrobić. \nNajgorszy wybór @donaldtusk ever!",
+      "likes": 331,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2096468258098385149",
+      "author": "@laskowski_pl",
+      "text": "Amerykańscy lobbyści z Żabki już pukają do drzwi ambasady USA, zakaz sprzedaży małpek to upadek tej sieci. \nCVC kupiło sieć Żabka w 2017 r. \nCVC powstało w 1981 r. jako europejski oddział Citicorp Venture Capital.",
+      "likes": 143,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2096465834860241273",
+      "author": "@laskowski_pl",
+      "text": "Gdyby @NawrockiKn miał chociaż jedno jajo, z tych które ma Meloni, ale nie, on woli płaszczyć się przed pomarańczowym Panem...",
+      "likes": 63,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096633838487183605",
+      "author": "@PAPinformacje",
+      "text": "Niemcy/ Exit poll stacji ZDF: Alternatywa dla Niemiec (AfD) wygrywa wybory w Saksonii-Anhalcie z 44 proc. głosów\n#PAPinformacje",
+      "likes": 42,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2096211497135325419",
+      "author": "@laskowski_pl",
+      "text": "Jedna szczeka, drugi udaje konia, animalistyczna prawica  😉",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096465470207472100",
+      "author": "@laskowski_pl",
+      "text": "To kolejny zatopiony tankowiec, a @Greenpeace_PL nie krzyczy o katastrofie ekologicznej 🤔",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096137049589846523",
+      "author": "@laskowski_pl",
+      "text": "Przeczytałem wywiad z Dr Hans-Thomas Tillschneider, posłem AfD i głównym ideologiem partii w Saksonii-Anhalt, podzielę się z Wami kilkoma ciekawymi tezami. \n\nO imigrantach \n\n\"Do państwa i narodu nie mamy podejścia etnicznego, związanego z pochodzeniem, lecz kulturowe. Dla mnie",
+      "likes": 30,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2096568282207670497",
+      "author": "@PAPinformacje",
+      "text": "\"Dolar za dolara\". Od wtorku zdecydowana odpowiedź Kanady na amerykańskie cła ⤵️\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2096568129912508590",
+      "author": "@PAPinformacje",
+      "text": "Witkoff i Kushner po raz pierwszy w Kijowie. Zełenski: chcemy zakończyć wojnę ⤵️\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096568563628712448",
+      "author": "@PAPinformacje",
+      "text": "\"Niezidentyfikowany obiekt z kierunku Białorusi\". Wojsko reaguje ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096640991939719601",
+      "author": "@PAPinformacje",
+      "text": "Tybet. Wzrosła liczba ofiar śmiertelnych powodzi przy granicy z Nepalem ⤵️\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096487569932292540",
+      "author": "@PAPinformacje",
+      "text": "Wysłannicy Trumpa na spotkaniu w Moskwie. Wśród tematów sankcje\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096684945989132705",
+      "author": "@PAPinformacje",
+      "text": "🎥Od wydarzeń w kraju, przez kulturę i znane twarze, po naukę, technologię, przyrodę i materiały interwencyjne. Tak wyglądał ten weekend w serwisie wideo @PAPinformacje. W najnowszym płrzeglądzie pokazujemy część tematów zrealizowanych przez reporterów PAP w ostatnich dniach.",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096661533765861526",
+      "author": "@PAPinformacje",
+      "text": "Stysiak po przegranej z Serbią: jeszcze nam trochę brakuje do najlepszych zespołów ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096588544579932439",
+      "author": "@PAPinformacje",
+      "text": "Nadchodzi wyraźnie ocieplenie, nawet do 30 stopni na południu kraju. Od czwartku deszcz ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096617552017268953",
+      "author": "@PAPinformacje",
+      "text": "Ekstremalne upały nie powstrzymały zwiedzających. Rzym notuje rekordowe lato w turystyce ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096617364011851997",
+      "author": "@PAPinformacje",
+      "text": "Witkoff i Kushner w Kijowie. Zakończyła się pierwsza runda rozmów z Zełenskim ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096518570595266688",
+      "author": "@PAPinformacje",
+      "text": "Erupcja wulkanu w Indonezji sparaliżowała ruch lotniczy. Władze planują zasiew chmur\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096121399039725911",
+      "author": "@DGPrawna",
+      "text": "W prawie pracy szefem jest ten, kto może zmienić grafik, wynagrodzenie albo szansę na zachowanie pracy. Jeżeli coraz częściej robi to infrastruktura decyzji, a nie pojedynczy przełożony, prawo powinno nauczyć się ją widzieć.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096664184754774160",
+      "author": "@PAPinformacje",
+      "text": "Manita Barcelony. Kolejny popis w meczu z Valencią ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096661923215401045",
+      "author": "@PAPinformacje",
+      "text": "Wybory w Saksonii-Anhalcie. Wyniki sondażu exit poll ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096643896138674593",
+      "author": "@PAPinformacje",
+      "text": "Ważny komunikat ws. Gianniego Infantino. Jest oświadczenie FIFA ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096615406882406860",
+      "author": "@PAPinformacje",
+      "text": "Polskie siatkarki przegrały z Serbkami 1:3 w meczu o brązowy medal mistrzostw Europy. (PAP)\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096520528798642523",
+      "author": "@DGPrawna",
+      "text": "Sepsa potrafi zabić w kilka dni. To dlatego, że w trakcie takiej infekcji nasze komórki dosłownie eksplodują. Badania polskich i amerykańskich naukowców dowodzą, że proces ten można zatrzymać, a same komórki uzdrowić.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096187081899028757",
+      "author": "@DGPrawna",
+      "text": "Argumenty, którymi big techy przez lata ucinały próby pociągnięcia ich do odpowiedzialności za żerowanie na nastolatkach, już nie działają w sądach. Media społecznościowe będą musiały wprowadzić zabezpieczenia mające oderwać młodych ludzi od ekranów.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096662115062837382",
+      "author": "@PAPinformacje",
+      "text": "Zagraniczne wakacje Polaków. Dokąd najczęściej podróżujemy? ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096588641334075642",
+      "author": "@PAPinformacje",
+      "text": "Rusza Liga Mistrzów. Szymon Marciniak poprowadzi hit w Portugalii ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096505932725530849",
+      "author": "@DGPrawna",
+      "text": "Jak wyglądają prognozy Ministerstwa Finansów dotyczące dochodów państwa z PIT, czym się różni polski koszyk konsumpcyjny od unijnego, jaki udział w koszyku mają serwisy streamingowe. Z różnych stron przyglądamy się finansom Polaków.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096336063509959084",
+      "author": "@DGPrawna",
+      "text": "Seryjni mordercy, sadystyczni klawisze, gwałciciele, psychopaci wszelkiej maści zaludniają ekrany i tysiące stron w jedynym celu, jakim jest rozrywka – pisze o literaturze José Ovejero.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096305612808126708",
+      "author": "@DGPrawna",
+      "text": "Na niemieckiej scenie politycznej wszystko na prawo od CDU było jeszcze niedawno blokowane Brandmauer (zaporą ogniową). Dziś na naszych oczach ten mur kruszeje.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096285480169955363",
+      "author": "@DGPrawna",
+      "text": "Gdy w sztabach wojskowych i gabinetach polityków trwały przygotowania do wojny, muzea, biblioteki i inne instytucje kultury gorączkowo pakowały swoje najcenniejsze zbiory. Od pierwszych dni okupacji Niemcy na masową skalę rozkradali polskie kolekcje.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096252513209160141",
+      "author": "@DGPrawna",
+      "text": "Odejście Ratko Mladicia tylko podsyca żale pielęgnowane od lat 90. Trybunał w Hadze mógł wymierzyć kary, ale nie zdołał wymierzyć sprawiedliwości.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096551734508228841",
+      "author": "@DGPrawna",
+      "text": "Wszystko należy robić tak prosto, jak tylko się da – ale nie prościej. To przypisywane Einsteinowi powiedzonko dobrze pasuje do bardzo wielu spraw. W tym również do procesu wypierania papierowego pieniądza z użytku.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096218036034224456",
+      "author": "@DGPrawna",
+      "text": "Powstanie sowieckiej placówki dyplomatycznej w Warszawie poskutkowało niemal samymi kłopotami. Po każdym zamachu lub operacji szpiegowskiej tropy wiodły do budynku, w który rezydowali dyplomaci ze wschodu.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096154114761556006",
+      "author": "@DGPrawna",
+      "text": "hPrzeterminowany zestaw regulacji skazuje rząd na wieczną wojnę z biznesem i pracownikami, szkodzi też konsumentom. Może już czas wyrzucić 52-letni, pełen anachronizmów kodeks pracy na bruk.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096146555740770643",
+      "author": "@DGPrawna",
+      "text": "W najnowszym odcinku podcastu „Między nami POL i tyka” Karolina Wójcicka rozmawia z Jackiem Żakowskim o tym, czy Polska będzie gotowa bronić swoich sąsiadów w przypadku rosyjskiej agresji i w jakim stanie jest polska obrona cywilna.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096145272099246293",
+      "author": "@DGPrawna",
+      "text": "🟥 RAPORT SPECJALNY DGP |  Rząd domyka ważny etap KPO, ale inwestycje nie zwalniają. Co do tej pory sfinansowano z programu?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096104249553813572",
+      "author": "@DGPrawna",
+      "text": "Można by sądzić, że skoro polska debata publiczna do granic możliwości eksploatuje podział na wielkomiejskie elity i lud, nasza wiedza na ich temat będzie pogłębiona. Nic bardziej mylnego - pisze Marcin Kędzierski.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096817519629586686",
+      "author": "@DGPrawna",
+      "text": "Bezrobocie wśród cudzoziemców spada, ale ten trend nie musi być stały",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
