@@ -1,0 +1,268 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-08",
+  "slot": "01",
+  "generated_at": "2026-09-08T04:51:01Z",
+  "tweets": [
+    {
+      "tweet_id": "2096612996256579653",
+      "author": "@reach_vb",
+      "text": "okay Astra time to rickroll",
+      "likes": 8414,
+      "retweets": 370
+    },
+    {
+      "tweet_id": "2096647371983880383",
+      "author": "@sama",
+      "text": "An important post from Jakub:",
+      "likes": 5699,
+      "retweets": 293
+    },
+    {
+      "tweet_id": "2097100854729834636",
+      "author": "@ammaar",
+      "text": "I used GPT-6 Astra to get AAA PC games running on my iPad mini!\n\nSkyrim, Batman: Arkham City, Hades, and Age of Empires II.\n\nThe actual Windows versions, running locally with touch controls. No streaming.\n\nDemo below and I'll share a repo and setup guides soon!",
+      "likes": 1493,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2096684874346254615",
+      "author": "@reach_vb",
+      "text": "Astra/ LLM tip: prompt “make sure each word in this text justifies its existence.”\n\nworks like a charm, s/o to @charlierguo for introducing me to it",
+      "likes": 1229,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2096942812847870043",
+      "author": "@svpino",
+      "text": "Meet a developer who can't use AI because his company doesn't let him.\n\nHe knows this is probably the last developer job he will ever have. If he gets laid off, he will be years behind everyone else.\n\nScary place to be.\n\nI told him to find a new job.",
+      "likes": 1053,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2096657879411384638",
+      "author": "@reach_vb",
+      "text": "ICYMI: Experimental but Codex can now keep notes across context windows and search earlier messages and tool outputs, including details missing from its notes.\n\nUseful for long debugging sessions and large refactors.\n\nTo try it:\n\n&gt; Update Codex and select Astra.\n\n&gt; Add to",
+      "likes": 522,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2097044074150666644",
+      "author": "@reach_vb",
+      "text": "HUGE! Astra now has full visibility into how much usage you’ve got left and resets  too\n\nParticularly useful for long running tasks",
+      "likes": 460,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2096690061072838903",
+      "author": "@reach_vb",
+      "text": "This! Astra provides much higher performance at lower reasoning efforts compared to Sol (see attached)\n\nlow/ medium is a comfy default!",
+      "likes": 354,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2096586716643823987",
+      "author": "@svpino",
+      "text": "*Anyone* can write code. Even people who can't review that code can write it now and publish working software.\n\nCan anyone build *any* software? No, of course not. But many people can now build software without understanding the first thing about code.\n\nCoding skills are no",
+      "likes": 270,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2096859483594981622",
+      "author": "@reach_vb",
+      "text": "okay Astra build a personal website for yourself, no text",
+      "likes": 258,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096739867786920156",
+      "author": "@reach_vb",
+      "text": "hi @steipete, what’s been the biggest aha moments you’ve had with astra so far? and what were the biggest changes you made in your codex setup from Sol to Astra!",
+      "likes": 253,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096925940051853489",
+      "author": "@rpl_0x",
+      "text": "Ktoś wrzucił na Hugging Face dataset z metadanymi ok. 4,5 MILIARDA filmów z TikToka. \n\n~289 GB danych. Bez samych filmów, ale za to:\n\n• caption (desc)\n• liczba views, likes, comments, shares i saves\n• długość filmu\n• data publikacji\n• kraj i język\n• użyty sound / music_id",
+      "likes": 231,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2096857643763544190",
+      "author": "@reach_vb",
+      "text": "3.4 MILLION VIEWS???",
+      "likes": 244,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097052452360974522",
+      "author": "@reach_vb",
+      "text": "Reset @ 18:00 PT today!!\n\nTime for even more blender gamesss",
+      "likes": 239,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096968605518692367",
+      "author": "@reach_vb",
+      "text": "Astra is SoTA on MazeBench by a huge margin:",
+      "likes": 229,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2097021689154417019",
+      "author": "@reach_vb",
+      "text": "ChatGPT Work can learn your writing style from the tools you use.\n\n&gt; Open ChatGPT Work on web\n&gt; Connect Gmail, Drive, Slack or SharePoint\n&gt; Settings &gt; Personalization &gt; Writing style\n\nAvailable on paid plans with Work access.",
+      "likes": 223,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2096645774553559268",
+      "author": "@reach_vb",
+      "text": "“According to our measurements, we have now reached the goal, announced⁠ last fall, of having an automated research intern by September of this year.”\n\n“We are making strong progress toward creating an automated AI researcher by March of 2028.”\n\nA few interesting numbers on how",
+      "likes": 198,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2096629604697899162",
+      "author": "@jerryjliu0",
+      "text": "Astra might finally help me automate what I've spent ~hundreds of hours doing since the start of this company: \n\nMaking live product demos through Loom or Screen Studio \n\nCheck out the video walkthrough on our new Agentic Plus mode for document extraction - where we're able to",
+      "likes": 186,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2096669964228821068",
+      "author": "@hwchase17",
+      "text": "What are the tools you’d want to see in “open router for tools”",
+      "likes": 92,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097102145451405462",
+      "author": "@reach_vb",
+      "text": "I told Astra to go deep on a Nürburgring flythrough.\n\nIt independently researched and recreated the full 20.8 km Nordschleife in Blender, added ~65,000 trees, and composed an original soundtrack.\n\n20.9 billion rendered pixels. 62.8 GB of renders.\n\nPretty wild.",
+      "likes": 86,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2096664885165723779",
+      "author": "@reach_vb",
+      "text": "also, remember - you can just appshot things!\n\nappshot and let your codex take care of this",
+      "likes": 82,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097039796103242125",
+      "author": "@reach_vb",
+      "text": "still blows my mind that Astra came up with this and all of this for less than 3$",
+      "likes": 70,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096702098570097045",
+      "author": "@jerryjliu0",
+      "text": "everyone's building some video game with astra, and i got fomo, so i made gta 6 at home",
+      "likes": 53,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096968751631462551",
+      "author": "@svpino",
+      "text": "Some companies are still hiring exclusively with old-fashion questions (no AI involved).\n\nSome companies (most that I've seen), are starting to let candidates use AI as part of their interviews.\n\nSome companies are exclusively asking questions related to AI-assisted development:",
+      "likes": 52,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097022005702725840",
+      "author": "@nauczymycieAI",
+      "text": "GPT-6 Astra to może być Claude Code moment dla wszystkich, którzy na codzień nie programują.\n\nWiele osób technicznych nie docenia jak trudno dziś osobom, które nie programują, efektywnie wykorzystać AI w pracy.\n\nDla przykładu - chcesz, żeby model przeanalizował wyniki kampanii",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096722716581593266",
+      "author": "@jerryjliu0",
+      "text": "correction: the switching costs weren't enough to stop my desire to try out gpt-6 astra\n\ni ported over all my skills and conversational context to codex this weekend. planning to use it as my daily driver for now \n\nif the new model is sufficiently good enough, the switching costs",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096513959306076349",
+      "author": "@rpl_0x",
+      "text": "Trochę szkoda mi tokenów i czasu na testowanie możliwości astry w robieniu one-prompt apek tylko po to żeby sprawdzić, ale imponujące jest to że aktualnie najmocniejsze modele są w stanie same korzystać z zewnętrznych narzędzi - i to tak zaawansowanych narzędzi jak blender.",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096930190668751163",
+      "author": "@sentient_agency",
+      "text": "You can make $10,000 a month using ChatGPT and Claude.\n\nIf you have:\n\n- free time\n- wifi\n- a laptop with a subscription to either ChatGPT or Claude\n\nHere's how you can start and earn a living using  AI tools:",
+      "likes": 17,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2096661705829057014",
+      "author": "@nauczymycieAI",
+      "text": "Ile dostawcy AI dopłacają do Twojej subskrypcji, względem kosztu API?\n\nAutor projektu Real API Pricing (dostępny na GitHubie) policzył maksymalne limity w abonamentach i zestawił to z kosztem takiego samego użycia przez API.\n\nJak bardzo subsydiowane są plany?\n\n- Opus 5 w Claude",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096885181881684007",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów opowiada historię sztucznej inteligencji!\n\n🇵🇱 1932 — Polacy łamią Enigmę. Rejewski, Różycki i Zygalski wykorzystują matematykę i mechanizację obliczeń. To jeszcze nie AI, ale świetny początek historii \"maszyn rozwiązujących problemy\".\n\n🧠 1950 - Alan Turing pyta:",
+      "likes": 22,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096937037974716676",
+      "author": "@rpl_0x",
+      "text": "Clickbaitowy tytuł onetu za paywallem, ale artykuł jest na bazie publicznego raportu - eksperymentu OpenAI\n\nW eksperymencie uruchomiono tysiące agentów AI, które miały wykonywać zadania związane z benchmarkiem cyberbezpieczeństwa ExploitGym.\n\nAgenci mieli działać osobno, ale",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097178615268143359",
+      "author": "@reach_vb",
+      "text": "okay astra make a site about yourself",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096916817058857263",
+      "author": "@rpl_0x",
+      "text": "Fajna apka gdzie można sobie podejrzeć na mapie gdzie były kręcone filmy.\n\nmoviescenemap (.) com\n\nJa pierwsze co to sobie sprawdziłem Ajt Bin Haddu i Warzazat - byłem tam na początku roku, i jest tam taka mega efektowna ufortyfikowana gliniana osada która na przykład robiła za",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096966572527046973",
+      "author": "@jerryjliu0",
+      "text": "Nathan's just prepping for The Rehearsal season 3",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096926197695262859",
+      "author": "@rpl_0x",
+      "text": "tutaj link - repo ma wiele plików, całość ma 300GB ale można pracować na fragmentach osobno",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096871669788733773",
+      "author": "@rpl_0x",
+      "text": "Sprawdźcie gre Mateusza - połączył tu gre z ręcznościową z  nauką o cyberbezpieczeństwie, no i oczywiście testy Astry w pracy z Blenderem i Unity",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096631313759433026",
+      "author": "@Oli_Oli_crypto",
+      "text": "Co dalej z $TAO?\n\n$12,9 mld za Hugging Face.\n$8 mld za OpenRouter.\n$6 mld za technologię Poolside\n\nA cały Bittensor jest dziś wyceniany przez rynek na około $2,25 mld.\n\nI właśnie dlatego ostatnie ruchy wokół open-source AI są dla mnie bardzo ciekawe z perspektywy $TAO.\n\nW",
+      "likes": 112,
+      "retweets": 7
+    }
+  ]
+}
