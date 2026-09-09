@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-09",
+  "slot": "01",
+  "generated_at": "2026-09-09T05:01:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2097410967978324010",
+      "author": "@sama",
+      "text": "Images 2.5 is here.\n\nI don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.",
+      "likes": 14595,
+      "retweets": 872
+    },
+    {
+      "tweet_id": "2097380249910854023",
+      "author": "@sama",
+      "text": "One of the most amazing moments for me in OpenAI history was watching this happen over the past week:",
+      "likes": 14496,
+      "retweets": 768
+    },
+    {
+      "tweet_id": "2097385167002415140",
+      "author": "@sama",
+      "text": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted with integrity and generosity throughout.\n\nInitially we believed the other team had also solved the problem. We wanted to collaborate and do a joint release. \n\nWhen we learned that",
+      "likes": 9235,
+      "retweets": 496
+    },
+    {
+      "tweet_id": "2097404861642137851",
+      "author": "@sama",
+      "text": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:",
+      "likes": 8039,
+      "retweets": 309
+    },
+    {
+      "tweet_id": "2097450292996604189",
+      "author": "@sama",
+      "text": "i want one!",
+      "likes": 4011,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2097100854729834636",
+      "author": "@ammaar",
+      "text": "I used GPT-6 Astra to get AAA PC games running on my iPad mini!\n\nSkyrim, Batman: Arkham City, Hades, and Age of Empires II.\n\nThe actual Windows versions, running locally with touch controls. No streaming.\n\nDemo below and I'll share a repo and setup guides soon!",
+      "likes": 3566,
+      "retweets": 180
+    },
+    {
+      "tweet_id": "2097363234747818070",
+      "author": "@bcherny",
+      "text": "I am pleased to see that OpenAI’s new model is roughly on par with Gemini Flash and Opus 4.8 on prompt injection risk. Nice work!\n\nEvaluating and naming other labs turns out to be a great way to encourage them to train more aligned models. We will continue to do this until other",
+      "likes": 3133,
+      "retweets": 108
+    },
+    {
+      "tweet_id": "2096942812847870043",
+      "author": "@svpino",
+      "text": "Meet a developer who can't use AI because his company doesn't let him.\n\nHe knows this is probably the last developer job he will ever have. If he gets laid off, he will be years behind everyone else.\n\nScary place to be.\n\nI told him to find a new job.",
+      "likes": 1284,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2097470212471922848",
+      "author": "@bcherny",
+      "text": "It's the little things",
+      "likes": 1131,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2097044074150666644",
+      "author": "@reach_vb",
+      "text": "HUGE! Astra now has full visibility into how much usage you’ve got left and resets  too\n\nParticularly useful for long running tasks",
+      "likes": 658,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2097401374774567140",
+      "author": "@jerryjliu0",
+      "text": "i'm fucking dead",
+      "likes": 598,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2097399096000581655",
+      "author": "@reach_vb",
+      "text": "Introducing ChatGPT Images 2.5 🎨\n\n&gt; Up to 50% lower generation latency vs Images 2.0\n&gt; More natural lighting, textures, and recognizable subjects\n&gt; Better detail preservation across repeated edits\n&gt; Comment directly on images to target changes\n&gt; Better handling of complex",
+      "likes": 335,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2097341953172263311",
+      "author": "@svpino",
+      "text": "I used to work on computer vision models for robots and drones, and nothing is slower than having to run the robot in order to test your code.\n\nThis promises to solve that.\n\nThey will build a digital twin that will simulate the physical world.\n\nDigital twins are virtual models of",
+      "likes": 283,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2097021689154417019",
+      "author": "@reach_vb",
+      "text": "ChatGPT Work can learn your writing style from the tools you use.\n\n&gt; Open ChatGPT Work on web\n&gt; Connect Gmail, Drive, Slack or SharePoint\n&gt; Settings &gt; Personalization &gt; Writing style\n\nAvailable on paid plans with Work access.",
+      "likes": 263,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2096859483594981622",
+      "author": "@reach_vb",
+      "text": "okay Astra build a personal website for yourself, no text",
+      "likes": 274,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2097052452360974522",
+      "author": "@reach_vb",
+      "text": "Reset @ 18:00 PT today!!\n\nTime for even more blender gamesss",
+      "likes": 268,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2096925940051853489",
+      "author": "@rpl_0x",
+      "text": "Ktoś wrzucił na Hugging Face dataset z metadanymi ok. 4,5 MILIARDA filmów z TikToka. \n\n~289 GB danych. Bez samych filmów, ale za to:\n\n• caption (desc)\n• liczba views, likes, comments, shares i saves\n• długość filmu\n• data publikacji\n• kraj i język\n• użyty sound / music_id",
+      "likes": 249,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2096857643763544190",
+      "author": "@reach_vb",
+      "text": "3.4 MILLION VIEWS???",
+      "likes": 257,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096968605518692367",
+      "author": "@reach_vb",
+      "text": "Astra is SoTA on MazeBench by a huge margin:",
+      "likes": 244,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2097378472804937883",
+      "author": "@reach_vb",
+      "text": "I still can’t believe we solved a millennium prize problem  this in 2026!!\n\nLLMs have historically struggled on out of domain tasks and this as OOD a task as it gets\n\nKudos to the team on achieving this in such a short period of time",
+      "likes": 227,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2097383500047409173",
+      "author": "@reach_vb",
+      "text": "bookmarking this to come back to this in a year on 8th September 2027",
+      "likes": 217,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097102145451405462",
+      "author": "@reach_vb",
+      "text": "I told Astra to go deep on a Nürburgring flythrough.\n\nIt independently researched and recreated the full 20.8 km Nordschleife in Blender, added ~65,000 trees, and composed an original soundtrack.\n\n20.9 billion rendered pixels. 62.8 GB of renders.\n\nPretty wild.",
+      "likes": 190,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2097296398001852725",
+      "author": "@svpino",
+      "text": "AI Engineering is a lot more than learning how to prompt a model.\n\nYesterday, I told the story of a developer who can't use AI at work and is afraid of falling behind, and many people replied, saying that it would take almost no time to learn everything required to become an",
+      "likes": 154,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2097325877927317543",
+      "author": "@reach_vb",
+      "text": "okay Astra let’s make will smith eat spaghetti",
+      "likes": 167,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097223761799819770",
+      "author": "@reach_vb",
+      "text": "21 days to DevDay btw! :excited:",
+      "likes": 151,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2097335400654361073",
+      "author": "@svpino",
+      "text": "I haven't read a single line of AI-generated code in a couple of months.\n\nManually reading code is no longer effective for me.\n\nCode is a low-bandwidth information source. The more you have, the harder it becomes to separate the signal from the noise.\n\nInstead, I spend most of my",
+      "likes": 134,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2097039796103242125",
+      "author": "@reach_vb",
+      "text": "still blows my mind that Astra came up with this and all of this for less than 3$",
+      "likes": 94,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097410530717704546",
+      "author": "@hwchase17",
+      "text": "harnesses should make context engineering easy\n\n\"forking\" subagents is a useful context engineering trick that is now built into deepagents",
+      "likes": 86,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2097355841183596632",
+      "author": "@hwchase17",
+      "text": "kai is very cool, and every company should have a kai\n\nthis episode is a great resource on how stripe built it\n\nhere's another blog for some additional context:",
+      "likes": 83,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2096968751631462551",
+      "author": "@svpino",
+      "text": "Some companies are still hiring exclusively with old-fashion questions (no AI involved).\n\nSome companies (most that I've seen), are starting to let candidates use AI as part of their interviews.\n\nSome companies are exclusively asking questions related to AI-assisted development:",
+      "likes": 61,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097022005702725840",
+      "author": "@nauczymycieAI",
+      "text": "GPT-6 Astra to może być Claude Code moment dla wszystkich, którzy na codzień nie programują.\n\nWiele osób technicznych nie docenia jak trudno dziś osobom, które nie programują, efektywnie wykorzystać AI w pracy.\n\nDla przykładu - chcesz, żeby model przeanalizował wyniki kampanii",
+      "likes": 49,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097443947161243902",
+      "author": "@hwchase17",
+      "text": "an increasingly hard part of agents is handling auth\n\ndoes the agent act as itself, or on behalf of a user\n\nwe're trying to make this as easy as possible in managed deepagents!",
+      "likes": 47,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2097327331639484842",
+      "author": "@nauczymycieAI",
+      "text": "Kolejny dowód na to, że modele Gemini i Muse (od Mety) są mocno benchmaxxowane.\n\nKiedy wychodzi nowa edycja benchmarku, którego nie mogli uwzględnić w danych treningowych - magicznym sposobem radzą sobie znacznie gorzej niż konkurencja",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097447020554289488",
+      "author": "@hwchase17",
+      "text": "memory comes built into deepagents!",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2096930190668751163",
+      "author": "@sentient_agency",
+      "text": "You can make $10,000 a month using ChatGPT and Claude.\n\nIf you have:\n\n- free time\n- wifi\n- a laptop with a subscription to either ChatGPT or Claude\n\nHere's how you can start and earn a living using  AI tools:",
+      "likes": 18,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2097260331768955330",
+      "author": "@sentient_agency",
+      "text": "This is insane.\n\nSomeone turned the idea of a Wall Street trading team into an open-source AI tool.\n\nIts called TradingAgents.\n\nYou get AI analysts, bullish and bearish researchers, a trader, and risk managers.\n\nThey study market data, debate the evidence, and produce a trading",
+      "likes": 16,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2097333390554915050",
+      "author": "@nauczymycieAI",
+      "text": "\"AI nigdy nie będzie tak rozumne jak ludzie!\"\n\nTymczasem ludzie:",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2096885181881684007",
+      "author": "@rpl_0x",
+      "text": "Świadek Dziejów opowiada historię sztucznej inteligencji!\n\n🇵🇱 1932 — Polacy łamią Enigmę. Rejewski, Różycki i Zygalski wykorzystują matematykę i mechanizację obliczeń. To jeszcze nie AI, ale świetny początek historii \"maszyn rozwiązujących problemy\".\n\n🧠 1950 - Alan Turing pyta:",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2096937037974716676",
+      "author": "@rpl_0x",
+      "text": "Clickbaitowy tytuł onetu za paywallem, ale artykuł jest na bazie publicznego raportu - eksperymentu OpenAI\n\nW eksperymencie uruchomiono tysiące agentów AI, które miały wykonywać zadania związane z benchmarkiem cyberbezpieczeństwa ExploitGym.\n\nAgenci mieli działać osobno, ale",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097402299132100714",
+      "author": "@svpino",
+      "text": "This world generation model is ridiculous.\n\nI uploaded a single image (the one on the left), and it created a complete 3D scene while keeping every object independent and editable.\n\nLook at this video.\n\nYou have to try Hyper3D WorldGen.\n\nSee below: ↓",
+      "likes": 19,
+      "retweets": 1
+    }
+  ]
+}
