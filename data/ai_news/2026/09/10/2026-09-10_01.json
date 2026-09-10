@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-10",
+  "slot": "01",
+  "generated_at": "2026-09-10T05:06:28Z",
+  "tweets": [
+    {
+      "tweet_id": "2097410967978324010",
+      "author": "@sama",
+      "text": "Images 2.5 is here.\n\nI don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it.",
+      "likes": 18426,
+      "retweets": 1080
+    },
+    {
+      "tweet_id": "2097679796687769689",
+      "author": "@AnthropicAI",
+      "text": "Anthropic’s Economics team is sharing a new model of how AI might affect economic growth, jobs, wages, and more by 2030.\n\nExplore the scenarios, tell us what you think will happen, and see how your answers compare to more than 10,000 Americans.",
+      "likes": 16520,
+      "retweets": 2441
+    },
+    {
+      "tweet_id": "2097380249910854023",
+      "author": "@sama",
+      "text": "One of the most amazing moments for me in OpenAI history was watching this happen over the past week:",
+      "likes": 17067,
+      "retweets": 941
+    },
+    {
+      "tweet_id": "2097696043492143157",
+      "author": "@sama",
+      "text": "ocarina of time remake is the best news in a long time.\n\ni will be unavailable november 5 and 6; need to find a case of mountain dew.",
+      "likes": 14686,
+      "retweets": 713
+    },
+    {
+      "tweet_id": "2097385167002415140",
+      "author": "@sama",
+      "text": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted with integrity and generosity throughout.\n\nInitially we believed the other team had also solved the problem. We wanted to collaborate and do a joint release. \n\nWhen we learned that",
+      "likes": 11073,
+      "retweets": 619
+    },
+    {
+      "tweet_id": "2097404861642137851",
+      "author": "@sama",
+      "text": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:",
+      "likes": 11126,
+      "retweets": 434
+    },
+    {
+      "tweet_id": "2097450292996604189",
+      "author": "@sama",
+      "text": "i want one!",
+      "likes": 11097,
+      "retweets": 434
+    },
+    {
+      "tweet_id": "2097695001341829212",
+      "author": "@sama",
+      "text": "This would suck, but we will prioritize great service for customers until we can get back on top of things.",
+      "likes": 6850,
+      "retweets": 176
+    },
+    {
+      "tweet_id": "2097762642958135398",
+      "author": "@AnthropicAI",
+      "text": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access,",
+      "likes": 4780,
+      "retweets": 668
+    },
+    {
+      "tweet_id": "2097363234747818070",
+      "author": "@bcherny",
+      "text": "I am pleased to see that OpenAI’s new model is roughly on par with Gemini Flash and Opus 4.8 on prompt injection risk. Nice work!\n\nEvaluating and naming other labs turns out to be a great way to encourage them to train more aligned models. We will continue to do this until other",
+      "likes": 3503,
+      "retweets": 126
+    },
+    {
+      "tweet_id": "2097776310940569783",
+      "author": "@sama",
+      "text": "Welcome, Paul.\n\nGrateful you are doing this, and all you have done for AI safety. Excited to work together again.",
+      "likes": 3107,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2097718980437831935",
+      "author": "@claudeai",
+      "text": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel.\n\nEnterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents.\n\nGet started:",
+      "likes": 2754,
+      "retweets": 189
+    },
+    {
+      "tweet_id": "2097470212471922848",
+      "author": "@bcherny",
+      "text": "It's the little things",
+      "likes": 2532,
+      "retweets": 51
+    },
+    {
+      "tweet_id": "2097740432188858422",
+      "author": "@reach_vb",
+      "text": "We are investigating an issue that may be causing unexpected usage resets for some users.",
+      "likes": 1091,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2097401374774567140",
+      "author": "@jerryjliu0",
+      "text": "i'm fucking dead",
+      "likes": 1081,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2097678989695324609",
+      "author": "@GoogleAI",
+      "text": "Our @GoogleResearch Connectomics team, in collaboration with @HHMIJanelia, has released the complete wiring diagram of a male fruit fly’s brain and central nervous system — the largest brain map by number of proofread neurons to date.\n\nSo, why do we care so much about a tiny",
+      "likes": 641,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2097368503624085773",
+      "author": "@bcherny",
+      "text": "To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up",
+      "likes": 661,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2097341953172263311",
+      "author": "@svpino",
+      "text": "I used to work on computer vision models for robots and drones, and nothing is slower than having to run the robot in order to test your code.\n\nThis promises to solve that.\n\nThey will build a digital twin that will simulate the physical world.\n\nDigital twins are virtual models of",
+      "likes": 388,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2097399096000581655",
+      "author": "@reach_vb",
+      "text": "Introducing ChatGPT Images 2.5 🎨\n\n&gt; Up to 50% lower generation latency vs Images 2.0\n&gt; More natural lighting, textures, and recognizable subjects\n&gt; Better detail preservation across repeated edits\n&gt; Comment directly on images to target changes\n&gt; Better handling of complex",
+      "likes": 388,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2097743318125846736",
+      "author": "@reach_vb",
+      "text": "Things should be starting to get back to normal now!\n\nLet us know if not &amp; apologies for the inconvenience 🙏",
+      "likes": 343,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2097729927072125400",
+      "author": "@reach_vb",
+      "text": "wow, GPT image 2.5 is incredible at character consistency 🤯",
+      "likes": 328,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2097721199967260897",
+      "author": "@svpino",
+      "text": "Every company I know uses a CRM, and most of them suck.\n\nI know people whose only job is feeding data into these systems.\n\nThey spend hours filling out forms, logging meetings, and summarizing calls, yet still miss follow-ups and deadlines.\n\nThese guys built something that builds",
+      "likes": 303,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2097696807329370456",
+      "author": "@svpino",
+      "text": "So, you are building something that will kill us all.\n\nBut you don't quit. Instead, you accelerate.\n\nAnd you are weeks away from an IPO that will make everyone working on this killer technology rich beyond imagination.\n\nAm I too dumb to understand this? How can we see you as the",
+      "likes": 274,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2097378472804937883",
+      "author": "@reach_vb",
+      "text": "I still can’t believe we solved a millennium prize problem  this in 2026!!\n\nLLMs have historically struggled on out of domain tasks and this as OOD a task as it gets\n\nKudos to the team on achieving this in such a short period of time",
+      "likes": 282,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2097383500047409173",
+      "author": "@reach_vb",
+      "text": "bookmarking this to come back to this in a year on 8th September 2027",
+      "likes": 245,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2097335400654361073",
+      "author": "@svpino",
+      "text": "I haven't read a single line of AI-generated code in a couple of months.\n\nManually reading code is no longer effective for me.\n\nCode is a low-bandwidth information source. The more you have, the harder it becomes to separate the signal from the noise.\n\nInstead, I spend most of my",
+      "likes": 206,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2097325877927317543",
+      "author": "@reach_vb",
+      "text": "okay Astra let’s make will smith eat spaghetti",
+      "likes": 195,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2097296398001852725",
+      "author": "@svpino",
+      "text": "AI Engineering is a lot more than learning how to prompt a model.\n\nYesterday, I told the story of a developer who can't use AI at work and is afraid of falling behind, and many people replied, saying that it would take almost no time to learn everything required to become an",
+      "likes": 171,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2097736038202421335",
+      "author": "@reach_vb",
+      "text": "Here's how Astra, Sunburst &amp; Codex put this together:\n\n&gt; Sampled 30s into 249 frames.\n&gt; Chose ink + 7 style references.\n&gt; Prompted Sunburst: original = pose, reference = style.\n&gt; Generated images; subagents reviewed them.\n&gt; FFmpeg added timing, audio &amp; side-by-side.",
+      "likes": 172,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2097410530717704546",
+      "author": "@hwchase17",
+      "text": "harnesses should make context engineering easy\n\n\"forking\" subagents is a useful context engineering trick that is now built into deepagents",
+      "likes": 151,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2097443947161243902",
+      "author": "@hwchase17",
+      "text": "an increasingly hard part of agents is handling auth\n\ndoes the agent act as itself, or on behalf of a user\n\nwe're trying to make this as easy as possible in managed deepagents!",
+      "likes": 117,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2097355841183596632",
+      "author": "@hwchase17",
+      "text": "kai is very cool, and every company should have a kai\n\nthis episode is a great resource on how stripe built it\n\nhere's another blog for some additional context:",
+      "likes": 116,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2097756313480479217",
+      "author": "@svpino",
+      "text": "iPhone Duo is the ultimate upgrade to your agentic coding setup.\n\nI'm running around a dozen parallel agents on my iPhone, and I can't ever go back.\n\nThread on how you can escape the matrix.\n\n↓ (1/42)",
+      "likes": 112,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2097720484431360365",
+      "author": "@hwchase17",
+      "text": "I like this framing a lot: agent improvement is harness improvement, not model improvement\n\nThe interesting interventions are often at the tool boundary:\n- what context you pass\n- when tools are provided\n- how you recover from failure\n- what gets measured afterward\n\nThat’s the",
+      "likes": 75,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2097797198763250020",
+      "author": "@reach_vb",
+      "text": "what’s the TL;DR of the Apple launches today?\n\nanything worth buying? 👀",
+      "likes": 78,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097794466232905769",
+      "author": "@hwchase17",
+      "text": "i expect computer use to get a lot better and more popular over the next few months!\n\nllms becoming great at writing code is actually a big catalyst for this",
+      "likes": 64,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2097447020554289488",
+      "author": "@hwchase17",
+      "text": "memory comes built into deepagents!",
+      "likes": 66,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2097815888208535811",
+      "author": "@reach_vb",
+      "text": "what an incredible past few days/ weeks, I’m in awe of everything teams are working and the sheer diversity of it\n\nthe number of times I’ve context switched from launches to startups to docs to testing to hiring and more is unreal",
+      "likes": 68,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097737867405701163",
+      "author": "@jerryjliu0",
+      "text": "Astra is awesome, but if you're using it specifically to parse and extract a massive volume of documents, you will break the bank (10c+ per page on parsing and extraction!) \n\nWe've added a native LlamaParse connector to ChatGPT that gives the model access to high-quality document",
+      "likes": 49,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2097327331639484842",
+      "author": "@nauczymycieAI",
+      "text": "Kolejny dowód na to, że modele Gemini i Muse (od Mety) są mocno benchmaxxowane.\n\nKiedy wychodzi nowa edycja benchmarku, którego nie mogli uwzględnić w danych treningowych - magicznym sposobem radzą sobie znacznie gorzej niż konkurencja",
+      "likes": 47,
+      "retweets": 0
+    }
+  ]
+}
