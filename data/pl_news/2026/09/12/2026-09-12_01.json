@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-12",
+  "slot": "01",
+  "generated_at": "2026-09-12T04:53:16Z",
+  "tweets": [
+    {
+      "tweet_id": "2098286355230904426",
+      "author": "@laskowski_pl",
+      "text": "W Polskim systemie emerytalnym jest błąd. \n\nKtóry słusznie wskazuje @SlawomirMentzen za co nazywany jest populistą i manipulantem. \n\nZ góry powiem, że jestem przeciwny antyukraińskiej nagonce, ale błąd się ujawnił w tej grupie, ponieważ nie przyjechała wielomilionowa armia ludzi",
+      "likes": 563,
+      "retweets": 104
+    },
+    {
+      "tweet_id": "2097974265869918311",
+      "author": "@laskowski_pl",
+      "text": "Karawana jedzie dalej.",
+      "likes": 282,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2098308208414634125",
+      "author": "@laskowski_pl",
+      "text": "\"300 tys. zł - to była cena dla grupy warszawskich biznesmenów za pomoc w ukrywaniu się przed organami ścigania. Niemal 50 tys. zł — tyle kosztowało uzyskanie prezydenckiego ułaskawienia od Andrzeja Dudy. 5 tys. zł - taki był koszt załatwienia polskiego obywatelstwa w Kancelarii",
+      "likes": 241,
+      "retweets": 78
+    },
+    {
+      "tweet_id": "2098492023422480491",
+      "author": "@Macronextcom",
+      "text": "Huti zajmują zachodni Jemen, rekordowo drogi diesel na świecie, ropa powyżej 100 USD, rentowności długu szybują do nieba.... \n\n...a na giełdach 👇👇👇\n\nps. WIG20 zamknął tydzień wzrostem +1,2%",
+      "likes": 123,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2098342000487547345",
+      "author": "@Macronextcom",
+      "text": "Skończyła się era taniego pieniądza. \n\nNa świecie zaszły zmiany strukturalne. Nie ma powrotu. 4-5% rentowności na obligacjach USA 🇺🇸 to nowa normalność*. 👇\n\nAnalogicznie dla polskich 🇵🇱 obligacji ta nowa normalność to będzie jakieś 5,5-6,5%.  \n\n* a nie powód do strachu.",
+      "likes": 90,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098043156662993376",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 POLISH PM TUSK SAYS ANYTHING THAT WILL LEAD TO MORE EXPENSIVE ENERGY WILL BE BLOCKED BY THE V4 GROUP",
+      "likes": 90,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2098454400578535829",
+      "author": "@Macronextcom",
+      "text": "Węgry wprowadzają bon paliwowy o wartości 20k HUF (240 zł) i ciekawej konstrukcji:\n\n🔸️dotyczy aut z dieslem, ale tylko do 150 KM;\n🔸️po 5k HUF miesięcznie do grudnia:\n🔸️masz 2 auta, ale bon tylko na jedno;\n🔸️działa automatycznie, bez wniosķów;\n🔸️dotyczy też rolników.",
+      "likes": 69,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098052470383489478",
+      "author": "@Macronextcom",
+      "text": "- TO JEST WRÓŻENIE Z FUSÓW - powiedział prezes NBP komentując fakt, że rynek terminowy wycenia 3 podwyżki stóp proc. w Polsce w perspektywie roku.",
+      "likes": 62,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098045905832198295",
+      "author": "@Macronextcom",
+      "text": "Glapiński (NBP/RPP) 🇵🇱: ja przewiduję, że stopy procentowe będą przez dłuższy czas (...), tak do końca roku, do połowy przyszłego roku, stabilne.",
+      "likes": 55,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098051285161283734",
+      "author": "@Macronextcom",
+      "text": "Prezes Glapiński o ratingu Polski 🇵🇱: \n\n🔸 nie sądzę, żeby w roku wyborczy, czy tuż przed rokiem wyborczym, agencje ratingowe podejmowały jakieś drastyczne decyzje. Natomiast po wyborach, jeśli się nic nie zmieni, rating ulegnie niestety zmianie.",
+      "likes": 52,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098349318621081695",
+      "author": "@PAPinformacje",
+      "text": "Kancelaria Sejmu odpowiada prezydentowi. \"Niezwłoczne przyjęcie ślubowania od Berka\" ⤵️\n#PAPInformacje",
+      "likes": 44,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098360358872166565",
+      "author": "@PAPinformacje",
+      "text": "Robert Korzeniowski: nie wyobrażam sobie powrotu prezesa Piesiewicza do rodziny olimpijskiej\n#PAPinformacje",
+      "likes": 43,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098384985707225452",
+      "author": "@PAPinformacje",
+      "text": "Prezes Radosław Piesiewicz powinien wszystkich przeprosić, nawet jak wyjdzie za kaucją z aresztu, ale nie wyobrażam sobie jego powrotu do rodziny olimpijskiej - powiedział w #StudiuPAP @KorzeniowskiR, który zgłosił chęć kandydowania na prezesa @pkolpl.",
+      "likes": 35,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2098022827219632151",
+      "author": "@Macronextcom",
+      "text": "🇪🇺 #ECB podwyższy o 25 pb stopy proc. Decyzja zgodna z oczekiwaniami.  \n\nTo już druga podwyżka stóp proc. w tym roku. Analitycy prognozują, że już ostatnia i do końca 2027 r. stopy w strefie euro już się nie zmienią.",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2097976427756851427",
+      "author": "@laskowski_pl",
+      "text": "Białoruś, Izrael, Turcja, Mongolia - co ten PiS podpisywał?\n@BeataSzydlo czy @MorawieckiM przyznać się proszę.",
+      "likes": 27,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2098025546399543382",
+      "author": "@Macronextcom",
+      "text": "#OPEC już po raz 5. obniża prognozę wzrostu popytu na ropę - informuje Reuters. OPEC tnie prognozy do 380 tys. baryłek dziennie z 580 tys. poprzednio i 780 tys. wcześniej.\n\nW sierpniu średnia produkcja ropy przez OPEC+ wyniosła 38,05mln baryłek i była o 300 tys. wyższa niż lipcu.",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098452860060979557",
+      "author": "@PAPinformacje",
+      "text": "Księżniczka Astrid nie żyje. Zmarła dwa dni po pogrzebie brata, króla Haralda V\n#PAPInformacje",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098463003100225764",
+      "author": "@PAPinformacje",
+      "text": "Ponad połowa Ukraińców w Polsce po wojnie chce wrócić do ojczyzny\n#PAPInformacje",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098450710710911418",
+      "author": "@laskowski_pl",
+      "text": "Zwykli ludzie, którzy walczyli nie tylko o swoje życie. \nWstrząsający film oddający, to co się działo 25 lat temu.\nChwała bohaterom!",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2098044466233761972",
+      "author": "@Macronextcom",
+      "text": "Glapiński (NBP/RPP) 🇵🇱:  \n\n🔸 sądząc z dyskusji w Radzie, \"nie zanosi się prędko na jakies zmiany stóp procentowych\".",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098076557935780022",
+      "author": "@Macronextcom",
+      "text": "#Diagnostyka - przychody rosną, a zyski i marże spadają.\n\nDiagnostyka - wyniki za II kw. 2026:\n\n🔸zysk netto: 57,4 mln zł (prog. 63,6 mln zł*) \n🔸przychody: 686,2 mln zł (677,9 mln zł)\n\n* prognozy za PAP",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098071161594605766",
+      "author": "@laskowski_pl",
+      "text": "Tanio już było i nie będzie.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098345523514081654",
+      "author": "@PAPinformacje",
+      "text": "Dostawy Piorunów dla Wojska Polskiego. Podpisano umowę wykonawczą\n#PAPinformacje",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098494702710345883",
+      "author": "@PAPinformacje",
+      "text": "Amerykański żołnierz zagrał z wieży Mariackiej w hołdzie ofiarom 11 września [WIDEO]\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098487110042812870",
+      "author": "@laskowski_pl",
+      "text": "I tak przegrywa tę wojnę od 4 lat...",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098306296864747750",
+      "author": "@Macronextcom",
+      "text": "#Diagnostyka -5,4% 📉 po publikacji wyników za II kw. 2026 r.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098422404317892806",
+      "author": "@PAPinformacje",
+      "text": "Trzy scenariusze dla Putina. Amerykańskie media o wojnie w Ukrainie\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098269052602826826",
+      "author": "@DGPrawna",
+      "text": "Ropa naftowa powyżej 100 dolarów. Jemeńscy rebelianci coraz bliżej Bramy Łez",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098438087990816868",
+      "author": "@PAPinformacje",
+      "text": "Prezydent USA podczas obchodów 11 września: walczymy z Iranem, bo nie mamy wyboru i musimy wygrać\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098370181751840861",
+      "author": "@PAPinformacje",
+      "text": "📻 Dyrektorka - redaktorka naczelna @RadiowaTrojka Agnieszka Szydłowska przypomina, że jeszcze do 20 września trwa termin zgłoszeń do 8. edycji Nagrody PAP im. Ryszarda Kapuścińskiego.\n\nPrace możecie przysyłać w kategoriach: ✏️ Tekst 🎙️ Audio 📷 Foto 🎥 Wideo\n\nSzczegółowe zasady,",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2097961873605898591",
+      "author": "@GUS_STAT",
+      "text": "🎭 Wzrosły przychody instytucji kultury, ale ich koszty zwiększyły się szybciej.\n\nW I półroczu br. instytucje kultury osiągnęły:\n🔹 9,6 mld zł przychodów  (+8,3% r/r)\n🔹 8,9 mld zł kosztów (+9,0% r/r)\n\n🔗 \n\n#kultura",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098096806957642068",
+      "author": "@GUS_STAT",
+      "text": "☀️🧳 Czy na Polskę jest moda? Najlepiej na to pytanie odpowiedzą dane. Gdzie ich szukać? W portalu #TurystykaPLUS: Strona główna –",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098094628188684771",
+      "author": "@GUS_STAT",
+      "text": "🤖640 tys. osób wykonuje zawód zagrożony rozwojem sztucznej inteligencji. 77% z nich to kobiety.\n\nDominik Dąbrowski, Dyrektor Departamentu Metodologii i Jakości Badań #GUS, zwraca uwagę na potrzebę dostosowania systemu edukacji do zmian na rynku pracy.\n\n#ForumEkonomiczne2026 #AI",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098008332607086742",
+      "author": "@DGPrawna",
+      "text": "NFZ szykuje kary dla przychodni. Lekarze ostrzegają przed „reformą z Excela”",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098418540223021124",
+      "author": "@PAPinformacje",
+      "text": "MON ostrzega przed fałszywymi informacjami ws. kart mobilizacyjnych\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2097963669317468399",
+      "author": "@GUS_STAT",
+      "text": "W 1 półroczu br. wzrosła (r/r) liczba i powierzchnia mieszkań oddanych do użytkowania.\n\nPrzeciętna powierzchnia użytkowa nowo oddanego mieszkania:\n🏠w budynkach jednorodzinnych - 127,2 m2\n🏘 w wielorodzinnych 51,3 m2\n\n🔗 \n\n#budownictwo #mieszkania",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098006068198867044",
+      "author": "@DGPrawna",
+      "text": "Druga fala wielkich inwestycji na polskich lotniskach. Udział portów regionalnych w ruchu wciąż ma rosnąć",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098494802593452233",
+      "author": "@PAPinformacje",
+      "text": "Uznański-Wiśniewski o szczycie kosmicznym: widzę miejsce dla polskich firm [ZDJĘCIA]\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098352892440649924",
+      "author": "@PAPinformacje",
+      "text": "„MTV. Hity z satelity”. Trzy dekady muzyki na deskach Teatru Dramatycznego w Wałbrzychu [WIDEO]\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2097958829698756638",
+      "author": "@GUS_STAT",
+      "text": "⛑🚑 Rośnie liczba wypadków przy pracy. W 1H26 liczba poszkodowanych przekroczyła 33 tys. (+7,9% r/r).\n\nNajwięcej poszkodowanych: górnictwo, gospodarowanie odpadami i ściekami, opieka zdrowotna i pomoc społeczna.\n\n🔗 \n\n#BHP",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}

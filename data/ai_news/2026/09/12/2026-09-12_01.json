@@ -1,0 +1,268 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-12",
+  "slot": "01",
+  "generated_at": "2026-09-12T04:53:16Z",
+  "tweets": [
+    {
+      "tweet_id": "2098109357624095155",
+      "author": "@GoogleAI",
+      "text": "Oh, so this is why we mapped out all 166,000 of the male fruit fly's neurons. Check out the big community effort to show just how much these tiny fly brains are capable of 🪰🧵",
+      "likes": 7118,
+      "retweets": 455
+    },
+    {
+      "tweet_id": "2098138736642933143",
+      "author": "@claudeai",
+      "text": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.\n\nRSVP at",
+      "likes": 4496,
+      "retweets": 311
+    },
+    {
+      "tweet_id": "2098217571153838124",
+      "author": "@bcherny",
+      "text": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can.\n\nSharing my response below, for anyone else in a similar situation. What do you think?",
+      "likes": 3104,
+      "retweets": 116
+    },
+    {
+      "tweet_id": "2098144600594465148",
+      "author": "@leerob",
+      "text": "We just rolled out CursorBench 4.0!\n\nIt includes new tasks for how well models follow instructions, work on challenging projects over time, and is more difficult than before (so all models score lower).",
+      "likes": 2808,
+      "retweets": 133
+    },
+    {
+      "tweet_id": "2098165206296011059",
+      "author": "@bcherny",
+      "text": "Just landed: /diff is now a persistent pane that you can scroll and click. It updates in real-time.\n\nFor the times when you want to see the code without having to switch windows.\n\nEnjoy!",
+      "likes": 2641,
+      "retweets": 112
+    },
+    {
+      "tweet_id": "2098209880310264048",
+      "author": "@bcherny",
+      "text": "wait what",
+      "likes": 1295,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2098281805770309686",
+      "author": "@bcherny",
+      "text": "The latest Threat Intelligence report is an absolutely terrifying and important read. \n\nAs models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack",
+      "likes": 1217,
+      "retweets": 114
+    },
+    {
+      "tweet_id": "2098072879480947085",
+      "author": "@GoogleAI",
+      "text": "Bring your imagination to life with Google Pics.\n\nBuilt with Nano Banana, Pics makes it easy to generate, refine, and co-create images with unparalleled precision. You can:\n\n— Isolate and edit specific objects without altering the rest of your image\n— Modify or translate text",
+      "likes": 692,
+      "retweets": 75
+    },
+    {
+      "tweet_id": "2097947213074735191",
+      "author": "@reach_vb",
+      "text": "Unity’s official Codex plugin is here! 🎮\n\nSkills from Unity’s own engineers for:\n\n&gt; Project setup, packages &amp; live Editor control\n&gt; UI, sprites, tilemaps &amp; text\n&gt; Shaders, rendering &amp; post-processing\n&gt; Physics &amp; AI navigation\n&gt; Audio, multiplayer &amp; voice chat\n&gt; Localization &amp;",
+      "likes": 484,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2098118380767125535",
+      "author": "@reach_vb",
+      "text": "We’re pausing new $200 Pro signups to keep Astra running well for existing users. \n\nAll other plans + the API remain available.",
+      "likes": 424,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2098062569374122244",
+      "author": "@svpino",
+      "text": "Literally everyone I know outside of tech hates AI with the passion of a hundred burning suns.\n\nI know Prime is asking this rhetorically because we all know how these guys turned this amazing technology into one of the most universally hated topics in the world.",
+      "likes": 368,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2098310416791110063",
+      "author": "@reach_vb",
+      "text": "Thank you for your service GPT-5.3-Codex-Spark - you were special and I hope you are proud of being the first fastest boi out there 🫡\n\nRetiring next week, send a prompt just to feel how far we’ve come since then ;)",
+      "likes": 301,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098343964118065466",
+      "author": "@rpl_0x",
+      "text": "Plugin dla osób z AHDH\n\nZdobył 40k gwiazdek na githubie!\n\nVibe coding jest chyba jedną z najbardziej \"pro-ADHD\" rzeczy, jakie pojawiły się w ostatnim czasie (obok tiktaka)\n\npomysł → natychmiastowy efekt → nagroda → kolejny pomysł\n\nDostrzegam że coraz więcej ludzi o tym mówi",
+      "likes": 244,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098111535906242862",
+      "author": "@reach_vb",
+      "text": "GPT-Live-1 is in the API! \n\nIt listens while it talks, so you can interrupt it or pause to think.\n\n0.05$/ min",
+      "likes": 195,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2098172448671674593",
+      "author": "@svpino",
+      "text": "Every single last-decade CRM CEO is biting their fingernails right now.\n\nAI has finally caught up with them.",
+      "likes": 173,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2098110024006631794",
+      "author": "@svpino",
+      "text": "These guys are producing 2.5M hours of audio series every year. That's around 400,000 new stories.\n\nFor context, Netflix produces 1,700 hours of original TV every year; this is 1,500x more content.\n\nThese are AI-generated stories. Some of them combine audio with visuals.\n\nThey",
+      "likes": 153,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2098509751776620654",
+      "author": "@reach_vb",
+      "text": "To qualify this a bit more, /feedback helps us triage issues across Codex\n\nSo anytime you get an undesirable output or experience please /feedback it\n\nand if you do want to post that feedback online then share the ID along with\n\n(This goes beyond just Astra, it’s across models",
+      "likes": 145,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098003152242978817",
+      "author": "@reach_vb",
+      "text": "Astra for managing your daily nutrients/ calorie intake:",
+      "likes": 96,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098212953724174429",
+      "author": "@jerryjliu0",
+      "text": "Astra is one of the best models we've tested at parsing complex documents with tables, at 93.2% on ParseBench.\n\nSo it seems well suited for ad-hoc analysis over table-heavy documents e.g. in finance.\n\nTo be fair, it's also at 10c per page so not suitable for document-heavy OCR",
+      "likes": 50,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2098139813098524875",
+      "author": "@hwchase17",
+      "text": "great insight into how companies are adopting and using open wiki in practice",
+      "likes": 51,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098489252707541305",
+      "author": "@svpino",
+      "text": "I've been trying Codex to analyze a dataset, and honestly, I've gotten nowhere.\n\nGenerating a nice-looking report about the data isn't enough.\n\nFor this to be useful, Codex needs to inspect tables, clean existing data, choose the correct statistical methods, run the analysis, and",
+      "likes": 53,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098068450606235811",
+      "author": "@reach_vb",
+      "text": "Two years of progress in one single prompt 🤯",
+      "likes": 53,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098477362476400659",
+      "author": "@jerryjliu0",
+      "text": "One of the main issues with AI document parsing is that because no solution is 100% accuracy, it's hard to tell if a given page is parsed incorrectly: for instance a misaligned table, missing/hallucinated values, or messy scans \n\nover the past few months we've invested a lot in",
+      "likes": 43,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098080811602035152",
+      "author": "@svpino",
+      "text": "This is a free program you can join right now.\n\nYou'll get access to runnable blueprints, courses, office hours, and $400+ in credits and discounts.\n\nThis is a program for developers.\n\nIf you work with different models and deal with inference pipelines, orchestration, retrieval,",
+      "likes": 33,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098066969740312845",
+      "author": "@svpino",
+      "text": "I quit a job after 6 months because I didn't want to be on call to fix whatever happened in the middle of the night.\n\nI only had to do it twice, but that was it for me.\n\nBack then, you had to start digging through logs, dashboards, and old conversations in the middle of the",
+      "likes": 38,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098540887538319515",
+      "author": "@jerryjliu0",
+      "text": "There's something deeply philosophical about the importance of human understanding in a world where most work is done by AI. \n\nTerence Tao's whole point in the letter isn't that AI is universally bad, but that it should be used in a way that complements the advancement of human",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2098423880083984886",
+      "author": "@svpino",
+      "text": "Production traffic is not uniform.\n\nYou get a few requests that need your best model, but most are simple questions and lookups you can solve with cheaper, faster models.\n\nThe most expensive mistake you can make today is sending every request to your strongest model.\n\nYou need",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2098072604695240929",
+      "author": "@reach_vb",
+      "text": "short story in 2 prompts in ChatGPT Work:",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098223231786496016",
+      "author": "@jerryjliu0",
+      "text": "agreed, one of the biggest bottlenecks right now is my own ability to internalize the information that these models convey\n\nthe latest models (astra, fable 5.1) are either way too verbose, or try too hard to pack information density to be concise\n\nit comes up with ai-coded jargon",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098073024692093185",
+      "author": "@jerryjliu0",
+      "text": "We've trained new models for checkbox parsing ☑️\n\nThis lets you convert checkboxes of any size and shape, filled or unfilled, into structured JSON that's suitable for programmatic or agentic use.\n\nUse it on insurance applications, tax forms, compliance questionnaires, KYC forms,",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098347080649744410",
+      "author": "@sentient_agency",
+      "text": "Google can put your face in ads.\nOpenAI can train on your chats.\nTikTok can read your DMs.\n\nSomeone built a free website where you can look up companies and see what their terms say they can do with your data.\n\nIts called ToS;DR.\n\nSearch a service and get a short breakdown of the",
+      "likes": 12,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2097985979630145818",
+      "author": "@sentient_agency",
+      "text": "ElevenLabs will clone a voice in the cloud and charge you every month for the privilege.\n\nA guy named Jamie Pine put the same job on your laptop and published the code.\n\nIt is called Voicebox.\n\nYou give it 10 to 30 seconds of clean speech. It builds a voice profile on your",
+      "likes": 12,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2098084235105992774",
+      "author": "@nauczymycieAI",
+      "text": "Jaki jest największy grzech branży AI? Bezapelacyjnie - straszenie społeczeństwa.\n\nWydaje mi się, że na jakimś etapie to było nawet szczere. Poruszaliśmy się szybciej niż ktokolwiek zakładał. Nie było widać sufitu skalowania (to akurat się nie zmieniło).\n\nNatomiast każda kolejna",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098211407951278492",
+      "author": "@jerryjliu0",
+      "text": "Lightning-fast extraction over any document. \n\nICYMI, we launched Extract Turbo last week, that lets you process documents from 1 page to dozens of pages with lightning-fast speed. Come check it out! \n\nCheck out the video sequence below on equipment orders. Get all the line items",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098054902425788663",
+      "author": "@svpino",
+      "text": "If this is what big companies decide to spend their money on, please, count me in!",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098546846117625890",
+      "author": "@jerryjliu0",
+      "text": "Last Friday night, our team hosted a lit event at the US Open 🎾\n\nwe gathered a group of enterprise and startup AI leaders + founders together to drink, talk about AI and document parsing, and watch tennis until 2am. \n\nwe've got to do this every week and bring the energy back to",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098218376653119917",
+      "author": "@jerryjliu0",
+      "text": "if you'd like to understand why pdf parsing is important, we made a manga on it\n\n💕 so kawaii 💕",
+      "likes": 15,
+      "retweets": 1
+    }
+  ]
+}
