@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-13",
+  "slot": "01",
+  "generated_at": "2026-09-13T05:13:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2098286355230904426",
+      "author": "@laskowski_pl",
+      "text": "W Polskim systemie emerytalnym jest błąd. \n\nKtóry słusznie wskazuje @SlawomirMentzen za co nazywany jest populistą i manipulantem. \n\nZ góry powiem, że jestem przeciwny antyukraińskiej nagonce, ale błąd się ujawnił w tej grupie, ponieważ nie przyjechała wielomilionowa armia ludzi",
+      "likes": 572,
+      "retweets": 106
+    },
+    {
+      "tweet_id": "2098308208414634125",
+      "author": "@laskowski_pl",
+      "text": "\"300 tys. zł - to była cena dla grupy warszawskich biznesmenów za pomoc w ukrywaniu się przed organami ścigania. Niemal 50 tys. zł — tyle kosztowało uzyskanie prezydenckiego ułaskawienia od Andrzeja Dudy. 5 tys. zł - taki był koszt załatwienia polskiego obywatelstwa w Kancelarii",
+      "likes": 446,
+      "retweets": 149
+    },
+    {
+      "tweet_id": "2098492023422480491",
+      "author": "@Macronextcom",
+      "text": "Huti zajmują zachodni Jemen, rekordowo drogi diesel na świecie, ropa powyżej 100 USD, rentowności długu szybują do nieba.... \n\n...a na giełdach 👇👇👇\n\nps. WIG20 zamknął tydzień wzrostem +1,2%",
+      "likes": 192,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098342000487547345",
+      "author": "@Macronextcom",
+      "text": "Skończyła się era taniego pieniądza. \n\nNa świecie zaszły zmiany strukturalne. Nie ma powrotu. 4-5% rentowności na obligacjach USA 🇺🇸 to nowa normalność*. 👇\n\nAnalogicznie dla polskich 🇵🇱 obligacji ta nowa normalność to będzie jakieś 5,5-6,5%.  \n\n* a nie powód do strachu.",
+      "likes": 97,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098454400578535829",
+      "author": "@Macronextcom",
+      "text": "Węgry wprowadzają bon paliwowy o wartości 20k HUF (240 zł) i ciekawej konstrukcji:\n\n🔸️dotyczy aut z dieslem, ale tylko do 150 KM;\n🔸️po 5k HUF miesięcznie do grudnia:\n🔸️masz 2 auta, ale bon tylko na jedno;\n🔸️działa automatycznie, bez wniosķów;\n🔸️dotyczy też rolników.",
+      "likes": 92,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098703299838894491",
+      "author": "@laskowski_pl",
+      "text": "Jak idziesz z pakietem reform po władzę i cudem wygrywasz wybory, to masz 3 miesiące na wdrożenie zmian, następnie rok na chaos i po dwóch latach odcinasz kupony od sukcesu lub kombinujesz na kogo zwalić winę za porażkę.  \n\nWbrew pozorom Duda nie byłby hamulcowym reform, a na",
+      "likes": 83,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2098684734582772041",
+      "author": "@laskowski_pl",
+      "text": "TK  - jak nie wiadomo o co chodzi, to chodzi o pieniądze, pieniądze na przeżycie 😀\n\n\"Władza jest na to przygotowana. Gdy prokuratura skieruje do TK kolejny wniosek o uchylenie Święczkowskiemu immunitetu, będzie on musiał zwołać Zgromadzenie Ogólne, a jednocześnie nie będzie mógł",
+      "likes": 68,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2098787547354747311",
+      "author": "@Macronextcom",
+      "text": "Samochód? To żaden problem. \n\nW Polsce 🇵🇱 tylko 3,4% osób deklaruje, że nie stać ich na samochód. \n\nŚrednia dla całej UE 🇪🇺 wynosi 5,5%. W Niemczech 🇩🇪 ...",
+      "likes": 63,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098450710710911418",
+      "author": "@laskowski_pl",
+      "text": "Zwykli ludzie, którzy walczyli nie tylko o swoje życie. \nWstrząsający film oddający, to co się działo 25 lat temu.\nChwała bohaterom!",
+      "likes": 57,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098494702710345883",
+      "author": "@PAPinformacje",
+      "text": "Amerykański żołnierz zagrał z wieży Mariackiej w hołdzie ofiarom 11 września [WIDEO]\n#PAPInformacje",
+      "likes": 39,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2098463003100225764",
+      "author": "@PAPinformacje",
+      "text": "Ponad połowa Ukraińców w Polsce po wojnie chce wrócić do ojczyzny\n#PAPInformacje",
+      "likes": 38,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098685366005850207",
+      "author": "@laskowski_pl",
+      "text": "Agresorem są USA i Izrael, kogo ma zaatakować Europa?",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098800695939907679",
+      "author": "@PAPinformacje",
+      "text": "Polscy siatkarze wygrali z Izraelem w swoim drugim meczu mistrzostw Europy\n#PAPinformacje",
+      "likes": 33,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2098659226805469691",
+      "author": "@laskowski_pl",
+      "text": "\"Minister energii @motykamilosz  w rozmowie z „Rz” wskazał, że odpowiedzialność za wysokie ceny paliw w Polsce ponosi prezydent @NawrockiKn\" \n\nXD",
+      "likes": 23,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2098487110042812870",
+      "author": "@laskowski_pl",
+      "text": "I tak przegrywa tę wojnę od 4 lat...",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098719770225123427",
+      "author": "@Macronextcom",
+      "text": "Przyszły tydzień będzie należał do banków centralnych.\n\n16.09: Fed\n17.09: BoE\n18.09: BoJ",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098661428076949853",
+      "author": "@PAPinformacje",
+      "text": "W Sokolnikach Suchych przywrócono przejazdy pociągów po katastrofie. Ruch odbywa się jednym torem ⤵️\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098306296864747750",
+      "author": "@Macronextcom",
+      "text": "#Diagnostyka -5,4% 📉 po publikacji wyników za II kw. 2026 r.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098710724449071256",
+      "author": "@PAPinformacje",
+      "text": "Trump przybył z wizytą do Dublina. Chce nacisnąć na Irlandię, by kupowała amerykański LNG ⤵️\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098656647237218760",
+      "author": "@PAPinformacje",
+      "text": "10 tys. osób na karaoke z piosenkami Celine Dion. Tak fani szykują się na jej koncerty w Paryżu ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098686138777059346",
+      "author": "@laskowski_pl",
+      "text": "Już wiem skąd Pan Prezydent czerpał inspirację 😀",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098706512201826518",
+      "author": "@PAPinformacje",
+      "text": "Solarny bolid studentów z Politechniki Łódzkiej wystartuje w zawodach w Belgii [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098685935932023226",
+      "author": "@PAPinformacje",
+      "text": "Gietrzwałd remontuje sanktuarium na rocznicę objawień i spodziewaną wizytę Leona XIV [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098656353644327021",
+      "author": "@PAPinformacje",
+      "text": "Dziś drugi mecz Polaków na ME. Rywalem Izrael ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098839759107862666",
+      "author": "@PAPinformacje",
+      "text": "Lekkoatletyczne Ultimate Championship. Kolejny wielki triumf Kazimierskiej\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098656499450986888",
+      "author": "@PAPinformacje",
+      "text": "W Himalajach rośnie ryzyko powodzi. Wszystko przez topniejące lodowce ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098494802593452233",
+      "author": "@PAPinformacje",
+      "text": "Uznański-Wiśniewski o szczycie kosmicznym: widzę miejsce dla polskich firm [ZDJĘCIA]\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098822173636821089",
+      "author": "@PAPinformacje",
+      "text": "Naukowcy: jedzenie to nie tylko prywatna sprawa, wpływa też na zdrowie publiczne i środowisko\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098690577873117314",
+      "author": "@DGPrawna",
+      "text": "Co łączy rosnący indeks cen surowców, obligacje rządowe i oszczędnościowe",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098685041500975274",
+      "author": "@DGPrawna",
+      "text": "W najnowszym odcinku \"Między nami POL i Tyka\" Karolina Wójcicka rozmawia z Jackiem Żakowskim o wzroście partii skrajnie prawicowych w Europie.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098302017622208874",
+      "author": "@DGPrawna",
+      "text": "- Jeśli dziś nie zadbamy o napływ nowej kadry nauczycielskiej, za kilka lat możemy się obudzić w sytuacji, w której emeryci odejdą, a nie będzie miał kto ich zastąpić - mówi DGP Robert Górniak, założyciel serwisu \"Dealerzy Wiedzy\"",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098299752584495305",
+      "author": "@DGPrawna",
+      "text": "Europejscy etycy chcą większej kontroli nad naszymi danymi przetwarzanymi przez sztuczną inteligencję",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098696526188929447",
+      "author": "@laskowski_pl",
+      "text": "Polecam ⬇️\nJestem ciekawy komentarza @On58Greg",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098703684397879743",
+      "author": "@PAPinformacje",
+      "text": "To tu kręcono serial „Felicita”. Polignano a Mare zachwyca iście filmową scenerią ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098678681904243109",
+      "author": "@PAPinformacje",
+      "text": "Dwa tie-breaki i trzy godziny na korcie. Pogromca Hurkacza w finale US Open ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098454956495765856",
+      "author": "@PAPinformacje",
+      "text": "Sześć partii w Sejmie i wyraźny lider. Najnowszy sondaż\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098771108724105478",
+      "author": "@DGPrawna",
+      "text": "Od początku kadencji sekretarz obrony USA Pete Hegseth pozbył się lub zablokował awanse kilkudziesięciu wysokim rangą oficerom. Połowa z nich to kobiety lub czarni mężczyźni.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098653804690374874",
+      "author": "@DGPrawna",
+      "text": "Nie wystarczy mieć rację. Polacy już zaczęli dzielić sędziów na pisowców i platformersów – mówi Krzysztof Izdebski, prawnik i ekspert @BatoryFundacja .",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098854766822539554",
+      "author": "@PAPinformacje",
+      "text": "Festiwal w Wenecji. Złoty Lew dla „Woman Unknown”\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098849547791298907",
+      "author": "@PAPinformacje",
+      "text": "Wenecja/ „Woman Unknown” May el-Toukhy zdobywczynią Złotego Lwa dla najlepszego filmu\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}

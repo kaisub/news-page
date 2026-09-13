@@ -1,0 +1,170 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-13",
+  "slot": "01",
+  "generated_at": "2026-09-13T05:13:19Z",
+  "tweets": [
+    {
+      "tweet_id": "2098811563415150910",
+      "author": "@sama",
+      "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.",
+      "likes": 51955,
+      "retweets": 5442
+    },
+    {
+      "tweet_id": "2098811935114551617",
+      "author": "@karpathy",
+      "text": "I love this and really hope we can come together as an industry and make it happen.",
+      "likes": 8497,
+      "retweets": 637
+    },
+    {
+      "tweet_id": "2098281805770309686",
+      "author": "@bcherny",
+      "text": "The latest Threat Intelligence report is an absolutely terrifying and important read. \n\nAs models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack",
+      "likes": 1322,
+      "retweets": 121
+    },
+    {
+      "tweet_id": "2098866608785473858",
+      "author": "@hwchase17",
+      "text": "in case you want to build a domain specific harness:\n\n\n\ngreat blog by @sydneyrunkle",
+      "likes": 1324,
+      "retweets": 98
+    },
+    {
+      "tweet_id": "2098719224252514744",
+      "author": "@sentient_agency",
+      "text": "GitHub is hiding some absolutely insane stuff...\n\nI spent hours digging through it so you don't have to.\n\n10 repos that feel illegal to know about:\n\n1. \n\nPaste any TikTok, Instagram, X, YouTube, or Reddit link and get the raw file back, no watermark, no ad,",
+      "likes": 996,
+      "retweets": 119
+    },
+    {
+      "tweet_id": "2098671081632440549",
+      "author": "@reach_vb",
+      "text": "Reset rolling out to all Codex &amp; ChatGPT Work users!\n\nGrateful to everyone who helped us investigate the Astra quality issues and shared examples.\n\nWe’ve identified and fixed issues with:\n\n&gt; Skills over-triggering or preventing self-checks\n&gt; Context management causing early stops",
+      "likes": 1031,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2098782355238314062",
+      "author": "@reach_vb",
+      "text": "a reminder: there’s an actual person behind every tweet you pile on\n\nand that everyone’s trying to do their best\n\nfor the record, I don’t think jumping off a cliff will solve this problem either",
+      "likes": 620,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2098761043438887008",
+      "author": "@svpino",
+      "text": "I read some of my old posts about using AI to write code, and I now disagree with a lot of them.\n\nI went from \"AI-writes-shit-code\" to \"AI-writes-better-code-than-everyone\" in about 6 months.\n\nI also read some of the code I wrote 10 years ago. If I show you, you'll never want to",
+      "likes": 490,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2098310416791110063",
+      "author": "@reach_vb",
+      "text": "Thank you for your service GPT-5.3-Codex-Spark - you were special and I hope you are proud of being the first fastest boi out there 🫡\n\nRetiring next week, send a prompt just to feel how far we’ve come since then ;)",
+      "likes": 306,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098691592462725320",
+      "author": "@reach_vb",
+      "text": "Reset should be out for everyone! Enjoy! ✨\n\nPSA: update to the latest version of Codex App/ CLI",
+      "likes": 293,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098343964118065466",
+      "author": "@rpl_0x",
+      "text": "Plugin dla osób z AHDH\n\nZdobył 40k gwiazdek na githubie!\n\nVibe coding jest chyba jedną z najbardziej \"pro-ADHD\" rzeczy, jakie pojawiły się w ostatnim czasie (obok tiktaka)\n\npomysł → natychmiastowy efekt → nagroda → kolejny pomysł\n\nDostrzegam że coraz więcej ludzi o tym mówi",
+      "likes": 255,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098796433885319568",
+      "author": "@reach_vb",
+      "text": "This is a brilliant read, even if you don’t agree to the proposed plan! 🔖",
+      "likes": 208,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098509751776620654",
+      "author": "@reach_vb",
+      "text": "To qualify this a bit more, /feedback helps us triage issues across Codex\n\nSo anytime you get an undesirable output or experience please /feedback it\n\nand if you do want to post that feedback online then share the ID along with\n\n(This goes beyond just Astra, it’s across models",
+      "likes": 198,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098903468010266662",
+      "author": "@reach_vb",
+      "text": "I have 4 hobby projects and blogposts that are just waiting to be shipped. \n\nPublicly committing to ship at least one in the next 24 hours.",
+      "likes": 115,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098540887538319515",
+      "author": "@jerryjliu0",
+      "text": "There's something deeply philosophical about the importance of human understanding in a world where most work is done by AI. \n\nTerence Tao's whole point in the letter isn't that AI is universally bad, but that it should be used in a way that complements the advancement of human",
+      "likes": 101,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2098934848081838335",
+      "author": "@jerryjliu0",
+      "text": "imagine bringing the gaokao to american schools \n\n(it's 9 hours long, no student has ever gotten a perfect score, and is the only determinant of where you end up in college in China) \n\nit would cause absolute pandemonium",
+      "likes": 82,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098489252707541305",
+      "author": "@svpino",
+      "text": "I've been trying Codex to analyze a dataset, and honestly, I've gotten nowhere.\n\nGenerating a nice-looking report about the data isn't enough.\n\nFor this to be useful, Codex needs to inspect tables, clean existing data, choose the correct statistical methods, run the analysis, and",
+      "likes": 74,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2098477362476400659",
+      "author": "@jerryjliu0",
+      "text": "One of the main issues with AI document parsing is that because no solution is 100% accuracy, it's hard to tell if a given page is parsed incorrectly: for instance a misaligned table, missing/hallucinated values, or messy scans \n\nover the past few months we've invested a lot in",
+      "likes": 59,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2098423880083984886",
+      "author": "@svpino",
+      "text": "Production traffic is not uniform.\n\nYou get a few requests that need your best model, but most are simple questions and lookups you can solve with cheaper, faster models.\n\nThe most expensive mistake you can make today is sending every request to your strongest model.\n\nYou need",
+      "likes": 35,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098347080649744410",
+      "author": "@sentient_agency",
+      "text": "Google can put your face in ads.\nOpenAI can train on your chats.\nTikTok can read your DMs.\n\nSomeone built a free website where you can look up companies and see what their terms say they can do with your data.\n\nIts called ToS;DR.\n\nSearch a service and get a short breakdown of the",
+      "likes": 13,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2098546846117625890",
+      "author": "@jerryjliu0",
+      "text": "Last Friday night, our team hosted a lit event at the US Open 🎾\n\nwe gathered a group of enterprise and startup AI leaders + founders together to drink, talk about AI and document parsing, and watch tennis until 2am. \n\nwe've got to do this every week and bring the energy back to",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098933449793114216",
+      "author": "@jerryjliu0",
+      "text": "doing things with frontier AI is too easy nowadays, so the cool new thing is to do it with a fly brain",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2098761138326446146",
+      "author": "@nauczymycieAI",
+      "text": "Upadek technologiczny Europy ma twarz ludzi pokroju Virkunnen czy Gawkowskiego.\n\nDoczekamy się w końcu praktyków u władzy?",
+      "likes": 11,
+      "retweets": 0
+    }
+  ]
+}
