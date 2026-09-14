@@ -1,0 +1,191 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-14",
+  "slot": "01",
+  "generated_at": "2026-09-14T05:19:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2098811563415150910",
+      "author": "@sama",
+      "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.",
+      "likes": 65692,
+      "retweets": 6991
+    },
+    {
+      "tweet_id": "2098811935114551617",
+      "author": "@karpathy",
+      "text": "I love this and really hope we can come together as an industry and make it happen.",
+      "likes": 11165,
+      "retweets": 841
+    },
+    {
+      "tweet_id": "2099348812305473766",
+      "author": "@sama",
+      "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe",
+      "likes": 4936,
+      "retweets": 463
+    },
+    {
+      "tweet_id": "2099352016988614852",
+      "author": "@sama",
+      "text": "There are two ways AI progress could go very badly and that we must avoid.\n\nFirst, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and",
+      "likes": 3537,
+      "retweets": 369
+    },
+    {
+      "tweet_id": "2098719224252514744",
+      "author": "@sentient_agency",
+      "text": "GitHub is hiding some absolutely insane stuff...\n\nI spent hours digging through it so you don't have to.\n\n10 repos that feel illegal to know about:\n\n1. \n\nPaste any TikTok, Instagram, X, YouTube, or Reddit link and get the raw file back, no watermark, no ad,",
+      "likes": 3160,
+      "retweets": 399
+    },
+    {
+      "tweet_id": "2098866608785473858",
+      "author": "@hwchase17",
+      "text": "in case you want to build a domain specific harness:\n\n\n\ngreat blog by @sydneyrunkle",
+      "likes": 2606,
+      "retweets": 202
+    },
+    {
+      "tweet_id": "2099322487603634395",
+      "author": "@bcherny",
+      "text": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude",
+      "likes": 1561,
+      "retweets": 66
+    },
+    {
+      "tweet_id": "2098671081632440549",
+      "author": "@reach_vb",
+      "text": "Reset rolling out to all Codex &amp; ChatGPT Work users!\n\nGrateful to everyone who helped us investigate the Astra quality issues and shared examples.\n\nWe’ve identified and fixed issues with:\n\n&gt; Skills over-triggering or preventing self-checks\n&gt; Context management causing early stops",
+      "likes": 1039,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2098934848081838335",
+      "author": "@jerryjliu0",
+      "text": "imagine bringing the gaokao to american schools \n\n(it's 9 hours long, no student has ever gotten a perfect score, and is the only determinant of where you end up in college in China) \n\nit would cause absolute pandemonium",
+      "likes": 1044,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2098782355238314062",
+      "author": "@reach_vb",
+      "text": "a reminder: there’s an actual person behind every tweet you pile on\n\nand that everyone’s trying to do their best\n\nfor the record, I don’t think jumping off a cliff will solve this problem either",
+      "likes": 650,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2098761043438887008",
+      "author": "@svpino",
+      "text": "I read some of my old posts about using AI to write code, and I now disagree with a lot of them.\n\nI went from \"AI-writes-shit-code\" to \"AI-writes-better-code-than-everyone\" in about 6 months.\n\nI also read some of the code I wrote 10 years ago. If I show you, you'll never want to",
+      "likes": 607,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2099181989190418800",
+      "author": "@reach_vb",
+      "text": "Astra tip: Ask codex/ ChatGPT work to verify its work as it goes!\n\nSpecially for visual tasks like 3D, Front End &amp; Video editing tasks it materially boosts the end artefact quality\n\nAdd this to your project agents md",
+      "likes": 463,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2099140289717833842",
+      "author": "@reach_vb",
+      "text": "what’s the best &lt;3B open weights LLM these days? \n\nsomething that can run easily in a browser/ extension",
+      "likes": 446,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2098691592462725320",
+      "author": "@reach_vb",
+      "text": "Reset should be out for everyone! Enjoy! ✨\n\nPSA: update to the latest version of Codex App/ CLI",
+      "likes": 301,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2098903468010266662",
+      "author": "@reach_vb",
+      "text": "I have 4 hobby projects and blogposts that are just waiting to be shipped. \n\nPublicly committing to ship at least one in the next 24 hours.",
+      "likes": 223,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2098796433885319568",
+      "author": "@reach_vb",
+      "text": "This is a brilliant read, even if you don’t agree to the proposed plan! 🔖",
+      "likes": 219,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2099198928193499602",
+      "author": "@svpino",
+      "text": "A company I work with hired 3 new product managers because they can't keep up with how quickly their development team is shipping features.\n\nFeel free to interpret this however you like.",
+      "likes": 204,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099271951822832043",
+      "author": "@reach_vb",
+      "text": "appshot this!!",
+      "likes": 83,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2099186398876369058",
+      "author": "@jerryjliu0",
+      "text": "in a world where frontier models can generally do everything, it makes sense that every startup AI co is a  \"domain specific harness\"\n\n* at an extremely basic level it helps for branding and distribution. you show that you care a lot more about a specific domain than the labs\n\n*",
+      "likes": 62,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2099353445778022533",
+      "author": "@reach_vb",
+      "text": "random realisation: I’ve lived in 4 different countries for prolonged periods of time and this the most settled I’ve felt in the last decade",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098933449793114216",
+      "author": "@jerryjliu0",
+      "text": "doing things with frontier AI is too easy nowadays, so the cool new thing is to do it with a fly brain",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099328897477427558",
+      "author": "@jerryjliu0",
+      "text": "the biggest issue with trying to use all these personal assistants is having to reimport all of my context every time \n\nsome of it can be made easier with shared storage (e.g. my file system), some tools have migrate functionality (e.g. codex import), but it's still a large",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099212447668371844",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic, OpenAI i Google chcą zatrzymać rozwój AI. \n\nTyle, że ich strategia nie ma sensu. No chyba, że tak naprawdę chodzi o pieniądze.\n\nChwilę po zmasowanej akcji w social media byłych i obecnych pracowników Anthropic, grożących końcem cywilizacji spowodowanym AI - Dario",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2098761138326446146",
+      "author": "@nauczymycieAI",
+      "text": "Upadek technologiczny Europy ma twarz ludzi pokroju Virkunnen czy Gawkowskiego.\n\nDoczekamy się w końcu praktyków u władzy?",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099168937800057131",
+      "author": "@jerryjliu0",
+      "text": "if u don't want to use a fly brain to read a PDF, you could always check out an actual OCR solution like llamaparse",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099101372721381846",
+      "author": "@Maciej__Czajka",
+      "text": "Dario Amodei (Anthropic) apeluje o spowolnienie rozwoju modeli AI frontierowych. Popierają go Sam Altman i Elon Musk. \nDziwna i rzadko spotykana etyka i nagła troska o przyszłość ludzkości.\nDotychczasowy model biznesowy Big Techu zakładał, że dominację wygrywa się wyłącznie",
+      "likes": 34,
+      "retweets": 3
+    }
+  ]
+}
