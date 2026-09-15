@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-15",
+  "slot": "01",
+  "generated_at": "2026-09-15T05:12:52Z",
+  "tweets": [
+    {
+      "tweet_id": "2099352016988614852",
+      "author": "@sama",
+      "text": "There are two ways AI progress could go very badly and that we must avoid.\n\nFirst, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and",
+      "likes": 20097,
+      "retweets": 2018
+    },
+    {
+      "tweet_id": "2099348812305473766",
+      "author": "@sama",
+      "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe",
+      "likes": 13657,
+      "retweets": 1221
+    },
+    {
+      "tweet_id": "2099322487603634395",
+      "author": "@bcherny",
+      "text": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude",
+      "likes": 3048,
+      "retweets": 154
+    },
+    {
+      "tweet_id": "2099551291601248485",
+      "author": "@bcherny",
+      "text": "Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯\n\nSee issue for the latest community update, technical details, and more cool demos",
+      "likes": 2076,
+      "retweets": 132
+    },
+    {
+      "tweet_id": "2099480988258537746",
+      "author": "@reach_vb",
+      "text": "titles are dumb",
+      "likes": 788,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2099168936059437206",
+      "author": "@jerryjliu0",
+      "text": "Introducing FlyOCR 🪰 - I trained a fly brain to read a PDF\n\nIt uses the full MaleCNS v1.0 fruit fly connectcome. The architecture is inspired by doomfly by @wormuth\n\nThe fly splits a pdf image into individual glyphs, maps pixels into receptor activations, runs simplified",
+      "likes": 647,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2099630906772222068",
+      "author": "@reach_vb",
+      "text": "Codex tip: Use Astra as an orchestrator of threads and create + send tasks over to Sol/ Luna\n\nOnce done, ask it to set up a heartbeat every 15 minutes to check in and course correct as needed\n\nParticularly for long running tasks it’s useful to reduce usage &amp; add verifiability",
+      "likes": 637,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2099530610763243788",
+      "author": "@svpino",
+      "text": "This is the signal you were waiting for to start building an app:\n\nFor the next month, these guys are offering an all-you-can-eat token buffet!\n\nNo daily limits, and you get access to open models to vibe-code whatever you want.",
+      "likes": 564,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2099181989190418800",
+      "author": "@reach_vb",
+      "text": "Astra tip: Ask codex/ ChatGPT work to verify its work as it goes!\n\nSpecially for visual tasks like 3D, Front End &amp; Video editing tasks it materially boosts the end artefact quality\n\nAdd this to your project agents md",
+      "likes": 539,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2099140289717833842",
+      "author": "@reach_vb",
+      "text": "what’s the best &lt;3B open weights LLM these days? \n\nsomething that can run easily in a browser/ extension",
+      "likes": 501,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2099542875713532097",
+      "author": "@svpino",
+      "text": "I think the IDE is officially dead.\n\nThe Cline desktop app is here. Open-source to use it with open-weight models.\n\nNotice how we are moving away from the terminal.\n\nEvery agentic coding tool started with a TUI, but we need better affordances that only a desktop app can provide.",
+      "likes": 351,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2099198928193499602",
+      "author": "@svpino",
+      "text": "A company I work with hired 3 new product managers because they can't keep up with how quickly their development team is shipping features.\n\nFeel free to interpret this however you like.",
+      "likes": 334,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2099489935971533238",
+      "author": "@reach_vb",
+      "text": "blessed w/ starlink on my flight\n\ncan’t wait for the future where this is the norm",
+      "likes": 274,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099536970334486567",
+      "author": "@reach_vb",
+      "text": "GPT Image 2.5 is getting ridiculously good at character consistency &amp; stop motion 🐲",
+      "likes": 265,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2099489445846126676",
+      "author": "@GoogleAI",
+      "text": "How do you build personalized AI tech that truly understands what matters to you?\n\nWith Dreambeans from @GoogleLabs, we're safely connecting the dots across your digital life. Instead of siloing pieces of data one app at a time, Dreambeans gathers details from connected sources",
+      "likes": 227,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2099353445778022533",
+      "author": "@reach_vb",
+      "text": "random realisation: I’ve lived in 4 different countries for prolonged periods of time and this the most settled I’ve felt in the last decade",
+      "likes": 244,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099583730322980897",
+      "author": "@reach_vb",
+      "text": "you can now install the Codex app directly on Arch btw!\n\nNo more hacks, workarounds needed - enjoy!!",
+      "likes": 155,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2099545621040422979",
+      "author": "@reach_vb",
+      "text": "one shot btw!\n\nprompt: “I want you to make a cinematic, cute and heartwarming stop motion video with gpt image 2.5 sunburst with the following ideas:\n\negg to baby dragon transformation in claymation\n\nrough story: It hatches, sneezes a tiny flame, accidentally toasts its shell”",
+      "likes": 142,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2099271951822832043",
+      "author": "@reach_vb",
+      "text": "appshot this!!",
+      "likes": 128,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2099635820323811822",
+      "author": "@reach_vb",
+      "text": "Voice is one of my favourite ways to brainstorm on blogposts, PRs, RFCs and even managing finances + calendars\n\nYou can now use nearly two and half times more ChatGPT Voice!!\n\nEnjoy!",
+      "likes": 129,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099534215973064764",
+      "author": "@jerryjliu0",
+      "text": "“Just-in-Time” OCR\n\nThe latest agent harnesses (e.g. Cowork, Codex, Grok) do 2 passes of ad-hoc document processing when executing over a user-uploaded ‘data room’ of documents:\n1️⃣ A fast and light pass using a free/OSS doc parsing tool, can be cheaply run over 100+ docs\n2️⃣ A",
+      "likes": 96,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2099186398876369058",
+      "author": "@jerryjliu0",
+      "text": "in a world where frontier models can generally do everything, it makes sense that every startup AI co is a  \"domain specific harness\"\n\n* at an extremely basic level it helps for branding and distribution. you show that you care a lot more about a specific domain than the labs\n\n*",
+      "likes": 87,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2099568050177806458",
+      "author": "@svpino",
+      "text": "Open-weight models are right behind frontier models in capabilities.\n\nI think they have an advantage, though:\n\nThe more Frontier Labs constrains models and restricts tokens, the more companies will migrate to open-weight models.\n\nWe need more companies offering optimized tools",
+      "likes": 71,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099510481832837523",
+      "author": "@svpino",
+      "text": "Building an agent that works with real-life documents is still crazy hard.\n\nAll of you are talking about AGI, and this is the actual problem people are dealing with.\n\nEvery company I talk to is willing to pay ridiculous sums of money for a reliable pipeline that processes their",
+      "likes": 63,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2099629838005149855",
+      "author": "@jerryjliu0",
+      "text": "i'm flattered by the shoutout, but there's no free lunch for document parsing \n\nCohere parse starts at $1.50 / 1k pages, which is indeed on the cheaper end of doc OCR solutions, but it scores ~50% when averaged across all 5 ParseBench dimensions: \n\n* It lacks high-quality visual",
+      "likes": 50,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2099328897477427558",
+      "author": "@jerryjliu0",
+      "text": "the biggest issue with trying to use all these personal assistants is having to reimport all of my context every time \n\nsome of it can be made easier with shared storage (e.g. my file system), some tools have migrate functionality (e.g. codex import), but it's still a large",
+      "likes": 45,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2099543620328226987",
+      "author": "@hwchase17",
+      "text": "slack is where agents are doing work\n\nmanaged deepagents has a very tight slack integration - check out the tutorial on it below",
+      "likes": 40,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099549146118316054",
+      "author": "@svpino",
+      "text": "These guys are putting almost 2,000 endpoints and 40 data providers behind one key with pay-per-call pricing.\n\nIf your agents need data from multiple sources, you can just get it from here instead of having to manage a dozen connections.\n\nAnd it looks inexpensive.",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099437341656129565",
+      "author": "@sentient_agency",
+      "text": "wtf did I just find on GitHub...\n\nClaude-Red basically turns Claude into an AI red teamer\n\n70+ offensive security skills\n20+ security domains\neverything from web hacking → exploit development\n\nand this is completely open source",
+      "likes": 22,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2099545685334880474",
+      "author": "@rpl_0x",
+      "text": "Dołączamy do akcji STOP AI! 🤖🚫\n\nStop grafikom generowanym przez AI — stop filmom generowanym przez AI — stop tekstom generowanym przez AI.\n\nAI jest dziś wszędzie — i coraz częściej zastępuje prawdziwych twórców — ludzi z pomysłami — emocjami — pasją — i doświadczeniem.",
+      "likes": 31,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099608981664911528",
+      "author": "@jerryjliu0",
+      "text": "did a double take",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099712814503940286",
+      "author": "@reach_vb",
+      "text": "at this point we’re really only limited by our own creativity",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099528757044301911",
+      "author": "@rpl_0x",
+      "text": "Pierwsze partnerstwo Świadka Dziejów na kanale.\n\nTutaj opowiedział historie żeglarstwa przy okazji dyskretnie reklamując platformę crewly.\n\nUczę się yt - teraz wszystkie filmy dostają testy - 3 miniaturki + tytuły, powoli widać progres w statystykach 😉",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099212447668371844",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic, OpenAI i Google chcą zatrzymać rozwój AI. \n\nTyle, że ich strategia nie ma sensu. No chyba, że tak naprawdę chodzi o pieniądze.\n\nChwilę po zmasowanej akcji w social media byłych i obecnych pracowników Anthropic, grożących końcem cywilizacji spowodowanym AI - Dario",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099541352895664353",
+      "author": "@nauczymycieAI",
+      "text": "Fable 5.1 to najinteligentniejszy model na rynku. Czy to wystarcza, żeby zrównoważyć jego koszt?\n\nTo pierwsza część nowej serii recenzji modeli do codziennej pracy. Jutro na moim profilu znajdziesz recenzję GPT-6 Astra. Obserwuj mój profil i zapisz się na darmowy newsletter, żeby",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099627435373232579",
+      "author": "@svpino",
+      "text": "I’ve been using ElevenLabs since forever for audio. Now, they added images. \n\nEveryone now supports everything. \n\nAI is blurring the lanes.",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099473279144628355",
+      "author": "@nauczymycieAI",
+      "text": "Zachęcanie Chin do wspólnych regulacji AI w jednym zdaniu, a w drugim nawoływanie do pełnego zakazu eksportu czipów nie mogło się dobrze skończyć.\n\nNie będzie ponadnarodowej komisji AI\nA i bez tego nie będzie kordynowanego spowolnienia.\n\nCałe to zamieszanie to czysty PR",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099168937800057131",
+      "author": "@jerryjliu0",
+      "text": "if u don't want to use a fly brain to read a PDF, you could always check out an actual OCR solution like llamaparse",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099583842659004689",
+      "author": "@reach_vb",
+      "text": "check out more about it here:",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099101372721381846",
+      "author": "@Maciej__Czajka",
+      "text": "Dario Amodei (Anthropic) apeluje o spowolnienie rozwoju modeli AI frontierowych. Popierają go Sam Altman i Elon Musk. \nDziwna i rzadko spotykana etyka i nagła troska o przyszłość ludzkości.\nDotychczasowy model biznesowy Big Techu zakładał, że dominację wygrywa się wyłącznie",
+      "likes": 38,
+      "retweets": 3
+    }
+  ]
+}
