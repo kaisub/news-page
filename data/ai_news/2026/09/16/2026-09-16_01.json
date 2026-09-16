@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-16",
+  "slot": "01",
+  "generated_at": "2026-09-16T05:11:34Z",
+  "tweets": [
+    {
+      "tweet_id": "2099872600977760451",
+      "author": "@sama",
+      "text": "big 🚢 this week\n\nand then for devday\n\n🚢🚢🚢🚢🚢🚢",
+      "likes": 11973,
+      "retweets": 531
+    },
+    {
+      "tweet_id": "2099876514330206578",
+      "author": "@claudeai",
+      "text": "Salesforce in Claude is now available in beta.\n\nIt brings your accounts, opportunities, and pipeline into Claude, with 37 pre-built sales skills. Prep a call, review a deal, create a pipeline dashboard, or send your forecast without leaving the conversation.",
+      "likes": 8436,
+      "retweets": 589
+    },
+    {
+      "tweet_id": "2099551291601248485",
+      "author": "@bcherny",
+      "text": "Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯\n\nSee issue for the latest community update, technical details, and more cool demos",
+      "likes": 2611,
+      "retweets": 164
+    },
+    {
+      "tweet_id": "2099908000924193124",
+      "author": "@GoogleAI",
+      "text": "Introducing our most advanced Gemini Audio models yet 🗣\n\nGemini 3.8 Live and 3.8 Live Extended Thinking let you speak, collaborate, and execute tasks seamlessly, meaning conversing with AI just got a lot more natural.\n\nSo, what’s the difference between these two models? Let’s",
+      "likes": 2251,
+      "retweets": 221
+    },
+    {
+      "tweet_id": "2099630906772222068",
+      "author": "@reach_vb",
+      "text": "Codex tip: Use Astra as an orchestrator of threads and create + send tasks over to Sol/ Luna\n\nOnce done, ask it to set up a heartbeat every 15 minutes to check in and course correct as needed\n\nParticularly for long running tasks it’s useful to reduce usage &amp; add verifiability",
+      "likes": 1314,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2099530610763243788",
+      "author": "@svpino",
+      "text": "This is the signal you were waiting for to start building an app:\n\nFor the next month, these guys are offering an all-you-can-eat token buffet!\n\nNo daily limits, and you get access to open models to vibe-code whatever you want.",
+      "likes": 837,
+      "retweets": 61
+    },
+    {
+      "tweet_id": "2099480988258537746",
+      "author": "@reach_vb",
+      "text": "titles are dumb",
+      "likes": 831,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099929045769302073",
+      "author": "@svpino",
+      "text": "New model that looks very different from everything else we've seen before:\n\n• It returns decisions with probabilities and confidence\n• Confidence will let you decide whether you need human review\n• It can answer multiple structured questions in parallel\n\nLet's wait for the",
+      "likes": 579,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2099542875713532097",
+      "author": "@svpino",
+      "text": "I think the IDE is officially dead.\n\nThe Cline desktop app is here. Open-source to use it with open-weight models.\n\nNotice how we are moving away from the terminal.\n\nEvery agentic coding tool started with a TUI, but we need better affordances that only a desktop app can provide.",
+      "likes": 468,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2099489445846126676",
+      "author": "@GoogleAI",
+      "text": "How do you build personalized AI tech that truly understands what matters to you?\n\nWith Dreambeans from @GoogleLabs, we're safely connecting the dots across your digital life. Instead of siloing pieces of data one app at a time, Dreambeans gathers details from connected sources",
+      "likes": 308,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2099536970334486567",
+      "author": "@reach_vb",
+      "text": "GPT Image 2.5 is getting ridiculously good at character consistency &amp; stop motion 🐲",
+      "likes": 336,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099967596724711753",
+      "author": "@reach_vb",
+      "text": "So happy to be launching the next round of Codex for OSS 💙\n\nWe’re doubling the program to 10,000 grants in total, with $100 Pro plans for maintainers. Please apply, and if you’ve received a grant before, come back and reapply!\n\nTo the maintainers putting so much time and care",
+      "likes": 312,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2099489935971533238",
+      "author": "@reach_vb",
+      "text": "blessed w/ starlink on my flight\n\ncan’t wait for the future where this is the norm",
+      "likes": 285,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099858455079026817",
+      "author": "@hwchase17",
+      "text": "memory has been a hot topic for the past ~2 years\n\nevery time we bring it up or do anything there, gets ton of interest, but nothing sticks\n\nfew takes on why below:\n\n- how to update and then use memory needs to be pretty tightly integrated with the harness. so its hard to build a",
+      "likes": 247,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2099901681869992406",
+      "author": "@svpino",
+      "text": "This looks pretty bonkers to me:\n\nOne model that can control a robot, drive a car, play a video game, or pilot a drone.\n\nBasically:\n\n• It takes visual observations from the world\n• Uses these observations to learn how things work\n• Then maps that knowledge to the system's",
+      "likes": 233,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2099583730322980897",
+      "author": "@reach_vb",
+      "text": "you can now install the Codex app directly on Arch btw!\n\nNo more hacks, workarounds needed - enjoy!!",
+      "likes": 201,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2099843441714765892",
+      "author": "@reach_vb",
+      "text": "rust 🦀 is all you need!",
+      "likes": 214,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100000637291205055",
+      "author": "@reach_vb",
+      "text": "this is pretty consistent with my experience pushing sub agents\n\nIn most cases I only use one sub agents to review the work as the main agent continues its work",
+      "likes": 179,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2099545621040422979",
+      "author": "@reach_vb",
+      "text": "one shot btw!\n\nprompt: “I want you to make a cinematic, cute and heartwarming stop motion video with gpt image 2.5 sunburst with the following ideas:\n\negg to baby dragon transformation in claymation\n\nrough story: It hatches, sneezes a tiny flame, accidentally toasts its shell”",
+      "likes": 174,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2099635820323811822",
+      "author": "@reach_vb",
+      "text": "Voice is one of my favourite ways to brainstorm on blogposts, PRs, RFCs and even managing finances + calendars\n\nYou can now use nearly two and half times more ChatGPT Voice!!\n\nEnjoy!",
+      "likes": 177,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099568050177806458",
+      "author": "@svpino",
+      "text": "Open-weight models are right behind frontier models in capabilities.\n\nI think they have an advantage, though:\n\nThe more Frontier Labs constrains models and restricts tokens, the more companies will migrate to open-weight models.\n\nWe need more companies offering optimized tools",
+      "likes": 153,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2099534215973064764",
+      "author": "@jerryjliu0",
+      "text": "“Just-in-Time” OCR\n\nThe latest agent harnesses (e.g. Cowork, Codex, Grok) do 2 passes of ad-hoc document processing when executing over a user-uploaded ‘data room’ of documents:\n1️⃣ A fast and light pass using a free/OSS doc parsing tool, can be cheaply run over 100+ docs\n2️⃣ A",
+      "likes": 125,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2099629838005149855",
+      "author": "@jerryjliu0",
+      "text": "i'm flattered by the shoutout, but there's no free lunch for document parsing \n\nCohere parse starts at $1.50 / 1k pages, which is indeed on the cheaper end of doc OCR solutions, but it scores ~50% when averaged across all 5 ParseBench dimensions: \n\n* It lacks high-quality visual",
+      "likes": 119,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2099851891832168519",
+      "author": "@svpino",
+      "text": "The Agents CLI is the closest thing to magic you'll ever use when building agents.\n\nI wrote an article to show you how to use it.\n\nIt will take you 30 minutes to build, deploy, and start monitoring a small multi-agent system.",
+      "likes": 117,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2099712814503940286",
+      "author": "@reach_vb",
+      "text": "at this point we’re really only limited by our own creativity",
+      "likes": 118,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2099510481832837523",
+      "author": "@svpino",
+      "text": "Building an agent that works with real-life documents is still crazy hard.\n\nAll of you are talking about AGI, and this is the actual problem people are dealing with.\n\nEvery company I talk to is willing to pay ridiculous sums of money for a reliable pipeline that processes their",
+      "likes": 102,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2100076208239067377",
+      "author": "@reach_vb",
+      "text": "an emergent behaviour w/ Astra is if I tell it to be fast, it is fast and gets the job done quite accurately and is actually fast at it\n\npreviously models (like 5.5) would cut corners or submit incomplete work\n\nbut w/ Astra it feels like it mostly gets it spot on",
+      "likes": 85,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2099543620328226987",
+      "author": "@hwchase17",
+      "text": "slack is where agents are doing work\n\nmanaged deepagents has a very tight slack integration - check out the tutorial on it below",
+      "likes": 60,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2099549146118316054",
+      "author": "@svpino",
+      "text": "These guys are putting almost 2,000 endpoints and 40 data providers behind one key with pay-per-call pricing.\n\nIf your agents need data from multiple sources, you can just get it from here instead of having to manage a dozen connections.\n\nAnd it looks inexpensive.",
+      "likes": 43,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2099545685334880474",
+      "author": "@rpl_0x",
+      "text": "Dołączamy do akcji STOP AI! 🤖🚫\n\nStop grafikom generowanym przez AI — stop filmom generowanym przez AI — stop tekstom generowanym przez AI.\n\nAI jest dziś wszędzie — i coraz częściej zastępuje prawdziwych twórców — ludzi z pomysłami — emocjami — pasją — i doświadczeniem.",
+      "likes": 38,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100038688931709258",
+      "author": "@jerryjliu0",
+      "text": "au revoir, Stainless\n\nBuilding production-level SDKs is extremely important for any developer product, and also really hard. This is a fun post from our engineering team on why there's value in tooling to help build good, maintainable SDKs.\n\n1. You don't want your SDKs to look",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100055924928925768",
+      "author": "@hwchase17",
+      "text": "The hardest part of and “org harness” or “enterprise ai” (as opposed to personal ai” is auth, and managing auth in a multiplayer channel (like slack)\n\nWe’re thinking a lot about how to do this right for managed deepagents",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2099910787867320356",
+      "author": "@nauczymycieAI",
+      "text": "GPT-6 Astra - recenzja w codziennych zadaniach po (niemal) dwóch tygodniach codziennej pracy. \n\nTo nie jest jeszcze AGI. Ale mamy przynajmniej dwa przełomy.\n\nPierwszy to obsługa komputera. Drugi to architektura looped transformers, która pozwala zwiększać inteligencję modelu bez",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099437341656129565",
+      "author": "@sentient_agency",
+      "text": "wtf did I just find on GitHub...\n\nClaude-Red basically turns Claude into an AI red teamer\n\n70+ offensive security skills\n20+ security domains\neverything from web hacking → exploit development\n\nand this is completely open source",
+      "likes": 22,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2099608981664911528",
+      "author": "@jerryjliu0",
+      "text": "did a double take",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2099779035417190802",
+      "author": "@sentient_agency",
+      "text": "AI agents can now learn new skills instantly\n\n is an open directory of reusable abilities you can install into Claude Code, Cursor, Codex, Gemini and more\n\none command and your agent gets better at coding, design, research, marketing...\n\nhere are 10 skills",
+      "likes": 16,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2099920824107159729",
+      "author": "@svpino",
+      "text": "2026 has been the year of the personal assistant.\n\nAt this rate, AI-powered personal assistants will be solved as a category in the next 2-3 years.\n\nThis is a new take on how multiplayer assistants could work. An entire team can use their own assistant in one shared space.",
+      "likes": 23,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2099528757044301911",
+      "author": "@rpl_0x",
+      "text": "Pierwsze partnerstwo Świadka Dziejów na kanale.\n\nTutaj opowiedział historie żeglarstwa przy okazji dyskretnie reklamując platformę crewly.\n\nUczę się yt - teraz wszystkie filmy dostają testy - 3 miniaturki + tytuły, powoli widać progres w statystykach 😉",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099627435373232579",
+      "author": "@svpino",
+      "text": "I’ve been using ElevenLabs since forever for audio. Now, they added images. \n\nEveryone now supports everything. \n\nAI is blurring the lanes.",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2099870030573994270",
+      "author": "@svpino",
+      "text": "I wasn't aware of these guys, but apparently, they have been operating for a while and have a huge customer base.\n\nIt looks like they connect banks in over 50 countries, cut out the middlemen, and make international payments much faster.\n\nLooks awesome for anyone with",
+      "likes": 16,
+      "retweets": 3
+    }
+  ]
+}
