@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-18",
+  "slot": "01",
+  "generated_at": "2026-09-18T05:09:25Z",
+  "tweets": [
+    {
+      "tweet_id": "2100258490740539730",
+      "author": "@claudeai",
+      "text": "Claude Cowork and chat are merging into one Claude.\n\nAsk a quick question or hand over a report, and Claude takes it from there, even after you close your laptop. If something's unclear, Claude asks—you keep the final say.\n\nRolling out to Pro and Max over the next few weeks.",
+      "likes": 14176,
+      "retweets": 1047
+    },
+    {
+      "tweet_id": "2100351958167220547",
+      "author": "@sama",
+      "text": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+      "likes": 11955,
+      "retweets": 441
+    },
+    {
+      "tweet_id": "2100632677904744716",
+      "author": "@claudeai",
+      "text": "Projects now run from one conversation, starting in Claude Code. You describe what needs doing, and Claude directs parallel threads that keep working after you close your laptop.\n\nIn beta today for select Pro and Max users in cloud sessions; coming to all Claude users soon.",
+      "likes": 8728,
+      "retweets": 539
+    },
+    {
+      "tweet_id": "2100684274114699295",
+      "author": "@AnthropicAI",
+      "text": "AI systems are getting more powerful, and they're increasingly being used to build the next version of themselves. We want to illuminate that progress for the public.\n\nToday, we're sharing three measurements that help track AI development:\n1. How much AI R&amp;D is done by AI.\n2. How",
+      "likes": 2871,
+      "retweets": 374
+    },
+    {
+      "tweet_id": "2100260544087535639",
+      "author": "@bcherny",
+      "text": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the",
+      "likes": 2547,
+      "retweets": 152
+    },
+    {
+      "tweet_id": "2100701581109072332",
+      "author": "@AnthropicAI",
+      "text": "Biologists use specialized open-source models for tasks like modeling the structure of molecular systems, designing drug-like molecules, and predicting the effects of genetic mutations. But these models are often expensive to run, potentially limiting their impact.\n\nIn our latest",
+      "likes": 2297,
+      "retweets": 258
+    },
+    {
+      "tweet_id": "2100669598995816511",
+      "author": "@bcherny",
+      "text": "Projects have changed not only how I interact with Claude but how I code.\n\nI stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.\n\n[screenshot: my actual",
+      "likes": 2206,
+      "retweets": 80
+    },
+    {
+      "tweet_id": "2100646837799834096",
+      "author": "@AnthropicAI",
+      "text": "Today we’re opening applications for the Life Sciences Verification Program.\n\nThrough the LSVP, life science professionals can use our models—including, for the first time, Mythos—with a new set of safeguards designed to enable the full range of biology-related work. We designed",
+      "likes": 1886,
+      "retweets": 218
+    },
+    {
+      "tweet_id": "2100639991244427490",
+      "author": "@bcherny",
+      "text": "Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now",
+      "likes": 1840,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2100259951398789487",
+      "author": "@bcherny",
+      "text": "Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where much of the industry's serious engineering runs now.\n\nCowork proved knowledge workers could do the same: hand Claude the brief, come",
+      "likes": 1571,
+      "retweets": 74
+    },
+    {
+      "tweet_id": "2100236223508041855",
+      "author": "@svpino",
+      "text": "A new, mysterious model just showed up. We don't know who created it.\n\nIt's free for about a week on OpenRouter, with zero data retention for prompts and code.\n\nIt's built for coding and multi-step agent tasks.\n\nAnyone could be behind this model. I can't wait to see the",
+      "likes": 647,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2100253225848881642",
+      "author": "@svpino",
+      "text": "This is the best AI video you and I have ever seen.\n\nI wonder how they created this. I'd love to see the list of tools they used and how long it took.",
+      "likes": 398,
+      "retweets": 25
+    },
+    {
+      "tweet_id": "2100266670170452055",
+      "author": "@svpino",
+      "text": "We already solved coding. Now it's time we solve video editing.\n\nEditing videos is a ton of work. If we make it as accessible as we've made writing software, the explosion of good video content online will be massive.",
+      "likes": 344,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2100675291664331003",
+      "author": "@reach_vb",
+      "text": "chat, what did Tibo mean by this?",
+      "likes": 305,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2100276579402162516",
+      "author": "@reach_vb",
+      "text": "bit bizzare how we went from babysitting models while they are implementing simplest of features to having agents securely build full fledged monoliths used by millions of users\n\nall in less than 8 months or so?",
+      "likes": 290,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2100648438950195377",
+      "author": "@svpino",
+      "text": "GLM 5.3 Flash is the most popular model for building applications, and it's not even close.\n\nThese guys are offering free tokens for a month when you use one of these 4 models:\n\n• GLM 5.3 Flash\n• DeepSeek V4 Pro\n• GLM 5.3\n• Kimi K3\n\nIn the last 3 days, GLM 5.3 Flash received",
+      "likes": 235,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2100688877413351846",
+      "author": "@reach_vb",
+      "text": "Astra for Law is here!!\n\nGPT-6 Astra + legal search across 230M+ URLs, with 26 plugins for the tools lawyers already use.\n\nFirms are already building tools to review contracts, investigate deals and draft IPO filings.\n\nSo much room to build!!",
+      "likes": 213,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2100240985573704156",
+      "author": "@reach_vb",
+      "text": "spent the past week hopping from one plane to the next. wouldn’t have got jack shit done without Codex remote and ChatGPT Work\n\nwhat an incredible time to be alive!!",
+      "likes": 209,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2100263078176960945",
+      "author": "@svpino",
+      "text": "You are going to think I'm crazy, but I switched from digital notes to paper notebooks at the beginning of the year, and I think it's probably one of the best decisions I've made.\n\nDownside 1: Writing stuff takes time.\n\nDownside 2: Finding something is hard.\n\nUpside 1: My brain",
+      "likes": 201,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2100773130041950570",
+      "author": "@hwchase17",
+      "text": "Jev isn’t meant for text generation, it’s for simpler constrained output\n\nTurns out, that can actually be very useful when building a harness!",
+      "likes": 162,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2100591905868509643",
+      "author": "@svpino",
+      "text": "Everyone is blocking agents from accessing content.\n\nBrowser fingerprints, paywalls, CAPTCHAs—the list goes on and on.\n\nBut you can bypass all of this. Easily.\n\nHere is how:",
+      "likes": 151,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2100201535854760405",
+      "author": "@svpino",
+      "text": "We went from \"AI will take your job\" to \"AI will kill you\" in less than a year.\n\nJust in case you wonder why people hate Big AI so much.",
+      "likes": 128,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2100349104983302226",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 125,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100729426077999245",
+      "author": "@reach_vb",
+      "text": "Appshots: my favourite Codex feature is now on Windows too!\n\nThey go beyond just a screenshot and grab all the other relevant app metadata and text too.\n\nAppshot away with ⌘ + ⌘ on Mac or Alt + Alt on windows",
+      "likes": 117,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2100525372194328691",
+      "author": "@hwchase17",
+      "text": "Models may not actually benefit from a native harness",
+      "likes": 106,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2100240535906598915",
+      "author": "@svpino",
+      "text": "The Finance feature on ChatGPT is seriously underrated.",
+      "likes": 94,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100570610904560012",
+      "author": "@rpl_0x",
+      "text": "Dwa bardzo wartościowe narzędzia opensource.\n\nDla mnie szczególnie istotne że nie są to narzędzia tworzone przez randomów pod 'Content Engagement' a narzędzia które firmy budujące technologie przyszłości stworzyły na swoje potrzeby!\n\n Pierwszy to OpenCodeReview - stworzony przez",
+      "likes": 57,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2100243828146106519",
+      "author": "@svpino",
+      "text": "This is an open-source platform for saving, resuming, sharing, and handing off agent sessions.\n\nIt runs locally, so we know your info is not going anywhere.\n\nThere are a thousand ways to resume a session today, but I really like being able to share it with others.\n\nBasically, you",
+      "likes": 43,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2100646720921366574",
+      "author": "@svpino",
+      "text": "It drives me crazy every time an LLM agrees with me.\n\nI know this is twisting my brain and giving me a false confidence that I was right all along.\n\nThis is so dangerous. Do you know how many people have chatbots confirming their wrong beliefs 24/7 and making them more",
+      "likes": 35,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2100324586323931399",
+      "author": "@jerryjliu0",
+      "text": "hell yeah let's cook",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100379386667253824",
+      "author": "@jerryjliu0",
+      "text": "The difference with using VLMs for OCR vs. other tasks is that the ratio of output/input tokens is quite high - meaning the model can spend a lot of time writing markdown.\n\nSpeculative decoding offers a useful approach where a fast draft model proposes several tokens, and then",
+      "likes": 36,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2100264320672391526",
+      "author": "@svpino",
+      "text": "Many people frown on lifestyle businesses, but they can be extremely freeing.\n\nI have zero interest in growing my business if it means hiring and managing other people.\n\nI do what I want with my business, when I want, and don't have to worry about the implications for anyone",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100290874479362255",
+      "author": "@nauczymycieAI",
+      "text": "Google właśnie podzieliło się odkryciem, które przybliża nas do samoudoskonalającego się AI. I już niedługo każdy może do niego uzyskać dostęp.\n\nNieudana próba wykonania zadania przez agenta również może się przydać, pod warunkiem że system zapisze, co zrobił i jaki był efekt.",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100292167680073744",
+      "author": "@svpino",
+      "text": "Finally, an agent that works over iMessage!\n\nJust add it as a contact in your iPhone and start texting it.\n\nI haven't used this yet, but it looks pretty cool:\n\n• Coordination with other agents\n• It can buy things online\n• It can monitor things you care about\n• It can manage",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100688214193254861",
+      "author": "@nauczymycieAI",
+      "text": "Czy europejskie AI może się jeszcze bardziej skompromitować? Okazuje się, że tak.\n\nMistral dał się shakować. Ponoć wyciekł cały ich codebase. W tym najprawdopodobniej - wagi modeli, również tych nieopublikowanych.\n\nPrzykro. Smutno. I lepiej już raczej nie będzie",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100252243073048863",
+      "author": "@nauczymycieAI",
+      "text": "Dużo się ostatnio dzieje w AI? Będzie jeszcze bardziej gorąco. \n\nW ciągu najbliższych dwóch tygodni mamy dostać:\n- Grok Bota od OpenAI\n- GPT 6 Sol / Luna\n- Opusa 5.2 \n\nZapisz się na mój darmowy comiesięczny newsletter, żeby tego nie przegapić:",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100647446024003615",
+      "author": "@svpino",
+      "text": "Latest scam tactic: Bypass email and share a notice directly through Google Drive. \n\nSince I have Drive installed on my phone, I got a push notification there.",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100467155619709196",
+      "author": "@rpl_0x",
+      "text": "Planowałem tutaj wrzucać tylko filmy gdzie testuję jakiś nowe rozwiązania - ale @PanzerQbe - mega uważny widz z potężną wiedzą stwierdził że ostatni film jest najlepszy, zatem linkuje go w kom 😉",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100150956864208904",
+      "author": "@rpl_0x",
+      "text": "Kris już od kilku dni relacjonuje na naszym discordzie ten eksperyment\n\nW uproszczeniu - mają nauczyć AI przewidywać, co stanie się z aktywnością tysięcy genów po zmianie jednego z nich.\n\nTrochę jak Navier-Stokes (to zadanie milenijne które niby astra rozwiązała) dla biologii",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100644914866307490",
+      "author": "@nauczymycieAI",
+      "text": "Niewiele osób wie, że subskrypcje AI da się dorwać dużo taniej.\n\nJedno z miejsc gdzie można łowić promki prowadzi @promptowy.\n\nDo wyboru pełno świetnych tooli - np: Whispr Flow czy Cursor Pro pod nadchodzącego Groka 4.7.\n\nZałatwiłem Wam tam extra kod na -10%: NAUCZYMY. \n\nLink 👇",
+      "likes": 12,
+      "retweets": 0
+    }
+  ]
+}
