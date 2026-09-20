@@ -1,0 +1,212 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-20",
+  "slot": "01",
+  "generated_at": "2026-09-20T05:15:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2101017902316982783",
+      "author": "@claudeai",
+      "text": "A thread of our favorite things people built with Claude recently:",
+      "likes": 7328,
+      "retweets": 352
+    },
+    {
+      "tweet_id": "2101039819870937247",
+      "author": "@AnthropicAI",
+      "text": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years.",
+      "likes": 3445,
+      "retweets": 303
+    },
+    {
+      "tweet_id": "2101095843096912100",
+      "author": "@hwchase17",
+      "text": "jev has sparked more internal demos and exploration of how we can use it in our product than any other model launch\n\nits not even close",
+      "likes": 649,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2101008284010602924",
+      "author": "@GoogleAI",
+      "text": "It’s time for our end-of-week recap 👇\n\n— Gemini 3.8 Live and 3.8 Live Extended Thinking, our most advanced live dialogue audio models yet\n— Dreambeans, an experiment from @GoogleLabs that curates a daily personalized collection of stories, is now GA\n— CC from @GoogleLabs has",
+      "likes": 608,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2100999979519402182",
+      "author": "@svpino",
+      "text": "DeepSeek 4.1 Flash offers one of the best size-to-capability combinations among open models.\n\nIt's really good for designing anything visual.\n\nAnd now, you can access it on Forge for free until Oct 14.",
+      "likes": 314,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2101115989379428577",
+      "author": "@jerryjliu0",
+      "text": "with jev, it's nice to see builder energy back on X, reminiscent of the early days of building with LLMs (back when gpt_index/llama_index/langchain first started) \n\nbefore jev, most of the 2026 AI demo hype has revolved around the end-to-end capabilities of frontier models. The",
+      "likes": 308,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2100989529465188597",
+      "author": "@reach_vb",
+      "text": "Multiple accounts support across *all* plugins in ChatGPT 🔥\n\nBe it gmail, slack, github, notion or really any plugin, you can connect more than one account to it\n\nIf you’re developing plugins, it should work out of the box but consider using the profile_tool\n\nEnjoy!",
+      "likes": 277,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2101027760181285184",
+      "author": "@reach_vb",
+      "text": "LFG! Big win for open standards!!",
+      "likes": 227,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101449350199001443",
+      "author": "@reach_vb",
+      "text": "Linux-maxxing w/ ChatGPT App",
+      "likes": 220,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2101054310037790814",
+      "author": "@hwchase17",
+      "text": "browser use is the best application of Jev ive seen yet",
+      "likes": 205,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2100905960688816263",
+      "author": "@sentient_agency",
+      "text": "holy shit... GitHub is insane right now\n\ndevelopers are casually open-sourcing AI agents, browser automation, voice cloning and tools that run MASSIVE models locally\n\nI went through everything trending today\n\n10 repos you need to see ↓\n\n1. Alibaba Open Code Review\n\nAI-powered",
+      "likes": 149,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2101373011743957386",
+      "author": "@reach_vb",
+      "text": "10 days to DevDay!",
+      "likes": 165,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100819471795642462",
+      "author": "@jerryjliu0",
+      "text": "you can just turn jev back into an autoregressive LLM by letting it output ascii lol",
+      "likes": 160,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2101385597495755018",
+      "author": "@jerryjliu0",
+      "text": "we've evaluated 100+ models on doc parsing 🔥\n\nfrom frontier VLMs, open-weight VLMs, OCR tools, and OSS parsers \n\ncheck out parsebench:",
+      "likes": 137,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2101171424719450306",
+      "author": "@reach_vb",
+      "text": "people who bike to work, what bike do you ride? looking to buy one for commute and weekend fun rides",
+      "likes": 115,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101201572386795846",
+      "author": "@jerryjliu0",
+      "text": "what if we...increased the air gap",
+      "likes": 59,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101101864326693077",
+      "author": "@jerryjliu0",
+      "text": "Recently, Datalab released OmniExtractBench, a benchmark that combines several benchmarks (our own ExtractBench, LongExtractBench, other vendors) to measure structured document quality.\n\nThe benchmark measured our \"Agentic Plus\" extraction model, our most powerful mode for",
+      "likes": 45,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2101043698544869710",
+      "author": "@nauczymycieAI",
+      "text": "Jeden z najciekawszych podcastów o przyszłości i teraźniejszośi AI jaki ostatnio słyszałem. Dwarkesh Patel rozmawia (prawie) bez filtra z researcherem OpenAI.\n\nPolecam przesłuchać całość, ale jeżeli nie masz czasu, podsumowałem go dla Ciebie.\n\nGościem jest Noam Brown, jeden z",
+      "likes": 48,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2100935375980257426",
+      "author": "@svpino",
+      "text": "AI is reshaping how software gets planned, built, and run.\n\nBut what does that actually mean for engineering and product organizations?\n\nHear from Mike Cannon-Brookes (CEO &amp; Co-Founder, Atlassian), Guillermo Rauch (CEO, Vercel), leaders from Lovable Dropbox, 1Password, and more",
+      "likes": 51,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101084662458175976",
+      "author": "@hwchase17",
+      "text": "we've been diving into how Jev can help with agents\n\n@sydneyrunkle will do a deep dive on this next week - come join!",
+      "likes": 44,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2101022804523315545",
+      "author": "@svpino",
+      "text": "I built a 400K+ audience here, but I'd do it differently if I had to start again.\n\nToday, you can build an audience on any of the usual suspects: Instagram, X, YouTube, LinkedIn, and TikTok.\n\nBut these platforms are quite saturated now. Everyone is there!\n\nFortunately, there's a",
+      "likes": 42,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2100984869342056750",
+      "author": "@svpino",
+      "text": "A thousand people have asked me for something like this:\n\nThis is a free browser extension that automatically replaces personal information in your prompts with synthetic values.\n\n• It runs locally\n• Replaces personal info with fake data\n• Forwards the updated prompt to the",
+      "likes": 44,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101240857676730786",
+      "author": "@sentient_agency",
+      "text": "ok so I've been collecting every open-source tool that makes Claude Code better and..\n\nnone of these need internet, none of these cost money, they just run on your laptop\n\n10 tools:\n\n1/ Serena\n\nturns Claude Code into an actual IDE finds and edits code by symbol instead of reading",
+      "likes": 24,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2100974785203413388",
+      "author": "@svpino",
+      "text": "This lets you run different agents without installing them. It will also let you switch agents when you run out of credits.\n\nThey have 40+ agents, including Hermes, Claude Code, Codex, and Pi.\n\nYou can try it from a browser (which is pretty cool), or from their API:\n\n• Choose an",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101152407598354561",
+      "author": "@jerryjliu0",
+      "text": "my name is jeff",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101363990332866974",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli nie testowałeś od jakiegoś czasu trybu live w ChatGPT, to warto to nadrobić. \n\nPo wdrożeniu Astry jest naprawdę dobry, niedawno podnieśli też limity korzystania (liczone oddzielnie). \n\nWygląda też na to, że rozwiązali też częściowo problemy z drażniącym akcentem po polsku",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100900874788766061",
+      "author": "@rpl_0x",
+      "text": "Historia Dworku Białoprądnickiego.\n\nChce podnieść filmy na wyższy poziom i uruchomić inne narzędzia - takie jak realne nagrania - z dołu i z drona, a także bardziej przyłożyć się rekonstrukcji budynku - niestety Dworek nie ma za brdzo dostępnych archiwalnych zdjęć - przynajmniej",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100901757345739139",
+      "author": "@rpl_0x",
+      "text": "yt świadka",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100901678790643924",
+      "author": "@rpl_0x",
+      "text": "Strona świadka dziejów:",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}

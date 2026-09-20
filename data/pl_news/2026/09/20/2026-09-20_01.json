@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-20",
+  "slot": "01",
+  "generated_at": "2026-09-20T05:15:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2100859343478403289",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli, jak twierdzą politycy, reklama Polski powinna być kontrowersyjna, bo wtedy przyciąga uwagę, to proszę bardzo 😁",
+      "likes": 543,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2100910204774957247",
+      "author": "@Macronextcom",
+      "text": "Tylko 4 ostatnie dni:\n\n🇵🇱  Tusk: Istnieje realne ryzyko, że na teren państw NATO mogą wlatywać rosyjskie drony lub pociski;\n🇵🇱  Rosyjski dron wojskowy na plaży;\n🇱🇹  Nad Litwą zestrzelony rosyjski dron;\n🇫🇷  Macron zwołuje pilną naradę; \n🇩🇪  Niemcy nagle wysyłają myśliwce na Łotwę.",
+      "likes": 203,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2101028193125732654",
+      "author": "@laskowski_pl",
+      "text": "Stała baza USA gwarantem bezpieczeństwa Polski - naprawdę?\n\nUSA, w Afganistanie walczyły 20 lat.\nPrzez 20 lat budowali społeczeństwo demokratyczne. Wiele osób uwierzyło w ich obietnice. Wiele ludzi zaczęło żyć tak jak Amerykanie.\nW 24 godziny, pasterze z kałachami w sandałach,",
+      "likes": 84,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2101181539488800906",
+      "author": "@Macronextcom",
+      "text": "Agencja Moody's obniżyła rating Polski 🇵🇱 do A3 z A2. Perspektywa ratingu jest stabilna.  \n\nMoody's sprowadził rating Polski do poziomu S&amp;P i Fitch.\n\nAktualna ocena Polski (od najwyższej do najniższej):\n\n🔸S&amp;P: A- (stabilna), Moody's: A3 (stabilna)\n🔸Fitch: A- (negatywna)",
+      "likes": 78,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100883843326627921",
+      "author": "@Macronextcom",
+      "text": "5⃣4⃣7⃣9⃣ zł  - tyle wyniósł przeciętny dochód z pracy w indywidualnym gospodarstwie rolnym z 1 ha przeliczeniowego w 2025 r. 🇵🇱 (GUS)",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100928268048142465",
+      "author": "@Macronextcom",
+      "text": "W dniach 23-25 września prezydent Chin 🇨🇳 Xi Jinpinga udaje się z wizytą do USA. \n\nW czwartek 24 września oficjalnie spotka się z prezydentem USA 🇺🇸 Donaldem Trumpem.",
+      "likes": 41,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100858436284006477",
+      "author": "@Macronextcom",
+      "text": "Dziś jest Dzień Trzech Wiedźm.",
+      "likes": 43,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101212299126022416",
+      "author": "@laskowski_pl",
+      "text": "Zakład, że wysłali do naprawy do Chin \"bo było taniej\"? \nZrobiła się afera jak to wyszło na jaw 😉",
+      "likes": 28,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2100989331116818932",
+      "author": "@laskowski_pl",
+      "text": "Na wiadomość o braku cytryn towarzysz Gomułka słusznie wskazał, że więcej witaminy C ma kiszona kapusta.\nNiestety, naród nie chciał wrzucać kapusty do herbaty.\n\nSocjalizm, socjalizm! 😁",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101236635065069809",
+      "author": "@PAPinformacje",
+      "text": "Koniec operowania wojskowego lotnictwa w polskiej przestrzeni powietrznej\n#PAPinformacje",
+      "likes": 22,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2100850750502977764",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VIII 2026 r. Produkcja przemysłowa 4,3% r/r (prognoza: 6,3%; poprzednio: 4,8%) #PLN #RPP \n\nKalendarz (Polska):",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2100838524865990925",
+      "author": "@Macronextcom",
+      "text": "Analitycy Barclays podnieśli rekomendację dla #Allegro do \"przeważaj\", podnosząc jednocześnie cenę docelową dla nich z 35 zł do 61 zł.\n\n👉 ALLEGRO : BARCLAYS RAISES TARGET PRICE TO PLN 61 FROM PLN 35",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100991769869451337",
+      "author": "@laskowski_pl",
+      "text": "Bardzo się cieszę z propozycji PKN - Paliwa Karola Niżej, ale będzie on bardziej wiarygodny gdy spełni swoją pierwszą obietnicę co do cen energii.\n@NawrockiKn obiecał to bezwarunkowo! Nie było mowy o jakiś warunkach typu \"jak rząd przyjmie\".",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100833792638226744",
+      "author": "@laskowski_pl",
+      "text": "Krajowa transformacja ciepłownictwa ma prowadzić do stopniowego odchodzenia od węgla i przechodzenia głównie na gaz. \n\nSkąd ten gaz ministrze @motykamilosz z Zatoki Perskiej, czy po cichu robimy przygotowania do końca wojny UKR/RU i wrócenia do importu gazu z Rosji?",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101339279234338878",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Muzeum Polskiej Techniki Wojskowej. Byliście?",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101322549250445748",
+      "author": "@laskowski_pl",
+      "text": "Wolność słowa według Trumpa, wpuszcza tylko tych, którzy mu kadzą.\nZa chwilę będzie rozmawiał tylko z lustrem.",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101012293723000856",
+      "author": "@laskowski_pl",
+      "text": "Jedyny kraj, z dużych importerów paliw, który nie narzeka na ceny i dostępność, to Chiny. \n\nCiekawe 🤔\n@wojtek_china \n@kot_b0t",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100842648537879013",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Wczoraj Allegro, a dziś LPP.\n\nNa otwarciu sesji #LPP +4,74% 📈 po opublikowaniu lepszych od oczekiwań wyników za II kw. 2026. 👇",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101316766374715621",
+      "author": "@PAPinformacje",
+      "text": "Polscy siatkarze wygrali z Łotwą 3:0 w 1/8 finału mistrzostw Europy. (PAP)\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101339421836525715",
+      "author": "@PAPinformacje",
+      "text": "Wiedzieliśmy, że musimy wyjść i zrobić, co należy - mówił libero reprezentacji Jakub Popiwczak po meczu w Łotwą.\n\nPolscy siatkarze pokonali w Sofii Łotwę 3:0 (25:17, 25:16, 25:16) w 1/8 finału mistrzostw Europy. Podopieczni trenera Nikoli Grbicia, którzy bronią tytułu, w",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101202882057978008",
+      "author": "@DGPrawna",
+      "text": "„Kraków stoi dziś przed problemami znacznie większymi niż Strefa Czystego Transportu. Mówimy o zadłużeniu, rynku pracy i przyszłym modelu rozwoju miasta” – mówi @FijakMaciej , publicysta i komentator życia miejskiego.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101330926697369914",
+      "author": "@PAPinformacje",
+      "text": "Do Łodzi zjechali fani gier i komiksów. Festiwal ruszył po raz 37. [WIDEO]\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101275537893187715",
+      "author": "@PAPinformacje",
+      "text": "Ekspert: weryfikacja wieku online to iluzja, potrzebne są inne narzędzia ochrony dzieci\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101230319353393522",
+      "author": "@PAPinformacje",
+      "text": "Beskidy. Bardzo dobre warunki na szlakach turystycznych\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101412136937197623",
+      "author": "@PAPinformacje",
+      "text": "Tramwaje ścigały się w Warszawie. Mistrzami motorniczowie z czeskiej Pragi [WIDEO+ZDJĘCIA]\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101389223458644375",
+      "author": "@PAPinformacje",
+      "text": "Trump idzie w zaparte. Dziennikarze niewpuszczeni do Białego Domu\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101247796128924079",
+      "author": "@PAPinformacje",
+      "text": "BBN: nadrzędnym celem działań Rosji w Europie jest blokada pomocy Ukrainie\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101171598468190251",
+      "author": "@DGPrawna",
+      "text": "Agencja Moody’s obniżyła w piątek 18 września długoterminowy rating Polski do poziomu A3, zmieniając perspektywę oceny z negatywnej na stabilną. Uzasadnienie: oczekiwanie „trwałego pogorszenia kondycji fiskalnej”.",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100937575191941418",
+      "author": "@DGPrawna",
+      "text": "Podatek od firm paliwowych, zmiany w podatku dochodowym, VAT i akcyzie. To uchwalił Sejm",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101247663521845702",
+      "author": "@PAPinformacje",
+      "text": "Skąd się bierze hałas w miastach?\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100882131538919622",
+      "author": "@mbank_research",
+      "text": "🇵🇱 W VIII produkcja przemysłowa wyhamowała do 4,3% r/r, poniżej prognoz rynkowych. To spowolnienie wobec 4,8% r/r w lipcu, którego wynik zrewidowano w dół. Motorami napędowymi były głównie górnictwo, energetyka oraz dostawa mediów. Przetwórstwo zanotowało słabszy wynik (3,4%).",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101314525467209810",
+      "author": "@laskowski_pl",
+      "text": "Pan @mmagierowski i reszta potakująca za pomaranczowym przyjacielem zwyczajnie kłamie.\nPan Nawrocki nigdy nie był 12, ani nawet 10.\nPrzekaz dla MAGA-idiotów.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101311974952841667",
+      "author": "@PAPinformacje",
+      "text": "W sobotę słonecznie. Od niedzieli więcej chmur i burze\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101230227678527637",
+      "author": "@PAPinformacje",
+      "text": "Agenda Europejska (Przegląd najważniejszych wydarzeń w UE)\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101222763319247230",
+      "author": "@DGPrawna",
+      "text": "Polska powinna jak najszybciej podwyższyć podatki, a nie tworzyć bezpieczne schronienie dla miliarderów i fikcyjnych spółek, które zagroziłoby naszemu modelowi rozwoju.",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2100937516987674704",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w VIII 2026 r. Produkcja przemysłowa 0,0% m/m (prognoza: 0,3%; poprzednio: 0,2%) #USD #Fed \n\nRoczna dynamika produkcji wzrosla do 1,4%.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101367587594534939",
+      "author": "@PAPinformacje",
+      "text": "To ostatnie chwile na zgłoszenia do 8. edycji Nagrody PAP im. Ryszarda Kapuścińskiego!\n\nKategorie: 📝 Tekst 🎙️ Audio 📸 Foto 🎥 Wideo\n\nTermin zgłoszeń: do 20 września 2026 r.\n\nSzczegółowe zasady, regulamin oraz formularz zgłoszeniowy dostępne są na stronie:",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101353425078263880",
+      "author": "@PAPinformacje",
+      "text": "Pierwsza para w USA. Prezydent złożył hołd ofiarom 11 września\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101352793902579730",
+      "author": "@PAPinformacje",
+      "text": "Gratka dla fanów motoryzacji. Około 1 tys. klasyków na Retro Motor Show [WIDEO]\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2100855717733322807",
+      "author": "@GUS_STAT",
+      "text": "[1z2] Kto, jak nie my? - Renata Bielak, Wiceprezes #GUS, otworzyła 1. spotkanie Zespołu ds. pomiaru komponentu krajowego. Równolegle z pilotażem #LocalContent w 2. poł. br., czas na przygotowanie kompleksowego systemu pomiaru wpływu projektów inwestycyjnych na polską gospodarkę.",
+      "likes": 1,
+      "retweets": 1
+    }
+  ]
+}
