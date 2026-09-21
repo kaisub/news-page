@@ -1,0 +1,149 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-21",
+  "slot": "01",
+  "generated_at": "2026-09-21T05:18:59Z",
+  "tweets": [
+    {
+      "tweet_id": "2101738281046294552",
+      "author": "@jerryjliu0",
+      "text": "Introducing DocJev - a lightning-fast OSS library for document classification and splitting with jev ⚡️\n\nGive a document alongside some natural language category rules. Jev will predict the document category (classify) or the boundaries between sub-documents (split).\n\nIt is 6x",
+      "likes": 778,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2101449350199001443",
+      "author": "@reach_vb",
+      "text": "Linux-maxxing w/ ChatGPT App",
+      "likes": 453,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2101671063272796549",
+      "author": "@hwchase17",
+      "text": "\"jev as a judge\"\n\ncheap and fast semantic verifiers! great for evals - especially online evals where you want to grade LOTS of traces",
+      "likes": 389,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2101385597495755018",
+      "author": "@jerryjliu0",
+      "text": "we've evaluated 100+ models on doc parsing 🔥\n\nfrom frontier VLMs, open-weight VLMs, OCR tools, and OSS parsers \n\ncheck out parsebench:",
+      "likes": 240,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2101799938547962072",
+      "author": "@reach_vb",
+      "text": "facts! computer use in codex feels like magic\n\nin 99% of the cases it *just* works and the 1% it doesn’t, you can just prompt codex to try a different approach\n\nmore than the utility the whole setup process + the ease of use is simply delightful \n\non top of that @AriX and team",
+      "likes": 190,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101373011743957386",
+      "author": "@reach_vb",
+      "text": "10 days to DevDay!",
+      "likes": 186,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101757731489116436",
+      "author": "@reach_vb",
+      "text": "9 days to DevDay!\n\n(also wrapped up the first leg of euro travels)",
+      "likes": 157,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101670779926499683",
+      "author": "@hwchase17",
+      "text": "we've been exploring how to use Jev to build a better harness\n\ndoing a webinar on it next week with @sydneyrunkle @huntlovell and Allie from @typesafeai \n\ncome join us!",
+      "likes": 86,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2101710833810063632",
+      "author": "@hwchase17",
+      "text": "Decision Model is a great name, and I expect other entrants in this new model class before long",
+      "likes": 83,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2101778156353187922",
+      "author": "@svpino",
+      "text": "This new model does something really cool:\n\nIt turns speech into text as you speak. This is different from every other audio model.\n\nThe model is called R2T2. It processes audio in small chunks and knows which words to publish immediately and which need more context.\n\nHugging",
+      "likes": 67,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2101201572386795846",
+      "author": "@jerryjliu0",
+      "text": "what if we...increased the air gap",
+      "likes": 61,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101240857676730786",
+      "author": "@sentient_agency",
+      "text": "ok so I've been collecting every open-source tool that makes Claude Code better and..\n\nnone of these need internet, none of these cost money, they just run on your laptop\n\n10 tools:\n\n1/ Serena\n\nturns Claude Code into an actual IDE finds and edits code by symbol instead of reading",
+      "likes": 34,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2101363990332866974",
+      "author": "@nauczymycieAI",
+      "text": "Jeżeli nie testowałeś od jakiegoś czasu trybu live w ChatGPT, to warto to nadrobić. \n\nPo wdrożeniu Astry jest naprawdę dobry, niedawno podnieśli też limity korzystania (liczone oddzielnie). \n\nWygląda też na to, że rozwiązali też częściowo problemy z drażniącym akcentem po polsku",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101588474591629760",
+      "author": "@nauczymycieAI",
+      "text": "Irrational Analysis twierdzi, że programiści są wyjątkowo zgodni i ich zdaniem Astra MIAŻDŻY Fable 5.1 w programowaniu.\n\nCo o tym sądzicie?",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101774090348429558",
+      "author": "@nauczymycieAI",
+      "text": "Pod koniec tygodnia skończyły mi się limity na Fable i Astrę.\n\nPróbnie wróciłem do Opusa 5. Bardzo szybko sobie przypomniałem, jak strasznie slopowy to jest model - nie nadaje się do niczego poza programowaniem. \n\nA nawet tutaj ilość absolutnie niepotrzebnych poprawek przebija",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101750145045975055",
+      "author": "@rpl_0x",
+      "text": "Fajnie, że ministerstwo idzie w kierunku wdrażania AI w nauczanie i robi krok w zachęcaniu nauczycieli do korzystania z AI.\n\nWażne tematy poruszone i warto żeby każdy nauczyciel który do tej pory nie korzystał z AI, się zapoznał, omówiono:\n\n- podstawy AI i obalanie mitów, czym AI",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101627692453945586",
+      "author": "@rpl_0x",
+      "text": "Dni NATO, Ostrawa",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101738282526879886",
+      "author": "@jerryjliu0",
+      "text": "Latency benchmarks:",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101558276823416834",
+      "author": "@rpl_0x",
+      "text": "Canva AI w Londynie, aktywistka Pull the Plug.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101738283873271926",
+      "author": "@jerryjliu0",
+      "text": "You can find the full interactive report here:",
+      "likes": 7,
+      "retweets": 1
+    }
+  ]
+}

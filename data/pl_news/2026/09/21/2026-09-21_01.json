@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-21",
+  "slot": "01",
+  "generated_at": "2026-09-21T05:18:59Z",
+  "tweets": [
+    {
+      "tweet_id": "2101736762812899651",
+      "author": "@PAPinformacje",
+      "text": "Rosja. Centralna Komisja Wyborcza: partia władzy Jedna Rosja otrzymała 57,54 proc. głosów w wyborach do Dumy",
+      "likes": 282,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2101181539488800906",
+      "author": "@Macronextcom",
+      "text": "Agencja Moody's obniżyła rating Polski 🇵🇱 do A3 z A2. Perspektywa ratingu jest stabilna.  \n\nMoody's sprowadził rating Polski do poziomu S&amp;P i Fitch.\n\nAktualna ocena Polski (od najwyższej do najniższej):\n\n🔸S&amp;P: A- (stabilna), Moody's: A3 (stabilna)\n🔸Fitch: A- (negatywna)",
+      "likes": 81,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101569296459514017",
+      "author": "@Macronextcom",
+      "text": "\"Donald Trump 🇺🇸 podpisał ustawę o sankcjach na Rosję 🇷🇺 i cłach na towary z państw należących do największych importerów rosyjskiej ropy naftowej i gazu.\"",
+      "likes": 54,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101212299126022416",
+      "author": "@laskowski_pl",
+      "text": "Zakład, że wysłali do naprawy do Chin \"bo było taniej\"? \nZrobiła się afera jak to wyszło na jaw 😉",
+      "likes": 28,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2101734245995520493",
+      "author": "@PAPinformacje",
+      "text": "Zakończyły się rosyjskie wybory do Dumy Państwowej; badania exit poll mówią o zwycięstwie partii wladzy Jedna Rosja #PAPinformacje",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101615350102016151",
+      "author": "@Macronextcom",
+      "text": "Kalendarz - spółki z #WIG20:\n\n23.09: Wyniki Pepco\n24.09: Wyniki Grupy Kęty\n29.09: Premiera Wiedźmin 3: Dziki Gon Remaster\n01.10: Wyniki Modivo\n08.10: LPP - odcięcie dywidendy\n26.10*: Koniec wezwania na Żabkę\n27.10: Wyniki Aior Bank, Budimex, Kruk, Żabka\n...\n\n* zmiana daty",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101677138822787294",
+      "author": "@PAPinformacje",
+      "text": "Gen. Polko: ukraiński atak dronowy pod Moskwą - potwierdza zdolność Kijowa do przejęcia inicjatywy #PAPinformacje",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101339279234338878",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Muzeum Polskiej Techniki Wojskowej. Byliście?",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101662916491563418",
+      "author": "@PAPinformacje",
+      "text": "Mija 30 lat od występu Michaela Jacksona w Warszawie [ARCHIWALNE ZDJĘCIA]",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101322549250445748",
+      "author": "@laskowski_pl",
+      "text": "Wolność słowa według Trumpa, wpuszcza tylko tych, którzy mu kadzą.\nZa chwilę będzie rozmawiał tylko z lustrem.",
+      "likes": 13,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2101706642668572893",
+      "author": "@PAPinformacje",
+      "text": "Niemcy/ Exit poll stacji ZDF: AfD wygrywa w Meklemburgii-Pomorzu Przednim z wynikiem 38 proc., drugie SPD z 36,5 proc.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101629272725082260",
+      "author": "@PAPinformacje",
+      "text": "Szef Komitetu Wojskowego NATO: Sojusz jest gotowy zareagować na rosyjską eskalację\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101562747305545827",
+      "author": "@PAPinformacje",
+      "text": "Hałas w Europie: we Francji najwięcej narażonych, we Włoszech główną przyczyną kolej\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2101706188580659284",
+      "author": "@PAPinformacje",
+      "text": "Ukraińcy wyzwolili 50 kilometrów kwadratowych na północy obwodu donieckiego\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101591862251270390",
+      "author": "@PAPinformacje",
+      "text": "Ruszyły wybory lokalne w Niemczech. Ważą się losy Merza\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101706768837476715",
+      "author": "@PAPinformacje",
+      "text": "Niemcy/ Exit poll stacji ZDF: Lewica wygrywa wybory w Berlinie uzyskując 26 proc. głosów. Drugie CDU z wynikiem 20 proc.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101573969929232896",
+      "author": "@PAPinformacje",
+      "text": "Rosyjskie ataki na Ukrainę. Zginęło osiem osób, w tym troje dzieci\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2101202882057978008",
+      "author": "@DGPrawna",
+      "text": "„Kraków stoi dziś przed problemami znacznie większymi niż Strefa Czystego Transportu. Mówimy o zadłużeniu, rynku pracy i przyszłym modelu rozwoju miasta” – mówi @FijakMaciej , publicysta i komentator życia miejskiego.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101646398370308427",
+      "author": "@PAPinformacje",
+      "text": "Strateg polityczny: ukraińska polityka po wojnie będzie zupełnie inna niż w 2019 roku\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2101686343872954689",
+      "author": "@PAPinformacje",
+      "text": "Premier Donald Tusk zachęca do głosowania: w tych wyborach głosujemy na Marię\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101578913587622113",
+      "author": "@PAPinformacje",
+      "text": "Brawura na hulajnogach. Kim są „Kukiryniarze”? Ekspert wyjaśnia\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101754415351021904",
+      "author": "@PAPinformacje",
+      "text": "🎥Weekend w 45 sekund, czyli najważniejsze wydarzenia, mocne obrazy, sport, kultura, ludzie, przyroda i ciekawostki z Polski i ze świata. To wszystko w jednym, szybkim Weekendowym przeglądzie wideo @PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101608396239573100",
+      "author": "@PAPinformacje",
+      "text": "Nowe ostrzeżenie ws. Bliskiego Wschodu. Media: Trump wcześniej w Waszyngtonie\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101314525467209810",
+      "author": "@laskowski_pl",
+      "text": "Pan @mmagierowski i reszta potakująca za pomaranczowym przyjacielem zwyczajnie kłamie.\nPan Nawrocki nigdy nie był 12, ani nawet 10.\nPrzekaz dla MAGA-idiotów.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101778240369017293",
+      "author": "@PAPinformacje",
+      "text": "Zełenski spotka się z Trumpem w Nowym Jorku\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101590687422578767",
+      "author": "@DGPrawna",
+      "text": "Nauczyciele narzekają na przeciążenie i niedocenienie, a jednocześnie zapewniają, że świetnie sobie radzą z budowaniem relacji i wspieraniem dzieci. Z badań PISA wynika jednak co innego.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101895086845853853",
+      "author": "@Macronextcom",
+      "text": "Ropa najtańsza od ponad tygodnia, w tym ropa WTI poniżej 100 dolarów.\n\n📉 Ropa Brent 101,68 USD (-2,11%)\n📉 Ropa WTI 94,03 USD (-6,25%)",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101686542817251434",
+      "author": "@PAPinformacje",
+      "text": "Przemysław Czarnek na Kongresie Młodych w Augustowie: wyjście z UE wbrew interesom Polski, ale będziemy negować unijne absurdy\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101686146350600616",
+      "author": "@PAPinformacje",
+      "text": "Leśkiewicz: nikt nie płacił za wstęp i udział w Polish-American Economic Summit\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101622144744464393",
+      "author": "@DGPrawna",
+      "text": "Zbombardowany saudyjski ropociąg to przygrywka: szyiccy rebelianci z ruchu Huti chcą kontrolować Bramę Łez. Eksperci zakładają, że jej przechwycenie będzie oznaczało de facto jej kontrolę przez Teheran.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101342049199140996",
+      "author": "@DGPrawna",
+      "text": "Elektryki Togg miały być symbolem nowej ery tureckiej motoryzacji i dowodem, że kraj potrafi stworzyć własną markę technologiczną. Jednak w Niemczech, gdzie zadebiutowały rok temu, sprzedano niespełna 150 aut.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101322923831074864",
+      "author": "@DGPrawna",
+      "text": "Turyści zapłacą więcej gminom. Sejm podjął decyzję w sprawie opłaty miejscowej",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101222763319247230",
+      "author": "@DGPrawna",
+      "text": "Polska powinna jak najszybciej podwyższyć podatki, a nie tworzyć bezpieczne schronienie dla miliarderów i fikcyjnych spółek, które zagroziłoby naszemu modelowi rozwoju.",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2101571813251649731",
+      "author": "@DGPrawna",
+      "text": "Rosyjskie ataki ponownie poważnie ograniczyły funkcjonowanie ukraińskich portów nad Morzem Czarnym. Kijów ma kilka dróg awaryjnych dla eksportu zboża. Polska w tej układance na razie zajmuje dalsze miejsce",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101374764652863738",
+      "author": "@DGPrawna",
+      "text": "Centrum Londynu spłonęło doszczętnie 360 lat temu. Ślady tamtej tragedii widać do dziś, zwłaszcza w tkance ekonomicznej. To wtedy miejsce mieszkającej tam biedoty zajęli ludzie majętni i banki. I tak powstało City.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101324937138995553",
+      "author": "@DGPrawna",
+      "text": "Rosja nie ma dzisiaj wystarczających sił, by zbrojnie podporządkować sobie któreś z państw zachodnich. Ale to nie znaczy, że powinniśmy lekceważyć jej agresywne zamiary wobec krajów NATO – i dotyczące ich narracje - pisze @WitoldSokala",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101180987862376806",
+      "author": "@DGPrawna",
+      "text": "Zbawienie przez automatyzację: nic już nie trzeba będzie robić, bo wszystko zrobią za nas roboty, a manna sama spadnie z nieba. Ten, kto temu zaprzecza, jest wstecznikiem, zwolennikiem irracjonalizmu, komunistą. Jest luddystą - pisze Piotr Kofta.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2101323426363568408",
+      "author": "@DGPrawna",
+      "text": "Traumatyczne dzieciństwo i choroba psychiczna. Prawnicy kobiety skazanej na karę śmierci walczą o wstrzymanie egzekucji",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101234339316994537",
+      "author": "@DGPrawna",
+      "text": "Czy Odys był skomplikowany? Tak twierdzi reżyser „Odysei”, idąc tropem tłumaczki poematu. Greckie słowo „polutropos” niesie za sobą wiele znaczeń, a debat na jego temat mogłoby być tyle, ile o całej ekranizacji Christophera Nolana.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2101205058335465963",
+      "author": "@DGPrawna",
+      "text": "W „Kulisach Polityki” @JMiziolek  rozmawia z  @RobertWinnicki  o sporze wokół Trybunału Konstytucyjnego, cenach paliw, kryzysie ochrony zdrowia i politycznej przyszłości prawicy.",
+      "likes": 0,
+      "retweets": 1
+    }
+  ]
+}
