@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-23",
+  "slot": "01",
+  "generated_at": "2026-09-23T05:04:39Z",
+  "tweets": [
+    {
+      "tweet_id": "2102435511222890900",
+      "author": "@claudeai",
+      "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+      "likes": 83546,
+      "retweets": 7848
+    },
+    {
+      "tweet_id": "2102435703535939725",
+      "author": "@AnthropicAI",
+      "text": "Claude Opus 5.5 is available today.",
+      "likes": 14673,
+      "retweets": 858
+    },
+    {
+      "tweet_id": "2102464672519815512",
+      "author": "@sama",
+      "text": "GPT-6 Sol and Luna are big improvements on intelligence, alignment, work output, coding, computer use, and more over their 5.6-family predecessors.\n\nThey are also half the price per token, and even less per task!",
+      "likes": 13608,
+      "retweets": 579
+    },
+    {
+      "tweet_id": "2102466603111551187",
+      "author": "@sama",
+      "text": "We want the OpenAI API to feature the best model at every price point and to be the best at every modality (text, code, image, video, etc).\n\nAnd then we want you all to come up with great ideas and build them and to get to be happy users. The best ideas will come from you all.",
+      "likes": 7843,
+      "retweets": 276
+    },
+    {
+      "tweet_id": "2102471866635919731",
+      "author": "@claudeai",
+      "text": "A thread of early explorations with Claude Opus 5.5:\n\nA short story about a watermelon created by @kevin_t_ngo.",
+      "likes": 6864,
+      "retweets": 331
+    },
+    {
+      "tweet_id": "2102439069053747549",
+      "author": "@bcherny",
+      "text": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks.\n\nWe had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hours compared to Fable 5.1's 12 hours, and for 51% less cost.",
+      "likes": 6638,
+      "retweets": 224
+    },
+    {
+      "tweet_id": "2102414347364335917",
+      "author": "@sama",
+      "text": "People outside the AI labs should have a real say in how this technology develops, and a clear way to judge if it's happening safely.\n\nStandards should help prevent the concentration of power, including by making sure new companies and open-model companies can compete.\n\nThey",
+      "likes": 5593,
+      "retweets": 429
+    },
+    {
+      "tweet_id": "2102465143997440308",
+      "author": "@sama",
+      "text": "Especially compared by per-task pricing, which is the metric that should matter, I don't think there is anything competitive anywhere in the market.\n\nWe want people to be able to use tons of AI; it is important to being able to explore this new renaissance in front of us.",
+      "likes": 5614,
+      "retweets": 204
+    },
+    {
+      "tweet_id": "2102464201335984392",
+      "author": "@sama",
+      "text": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+      "likes": 5214,
+      "retweets": 201
+    },
+    {
+      "tweet_id": "2102469008079679640",
+      "author": "@sama",
+      "text": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space.",
+      "likes": 3438,
+      "retweets": 118
+    },
+    {
+      "tweet_id": "2102543349102338309",
+      "author": "@bcherny",
+      "text": "I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached.\n\nTLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.",
+      "likes": 2792,
+      "retweets": 127
+    },
+    {
+      "tweet_id": "2102466605758452017",
+      "author": "@sama",
+      "text": "We ❤️ developers.\n\nSee you next week.",
+      "likes": 2433,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2102468713866055872",
+      "author": "@sama",
+      "text": "michelle embodies this as much as anyone\n\nopenai is so, so lucky to have benefited from everything she has done so far and i think people will be quite pleased to see what she + team have cooking next!",
+      "likes": 2031,
+      "retweets": 57
+    },
+    {
+      "tweet_id": "2102464540365713720",
+      "author": "@reach_vb",
+      "text": "We are loading a BANKED RESET into all accounts of our Plus, Pro and Business users!!",
+      "likes": 729,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2102512794235207758",
+      "author": "@sama",
+      "text": "argh i meant VOICE not video :(\n\nsorry to dissapoint",
+      "likes": 727,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2102461023752192468",
+      "author": "@reach_vb",
+      "text": "Introducing GPT-6 Sol and Luna, bringing the advances behind Astra to faster, more affordable models. ✨\n\n💻 Stronger coding and computer use\n🎯 Improved factuality and alignment\n💬 Clearer answers with less jargon\n\n&gt; On AutomationBench, Sol at xhigh effort outperforms Claude",
+      "likes": 686,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2102479924032577686",
+      "author": "@jerryjliu0",
+      "text": "DocJev is the fastest way to classify and split complex document packets ⚡️. (and the default is fully free and OSS!) \n\nI made a sick teaser video below. TY Opus 5.5 🙏\n\ncheck it out:",
+      "likes": 529,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2102263335345377568",
+      "author": "@reach_vb",
+      "text": "T U E S D A Y",
+      "likes": 487,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2102462489690865905",
+      "author": "@reach_vb",
+      "text": "GPT-6 Sol &amp; Luna are ~50% cheaper than 5.6",
+      "likes": 343,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2102067616567439592",
+      "author": "@svpino",
+      "text": "I've been to many meetings with companies that want to use AI but don't know where or how.\n\nThey don't have a specific problem to solve. They are just paying us to come up with ideas.\n\nThis looks like the solution for all of those companies:",
+      "likes": 320,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2102495297427632573",
+      "author": "@reach_vb",
+      "text": "Team cooked with the design, yet again!!",
+      "likes": 280,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2102122384652382622",
+      "author": "@reach_vb",
+      "text": "8 days to DevDay!\n\n(liberally using ChatGPT Work &amp; Codex Remote to get through tonnes of PRs for what’s next)",
+      "likes": 213,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2102182613142385034",
+      "author": "@jerryjliu0",
+      "text": "you can find a nice interactive visualization of docjev splitting in action here.\n\nit matches luna in being able to split complex document text along the right semantic boundaries",
+      "likes": 165,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2102419389891105051",
+      "author": "@svpino",
+      "text": "Since I bought a separate computer to run my agents, my token usage and the things I’ve been able to automate have increased dramatically.\n\nInfrastructure is the number one bottleneck for agentic workflows.\n\nThis here is even better:\n\nRun any agent with one command. Run one or",
+      "likes": 173,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2101907851434430843",
+      "author": "@jerryjliu0",
+      "text": "it's awesome to see the reception here 🔥 \n\none of the jev's promises is to make a lot of business operations extremely lightweight and fast, while still saving intelligence-heavy tasks for larger agentic systems\n\ndocjev is hyperfocused on doc classification and splitting, and",
+      "likes": 147,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2102105461562683846",
+      "author": "@reach_vb",
+      "text": "“The group will advise on the review and communication of emerging results: they will help OpenAI assess their significance, advise on how to coordinate their dissemination, and advise on academic and professional standards of mathematical research.”\n\n“We want to put capable",
+      "likes": 152,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2102489185609535990",
+      "author": "@jerryjliu0",
+      "text": "liteparse is the fastest pdf parser on the planet\n\nparses each page at just 2.8ms / page!! \n\ncheck it out:",
+      "likes": 138,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2102044069673435563",
+      "author": "@svpino",
+      "text": "As soon as you try to run 2 agents on the same data, everything breaks:\n\n• Agent 1 reads some data and starts working.\n• Two seconds later, Agent 2 changes that same data.\n\nThis is a problem. Agents will waste tokens on stale data, overwrite each other's work, and redo tasks",
+      "likes": 125,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2102137581626388743",
+      "author": "@hwchase17",
+      "text": "this is cool\n\nkind of like \"goal\" but with multiple in a row you need to hit?",
+      "likes": 116,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2102165095208145075",
+      "author": "@jerryjliu0",
+      "text": "with jev, everyone is understanding the importance of calibrated confidence scores for discrete decision making\n\nwe've taken that approach one-step further and created grounded confidence scores for general schema-guided document extraction: \n\n✅ this includes primitive types",
+      "likes": 94,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2102084698985894352",
+      "author": "@hwchase17",
+      "text": "the reason i'm excited about decision models:\n\nagentic systems are just good engineering around models. \"build prod, not god\"\n\nthese types of fast, cheap &amp; accurate models are super important for that\n\nthe excitement around jev shows that most people think this way as well!",
+      "likes": 83,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2102529024841154977",
+      "author": "@jerryjliu0",
+      "text": "Opus 5.5 is the best frontier model for parsing tables in PDFs.\n\nWe ran it through ParseBench, and it scored 93.9%, a 7%+ increase over Opus 5, and beating Fable/Gemini/Astra.\n\nIt's comparable to LlamaParse Agentic Plus in table quality, though it still struggles on charts,",
+      "likes": 77,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2102463876419981406",
+      "author": "@jerryjliu0",
+      "text": "holy fuck it's christmas",
+      "likes": 85,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2102470464735949263",
+      "author": "@hwchase17",
+      "text": "🖼️ Improved UI for Jev models in LangSmith\n\nagents are going to complex systems of many llms calls\n\nmany llm calls will be jev-like (decision models)\n\nwe've updated tracing view in LangSmith to display these types of calls (state, questions, choices, output) more clearly!",
+      "likes": 57,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2102453753353793602",
+      "author": "@nauczymycieAI",
+      "text": "Anthropic właśnie wypuściło Opusa 5.5. I co ciekawe - ma być wyraźnie szybszy i tańszy niż poprzedni model.\n\nAle mnie najbardziej ucieszyło coś innego.\n\nJeżeli pracujesz regularnie z Claude to pewnie dobrze znasz tą sytuację. Zadajesz Opusowi proste pytanie, a dostajesz trzy",
+      "likes": 52,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2102088971883004413",
+      "author": "@svpino",
+      "text": "For those of you who want some coding experience:\n\nKestra's Hacktoberfest runs from October 1 through October 31, and it's a great chance to develop your reputation as an open-source contributor.\n\nYou can participate in a couple of ways:\n\n1. Fix an issue in Kestra's core or",
+      "likes": 43,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2102473688050467319",
+      "author": "@svpino",
+      "text": "Traditional code reviews won't last long.\n\nIt's impossible and inefficient to sit and check every AI-generated line of code. It just doesn't make sense anymore.\n\n@coderabbitai is way ahead of everyone else. Their Change Stack feature is a new IDE for reviewing agentic code.",
+      "likes": 48,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2102085306488954892",
+      "author": "@nauczymycieAI",
+      "text": "GPT-6 Astra i Fable 5.1 to bardzo drogie modele? Mam złe wieści. Nadchodzące GPT 6.1, Fable 5.5 oraz jeszcze większy model \"Bel\" od OpenAI nie będą tańsze.\n\nNa szczęście koszt tokenów da się bardzo mocno zbić kilkoma technikami. Konkrety w poradniku👇",
+      "likes": 44,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2102087963517550667",
+      "author": "@hwchase17",
+      "text": "try out jev in langsmith today! can use it to score traces cheap and accurately",
+      "likes": 34,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2102020687971975511",
+      "author": "@nauczymycieAI",
+      "text": "Powód nr 1 to wyplewienie korupcji, nepotyzmu i niekompetencji\n\nPowód nr 2 to fakt, że wdrożenie AI w służbie zdrowia poprawia przeżywałność pacjentów. I mamy na to dane",
+      "likes": 29,
+      "retweets": 2
+    }
+  ]
+}
