@@ -1,0 +1,254 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-25",
+  "slot": "01",
+  "generated_at": "2026-09-25T05:15:33Z",
+  "tweets": [
+    {
+      "tweet_id": "2102824959827742916",
+      "author": "@AnthropicAI",
+      "text": "Claude has discovered a previously unknown enzyme system hidden in the DNA of bacteriophages. Beside the enzyme’s gene sits a long array of repeating DNA—a structure that looks somewhat similar to CRISPR.\n\nWe don’t yet understand what this system does, but only a handful of known",
+      "likes": 40297,
+      "retweets": 5170
+    },
+    {
+      "tweet_id": "2102840851538080172",
+      "author": "@claudeai",
+      "text": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:\n\n- Add connectors and plugins like Slack and Notion\n- Buy agents and products from companies like Cursor and CrowdStrike\n- Scale with service partners like Accenture and Deloitte",
+      "likes": 5460,
+      "retweets": 340
+    },
+    {
+      "tweet_id": "2102971275543216623",
+      "author": "@bcherny",
+      "text": "It was an honor to meet Donald Knuth at the Computer History Museum today",
+      "likes": 5077,
+      "retweets": 94
+    },
+    {
+      "tweet_id": "2102854267782705648",
+      "author": "@bcherny",
+      "text": "If you've noticed how fast  and the Desktop app have become in the last few weeks, here's how we did it. \n\nLots of juicy learnings &amp; techniques in the blog post for engineers working on speeding up your own apps.",
+      "likes": 4868,
+      "retweets": 151
+    },
+    {
+      "tweet_id": "2102781694730285427",
+      "author": "@GoogleAI",
+      "text": "We’re launching Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS ⚡️\n\nOur most expressive audio models yet let you create custom voices across 100+ languages or pick from 2,000+ ready-to-use ones. You can direct back-and-forth conversations, guide the delivery line-by-line, and",
+      "likes": 2092,
+      "retweets": 204
+    },
+    {
+      "tweet_id": "2102897863097545197",
+      "author": "@AnthropicAI",
+      "text": "In the Democratic Republic of the Congo, global health organizations including @CEPIvaccines, @WHOAFRO, and @inrb_kinshasa are using Claude to accelerate their response to an outbreak of an unusual Ebola variant.\n\nRead the full piece here:",
+      "likes": 855,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2103113594607177794",
+      "author": "@svpino",
+      "text": "Creating marketing videos is a solved problem.\n\nHonestly, I can't imagine another creative area where we save so much time and money.\n\nGenerating something like this used to cost thousands of dollars and take weeks.\n\nNow, it's cents and minutes.\n\nBest part of this: their",
+      "likes": 600,
+      "retweets": 236
+    },
+    {
+      "tweet_id": "2102988531455115616",
+      "author": "@reach_vb",
+      "text": "Astra made this: a seamless 4K Mandelbrot loop from zₙ₊₁ = zₙ² + c, complete with a procedural soundtrack. \n\nmath is absurdly beautiful.",
+      "likes": 325,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2102789797278523578",
+      "author": "@svpino",
+      "text": "Unfortunately, many people only care about amplifying the negative effects of AI, but this is what truly excites me:\n\nAI used for good. In healthcare. To help people.\n\nThis app lets physicians use AI to find medical evidence, search clinical trials, run clinical calculations, and",
+      "likes": 220,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2102919773659218061",
+      "author": "@jerryjliu0",
+      "text": "we've built the world's most advanced engine for document extraction over complex documents\n\nthe video below shows an overview of LlamaExtract Agentic Plus in action. long tables, giant forms, calibrated confidence scores, and grounded extraction. \n\nif you have complex document",
+      "likes": 203,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2102771245783925069",
+      "author": "@reach_vb",
+      "text": "GPT-6 Luna (Max) is a pretty good model at an incredibly cheap price point!\n\nIt’s a meaningful default for a lot of my automations and for bouncing around ideas with code &amp; design",
+      "likes": 189,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2102822338702307757",
+      "author": "@reach_vb",
+      "text": "Massive QoL update: ChatGPT Voice can now use plugins AND run on GPT-6 Astra, Sol &amp; Luna, directly in ChatGPT Work on web and mobile.\n\nYour email, calendar, Slack + docs, decks, sites and spreadsheets, just by talking.\n\nRolling out now, enjoy!!",
+      "likes": 160,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2102783844235825619",
+      "author": "@ammaar",
+      "text": "Our latest text to speech and voice design model is here! 🚀 \n\n- Thousands of new voices to choose from \n- Replicate your own voice in under 30 seconds\n- Design voices with just a prompt \n- Expressive tags for complete control\n\nNow live in AI Studio!",
+      "likes": 90,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2102898067133595992",
+      "author": "@bcherny",
+      "text": "More details for the formal methods people -- what's happening is Claude is doing something like:\n\n1. Building a model of the program, targeting a tricky state machine or race-prone part of the code\n2. Finding counter-examples in the model. These are suspected bugs\n3. Reproducing",
+      "likes": 89,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2102747310086296000",
+      "author": "@svpino",
+      "text": "We don't talk enough about this, but the database we've always known is dead.\n\nModern applications need to store structured data, JSON documents, relationships, vector embeddings, spatial data, and text.\n\nSo far, the solution most people use is to break the data across different",
+      "likes": 81,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2102802015789142478",
+      "author": "@hwchase17",
+      "text": "Proactive agents run in the background, schedules are (one way) how you achieve that!",
+      "likes": 60,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2102817653912183204",
+      "author": "@nauczymycieAI",
+      "text": "Stan AI po wczorajszych premierach OpenAI i Anthropic:\n\n1. Anthropic wrócił na tron\n\n2. Deslopifikacja, zmniejszenie ilości używanych tokenów i podniesienie limitów to były bardzo potrzebne zmiany\n\n3. Do tego dochodzą możliwości zbliżone do Fable 5.1\n\n4. Pod kątem rozumienia o co",
+      "likes": 60,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2103155894506930555",
+      "author": "@svpino",
+      "text": "Using managed agents is perfect for running coding agents anywhere in the world.\n\nThe beauty of this:\n\n• You can resume a session from anywhere\n• You can fork a session into multiple agents\n• You can run parallel agents\n• You can reuse environments\n\nHere is how you can do",
+      "likes": 54,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2102706007969235442",
+      "author": "@rpl_0x",
+      "text": "Szukamy mieszkania na 2-3 miesiące w Hiszpani, jest dość ciężko znaleźć coś w interesującej nas okolicy.\n\nWrzuciliśmy post na grupefb - tam odezwała się do nas pani z propozycją mieszkania.\n\nOpisałem AI sytuacje i wrzuciłem zdjęcia, dostałem informacje że to najprawdopodobniej",
+      "likes": 53,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2102764959105159351",
+      "author": "@svpino",
+      "text": "For many teams, coding is no longer the bottleneck, but you still have to decide what to build using agents.\n\nWhen execution compresses to machine speed, one bottleneck that emerges is the ability to make the right decisions at the same pace.\n\nA discussion that captures this well",
+      "likes": 46,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2102799655004413993",
+      "author": "@svpino",
+      "text": "I want this badly!\n\nMy previous job was 80% sending emails and 20% building software. I probably put my foot in my mouth a hundred times.\n\nThis would have saved me:\n\nA model that checks messages against company policies and regulations before you can send them.\n\nYou don't have to",
+      "likes": 41,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2102638560545280281",
+      "author": "@rpl_0x",
+      "text": "Abstrahując od całej afery z doktoratem\n\nNajbardziej zaciekawiło mnie w tym wpisie przyznanie autora, że jego rozprawa zawiera błędy, pomyłki i niechlujności dlatego, że podczas jej przygotowywania nie korzystał z AI.\n\nI to jest ciekawe spojrzenie na AI\n\nPraca doktorska - ale",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103208544585892280",
+      "author": "@jerryjliu0",
+      "text": "This is a fantastic blog post from our research team on the importance of calibrated confidence scores.\n\nHere it's in the context of document extraction, it's also extremely important for more general agentic decision making (eg with Jev) \n\nWhen you set a confidence threshold,",
+      "likes": 34,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103069439981691296",
+      "author": "@rpl_0x",
+      "text": "Google wrzuciło ciekawy open sourcowy projekt AX.\n\nTo coś w rodzaju infrastruktury do uruchamiania i zarządzania agentami AI na większą skalę.\n\nCzyli nie kolejny framework do promptów czy budowania logiki agenta, tylko warstwa niżej.\n\nAgent może dostać własny sandbox,",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103201560012661004",
+      "author": "@svpino",
+      "text": "Cutting down noise before sending the audio to a speech-to-text model makes a huge improvement.\n\nVoice isolation is the next big thing you want to pay attention to.\n\nKrisp just released an open benchmark and a dataset to measure the impact of voice isolation on STT accuracy.\n\nThe",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2102795468266729526",
+      "author": "@nauczymycieAI",
+      "text": "Warto mieć, nomen omen \"Świadomość Sytuacyjną\" tego jak wygląda stan europejskiej technologii.\n\nJest D-R-A-M-A-T-Y-C-Z-N-I-E",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2102691713244405867",
+      "author": "@rpl_0x",
+      "text": "Dzisiaj wyszło Adobe Premiere na androida i IOS. Jest darmowe, zapowiadają że będą to mocno rozwijać, wyrasta mocny konkurent capcuta.\n\nMa wbudowane generatory video, kilka filmów można wygenerować na darmowym pakiecie.\n\nZapowiadają w najbliższym czasie updaty, przede wszystkim",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103189280004640796",
+      "author": "@nauczymycieAI",
+      "text": "Jak wygląda przyszłość AI? Przeanalizowaliśmy to dla Was.\n\nZebraliśmy dane z kilkunastu źródeł, min Epoch AI, METR, Artificial Analysis, NBP i KPMG, i dodaliśmy do nich nasz komentarz. \n\nOto najważniejsze wnioski:\n\nCzy nam się to podoba, czy nie - rozwój AI przyspiesza. Długość",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103266636556054799",
+      "author": "@jerryjliu0",
+      "text": "predicting model uncertainty is a hard problem. \nperfectly \"calibrated\" confidence scores are exact probability values on whether the output is correct. \n\nthis is extremely important for agentic decision making, including document extraction. i made a sick video below showing how",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2102680200668500369",
+      "author": "@rpl_0x",
+      "text": "Świetny Autorski test Remka wczorajszych premier 👏",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2102788898695098754",
+      "author": "@jerryjliu0",
+      "text": "\"what did she have to gain from me?\" \n\n\"well...isn't your family rich\"",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103161489439809620",
+      "author": "@rpl_0x",
+      "text": "Bardzo ciekawy i ambitny projekt rekonstrukcji miejscowości Maniowy - nad Jeziorem Czorsztyńskim.\n\nJest to wyjątkowo trudne zadanie bo @MarekWojtaszek stara się maksymalnie zachować autentyczność.\n\nDla mnie tym bardziej projekt ciekawy bo mam rodzinę w tamtych okolicach i często",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103341453561024976",
+      "author": "@jerryjliu0",
+      "text": "i like opus 5.5 a little more than astra, but i like the codex app more than the claude app",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103273111747764611",
+      "author": "@jerryjliu0",
+      "text": "in the spirit of sus mascots, this was in our drafts a few months ago\n(we did not proceed with this)",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103301763801756101",
+      "author": "@jerryjliu0",
+      "text": "come join us at SF @Techweek_ !",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
