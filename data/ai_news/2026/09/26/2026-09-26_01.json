@@ -1,0 +1,226 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-26",
+  "slot": "01",
+  "generated_at": "2026-09-26T05:14:03Z",
+  "tweets": [
+    {
+      "tweet_id": "2103515655760982273",
+      "author": "@claudeai",
+      "text": "Claude Opus 5.5 has been out for a few days. Some of our favorite things people have explored and discovered with it so far:",
+      "likes": 13328,
+      "retweets": 584
+    },
+    {
+      "tweet_id": "2103541577083719888",
+      "author": "@AnthropicAI",
+      "text": "New on the Science Blog: Yes, Claude can do Nine Loops.\n\nTheoretical physicists predict how particles behave using formulas called scattering amplitudes. These are notoriously hard to compute, so researchers work with layers of increasingly fine corrections called “loops”—each",
+      "likes": 4959,
+      "retweets": 542
+    },
+    {
+      "tweet_id": "2103567198690349362",
+      "author": "@sama",
+      "text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire",
+      "likes": 4592,
+      "retweets": 294
+    },
+    {
+      "tweet_id": "2103538666597691552",
+      "author": "@bcherny",
+      "text": "Tag writes &gt;50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs.\n\nIt's not like a regular Slack bot. It is proactive, programmable, it has memory, it has access to your connectors. With Opus 5.5 and Fable 5.1, it has",
+      "likes": 1048,
+      "retweets": 49
+    },
+    {
+      "tweet_id": "2103113594607177794",
+      "author": "@svpino",
+      "text": "Creating marketing videos is a solved problem.\n\nHonestly, I can't imagine another creative area where we save so much time and money.\n\nGenerating something like this used to cost thousands of dollars and take weeks.\n\nNow, it's cents and minutes.\n\nBest part of this: their",
+      "likes": 797,
+      "retweets": 250
+    },
+    {
+      "tweet_id": "2103641030864339163",
+      "author": "@reach_vb",
+      "text": "We’ll reset usage limits for all paid users across codex and ChatGPT work!",
+      "likes": 896,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2103552111233343980",
+      "author": "@GoogleAI",
+      "text": "Check out this week's updates and releases:\n\n— Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, two of our most expressive audio generation models yet\n— Gemini 3.8 Live with Live Avatar, bringing near real-time visual presence to Gemini’s conversational AI\n— @Gemini_Notebook",
+      "likes": 351,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2103421078060044365",
+      "author": "@rpl_0x",
+      "text": "ORLEN bierze się ostro za AI.\n\n3 dni temu ogłosili poszukiwanie partnerów technologicznych, którzy pomogą rozwijać i wdrażać rozwiązania oparte na sztucznej inteligencji.\n\nZakres jest szeroki, GenAI, machine learning, data science, analityka i wdrożenia w różnych obszarach",
+      "likes": 363,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2102988531455115616",
+      "author": "@reach_vb",
+      "text": "Astra made this: a seamless 4K Mandelbrot loop from zₙ₊₁ = zₙ² + c, complete with a procedural soundtrack. \n\nmath is absurdly beautiful.",
+      "likes": 342,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2103691327699550598",
+      "author": "@bcherny",
+      "text": "Can’t wait to see what you build.",
+      "likes": 301,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2103633684016550173",
+      "author": "@reach_vb",
+      "text": "Codex should be coming back online for you now!\n\nTeam is monitoring it diligently, apologies for the inconvenience. 🙏",
+      "likes": 263,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2103341453561024976",
+      "author": "@jerryjliu0",
+      "text": "i like opus 5.5 a little more than astra, but i like the codex app more than the claude app",
+      "likes": 175,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103561974613446862",
+      "author": "@hwchase17",
+      "text": "jev and langgraph are a great combo!\n\nmodeling agents as complex systems, with AI imbued in them, makes a ton of sense\n\nlanggraph is the best way to model them as such, and using Jev inside langgraph to turbo charge all the small decisions that need to be made is awesome combo",
+      "likes": 86,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2103266636556054799",
+      "author": "@jerryjliu0",
+      "text": "predicting model uncertainty is a hard problem. \nperfectly \"calibrated\" confidence scores are exact probability values on whether the output is correct. \n\nthis is extremely important for agentic decision making, including document extraction. i made a sick video below showing how",
+      "likes": 77,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2103692851448316155",
+      "author": "@reach_vb",
+      "text": "mood rn",
+      "likes": 84,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103582466070265869",
+      "author": "@jerryjliu0",
+      "text": "i always appreciate some great writing, we have too little of it these days",
+      "likes": 77,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103155894506930555",
+      "author": "@svpino",
+      "text": "Using managed agents is perfect for running coding agents anywhere in the world.\n\nThe beauty of this:\n\n• You can resume a session from anywhere\n• You can fork a session into multiple agents\n• You can run parallel agents\n• You can reuse environments\n\nHere is how you can do",
+      "likes": 73,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103201560012661004",
+      "author": "@svpino",
+      "text": "Cutting down noise before sending the audio to a speech-to-text model makes a huge improvement.\n\nVoice isolation is the next big thing you want to pay attention to.\n\nKrisp just released an open benchmark and a dataset to measure the impact of voice isolation on STT accuracy.\n\nThe",
+      "likes": 68,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103208544585892280",
+      "author": "@jerryjliu0",
+      "text": "This is a fantastic blog post from our research team on the importance of calibrated confidence scores.\n\nHere it's in the context of document extraction, it's also extremely important for more general agentic decision making (eg with Jev) \n\nWhen you set a confidence threshold,",
+      "likes": 51,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103551357823369653",
+      "author": "@svpino",
+      "text": "New database guarantees for agentic workflows:\n\n1. Branches: Give agents a separate version of the data for running experiments, then inspect, discard, or roll back its changes.\n\n2. Isolation: Give agents their own database environment and restrict what they can access.\n\n3.",
+      "likes": 48,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103069439981691296",
+      "author": "@rpl_0x",
+      "text": "Google wrzuciło ciekawy open sourcowy projekt AX.\n\nTo coś w rodzaju infrastruktury do uruchamiania i zarządzania agentami AI na większą skalę.\n\nCzyli nie kolejny framework do promptów czy budowania logiki agenta, tylko warstwa niżej.\n\nAgent może dostać własny sandbox,",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103522028322263259",
+      "author": "@svpino",
+      "text": "This is, literally, the best search API for your agents.\n\nNo other Search API tool scores in the top 3 across quality, cost, and speed. @OctenAI does:\n\n• Third place on answer quality.\n• Second place on cost.\n• First place on speed.\n\nIf you want to give your agent internet",
+      "likes": 37,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103585191906431157",
+      "author": "@jerryjliu0",
+      "text": "blank cells in tables can mess up agent decision making\n\nmany document OCR tools struggle with reading multiple blank cells in a document and cause values to  be shifted from the original column and rows. this causes the wrong numerical interpretation downstream.\n\nThis is a nice",
+      "likes": 31,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103478377298756090",
+      "author": "@svpino",
+      "text": "Here is how you can save a ton of money on infrastructure.\n\nBest part: you don't need to commit for a year to get a discount.\n\nIf you have a month-long project, want to run some experiments, or train an LLM, you can still get a substantial discount.\n\nArchera offers insured cloud",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103189280004640796",
+      "author": "@nauczymycieAI",
+      "text": "Jak wygląda przyszłość AI? Przeanalizowaliśmy to dla Was.\n\nZebraliśmy dane z kilkunastu źródeł, min Epoch AI, METR, Artificial Analysis, NBP i KPMG, i dodaliśmy do nich nasz komentarz. \n\nOto najważniejsze wnioski:\n\nCzy nam się to podoba, czy nie - rozwój AI przyspiesza. Długość",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103546913064616052",
+      "author": "@rpl_0x",
+      "text": "Portal w lublinie, okno na żywo do innego miasta.\n\nStajesz i widzisz na żywo ludzi z inne go miasta a oni widzą ciebie\n\nPierwszy portal łączył Lublin z Wilnem powstał w 2021, dzisiaj sieć ma 7 działających Portali: Lublin, Wilno, Dublin, Filadelfia, Ipswich, Manila na Filipinach",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103638561262362985",
+      "author": "@jerryjliu0",
+      "text": "We comprehensively evaluated 16 recent frontier VLMs - including Opus 5.5 and GPT-6 Sol/Luna - on whether higher effort led to better document parsing performance.\n\nHigher effort typically leads to improvements on other benchmarks (coding, knowledge work), but up until recently",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103161489439809620",
+      "author": "@rpl_0x",
+      "text": "Bardzo ciekawy i ambitny projekt rekonstrukcji miejscowości Maniowy - nad Jeziorem Czorsztyńskim.\n\nJest to wyjątkowo trudne zadanie bo @MarekWojtaszek stara się maksymalnie zachować autentyczność.\n\nDla mnie tym bardziej projekt ciekawy bo mam rodzinę w tamtych okolicach i często",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103301763801756101",
+      "author": "@jerryjliu0",
+      "text": "come join us at SF @Techweek_ !",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103273111747764611",
+      "author": "@jerryjliu0",
+      "text": "in the spirit of sus mascots, this was in our drafts a few months ago\n(we did not proceed with this)",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103378171701682281",
+      "author": "@krajewski_piotr",
+      "text": "🚨🔎 NOWA GRA O PRZYSZŁOŚĆ AI. TRUMP, XI, BIG TECH, OPEN SOURCE I PYTANIE, KTÓRE BĘDZIE CORAZ WAŻNIEJSZE: CZY BUDUJEMY CYFROWĄ DEMOKRACJĘ, CZY WYGODNY TECHNOFEUDALIZM?\n\nOglądałem wczorajsze spotkanie Donalda Trumpa i Xi Jinpinga w Białym Domu i tym razem znacznie mniej",
+      "likes": 17,
+      "retweets": 10
+    }
+  ]
+}
