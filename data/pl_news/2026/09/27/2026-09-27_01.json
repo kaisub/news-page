@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-27",
+  "slot": "01",
+  "generated_at": "2026-09-27T05:44:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2103360767659532420",
+      "author": "@laskowski_pl",
+      "text": "Amerykańskie bigtechy z założenia nie płacą podatków w Polsce, bo nie muszą. \nNie ma kontroli skarbowej, ale jest parasol polityczny. Wykorzystują infrastrukturę do której się nie dokładają. \n\nProszę nie pisać, że płacą podatki od pracowników i VAT, całe szczęście jeszcze muszą.",
+      "likes": 366,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2103412445381357805",
+      "author": "@Macronextcom",
+      "text": "W Polsce 🇵🇱 rośnie liczba ultrabogatych. Najszybciej na świecie. \n\nTo częściowo zasługa nas wszystkich. Bo nigdzie na świecie ultrabogaci (i korporacje) nie mają tak zdeterminowanych obrońców przed wyższymi daninami.",
+      "likes": 369,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2103738668951155120",
+      "author": "@laskowski_pl",
+      "text": "Upadłości, to żyła złota - dla syndyków. \n\nPo raz kolejny do obsługi upadłości jako syndyk dla spółki z grupy HREIT została wybrana - wylosowana, sędzia wstał lewą nową lub prawą, nikt nie wie - firma GRENDA-RESTRUKTURYZACJA Sp. z o.o.\nJak sama wskazuje, upadłość będzie trwała",
+      "likes": 162,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2103909135477805213",
+      "author": "@PAPinformacje",
+      "text": "Katarzyna Niewiadoma-Phinney zdobyła srebrny medal kolarskich mistrzostw świata w Montrealu\n#PAPinformacje",
+      "likes": 164,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2103955275845869675",
+      "author": "@PAPinformacje",
+      "text": "Polscy siatkarze pokonali w finale Francuzów 3:1 i zostali mistrzami Europy\n#PAPinformacje",
+      "likes": 144,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2103720802244014097",
+      "author": "@laskowski_pl",
+      "text": "Czy zawieszony Moskal w końcu odpowie za zatrzymanie pracy kopalni, aby ogłosić swoje zaręczyny? \nMinęły 3 lata Panie @w_zurek",
+      "likes": 77,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2103925832632680505",
+      "author": "@PAPinformacje",
+      "text": "Katarzyna Niewiadoma-Phinney zdobyła srebrny medal w kolarskim wyścigu ze startu wspólnego mistrzostw świata w Montrealu. Na finiszu Polkę wyprzedziła Holenderka Demi Vollering.\n\nTo drugi medal imprezy tej rangi w dorobku zawodniczki z Ochotnicy Górnej. W 2021 roku w Belgii",
+      "likes": 71,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2103932229197947107",
+      "author": "@PAPinformacje",
+      "text": "Bartosz Zmarzlik wicemistrzem świata w jeździe na żużlu. Tytuł dla Brytyjczyka Roberta Lamberta\n#PAPinformacje",
+      "likes": 64,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103388858905997736",
+      "author": "@mbank_research",
+      "text": "Ale perła od naszych kolegów z Commerzbanku. Dlaczego to perła? Bo jakiś czas temu pisaliśmy bardzo szeroko o scenariuszu, w których Europa zaciąga zagraniczny szok TFP tylko przez stopy, a nie przez faktyczną poprawę produktywności.",
+      "likes": 64,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103442640574513215",
+      "author": "@Macronextcom",
+      "text": "Warto pamiętać!\n\nZa tydzień, po zamknięciu sesji w piątek 2 października, anulowane zostaną wszystkie otwarte zlecenia na GPW.\n\n#GPW #WATS",
+      "likes": 61,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103467290469487062",
+      "author": "@Macronextcom",
+      "text": "Powiedzieli, że wszystko będzie dobrze, GPW wciąż będzie najsilniejszą giełdą na świecie, a Wielka Hossa Pokoleniowa będzie dalej trwać. 🙃\n\nNa koniec ktoś krzyknął OKI i ochoczo podniósł kciuki w górę.😉",
+      "likes": 50,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2103376463575855156",
+      "author": "@laskowski_pl",
+      "text": "Chiński przywódca ogłosił także program stypendiów w Chinach dla 100 tys. Amerykanów w ciągu nadchodzących pięciu lat.\n\nCo za szpila! 😁",
+      "likes": 38,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103449485334519997",
+      "author": "@laskowski_pl",
+      "text": "Minister @Domanski_Andrz \"Należy opodatkować firmy paliwowe, nie dlatego, że narzucają zbyt wysokie marże, ale dlatego, że na skutek warunków politycznych zarabiają więcej\"\nTaki podatek nazywa się \"domiar\" i funkcjonował w PRL. Nie ma nic wspólnego ze sprawiedliwością.",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2103411938235654492",
+      "author": "@DGPrawna",
+      "text": "Pani @MHornaCieslak dała przykład zasady „Reaguj!”. Raczej chcemy żyć w kraju, w którym urzędnicy nie są bezduszni. Ale też chcemy żyć w kraju, w którym politycy nie cisną, ponaglani prywatną urazą - pisze Jan Wóbel.",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103370385848672413",
+      "author": "@Macronextcom",
+      "text": "Teraz wiadomo dlaczego mówi się \"PAN DOMU\". 🙃",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103444027446026444",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli państwo ma obowiązek wspierać małżeństwo, to też jednopłciowe, jaka różnica?",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103434869191967200",
+      "author": "@laskowski_pl",
+      "text": "Murzyńskość w czystej postaci. \nPrzed amerykańskim Panem tylko na baczność, bo inaczej zabierze swoje zabawki z Polski i rosyjski niedźwiedź was zje. \nTen sam \"niedźwiedź\", który od 4 lat nie może zająć , ponoć upadłej, Ukrainy.",
+      "likes": 19,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103759079596335462",
+      "author": "@laskowski_pl",
+      "text": "Hej @b_prasoweORLEN fajny ten local content, amerykanie do wypłaty, Polscy informatycy do łopaty.",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103726673153667327",
+      "author": "@laskowski_pl",
+      "text": "Sekcja gimnastyczna w formie 😁",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103367686545715488",
+      "author": "@laskowski_pl",
+      "text": "Pamiętajcie, aby zastrzec PESEL! \n#sarkazm",
+      "likes": 16,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103941889594450410",
+      "author": "@PAPinformacje",
+      "text": "\"Przez ścianę\" Macieja Sobieszczańskiego zdobył Złote Lwy 51. Festiwalu Polskich Filmów Fabularnych\n#PAPinformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103797983297073601",
+      "author": "@laskowski_pl",
+      "text": "Dla każdego baryłka ropy kosztuje tyle samo.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103826282085552489",
+      "author": "@PAPinformacje",
+      "text": "Śmierć młodego policjanta. Jest decyzja sądu ws. aresztu dla podejrzanego\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103587232800202806",
+      "author": "@PAPinformacje",
+      "text": "Piłkarska reprezentacja Polski zremisowała z Bośnią i Hercegowiną 0:0 w meczu Ligi Narodów. (PAP)\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103719729764683856",
+      "author": "@PAPinformacje",
+      "text": "Arkadiusz Jakubik: rola Jacka Kuronia to największe wyzwanie w moim życiu zawodowym [WIDEO]\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103833813965328863",
+      "author": "@PAPinformacje",
+      "text": "Atak nożownika w Jarosławiu. Sąd zdecydował o areszcie dla Ihora M.\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103391132612796491",
+      "author": "@GUS_STAT",
+      "text": "11 lat Agendy 2030. Jak zmieniła się Polska? \n\nSprawdzamy, jak wygląda nasz postęp w realizacji 17 Celów Zrównoważonego Rozwoju (#SDG).\n\n Analizą objęto ponad 160 wskaźników i 70 krajowych priorytetów.\n\n🔗\n\n #Agenda2030 #CeleZrównoważonegoRozwoju #GUS",
+      "likes": 3,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103817113412722760",
+      "author": "@PAPinformacje",
+      "text": "W lesie niedaleko Elbląga znaleziono wczesnośredniowieczne arabskie monety\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103433080010600947",
+      "author": "@DGPrawna",
+      "text": "Osoby, które uzyskają w Polsce transkrypcję zagranicznego aktu małżeństwa, zawartego w innym kraju UE, będą płacić w naszym kraju podatki jak małżonkowie różnej płci. To oznacza, że skorzystają z takich samych preferencji i zwolnień.",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103905984213332337",
+      "author": "@PAPinformacje",
+      "text": "W @MiastoGdynia rozpoczęły się wydarzenia wieńczące 51. Festiwal Polskich Filmów Fabularnych. \n\nPrzed wieczorną galą, podczas której poznamy laureatów najważniejszych nagród, na czerwonym dywanie pojawili się aktorzy, reżyserzy i inni przedstawiciele polskiego kina.",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103828062894759991",
+      "author": "@PAPinformacje",
+      "text": "OpenAI przyznała, że jej boty ingerowały w witryny agencji rządowych USA i Australii\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103782908565545246",
+      "author": "@PAPinformacje",
+      "text": "🎥Pałac Elizejski, @UNESCO, Notre-Dame i Stade de France. Tak wyglądał pierwszy dzień wizyty papieża Leona XIV we Francji. W Paryżu papież spotkał się z prezydentem @EmmanuelMacron.  Migawki z wizyty we Francji dzięki współpracy @PAPinformacje i @VaticanNewsPL⬇️",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103949319334420500",
+      "author": "@PAPinformacje",
+      "text": "51. Festiwal Polskich Filmów Fabularnych. Złote Lwy dla filmu \"Przez ścianę\" [WIDEO, ZDJĘCIA]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103934026516246733",
+      "author": "@PAPinformacje",
+      "text": "Po tragicznym ataku w Jarosławiu. Ulicami miasta przeszedł marsz milczenia\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103867583753490607",
+      "author": "@PAPinformacje",
+      "text": "Bez przełomu po wizycie Xi z Trumpem? Ekspert o rozdźwięku w podejściu do AI\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103753840659144722",
+      "author": "@PAPinformacje",
+      "text": "TOPR ostrzega przed samoistnymi lawinami w Tatrach. W sobotę znaczne ocieplenie\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2103733884831584592",
+      "author": "@PAPinformacje",
+      "text": "Polacy pokonali Słoweńców. Zagrają w finale ME siatkarzy [ZDJĘCIA+WIDEO]\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103880778299924527",
+      "author": "@DGPrawna",
+      "text": "Werbowanie dzieci do walk było przed laty domeną kilku państw lub kryjących się po dżunglach rebeliantów. Dziś Iran czy Rosja kaptują nastolatków do wykonywania misji na rzecz przestępców lub do prowadzenia asymetrycznych wojen.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103720061752213726",
+      "author": "@laskowski_pl",
+      "text": "W ocenie „FT” rozśmieszenie Xi było jednym z „niewielu osiągnięć” Trumpa w czasie czwartkowego szczytu.\n\nCoś dodać? 😉",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103388808272376079",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. nieco ponad 1/3 dorosłych Polaków opiekowała się innymi osobami - dziećmi/wnukami lub innymi krewnymi. 👨‍👩‍👧‍👧\nPracę zawodową i obowiązki opiekuńcze łączyło 42,4% pracujących.\n\n🔗\n\n#GUS #BAEL #rodzina #praca @MRPiPS_GOV__PL",
+      "likes": 2,
+      "retweets": 1
+    }
+  ]
+}
