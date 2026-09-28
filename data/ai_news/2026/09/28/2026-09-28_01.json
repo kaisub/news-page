@@ -1,0 +1,100 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-28",
+  "slot": "01",
+  "generated_at": "2026-09-28T05:41:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2104263679445434370",
+      "author": "@reach_vb",
+      "text": "We fixed an image encoding bug that led to degraded image understanding in GPT-6 Sol and GPT-6 Luna!\n\nTry it out today!!",
+      "likes": 393,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2103858666525085775",
+      "author": "@reach_vb",
+      "text": "honest question: what does it even mean to be a dev anymore?\n\nspecially in the age of coding agents",
+      "likes": 350,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2104107500379468183",
+      "author": "@reach_vb",
+      "text": "best part about working late through the night with the team is that the later it gets the more unhinged the jokes get!\n\nit’s a good team, sir!",
+      "likes": 340,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103912596592267509",
+      "author": "@reach_vb",
+      "text": "Reset should be reflected for everyone - happy weekend!!",
+      "likes": 289,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103919437892186486",
+      "author": "@jerryjliu0",
+      "text": "your ai productivity is strongly correlated with your wpm",
+      "likes": 176,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2104092631051759815",
+      "author": "@jerryjliu0",
+      "text": "for everyone saying \"just use voice\", i type faster than i can talk coherently lol",
+      "likes": 124,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2103734005405487390",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 114,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104223742058500443",
+      "author": "@svpino",
+      "text": "Multiple things can be true at the same time:\n\n1. Closed, frontier models are generally smarter than local models[*].\n\n2. Local models are extremely capable and more than enough for many applications.\n\n3. You can fine-tune open models and run them very fast, for very little",
+      "likes": 92,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2104425837286367389",
+      "author": "@reach_vb",
+      "text": "writing a good script is harder than i thought.\n\nhave really come to appreciate good scriptwriting these last few days! \nyou gotta sit with it and work through every word &amp; each one has to earn its place.\n\nit’s an art. current models aren’t quite there yet.",
+      "likes": 89,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2103886484369506320",
+      "author": "@svpino",
+      "text": "This is a pretty good idea: you can refine how your agent works by telling it how to behave.\n\nIt works with every agent harness as long as you use its adapter.\n\nI’m assuming the evolution happens in the adapter, so you can improve it over time and personalize it to how you like",
+      "likes": 46,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2103840873935175783",
+      "author": "@svpino",
+      "text": "Using GPT-6 to call the Hyper3D Rodin MCP to make a racing game, without writing a single line of code.\n\n1. Connect Rodin\n\nIntegrate the Hyper3D Rodin MCP into Codex, log in, and authorize it.\n\n2. Let the Hyper3D Rodin MCP build the cars\n\nPrompt in Codex: \"Use the Hyper3D Rodin",
+      "likes": 41,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104274312308154604",
+      "author": "@jerryjliu0",
+      "text": "this sounds less like there's something fundamentally wrong with devin, and more some tweaks that need to happen on sales enablement",
+      "likes": 42,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2103886049105567842",
+      "author": "@rpl_0x",
+      "text": "Pierwszy raz bierzemy samolot do roweru.\n\nNa lekko opustoszałym lotnisku w Lublinie byliśmy główną atrakcją. Widać że mało ludzi robi takie manewry 😉",
+      "likes": 32,
+      "retweets": 0
+    }
+  ]
+}
