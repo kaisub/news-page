@@ -1,0 +1,219 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-09-29",
+  "slot": "01",
+  "generated_at": "2026-09-29T06:08:22Z",
+  "tweets": [
+    {
+      "tweet_id": "2104633115620823187",
+      "author": "@claudeai",
+      "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+      "likes": 48784,
+      "retweets": 3921
+    },
+    {
+      "tweet_id": "2104633259925630995",
+      "author": "@AnthropicAI",
+      "text": "Claude Sonnet 5.5 is now available:",
+      "likes": 9980,
+      "retweets": 449
+    },
+    {
+      "tweet_id": "2104661956879913457",
+      "author": "@sama",
+      "text": "Pretty excited for DevDay tomorrow.\n\nWe have found a new thing.",
+      "likes": 7928,
+      "retweets": 402
+    },
+    {
+      "tweet_id": "2104674987164782598",
+      "author": "@claudeai",
+      "text": "A thread of early experiments with Claude Sonnet 5.5.\n\nA fall foliage simulator by @_re_pete, made with Sonnet 5 vs Sonnet 5.5.",
+      "likes": 5500,
+      "retweets": 236
+    },
+    {
+      "tweet_id": "2104638725317923228",
+      "author": "@bcherny",
+      "text": "Sonnet 5.5 fixing a bug with Claude Code.\n\n30% faster and 30% less usage.",
+      "likes": 4724,
+      "retweets": 169
+    },
+    {
+      "tweet_id": "2104562179131498570",
+      "author": "@leerob",
+      "text": "Congratulations @SpaceX team!\n\nThis was incredible to see live. The energy here at Starbase is infectious.",
+      "likes": 3349,
+      "retweets": 138
+    },
+    {
+      "tweet_id": "2104263679445434370",
+      "author": "@reach_vb",
+      "text": "We fixed an image encoding bug that led to degraded image understanding in GPT-6 Sol and GPT-6 Luna!\n\nTry it out today!!",
+      "likes": 442,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2104655023976468817",
+      "author": "@reach_vb",
+      "text": "it's a good devday, sir!",
+      "likes": 363,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104107500379468183",
+      "author": "@reach_vb",
+      "text": "best part about working late through the night with the team is that the later it gets the more unhinged the jokes get!\n\nit’s a good team, sir!",
+      "likes": 346,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104610254000635952",
+      "author": "@hwchase17",
+      "text": "retrieval is a decision problem, not just a similarity problem\n\ncool experiment from @assaf_elovic swapping embeddings for Jev in GPT Researcher - 73% vs 46% relevant context\n\ndecision models will show up all over the harness",
+      "likes": 246,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2104425837286367389",
+      "author": "@reach_vb",
+      "text": "writing a good script is harder than i thought.\n\nhave really come to appreciate good scriptwriting these last few days! \nyou gotta sit with it and work through every word &amp; each one has to earn its place.\n\nit’s an art. current models aren’t quite there yet.",
+      "likes": 237,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104616878048207198",
+      "author": "@reach_vb",
+      "text": "24 hours to DevDay! ❤️\n\nExcited to meet you all and celebrate all that you do\n\n(there’s even a livestream)",
+      "likes": 216,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104738937814282671",
+      "author": "@reach_vb",
+      "text": "it's been around awhile y'all!",
+      "likes": 170,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104664536485888453",
+      "author": "@jerryjliu0",
+      "text": "if this takes off, then i was 4 years too early 😭 \n\nonly OGs remember gpt tree index",
+      "likes": 167,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104559386001871276",
+      "author": "@svpino",
+      "text": "Jev is incredibly good!\n\nIf you haven't heard, Jev is a new \"System One\" model optimized for decision-making.\n\nFor example, you can give it a set of possible choices, and Jev will classify the input text based on those choices, including a confidence score for each.\n\nBest of all:",
+      "likes": 150,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2104772151161348510",
+      "author": "@reach_vb",
+      "text": "HOLY SHITTT!! Team cooked with this - what a legend!",
+      "likes": 153,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104092631051759815",
+      "author": "@jerryjliu0",
+      "text": "for everyone saying \"just use voice\", i type faster than i can talk coherently lol",
+      "likes": 128,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2104223742058500443",
+      "author": "@svpino",
+      "text": "Multiple things can be true at the same time:\n\n1. Closed, frontier models are generally smarter than local models[*].\n\n2. Local models are extremely capable and more than enough for many applications.\n\n3. You can fine-tune open models and run them very fast, for very little",
+      "likes": 110,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2104701729120157766",
+      "author": "@hwchase17",
+      "text": "coding harness -&gt; personal harness -&gt; org harness\n\n(company harness? enterprise harness? still figuring out right name, open to suggestions)",
+      "likes": 85,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104591205334229108",
+      "author": "@svpino",
+      "text": "This is a pretty interesting feature:\n\nLet *anyone*—not just developers—prepare a code change and submit a proposal to fix a problem.\n\nMary from support can now discover a bug, ask AI for a fix, and submit the proposal to a developer for review and deployment.\n\nThis lets everyone",
+      "likes": 63,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104274312308154604",
+      "author": "@jerryjliu0",
+      "text": "this sounds less like there's something fundamentally wrong with devin, and more some tweaks that need to happen on sales enablement",
+      "likes": 58,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104696039550963757",
+      "author": "@hwchase17",
+      "text": "every agent will need a sandbox\n\nand the harness should live outside it - separate the brains from the hands\n\ngreat to see nvidia open sourcing tools here, agree with Andrew this is part of the harness not a bolt on",
+      "likes": 50,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104643575300628685",
+      "author": "@svpino",
+      "text": "This is a clone with my face and my voice.\n\nI created it using VEED. I've been using their platform since the dawn of time to subtitle my videos, but they just released this new cloning feature, and it's pretty cool.\n\nIt took me 30 seconds to set up:\n\n• I had to upload a picture",
+      "likes": 51,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104623730404233395",
+      "author": "@svpino",
+      "text": "Manus 2.0 just hit the timeline.\n\nCompletely new architecture and capabilities. Their updated Manus Studio looks really cool!\n\nIt also comes with a new personal agent.\n\nIt's called \"Cue\", and Manus calls it \"an operating system for persistent personal AI agents\". Notice how they",
+      "likes": 48,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104667547866210795",
+      "author": "@jerryjliu0",
+      "text": "We built state-of-the-art models for reading forms 📋\n\nForm documents have the following properties that trip up VLMs: \n✅ They carry much more structure than can be represented in standard markdown. You need consistent types for checkboxes, textboxes, labels, signature fields.",
+      "likes": 45,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104645489547251882",
+      "author": "@nauczymycieAI",
+      "text": "Dostaliśmy właśnie Claude Sonneta 5.5. I wygląda na to, że to kolejny bezużyteczny model tej klasy.\n\nDlaczego?\n\nOpus 5.5 został tak dobrze wyceniony przez Anthropic, że Sonnet 5.5 na pierwszy rzut oka nie ma sensu.\n\nW większości benchmarków, które udostępniło samo Anthropic",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104664020460474616",
+      "author": "@nauczymycieAI",
+      "text": "Sonnet 5.5 to modelowy przykład na to, że nie powinno się patrzyć na cennik per milion tokenów - bez sprawdzenia efektywności tokenowej.\n\nWygląda na to, że to kolejny ekstremalnie nieefektywny model z tej rodziny, skrojony pod dojenie mniej świadomych użytkowników",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104647739397099810",
+      "author": "@svpino",
+      "text": "This looks pretty awesome! We are getting closer than ever to having one of these doing chores for us!",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104663336126406904",
+      "author": "@svpino",
+      "text": "I've had a home gym since 2018. If you have the space and want to be consistent, this should be a priority.\n\nAnything that removes friction will make you more likely to work out.\n\nI know many people who always have some excuse to skip the gym: it's raining, too much traffic, too",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104680586359025918",
+      "author": "@nauczymycieAI",
+      "text": "Sonet 5.5 kosztowo na poziomie Fable 5.1 i średnio prawie 30% droższy per zadanie niż Opus 5.5? Ojoj.\n\nZablokuj tego konia trojańskiego, albo nie wchodź nim nigdy wyżej niż na high - inaczej fundujesz Anthropic IPO",
+      "likes": 9,
+      "retweets": 0
+    }
+  ]
+}
