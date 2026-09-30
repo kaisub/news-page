@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-09-30",
+  "slot": "01",
+  "generated_at": "2026-09-30T05:58:54Z",
+  "tweets": [
+    {
+      "tweet_id": "2104891861781315922",
+      "author": "@PAPinformacje",
+      "text": "Minister Finansów: państwowy dług publiczny netto w 2028 r. wyniesie 57,4 proc. PKB\n#PAPinformacje",
+      "likes": 203,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2104562113058328602",
+      "author": "@Macronextcom",
+      "text": "Jak widać, deficyt nie jest politycznym złotem.\n\n71% Polaków 🇵🇱 chce niższych cenach paliw, nawet jeżeli oznaczałoby to wzrost deficytu budżetowego.",
+      "likes": 100,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2104975509146698021",
+      "author": "@Macronextcom",
+      "text": "Nie dzwońcie. Nie mam czasu. 😍",
+      "likes": 102,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104985205169955296",
+      "author": "@laskowski_pl",
+      "text": "Gdyby ktoś miał wątpliwości dlaczego politycy są bezkarni, wystarczy popatrzeć jak działa Trybunał Stanu.\nNajbardziej fasadowe ciało w historii III RP, pic na wodę w czystej postaci.",
+      "likes": 45,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2104456691592884687",
+      "author": "@laskowski_pl",
+      "text": "Polska jest na tyle małym krajem, że wystarczy jak pociągi będą jeździć 250 km/h i wszędzie dojedziesz w 3h (na marginesie, to obiecywał premier @donaldtusk 15 lat temu).\nPo raz kolejny obiecanki-cacanki, a głupiemu radość.",
+      "likes": 56,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104970030483951859",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Jeszcze dwie godziny temu były to poziomy najwyższe od maja 2024. Teraz już od czerwca 2002. Mają rozmach...",
+      "likes": 50,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104575857734078705",
+      "author": "@Macronextcom",
+      "text": "We wtorek w samo południe w Polsce dostępny będzie \"Wiedźmin 3: Dziki Gon – Remaster\". 👇\n\n#CDProjektRed",
+      "likes": 50,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104967938600034498",
+      "author": "@laskowski_pl",
+      "text": "Pamiętajcie, aby zastrzec PESEL!!! \nby @KGawkowski \n\nJeszcze kilka włamań i zastrzeganie PESEL nie będzie potrzebne, będzie to baza w pełni jawna.",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2104451069350949365",
+      "author": "@Macronextcom",
+      "text": "73% małych i średnich firm (obroty do 30 mln zł) zakończyło zyskiem rok 2025.\n\n45% firm zamierza inwestować, ale aż 38% nie zamierza.  Te ostatnie wskazują na koszty pracy i energii, czyli na czynniki... które powinny zachęcać do inwestowania, żeby w ten sposób ograniczyć koszty.",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105006478197444720",
+      "author": "@PAPinformacje",
+      "text": "📽️🎬W nowej, kinowej „Lalce” Izabelę Łęcką gra Kamila Urzędowska. - Myślę, że casting do Izabeli był chyba najłatwiejszym w moim życiu, ponieważ… go nie było – mówi PAP Life.\n\nLink do wywiadu w komentarzu ⤵️",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104993470167556221",
+      "author": "@PAPinformacje",
+      "text": "Czarzasty o wyborach w Krakowie: martwi mnie spadek poparcia dla polityków lewicowych ⤵️\n#PAPInformacje",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105013521578692757",
+      "author": "@PAPinformacje",
+      "text": "Kolejne wsparcie dla Ukrainy. Belgia przekaże myśliwce F-16\n#PAPinformacje",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104452417248997510",
+      "author": "@laskowski_pl",
+      "text": "Reset konstytucyjny, nowa ustawa napisana przez ekspertów i włączenie prezydenta oraz Senatu w wybór sędziów Trybunału Konstytucyjnego. \n\nWszystkie pięknie i ładnie, a na końcu prezydent @NawrockiKn powie \"nie, bo nie\" i nie przyjmie ślubowania.\nI co wtedy @BatoryFundacja ?",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104958860897222948",
+      "author": "@PAPinformacje",
+      "text": "Odstrzał dzików w stolicy bez ograniczeń. Ekspert mówi o „katastrofie wizerunkowej”\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104463686886621402",
+      "author": "@Macronextcom",
+      "text": "Złoto 4172,14 USD (-2,78%)\n\nZłoto jest dziś najtańsze od 5 sierpnia, gdy jego notowania mocno wystrzeliły w górę (+4,16%), kończąc stabilizację w rejonie 4000-4100 USD. \n\nTeraz wygląda na to, że złoto ponownie wraca do 4000 USD.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104558515641561311",
+      "author": "@laskowski_pl",
+      "text": "Trump i Putin w jednym są zgodni, wojny, które miały trwać tydzień, ciągną się jak flaki z olejem.",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105004518513750286",
+      "author": "@PAPinformacje",
+      "text": "Brytyjczycy chcą zmienić relacje z UE? \"Brexit nam zaszkodził\" ⤵️\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104828524552921253",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: we IX 2026 r. Wskaźnik Wyprzedzający Koniunktury wg #BIEC: 176,0 pkt. (poprzednio: 176,7 pkt.) \n\nKalendarz (Polska):",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104831370065293539",
+      "author": "@Macronextcom",
+      "text": "Pepco +4,07% 📈 po wynikach.\n\nKalendarz GPW/NC:",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104506871356744128",
+      "author": "@laskowski_pl",
+      "text": "To już jest plaga, czy @CYFRA_GOV_PL zamierza podjąć jakiekolwiek działania?",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105004355648954761",
+      "author": "@PAPinformacje",
+      "text": "Kijowski Uniwersytet Narodowy przechodzi na zdalne nauczanie z powodu rosyjskich ataków ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104925350014718043",
+      "author": "@PAPinformacje",
+      "text": "Atak nożownika w szkole na Słowacji. Nie żyje nauczycielka, uczennica w stanie krytycznym ⤵️\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104849131252359224",
+      "author": "@GUS_STAT",
+      "text": "[1/2] 👶 W 2025 r. na każde 100 dzieci do 14. roku życia przypadało 148 osób starszych (65+).  \nMediana wieku wyniosła prawie 44 lata.\n\n🔗\n\n#GUS #demografia #ludność",
+      "likes": 3,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105012574337315176",
+      "author": "@PAPinformacje",
+      "text": "Szykował zamach w swojej szkole. Sąd podjął decyzję ws. 13-latka ⤵️\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104959644192149678",
+      "author": "@PAPinformacje",
+      "text": "Ambasada Rosji grozi NATO konsekwencjami. W tle serial i artykuł o Królewcu ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104860654267949180",
+      "author": "@GUS_STAT",
+      "text": "📊 W 2025 r. sytuacja materialna gospodarstw domowych poprawiła się w porównaniu z 2024 r. Przeciętny miesięczny dochód rozporządzalny na osobę wzrósł realnie o 6,7%, a wydatki – o 3,6%.\n\n🔗\n\n#GUS #BudżetyGospodarstwDomowych #dochody #wydatki",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105162256170508567",
+      "author": "@PAPinformacje",
+      "text": "Rosyjskie uderzenia na Ukrainę. Alert RCB dla woj. lubelskiego i podkarpackiego ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105026852146528745",
+      "author": "@PAPinformacje",
+      "text": "Pentagon zabrał głos ws. stałej bazy USA w Polsce: trwa badanie możliwości\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104849914098336208",
+      "author": "@GUS_STAT",
+      "text": "📱Więcej danych, mniej SMS-ów.\n⚡W 2025 r. transmisja danych w roamingu zagranicznym wzrosła o 20,7%, podczas gdy liczba SMS-ów wysłanych w roamingu spadła o 20,4%.\n\nJak zmienia się sposób, w jaki korzystamy z telekomunikacji? \n\n🔗 \n\n#GUS #Telekomunikacja",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104845744171876643",
+      "author": "@GUS_STAT",
+      "text": "\"I believe we should not drop or change the goals set in Agenda2030 after 2030. Especially in the situation we face in the world. We should focus on the  implementation of these goals\" - said Jeffrey Sachs on the #GUS and ASECU conference.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104851675160703315",
+      "author": "@DGPrawna",
+      "text": "Nie tylko Polska. Rynki coraz bardziej niepokoją się o europejskie długi",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105173844428206284",
+      "author": "@PAPinformacje",
+      "text": "Uszkodzenie kabla na trasie z Warszawy. Trwają utrudnienia w ruchu pociągów ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104925481791570080",
+      "author": "@PAPinformacje",
+      "text": "Były reprezentant Polski po meczu ze Szwecją. \"Jak dzieci we mgle\" ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104855242890215587",
+      "author": "@GUS_STAT",
+      "text": "Jesteśmy turystycznym tygrysem Europy. 🐯 Statystyka publiczna dostarcza danych, które napędzają polską branżę turystyczną 🚀.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104970961397461461",
+      "author": "@DGPrawna",
+      "text": "W 2025 r. Sąd Najwyższy wydał 145 wyroków kasacyjnych, w których uchylił orzeczenie ze względu na skład orzekający – wynika z danych przekazanych DGP. To więcej niż łącznie w latach 2022–2024.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104903928571957328",
+      "author": "@DGPrawna",
+      "text": "PKO BP: W tym roku PKB wzrośnie o 3,5 proc., w przyszłym czeka nas korekta",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105172035982725168",
+      "author": "@Macronextcom",
+      "text": "Dlaczego nie chcecie mieć dzieci?",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104932119898435832",
+      "author": "@PAPinformacje",
+      "text": "Warszawa. Pieszy zginął pod kołami tramwaju⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104841809897668894",
+      "author": "@GUS_STAT",
+      "text": "Co będzie po roku 2030? O tym dyskutujemy podczas konferencji From Data to Impact: Turning Lessons into Action for Sustainable Future, którą współorganizujemy z ASECU. @Zarotiadis \n\n#GUS #Agenda2030",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104934974583370101",
+      "author": "@DGPrawna",
+      "text": "Nie chodzi tylko o Kraków. Efekt Gibały\n@LukaszGibala  pokazuje wyborcom KO, że poza dotychczasowym układem istnieje także alternatywa po liberalnej stronie sceny politycznej.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
