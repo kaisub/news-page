@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-01",
+  "slot": "01",
+  "generated_at": "2026-10-01T06:08:22Z",
+  "tweets": [
+    {
+      "tweet_id": "2105324297967284542",
+      "author": "@laskowski_pl",
+      "text": "Magyar idzie jak tornado - poniżej długi cytat z artykułu Krzysztofa Vargi - warto przeczytać. \n\n\"Péter Magyar nie miałby większości konstytucyjnej, gdyby nie wykonał gigantycznej pracy w kampanii wyborczej. A teraz nie zamyka się w gabinecie premiera, tylko jeździ po kraju i",
+      "likes": 98,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2104975509146698021",
+      "author": "@Macronextcom",
+      "text": "Nie dzwońcie. Nie mam czasu. 😍",
+      "likes": 116,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104985205169955296",
+      "author": "@laskowski_pl",
+      "text": "Gdyby ktoś miał wątpliwości dlaczego politycy są bezkarni, wystarczy popatrzeć jak działa Trybunał Stanu.\nNajbardziej fasadowe ciało w historii III RP, pic na wodę w czystej postaci.",
+      "likes": 53,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2104970030483951859",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Jeszcze dwie godziny temu były to poziomy najwyższe od maja 2024. Teraz już od czerwca 2002. Mają rozmach...",
+      "likes": 56,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104967938600034498",
+      "author": "@laskowski_pl",
+      "text": "Pamiętajcie, aby zastrzec PESEL!!! \nby @KGawkowski \n\nJeszcze kilka włamań i zastrzeganie PESEL nie będzie potrzebne, będzie to baza w pełni jawna.",
+      "likes": 42,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105172120531521916",
+      "author": "@laskowski_pl",
+      "text": "Pomijając wiele sloganów Pan minister @motykamilosz mówiąc w długim wywiadzie o wydaniu 1 biliona złotych nawet nie zająknął się, kto go zgarnie. \nTak wygląda local content na poziomie rządu Panie @wbalczun ? Wyjątkowo słabo.",
+      "likes": 40,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105281433543512437",
+      "author": "@PAPinformacje",
+      "text": "Rzeczniczka SO w Warszawie: sąd uznał, że lepszą decyzją będzie wydanie listu żelaznego M. Romanowskiemu i wyjaśnienie sprawy niż opieranie się na dotychczas nieskutecznych metodach. (PAP)\n#PAPinformacje",
+      "likes": 36,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105172035982725168",
+      "author": "@Macronextcom",
+      "text": "Dlaczego nie chcecie mieć dzieci?",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105310698591154664",
+      "author": "@Macronextcom",
+      "text": "Fabryki broni w Europie produkujące uzbrojenie dla Ukrainy są dla Rosji uzasadnionymi celami wojskowymi - Zakharova, rzeczniczka MSZ Rosji.\n\nRUSSIAN FOREIGN MINISTRY SPOKESWOMAN: WEAPONS FACTORIES IN EUROPE THAT PRODUCE ARMS FOR UKRAINE ARE LEGITIMATE MILITARY TARGETS FOR RUSSIA",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105394676345757750",
+      "author": "@PAPinformacje",
+      "text": "Ukraina wyzwoliła 176 km kwadratowych okupowanych terytoriów w ramach operacji Vivaldi #PAPinformacje",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105281661109711234",
+      "author": "@PAPinformacje",
+      "text": "Prokurator Woźniak: postanowienie sądu ws. listu żelaznego dla b. wiceszefa MS Marcina Romanowskiego zostanie zaskarżone. (PAP)\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105240854977720358",
+      "author": "@PAPinformacje",
+      "text": "Umowa Boeinga z WAT. W Polsce powstanie Centrum Szkolenia Śmigłowcowego Apache ⤵️\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104849131252359224",
+      "author": "@GUS_STAT",
+      "text": "[1/2] 👶 W 2025 r. na każde 100 dzieci do 14. roku życia przypadało 148 osób starszych (65+).  \nMediana wieku wyniosła prawie 44 lata.\n\n🔗\n\n#GUS #demografia #ludność",
+      "likes": 9,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105264390102777970",
+      "author": "@PAPinformacje",
+      "text": "Rośnie liczba protestujących w centrum Madrytu ws. polityki mieszkaniowej [WIDEO]\n#PAPInformacje",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105351408409350547",
+      "author": "@PAPinformacje",
+      "text": "Szef NATO: Putin wie, że nigdy nie wygra z Sojuszem",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105190914914447741",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: we IX 2026 r. Wskaźnik Rynku Pracy wg #BIEC  78,0 pkt. (poprzednio: 78,1 pkt.)\n\nKalendarz (Polska):",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105276908736807297",
+      "author": "@PAPinformacje",
+      "text": "Mec. Lewandowski: sąd wydał list żelazny wobec b. wiceszefa MS Marcina Romanowskiego. (PAP)\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104831370065293539",
+      "author": "@Macronextcom",
+      "text": "Pepco +4,07% 📈 po wynikach.\n\nKalendarz GPW/NC:",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105203514506965159",
+      "author": "@GUS_STAT",
+      "text": "#PKB w górę we wszystkich regionach Polski w 2024r.\n\nNajwiększy udział w tworzeniu PKB:\n🔹region warszawski stołeczny\n🔹śląski,\n🔹wielkopolski,\n🔹dolnośląski\n🔹małopolski.\n\nW tych regionach pracowało 51,7% ogółu pracujących w #GospodarkaNarodowa.\n\n🔗\n\n#GUS",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105216396032430243",
+      "author": "@PAPinformacje",
+      "text": "Komisarz Serafin: Negocjacje w sprawie budżetu UE przypominają mi niekiedy film „Dzień świstaka” [WYWIAD] ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2104860654267949180",
+      "author": "@GUS_STAT",
+      "text": "📊 W 2025 r. sytuacja materialna gospodarstw domowych poprawiła się w porównaniu z 2024 r. Przeciętny miesięczny dochód rozporządzalny na osobę wzrósł realnie o 6,7%, a wydatki – o 3,6%.\n\n🔗\n\n#GUS #BudżetyGospodarstwDomowych #dochody #wydatki",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105370273709264947",
+      "author": "@PAPinformacje",
+      "text": "Piłkarska LN - media w Rumunii: mecz w Warszawie może przynieść dymisję Hagiego lub Urbana #PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105249714547359933",
+      "author": "@PAPinformacje",
+      "text": "Impas w Irlandii Płn. Napięcia między protestantami a katolikami [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105201592651624804",
+      "author": "@PAPinformacje",
+      "text": "Bunt Ronaldo. Nie trenuje z kadrą przed kolejnym meczem. \"Nie zasługuje na opaskę kapitana\" ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104849914098336208",
+      "author": "@GUS_STAT",
+      "text": "📱Więcej danych, mniej SMS-ów.\n⚡W 2025 r. transmisja danych w roamingu zagranicznym wzrosła o 20,7%, podczas gdy liczba SMS-ów wysłanych w roamingu spadła o 20,4%.\n\nJak zmienia się sposób, w jaki korzystamy z telekomunikacji? \n\n🔗 \n\n#GUS #Telekomunikacja",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105216063390761240",
+      "author": "@PAPinformacje",
+      "text": "CBŚP rozbiło szajkę złodziei bydła. Mieli ukraść nawet kilkaset krów z Niemiec do Polski ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105217539047600416",
+      "author": "@GUS_STAT",
+      "text": "⚠️ Uwaga na fałszywe maile z zaproszeniem do badania EU-SILC!\n\nNie pochodzą od GUS. Nie odpowiadaj i nie otwieraj załączników.\n\nZbieranie odpowiedzi zakończyło się 30 czerwca 2026 r. GUS nie zaprasza do tego badania e-mailem.\n\nMasz wątpliwości? Kontakt:",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105199720142602430",
+      "author": "@GUS_STAT",
+      "text": "Wg przedwynikowego szacunku produkcji, zbiory owoców z drzew w br. będą o ok. 16,9% mniejsze niż rok wcześniej. Niekorzystny wpływ na plantacje miała pogoda wiosną (przymrozki i deficyt opadów).\n\n🍎 zbiory mniejsze o 17,7% r/r\n🍐 -10,8%\n\n🔗\n\n#GUS #rolnictwo",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104845744171876643",
+      "author": "@GUS_STAT",
+      "text": "\"I believe we should not drop or change the goals set in Agenda2030 after 2030. Especially in the situation we face in the world. We should focus on the  implementation of these goals\" - said Jeffrey Sachs on the #GUS and ASECU conference.",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105254439674355859",
+      "author": "@PAPinformacje",
+      "text": "Drużynowy i ratownik WOPR skazani ws. utonięcia harcerza w Jeziorze Ośno\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105245550300053884",
+      "author": "@PAPinformacje",
+      "text": "Kolejne mecze Ligi Narodów. Przed Polakami Rumunia i rewanż z Bośnią i Hercegowiną ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105239380474683725",
+      "author": "@PAPinformacje",
+      "text": "Komunikacja zastępczą na trasie Warszawa Wileńska – Wołomin. Trwają utrudnienia w ruchu pociągów ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105201088114864308",
+      "author": "@PAPinformacje",
+      "text": "Rusza spotkanie ministrów G20 na temat handlu. Polskę reprezentuje minister Domański ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105210302535024670",
+      "author": "@PAPinformacje",
+      "text": "Konsolidacja Lewicy przed wyborami? Czarzasty nie ma wątpliwości. \"Kierunkowe decyzje\" ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104855242890215587",
+      "author": "@GUS_STAT",
+      "text": "Jesteśmy turystycznym tygrysem Europy. 🐯 Statystyka publiczna dostarcza danych, które napędzają polską branżę turystyczną 🚀.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105182253940908261",
+      "author": "@DGPrawna",
+      "text": "NSA orzekł, że anonimowe wsparcie dla internetowego twórcy jest darowizną, a nie przychodem z działalności gospodarczej. Czy to ważne tylko dla streamerów? Kto jeszcze może zyskać na takiej wykładni sądu? Jak odzyskać zapłacony już podatek?",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105150971957616958",
+      "author": "@DGPrawna",
+      "text": "1 października mija rok od uruchomienia w Polsce systemu kaucyjnego. Cennych surowców w postaci butelek PET i puszek zaczyna brakować w żółtych workach, ale gminy i mieszkańcy jeszcze nie odczuli jego rezultatów.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104970961397461461",
+      "author": "@DGPrawna",
+      "text": "W 2025 r. Sąd Najwyższy wydał 145 wyroków kasacyjnych, w których uchylił orzeczenie ze względu na skład orzekający – wynika z danych przekazanych DGP. To więcej niż łącznie w latach 2022–2024.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105305910784745720",
+      "author": "@GUS_STAT",
+      "text": "[1/2]🧑‍🦽W 2024 r. w Polsce było 3,95 mln osób z #NiepełnosprawnośćPrawna. \nAdministracja publiczna, #JST i #NGOs potrzebują danych, aby planować działania i usługi odpowiadające na ich potrzeby.\nZnajdą je w dashboardzie #GUS i @PelnomocnikON \n\n🔗",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105214854776991986",
+      "author": "@GUS_STAT",
+      "text": "⚠️ Uwaga na fałszywe maile podszywające się pod GUS!\n\nOszuści powołują się na Eurostat i żądają danych o przepływach finansowych w formularzach Excel.\n\nNie prowadzimy takiego badania. Nie odpowiadaj i nie otwieraj załączników.\n\nKontakt do urzędów:",
+      "likes": 0,
+      "retweets": 1
+    }
+  ]
+}

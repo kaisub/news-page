@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-01",
+  "slot": "01",
+  "generated_at": "2026-10-01T06:08:22Z",
+  "tweets": [
+    {
+      "tweet_id": "2104995014208258235",
+      "author": "@sama",
+      "text": "Dots are here!\n\nA new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.",
+      "likes": 14431,
+      "retweets": 1057
+    },
+    {
+      "tweet_id": "2105127956742132156",
+      "author": "@leerob",
+      "text": "How could we make @Bot better?\n\nOpen to any feedback or feature requests!\n\nAlso... ❤️ this post for a surprise!",
+      "likes": 13257,
+      "retweets": 109
+    },
+    {
+      "tweet_id": "2105388478683119904",
+      "author": "@GoogleAI",
+      "text": "Announcing Gemini 4 Argon, our new frontier model.\n\nArgon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and",
+      "likes": 11988,
+      "retweets": 970
+    },
+    {
+      "tweet_id": "2104994601140711896",
+      "author": "@sama",
+      "text": "Ultrafast is\n\nso fast\n\nI do not ever want to go back",
+      "likes": 11506,
+      "retweets": 273
+    },
+    {
+      "tweet_id": "2104950376466362578",
+      "author": "@sama",
+      "text": "DevDay livestream in 2 hours.\n\nWe built some great stuff for you!",
+      "likes": 9478,
+      "retweets": 383
+    },
+    {
+      "tweet_id": "2104994395980533804",
+      "author": "@sama",
+      "text": "6.1 Sol at 1/5th of the price of Astra, and 95% cache read discount! Extremely capable model.",
+      "likes": 8115,
+      "retweets": 274
+    },
+    {
+      "tweet_id": "2105370680485417401",
+      "author": "@claudeai",
+      "text": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).\n\nCome for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you.",
+      "likes": 2397,
+      "retweets": 126
+    },
+    {
+      "tweet_id": "2104982629884063840",
+      "author": "@AnthropicAI",
+      "text": "What do you want from AI?\n\nWe’re launching a new study with Anthropic Interviewer to learn more about your experiences using AI, what role you want it to play in your life and the world, and what you want from the companies building it.\n\nLast December, 81,000 people told us about",
+      "likes": 1970,
+      "retweets": 184
+    },
+    {
+      "tweet_id": "2104994032195883140",
+      "author": "@reach_vb",
+      "text": "Everything we shipped at DevDay 2026:\n\n- Dots\n- ChatGPT Space\n- Pages\n- Teams + team automations\n- @ChatGPT in Slack + Microsoft Teams\n- Meetings plugin (beta)\n- Shareable profiles\n- GPT-6.1 Sol\n- GPT-6 Astra Ultrafast\n- Pro 500\n- Sign in with ChatGPT + plan usage in partner apps",
+      "likes": 1405,
+      "retweets": 130
+    },
+    {
+      "tweet_id": "2105075363143709036",
+      "author": "@reach_vb",
+      "text": "Insane that CEOs of OpenAI, Reset Company &amp; Post Training are on stage live!!",
+      "likes": 474,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2104992583609160164",
+      "author": "@reach_vb",
+      "text": "GPT-6.1 Sol matches Astra on DeepSWE at ~1/5 the cost!! \n\n$2 input, $10 output and just $0.10 cached input per million tokens. \n\nEnjoy!!",
+      "likes": 412,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2105046205051088986",
+      "author": "@reach_vb",
+      "text": "still bizarre to me that Andrew and team rewrote *entire* ChatGPT web on top of the desktop codebase\n\nthe overall experience is so so smooth too\n\nkudos to these mad lads!!",
+      "likes": 368,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104965686376177941",
+      "author": "@reach_vb",
+      "text": "“As we increase the floor, we are changing the relative difference between plans to be:\n\nPlus = 1X\nPro 100 = 5X\nPro 200 = 10X\n\nand we are reopening subscriptions for Pro 200 (we had paused it). \n\nIf you have an existing plan you will keep the 20X multiplier for a bit and also",
+      "likes": 320,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105388523411194168",
+      "author": "@ammaar",
+      "text": "Here's a preview of Gemini 4 Argon's benchmarks. \n\nRolling out to cyber defenders today, and to everyone as soon as possible.\n\nExcited to see all the progress and can't wait for you all to use it!",
+      "likes": 205,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2104940633018577400",
+      "author": "@hwchase17",
+      "text": "company OS (org harness) vs personal agent, similarities and differences:\n\ndifferences:\n- Many principals (users), one actor (agent): will need to be multiplayer, handle multiple users (sometimes even in same thread), and as a result handle auth/memory correctly\n- governance:",
+      "likes": 195,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2104967032387305908",
+      "author": "@svpino",
+      "text": "I'm spending 2x as much time on specs and diagrams as I do writing code.\n\nWell, to be honest, I'm barely writing any code anymore.\n\nHere, I'm using Codex with the @MiroHQ MCP server to automatically generate diagrams from the codebase, edit them, export them, and use them to",
+      "likes": 183,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2105284180242559167",
+      "author": "@svpino",
+      "text": "I updated all my workflows to use Jev.\n\nThey are now faster, cheaper, and give me a ton more options because I can do things based on each prediction's confidence score.\n\nI recorded a video showing you how to start building automations with Jev.",
+      "likes": 172,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2104954540160110672",
+      "author": "@reach_vb",
+      "text": "You’d like what we’ve got for you! TUNE INN!!",
+      "likes": 181,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105130496921628882",
+      "author": "@jerryjliu0",
+      "text": "System one models are extremely useful for a variety of document tasks that require fast decisions:\n* orientation detection\n* language detection\n* classification\n* splitting\n\nWe benchmarked Jev with other OSS models (some general classifiers, some document-specific) against a",
+      "likes": 160,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2105330508544806927",
+      "author": "@svpino",
+      "text": "The model behind these characters is A1,\n\nIt's a real-time model that creates full-body AI characters that keep listening while they talk and move. You can interrupt one of these characters mid-sentence and change the topic, and they will follow you.\n\nI read their technical",
+      "likes": 133,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2105046322269315362",
+      "author": "@hwchase17",
+      "text": "great writeup by @pirroh\n\nharness doesn't disappear as models get smarter - it shifts from deciding to offering\n\nin deepagents you give each subagent its own model, tools, and permissions - the main loop picks which to spawn and when\n\ndocs:",
+      "likes": 130,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2105206633223647461",
+      "author": "@reach_vb",
+      "text": "my personal favourites are:\n\n&gt; Dots\n&gt; Space\n&gt; GPT-6.1 Sol\n&gt; GPT 6 Astra Ultrafast\n&gt; @ ChatGPT in Slack",
+      "likes": 143,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2104953216471548415",
+      "author": "@svpino",
+      "text": "This story resembles more or less my experience and what I'm seeing around:\n\nThese guys automated 50% of their IT requests in a few days using Serval, but they didn't lay off anyone.\n\nInstead, they moved their engineers into other teams and had them work on much harder problems.",
+      "likes": 115,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2105487964986114381",
+      "author": "@reach_vb",
+      "text": "It’s a good (&amp; cheap) model, sir!",
+      "likes": 133,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104969080939966545",
+      "author": "@svpino",
+      "text": "These guys secured $400M in debt financing and are now buying Cerebras machines to run alongside NVIDIA GPUs.\n\nIf you haven't heard of them, Cerebras is fast!\n\nThey put memory directly on their massive chip. This makes moving data around much faster while generating tokens,",
+      "likes": 112,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2104982819101663342",
+      "author": "@reach_vb",
+      "text": "dots",
+      "likes": 133,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105504962700849386",
+      "author": "@reach_vb",
+      "text": "I’ve been maining GPT 6.1 Sol on High for past week or so",
+      "likes": 120,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105432380056179098",
+      "author": "@reach_vb",
+      "text": "dotsmaxxing today! spending the day just using dot to get work done - all through the ChatGPT app on my phone!\n\nit’s magical, I just brain dump stuff as it comes and max (my dot) takes care of it",
+      "likes": 120,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2104937848017211509",
+      "author": "@reach_vb",
+      "text": "Happy DevDay!! See you in a jiffy! 🙌",
+      "likes": 118,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105454285165342787",
+      "author": "@reach_vb",
+      "text": "Design team COOKED w/ the GPT 6.1 Sol banner again!!",
+      "likes": 116,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105105689857372373",
+      "author": "@reach_vb",
+      "text": "Thanks everyone for showing up! \n\nI’m filled with so so much gratitude with all the stories you shared, from showing your apps, to how you’re using ChatGPT to help you get better at your work/ studies to quite literally how it helped you buy a Bentley!!\n\nExcited for the next",
+      "likes": 114,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105085855245521087",
+      "author": "@jerryjliu0",
+      "text": "we comprehensively benchmarked gpt-6.1 sol on document OCR tasks.\n\ncompared to gpt-6 sol from a week ago (!), we see a sizable increase in table parsing capabilities and reading order, which is pleasantly surprising. gpt-6.1 sol has similar table parsing as gpt-6 astra. \n\nthese",
+      "likes": 79,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2105325555738660978",
+      "author": "@svpino",
+      "text": "To integrate an agent with any app:\n\nUse the AG-UI protocol. AG-UI stands for \"Agent-User Interaction Protocol\".\n\nEvery big-name company is already using AG-UI: Anthropic, Google, AWS, Microsoft, LangChain, Mastra, Pydantic, etc.\n\nThis is the open, community-driven standard for",
+      "likes": 77,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105367390930301364",
+      "author": "@svpino",
+      "text": "I got access to Dots today. So far, it’s done all of this for me:\n\n- Checked in my wife and daughter’s flights for tomorrow\n\n- transferred my available paypal balance to my bank \n\n- learned how to take screenshots of some analytics I have to provide and auto-reply to emails with",
+      "likes": 79,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104995687947739314",
+      "author": "@svpino",
+      "text": "This release is pretty cool for anyone who cares about robotics:\n\n• It comes with a vision-language planner\n• This planner chooses tasks and remembers progress\n• It translates tasks into whole-body motion\n• An RL controller executes movements at 100 Hz\n• A shared motion",
+      "likes": 69,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105380308258521104",
+      "author": "@svpino",
+      "text": "This open-source model scores 95.4% on BIG-Bench Hard’s logic subset with just 3.66B parameters.\n\nTwIL-LM3-Pro is a model small enough to run locally on a laptop.\n\nSpecialized post-training is super cool. You can get a ton of small models when you focus on specific tasks.",
+      "likes": 49,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2105046157659717954",
+      "author": "@hwchase17",
+      "text": "listen is a great company, alfred and florian are awesome founders\n\nthe problem space listen is tackling is also an amazing use case for AI, very bullish on what they will still build here!",
+      "likes": 44,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105532226092044752",
+      "author": "@reach_vb",
+      "text": "2nd February 2026!\n\nAn app that changed the way millions of people interact with agents and inspired a generation of apps",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2104978901877625306",
+      "author": "@jerryjliu0",
+      "text": "Yesterday I hosted a fun dinner conversation with @vincentsunnchen from @SnorkelAI on evals and RL environments.\n\nThe \"data and RL env\" companies (like Snorkel) have seen massive growth in the past few years. There's been an explosion of interest in evals. At the same time,",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105185506552095050",
+      "author": "@nauczymycieAI",
+      "text": "Oto najważniejsze zmiany zapowiedziane na długo wyczekiwanym wydarzeniu OpenAI.\n\n1. Dots, czyli agent, który pracuje dla Ciebie 24/7\n\nTo odpowiedź OpenAI na Grok Bota i Muse od Mety. Dot działa bez przerwy na własnym komputerze w chmurze, z własną przeglądarką i dostępem do ponad",
+      "likes": 33,
+      "retweets": 0
+    }
+  ]
+}
