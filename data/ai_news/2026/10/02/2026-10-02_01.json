@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-02",
+  "slot": "01",
+  "generated_at": "2026-10-02T06:03:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2105819303471976479",
+      "author": "@karpathy",
+      "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+      "likes": 14794,
+      "retweets": 1463
+    },
+    {
+      "tweet_id": "2105388478683119904",
+      "author": "@GoogleAI",
+      "text": "Announcing Gemini 4 Argon, our new frontier model.\n\nArgon is built to sustain deep reasoning across complex, long-horizon workflows and delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and",
+      "likes": 14566,
+      "retweets": 1159
+    },
+    {
+      "tweet_id": "2105688354834756036",
+      "author": "@sama",
+      "text": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+      "likes": 10231,
+      "retweets": 288
+    },
+    {
+      "tweet_id": "2105721630051692804",
+      "author": "@claudeai",
+      "text": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing.",
+      "likes": 6581,
+      "retweets": 336
+    },
+    {
+      "tweet_id": "2105687689991483654",
+      "author": "@sama",
+      "text": "DevDay was really fun, the builder energy was crazy\n\nStill wild to me to see people making whole startups in a day",
+      "likes": 3811,
+      "retweets": 115
+    },
+    {
+      "tweet_id": "2105739098640298253",
+      "author": "@sama",
+      "text": "You should be able to use your AI subscription wherever you need:",
+      "likes": 3468,
+      "retweets": 124
+    },
+    {
+      "tweet_id": "2105756563302723721",
+      "author": "@bcherny",
+      "text": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it.\n\nEach person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others",
+      "likes": 3379,
+      "retweets": 149
+    },
+    {
+      "tweet_id": "2105370680485417401",
+      "author": "@claudeai",
+      "text": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).\n\nCome for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you.",
+      "likes": 3091,
+      "retweets": 174
+    },
+    {
+      "tweet_id": "2105733864152858919",
+      "author": "@AnthropicAI",
+      "text": "In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.\n\nIn this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working",
+      "likes": 2374,
+      "retweets": 233
+    },
+    {
+      "tweet_id": "2105652858788175990",
+      "author": "@svpino",
+      "text": "A fine-tuned model can outperform frontier models and be cheaper and faster to run.\n\nLiterally, every company I've met wants this.\n\nI want you to see these results from fine-tuning Qwen3 4B on AWS. It smokes both the out-of-the-box model and Claude Sonnet 4.6.",
+      "likes": 1068,
+      "retweets": 102
+    },
+    {
+      "tweet_id": "2105707726831849759",
+      "author": "@svpino",
+      "text": "This is the best human-interaction model I've ever seen in action.\n\nI got early access to Tavus. I tested it.\n\nJudge for yourself.",
+      "likes": 343,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2105504962700849386",
+      "author": "@reach_vb",
+      "text": "I’ve been maining GPT 6.1 Sol on High for past week or so",
+      "likes": 366,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105388523411194168",
+      "author": "@ammaar",
+      "text": "Here's a preview of Gemini 4 Argon's benchmarks. \n\nRolling out to cyber defenders today, and to everyone as soon as possible.\n\nExcited to see all the progress and can't wait for you all to use it!",
+      "likes": 296,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105660935306449189",
+      "author": "@svpino",
+      "text": "This is the dream job for anyone looking to become an automation engineer in AI:\n\nYou'll join a team, learn its processes, and build automations for their work:\n\n1. You'll meet with the people who are doing the work\n2. You'll find and connect the systems needed to complete it\n3.",
+      "likes": 273,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2105709518210658443",
+      "author": "@reach_vb",
+      "text": "dots: we’re so back!!",
+      "likes": 266,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105692426577056106",
+      "author": "@jerryjliu0",
+      "text": "Today we’re introducing Extract v2.5 - a series of frontier agents tuned for document extraction.\n\nThe agents (cost-effective, agentic, agentic plus) are tuned for value accuracy and grounding. Our extraction agents outperform Opus 5.5 and GPT-6 Sol while being 30%-4x cheaper.",
+      "likes": 238,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2105532226092044752",
+      "author": "@reach_vb",
+      "text": "2nd February 2026!\n\nAn app that changed the way millions of people interact with agents and inspired a generation of apps",
+      "likes": 247,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2105454285165342787",
+      "author": "@reach_vb",
+      "text": "Design team COOKED w/ the GPT 6.1 Sol banner again!!",
+      "likes": 252,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105868331039510878",
+      "author": "@reach_vb",
+      "text": "GPT 6.1 Sol is now a good, cheap AND fast model, sir!\n\nAlso, global reset on Friday, 2nd October - 10AM PT\n\nEnjoy!!",
+      "likes": 243,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105487964986114381",
+      "author": "@reach_vb",
+      "text": "It’s a good (&amp; cheap) model, sir!",
+      "likes": 230,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105432380056179098",
+      "author": "@reach_vb",
+      "text": "dotsmaxxing today! spending the day just using dot to get work done - all through the ChatGPT app on my phone!\n\nit’s magical, I just brain dump stuff as it comes and max (my dot) takes care of it",
+      "likes": 182,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105206633223647461",
+      "author": "@reach_vb",
+      "text": "my personal favourites are:\n\n&gt; Dots\n&gt; Space\n&gt; GPT-6.1 Sol\n&gt; GPT 6 Astra Ultrafast\n&gt; @ ChatGPT in Slack",
+      "likes": 145,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105710409894547687",
+      "author": "@hwchase17",
+      "text": "model routing - \"no one knows what it means, but its provocative, gets the people going\"\n\nwe try to shed light on how to do it properly\n\n1. understand tasks\n2. understand the models\n3. build the router **in the harness**\n4. track outcomes\n\nlower costs, with no performance hit",
+      "likes": 111,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2105674849515663772",
+      "author": "@reach_vb",
+      "text": "thx dot",
+      "likes": 121,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105791360796397954",
+      "author": "@hwchase17",
+      "text": "pretty clear every agent harness needs a durable runtime\n\npi :: pi-durable\n\ndeepagents :: langgraph",
+      "likes": 114,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105664829277233594",
+      "author": "@svpino",
+      "text": "This pareto-26.10-preview model is pretty cool. It does something I haven't seen before:\n\nIt basically combines multiple models behind one API response:\n\n1. You send a request\n2. Pareto runs several models to produce answers\n3. It then evaluates the answers and selects the best",
+      "likes": 106,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105741036094185868",
+      "author": "@svpino",
+      "text": "You gotta try this out.\n\nHere are some fragments from my conversation with \"Vanessa.\"\n\nIt won't necessarily fool me into thinking I'm talking to a real person, but holy moly, this is the closest we've gotten, for sure.",
+      "likes": 80,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105713773084569666",
+      "author": "@hwchase17",
+      "text": "decision model season indeed\n\nsaid there'd be more entrants before long - now open weights too, nice work @ritakozlov + the cloudflare team\n\nyour harness should be able to swap its decision model as easily as its main model",
+      "likes": 75,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105380308258521104",
+      "author": "@svpino",
+      "text": "This open-source model scores 95.4% on BIG-Bench Hard’s logic subset with just 3.66B parameters.\n\nTwIL-LM3-Pro is a model small enough to run locally on a laptop.\n\nSpecialized post-training is super cool. You can get a ton of small models when you focus on specific tasks.",
+      "likes": 69,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2105692414681952600",
+      "author": "@svpino",
+      "text": "It was only a matter of time before we brought the first AI and real, licensed attorneys together.\n\nThis is really cool for anyone who needs a law firm:\n\n• Send a contract using Slack\n• Approve a flat fee\n• AI gathers business context\n• AI helps to speed up every task\n• A",
+      "likes": 72,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105630266211602488",
+      "author": "@svpino",
+      "text": "Season 3 of Advent of Agents is out!\n\nThis is a 31-day online learning program designed by Google Cloud to help developers secure and govern production-ready agentic systems.\n\nEach day, you'll unlock one more topic. You'll work through the lessons and complete the day's",
+      "likes": 54,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2105724146839912760",
+      "author": "@nauczymycieAI",
+      "text": "Gemini 4 to świetny model!!! \n\n...tyle, że to najprawdopodobniej ściema. \n\nWygląda na to, że Google pudruje kolejny nieudany model, a ich program AI odstaje nie tylko od Anthropic i OpenAI, ale także od SpaceXAI oraz Mety.\n\nDlaczego? Już tłumaczę.\n\n1. Bloomberg raportuje, że",
+      "likes": 38,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105185506552095050",
+      "author": "@nauczymycieAI",
+      "text": "Oto najważniejsze zmiany zapowiedziane na długo wyczekiwanym wydarzeniu OpenAI.\n\n1. Dots, czyli agent, który pracuje dla Ciebie 24/7\n\nTo odpowiedź OpenAI na Grok Bota i Muse od Mety. Dot działa bez przerwy na własnym komputerze w chmurze, z własną przeglądarką i dostępem do ponad",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105880924961575291",
+      "author": "@reach_vb",
+      "text": "“most people overestimate what they can achieve in a single year and underestimate what they can accomplish over the course of a decade”",
+      "likes": 33,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105806366405484628",
+      "author": "@hwchase17",
+      "text": "congrats @AravSrinivas! more entrants in the decision model class, and this one is open weights\n\ncheap typed answers for the small calls inside a harness (routing, approvals, judging), big model for the rest",
+      "likes": 30,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105682903640514931",
+      "author": "@svpino",
+      "text": "Nace AI just released Drex 1.5 — the first (and so far the only) decision model with a 128k context window.\n\n128k is really good! You can send an entire contract or a video transcript and get a scored decision over the whole thing. You don't need to mess with chunking or",
+      "likes": 31,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105695945484824851",
+      "author": "@svpino",
+      "text": "Pretty clever: a model routing and quality-control layer, but for voice models.\n\nBasically, @OnepinAI sits on top of existing TTS providers.\n\n• It normalizes the script\n• It selects a voice model for different lines\n• It generates the voiceover\n• It checks pronunciation,",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105445705322242066",
+      "author": "@reach_vb",
+      "text": "same tbh",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105539898459431066",
+      "author": "@rpl_0x",
+      "text": "🚴 Madryt → Aranjuez → Yepes → Mora → Los Yébenes 🚴\n\nNocka tuż przy potworach z którymi Don Kichot walczył",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105330913190302148",
+      "author": "@sentient_agency",
+      "text": "This makes the whole idea of agents shopping for us feel a lot more practical.\n\nGood to see Beltic building for the businesses receiving those orders too.",
+      "likes": 4,
+      "retweets": 2
+    }
+  ]
+}

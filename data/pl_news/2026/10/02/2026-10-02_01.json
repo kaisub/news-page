@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-02",
+  "slot": "01",
+  "generated_at": "2026-10-02T06:03:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2105746437858271702",
+      "author": "@PAPinformacje",
+      "text": "Domański: w weekend ceny na stacjach paliwowych będą niższe, szacunkowo o około 1,2-1,3 zł na litrze. (PAP)\n#PAPInformacje",
+      "likes": 200,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2105324297967284542",
+      "author": "@laskowski_pl",
+      "text": "Magyar idzie jak tornado - poniżej długi cytat z artykułu Krzysztofa Vargi - warto przeczytać. \n\n\"Péter Magyar nie miałby większości konstytucyjnej, gdyby nie wykonał gigantycznej pracy w kampanii wyborczej. A teraz nie zamyka się w gabinecie premiera, tylko jeździ po kraju i",
+      "likes": 142,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2105750672410923321",
+      "author": "@PAPinformacje",
+      "text": "W Dzienniku Ustaw opublikowano ustawę o podatku od nadzwyczajnych zysków koncernów paliwowych. (PAP)\n#PAPInformacje",
+      "likes": 81,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2105735234192908746",
+      "author": "@PAPinformacje",
+      "text": "Minister finansów i gospodarki: w przyszłym tygodniu ceny na stacjach benzynowych w Polsce będą niższe. (PAP)\n#PAPInformacje",
+      "likes": 85,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105706292232814920",
+      "author": "@PAPinformacje",
+      "text": "USA/ Prezydent Trump: Przyglądamy się sprawie bazy w Polsce; może już podjąłem decyzję. (PAP)\n#PAPInformacje",
+      "likes": 85,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105568060333609015",
+      "author": "@laskowski_pl",
+      "text": "Konia już są, czas na karetę 😉",
+      "likes": 64,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2105559032349986827",
+      "author": "@laskowski_pl",
+      "text": "Rok systemu kaucyjnego - rok porażki 🤔\n\n\"System działa sprawnie, jedynie logistyka jest do poprawy\" - @hennigkloska \n\nTo zdanie jak mantrę powtarza od roku Pani minister. Świadczy, to tylko o tym jakie ma pojęcie o tym jak działa taki system, to jest czysta logistyka, a ta nie",
+      "likes": 44,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2105697572405039521",
+      "author": "@PAPinformacje",
+      "text": "Komisarz UE ds. obronności: jeśli Rosja zaatakuje nasze fabryki, uruchomimy art. 5 NATO\n#PAPInformacje",
+      "likes": 38,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2105558276767133868",
+      "author": "@Macronextcom",
+      "text": "#PKPCargo 10,81 zł (+6,08%) \n\nKurs PKP Cargo w górę po dobrych wynikach za Q2 2026 + przedłużenie umowy z ArcelorMittal.",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105600670581543276",
+      "author": "@PAPinformacje",
+      "text": "W siedzibie PAP odbyła się konferencja prasowa pt. „Kapitał ludzki, nie koszt - jak obecność Ukraińców wpływa na Polskę”. \n\nPunktem wyjścia był raport @Deloitte, przygotowany wspólnie z @UNHCRPoland, pokazujący utrzymujący się pozytywny wpływ uchodźców z Ukrainy na gospodarkę",
+      "likes": 27,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105722093694234936",
+      "author": "@PAPinformacje",
+      "text": "Prezydent: podpisałem ustawę dot. nadmiarowych zysków koncernów paliwowych. (PAP)\n#PAPInformacje",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105585132723646911",
+      "author": "@Macronextcom",
+      "text": "🇪🇺 W sierpniu 2026 stopa bezrobocia w strefie euro pozostała na poziomie 6,4%, a w całej #UE na 6,1%.\n\nW Polsce 🇵🇱 #bezrobocie to 3,4%. Najniższe jest w Czechach 🇨🇿 (3,2%), a najwyższe w Finlandii 🇫🇮 (10,3%) i Hiszpanii 🇪🇸 (10%).",
+      "likes": 29,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105310698591154664",
+      "author": "@Macronextcom",
+      "text": "Fabryki broni w Europie produkujące uzbrojenie dla Ukrainy są dla Rosji uzasadnionymi celami wojskowymi - Zakharova, rzeczniczka MSZ Rosji.\n\nRUSSIAN FOREIGN MINISTRY SPOKESWOMAN: WEAPONS FACTORIES IN EUROPE THAT PRODUCE ARMS FOR UKRAINE ARE LEGITIMATE MILITARY TARGETS FOR RUSSIA",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105722679495889329",
+      "author": "@PAPinformacje",
+      "text": "Prezydent: stawiam konkretne oczekiwania wobec rządu - obniżki na stacjach paliw mają nastąpić od razu i powinny doprowadzić ceny paliw do poziomu obiecanego w kampanii.(PAP)\n#PAPInformacje",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105690031650472277",
+      "author": "@PAPinformacje",
+      "text": "Na warszawskim @ChopinAirport oddano do użytku nową płytę postojową o powierzchni 60 tys. mkw. \n\nPozwoli to obsłużyć ok. 13 tys. dodatkowych samolotów rocznie.\n\nŁączny koszt inwestycji to 194 mln zł.",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105553727369158893",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: we IX 2026 r. Indeks #PMI dla przemysłu: 49,0 pkt. (prognoza: 48,0 pkt.; poprzednio: 48,3 pkt.)\n\nKalendarz: \n-- \nps. tak tylko przypominam, że polski PMI słabo oddaje rzeczywistość w przemyśle, więc nie należy się do niego zbytnio przywiązywać",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105762705768374275",
+      "author": "@PAPinformacje",
+      "text": "Ceny na stacjach niższe już w weekend. Opublikowano ustawę\n#PAPInformacje",
+      "likes": 19,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105673816114393149",
+      "author": "@PAPinformacje",
+      "text": "PKP Cargo: prezes Zbigniew Prus oraz pozostali członkowie zarządu zrezygnowali z pełnienia swoich funkcji. (PAP)\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105591037158728056",
+      "author": "@laskowski_pl",
+      "text": "Centrum Walki z Dezinformacją, będzie miało co robić 😉",
+      "likes": 22,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105650000340586710",
+      "author": "@Macronextcom",
+      "text": "Spółki z GPW zarabiające w USD nieco odetchną. Eksporterzy też.\n\nDziś #USD kosztuje prawie 3,88 zł, jest najdroższy od kwietnia 2025, o 24 gr droższy niż rok temu i o 39 gr niż w dołku w styczniu.\n\nW Q3 2026 r. średni kurs #USDPLN to 3,755 zł, czyli o 10 gr więcej niż w Q2 2026.",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105722780238901624",
+      "author": "@PAPinformacje",
+      "text": "Prezydent: zwrócę się do Trybunału Konstytucyjnego o zbadanie w trybie następczym ustawy dot. nadmiarowych zysków koncernów paliwowych. (PAP)\n#PAPInformacje",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105653170492104974",
+      "author": "@PAPinformacje",
+      "text": "Spotkanie NATO w Polsce. Media: Pentagon nie zaprosił ważnych sojuszników\n#PAPInformacje",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105621804698255785",
+      "author": "@laskowski_pl",
+      "text": "List żelazny dla Romanowskiego. \nPrzeczytałem uzasadnienie sędziego i jak dla mnie brzmi ono racjonalnie. Argumenty prawne powinien ocenić prawnik jak @r00t_Sigvall , a oceni sąd wyższej instancji. \nNie można wrzucać wszystkich do jednego worka neosędziów.",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105190914914447741",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: we IX 2026 r. Wskaźnik Rynku Pracy wg #BIEC  78,0 pkt. (poprzednio: 78,1 pkt.)\n\nKalendarz (Polska):",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105616968078577782",
+      "author": "@Macronextcom",
+      "text": "🇨🇳 Złoty Tydzień w Chinach.\n\nW dniach 1-7 października obchodzone jest Święto Narodowe Chińskiej Republiki Ludowej. \n\nW tych dniach chiński rynek akcji jest zamknięty. Jednocześnie giełda w Hong Kongu 🇭🇰 jest zamknięta tylko 1 października.",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105603476226990159",
+      "author": "@Macronextcom",
+      "text": "Wyprzedaż obligacji wspiera dolara 🇺🇸.  \n\n#USD Index jest najwyżej od 18 miesięcy 👇, #EURUSD 🇪🇺🇺🇸 spada do 1,1266 i jest najniżej od 17 miesięcy, a #USDPLN 🇺🇸🇵🇱 rośnie od 3,8850 zł i jest najwyżej od 18 miesięcy.  \n\n➡️ DJ DXY DOLLAR INDEX RISES TO NEAR 18-MONTH HIGH OF 101.996",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105203514506965159",
+      "author": "@GUS_STAT",
+      "text": "#PKB w górę we wszystkich regionach Polski w 2024r.\n\nNajwiększy udział w tworzeniu PKB:\n🔹region warszawski stołeczny\n🔹śląski,\n🔹wielkopolski,\n🔹dolnośląski\n🔹małopolski.\n\nW tych regionach pracowało 51,7% ogółu pracujących w #GospodarkaNarodowa.\n\n🔗\n\n#GUS",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105666391999431130",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Aż tak dobrze nie było...\n\n23 września amerykański #PMI dla przemysłu zaskoczył wyskokiem do 57 z 53,9. Dziś okazało się, że duży optymizm był na wyrost, bo finalnie PMI wyniósł 55,9.\n \nDodatkowo, dużo ważniejszy przemysłowy #ISM, we wrześniu cofnął się do 54,5 z 54,6. 👇",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105604744873902263",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Popatrzmy na politykę fiskalną z nieco innego punktu widzenia. Stabilizacja zadłużenia przy wysokim deficycie wymaga bajkowych (czytaj nierealnych) założeń względem nominalnego wzrostu PKB. \"Robialna\" ścieżka to wysoki nominalny wzrost PLUS bardzo niski deficyt pierwotny.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105689770814841161",
+      "author": "@PAPinformacje",
+      "text": "Sąd nie zwrócił ciągnika rolnikowi, który zaorał nawierzchnię drogi [WIDEO] #PAPinformacje",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105217539047600416",
+      "author": "@GUS_STAT",
+      "text": "⚠️ Uwaga na fałszywe maile z zaproszeniem do badania EU-SILC!\n\nNie pochodzą od GUS. Nie odpowiadaj i nie otwieraj załączników.\n\nZbieranie odpowiedzi zakończyło się 30 czerwca 2026 r. GUS nie zaprasza do tego badania e-mailem.\n\nMasz wątpliwości? Kontakt:",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2105557267764645951",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Wrześniowy PMI, z danymi do ankiet zbieranymi pewnie w okolicach środka miesiąca (szczyt ropy, prawie szczyt cen paliw), pokazuje presję na koszty i ceny wyrobów gotowych ZNACZNIE poniżej epizodu z lutego/marca. Albo wskaźnik słaby, albo presja słaba ;)",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105305910784745720",
+      "author": "@GUS_STAT",
+      "text": "[1/2]🧑‍🦽W 2024 r. w Polsce było 3,95 mln osób z #NiepełnosprawnośćPrawna. \nAdministracja publiczna, #JST i #NGOs potrzebują danych, aby planować działania i usługi odpowiadające na ich potrzeby.\nZnajdą je w dashboardzie #GUS i @PelnomocnikON \n\n🔗",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105596771737194782",
+      "author": "@PAPinformacje",
+      "text": "Tańsze paliwo na stacji MPK w Rzeszowie przyciąga mieszkańców [WIDEO]\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105562173066158491",
+      "author": "@GUS_STAT",
+      "text": "Opublikowaliśmy Obwieszczenie w sprawie wskaźników zmian cen dla lokali mieszkalnych w drugim kwartale 2026 r. z podziałem na województwa.\n\n\n\n#GUS #mieszkalnictwo #ceny",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105199720142602430",
+      "author": "@GUS_STAT",
+      "text": "Wg przedwynikowego szacunku produkcji, zbiory owoców z drzew w br. będą o ok. 16,9% mniejsze niż rok wcześniej. Niekorzystny wpływ na plantacje miała pogoda wiosną (przymrozki i deficyt opadów).\n\n🍎 zbiory mniejsze o 17,7% r/r\n🍐 -10,8%\n\n🔗\n\n#GUS #rolnictwo",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105896550828261804",
+      "author": "@PAPinformacje",
+      "text": "Rekordowo krótki lot kapsuły Dragon na Międzynarodową Stację Kosmiczną\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105663844521529596",
+      "author": "@PAPinformacje",
+      "text": "Polskie gminy się wyludniają. Raport: depopulacja dotknęła 70 proc.\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105891250196942862",
+      "author": "@laskowski_pl",
+      "text": "\"Premier Tusk nie jest zagranicznym przeciwnikiem pana Nawrockiego. Jest Prezesem Rady Ministrów Rzeczypospolitej Polskiej\" \n\nDo fafluna, który prowadzi konto @prezydentpl nie dotrze, @szefernaker świadomie to robi, a @NawrockiKn czyta teksty z kartki. \n\nPolski szkoda.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105728106082472262",
+      "author": "@PAPinformacje",
+      "text": "Prezydent zdecydował ws. paliw: podpisałem ustawę\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    }
+  ]
+}
