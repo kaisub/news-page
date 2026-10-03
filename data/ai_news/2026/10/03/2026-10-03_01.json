@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-03",
+  "slot": "01",
+  "generated_at": "2026-10-03T05:40:38Z",
+  "tweets": [
+    {
+      "tweet_id": "2105819303471976479",
+      "author": "@karpathy",
+      "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+      "likes": 42659,
+      "retweets": 4782
+    },
+    {
+      "tweet_id": "2105909609487872075",
+      "author": "@karpathy",
+      "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
+      "likes": 15533,
+      "retweets": 862
+    },
+    {
+      "tweet_id": "2105688354834756036",
+      "author": "@sama",
+      "text": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+      "likes": 11991,
+      "retweets": 342
+    },
+    {
+      "tweet_id": "2106189841813934140",
+      "author": "@sama",
+      "text": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have",
+      "likes": 11029,
+      "retweets": 287
+    },
+    {
+      "tweet_id": "2105721630051692804",
+      "author": "@claudeai",
+      "text": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing.",
+      "likes": 7673,
+      "retweets": 407
+    },
+    {
+      "tweet_id": "2106085986606403684",
+      "author": "@sama",
+      "text": "dot is my favorite openai product so far!\n\nit is amazing to me that each day it feels noticably better as it learns more of my workflow and style.\n\nhaving it do the stuff i don't like doing--and usually just builds up as a gravity well of dread--has me very happy.",
+      "likes": 6635,
+      "retweets": 269
+    },
+    {
+      "tweet_id": "2106147184693620924",
+      "author": "@sama",
+      "text": "There is some speculation about our partnership with Cerebras.\n\nCerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.",
+      "likes": 5362,
+      "retweets": 232
+    },
+    {
+      "tweet_id": "2106125468365918268",
+      "author": "@claudeai",
+      "text": "Lots of inventive things made with Claude these past few weeks. A few of our favorites:\n\nA working watermill, built with Opus 5.5.",
+      "likes": 4958,
+      "retweets": 283
+    },
+    {
+      "tweet_id": "2105756563302723721",
+      "author": "@bcherny",
+      "text": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it.\n\nEach person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others",
+      "likes": 4990,
+      "retweets": 238
+    },
+    {
+      "tweet_id": "2105739098640298253",
+      "author": "@sama",
+      "text": "You should be able to use your AI subscription wherever you need:",
+      "likes": 4953,
+      "retweets": 175
+    },
+    {
+      "tweet_id": "2105687689991483654",
+      "author": "@sama",
+      "text": "DevDay was really fun, the builder energy was crazy\n\nStill wild to me to see people making whole startups in a day",
+      "likes": 4647,
+      "retweets": 132
+    },
+    {
+      "tweet_id": "2105733864152858919",
+      "author": "@AnthropicAI",
+      "text": "In physics, an “impedance mismatch” occurs when two systems each work well but are poorly matched.\n\nIn this Science Blog guest post, Harvard physicist Matthew Schwartz argues that something similar is happening with AI and science. LLMs are capable at many things, but working",
+      "likes": 3414,
+      "retweets": 376
+    },
+    {
+      "tweet_id": "2105652858788175990",
+      "author": "@svpino",
+      "text": "A fine-tuned model can outperform frontier models and be cheaper and faster to run.\n\nLiterally, every company I've met wants this.\n\nI want you to see these results from fine-tuning Qwen3 4B on AWS. It smokes both the out-of-the-box model and Claude Sonnet 4.6.",
+      "likes": 1531,
+      "retweets": 152
+    },
+    {
+      "tweet_id": "2105868331039510878",
+      "author": "@reach_vb",
+      "text": "GPT 6.1 Sol is now a good, cheap AND fast model, sir!\n\nAlso, global reset on Friday, 2nd October - 10AM PT\n\nEnjoy!!",
+      "likes": 752,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2106049984164463069",
+      "author": "@GoogleAI",
+      "text": "Project Suncatcher has liftoff! ☀️🚀\n\nAnnounced last year, this moonshot project explores if we can one day host machine learning infrastructure in space. After years of research, we’ve just launched a prototype satellite, built in partnership with @planet, into orbit on",
+      "likes": 665,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2105707726831849759",
+      "author": "@svpino",
+      "text": "This is the best human-interaction model I've ever seen in action.\n\nI got early access to Tavus. I tested it.\n\nJudge for yourself.",
+      "likes": 464,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2106125469599068492",
+      "author": "@claudeai",
+      "text": "Embossed cards, made with Opus 5.5.",
+      "likes": 470,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2106125470786105375",
+      "author": "@claudeai",
+      "text": "A 3D site that flies you from outside the Milky Way down to Jupiter’s moons, Opus 5.5.",
+      "likes": 367,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2105660935306449189",
+      "author": "@svpino",
+      "text": "This is the dream job for anyone looking to become an automation engineer in AI:\n\nYou'll join a team, learn its processes, and build automations for their work:\n\n1. You'll meet with the people who are doing the work\n2. You'll find and connect the systems needed to complete it\n3.",
+      "likes": 334,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2106125478956507480",
+      "author": "@claudeai",
+      "text": "A jet engine in interactive 3D you can cut away and pull apart, made with Opus 5.5.",
+      "likes": 332,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2105692426577056106",
+      "author": "@jerryjliu0",
+      "text": "Today we’re introducing Extract v2.5 - a series of frontier agents tuned for document extraction.\n\nThe agents (cost-effective, agentic, agentic plus) are tuned for value accuracy and grounding. Our extraction agents outperform Opus 5.5 and GPT-6 Sol while being 30%-4x cheaper.",
+      "likes": 281,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2105791360796397954",
+      "author": "@hwchase17",
+      "text": "pretty clear every agent harness needs a durable runtime\n\npi :: pi-durable\n\ndeepagents :: langgraph",
+      "likes": 299,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2105880924961575291",
+      "author": "@reach_vb",
+      "text": "“most people overestimate what they can achieve in a single year and underestimate what they can accomplish over the course of a decade”",
+      "likes": 296,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2106125472178565288",
+      "author": "@claudeai",
+      "text": "Water, simulated in the browser.",
+      "likes": 296,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105709518210658443",
+      "author": "@reach_vb",
+      "text": "dots: we’re so back!!",
+      "likes": 291,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105532226092044752",
+      "author": "@reach_vb",
+      "text": "2nd February 2026!\n\nAn app that changed the way millions of people interact with agents and inspired a generation of apps",
+      "likes": 247,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2105710409894547687",
+      "author": "@hwchase17",
+      "text": "model routing - \"no one knows what it means, but its provocative, gets the people going\"\n\nwe try to shed light on how to do it properly\n\n1. understand tasks\n2. understand the models\n3. build the router **in the harness**\n4. track outcomes\n\nlower costs, with no performance hit",
+      "likes": 143,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2106125477710901276",
+      "author": "@claudeai",
+      "text": "A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5.",
+      "likes": 153,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106125476167381210",
+      "author": "@claudeai",
+      "text": "A pixel walk through Seattle that follows the real weather and time of day.",
+      "likes": 155,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105674849515663772",
+      "author": "@reach_vb",
+      "text": "thx dot",
+      "likes": 151,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106125474900701633",
+      "author": "@claudeai",
+      "text": "Claude Code and a camera, left running overnight on Old Street.",
+      "likes": 151,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106125473432707412",
+      "author": "@claudeai",
+      "text": "Poems, illustrated in Claude Code.",
+      "likes": 151,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106125480193913276",
+      "author": "@claudeai",
+      "text": "What are you exploring with Claude this weekend?",
+      "likes": 135,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105713773084569666",
+      "author": "@hwchase17",
+      "text": "decision model season indeed\n\nsaid there'd be more entrants before long - now open weights too, nice work @ritakozlov + the cloudflare team\n\nyour harness should be able to swap its decision model as easily as its main model",
+      "likes": 112,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2105741036094185868",
+      "author": "@svpino",
+      "text": "You gotta try this out.\n\nHere are some fragments from my conversation with \"Vanessa.\"\n\nIt won't necessarily fool me into thinking I'm talking to a real person, but holy moly, this is the closest we've gotten, for sure.",
+      "likes": 113,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105664829277233594",
+      "author": "@svpino",
+      "text": "This pareto-26.10-preview model is pretty cool. It does something I haven't seen before:\n\nIt basically combines multiple models behind one API response:\n\n1. You send a request\n2. Pareto runs several models to produce answers\n3. It then evaluates the answers and selects the best",
+      "likes": 111,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2105914268868661709",
+      "author": "@reach_vb",
+      "text": "touchdown back from DevDay &amp; excited to keep the momentum going!\n\nreflecting back, what an incredible sprint from giving a full house talk (out on YT soon) to helping ship our models/ products and hell of a lot of testing/ feedback - proud of it\n\ntoo many folks to tag in one",
+      "likes": 99,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106090859728961835",
+      "author": "@reach_vb",
+      "text": "+1 the last time I felt PMF (internal &amp; external) for a product this good was the Codex App launch \n\nSpecially it proactively fixing things for me and recommending me stuff I should be on top of\n\nAnd the experience continues getting better the more I use it",
+      "likes": 92,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106043812611239980",
+      "author": "@jerryjliu0",
+      "text": "one of the most challenging tasks for frontier models is being able to extract thousands of values from extremely dense tables in documents.\n\nour new Extract v2.5 agents are able to get 93%-96%+ on long-list extraction, including cells that fall in between pages. \n\nin contrast,",
+      "likes": 80,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105692414681952600",
+      "author": "@svpino",
+      "text": "It was only a matter of time before we brought the first AI and real, licensed attorneys together.\n\nThis is really cool for anyone who needs a law firm:\n\n• Send a contract using Slack\n• Approve a flat fee\n• AI gathers business context\n• AI helps to speed up every task\n• A",
+      "likes": 75,
+      "retweets": 2
+    }
+  ]
+}
