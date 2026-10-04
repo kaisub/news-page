@@ -1,0 +1,254 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-04",
+  "slot": "01",
+  "generated_at": "2026-10-04T06:12:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2106388373221118198",
+      "author": "@sama",
+      "text": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+      "likes": 23438,
+      "retweets": 1592
+    },
+    {
+      "tweet_id": "2106189841813934140",
+      "author": "@sama",
+      "text": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have",
+      "likes": 20587,
+      "retweets": 559
+    },
+    {
+      "tweet_id": "2105909609487872075",
+      "author": "@karpathy",
+      "text": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet.",
+      "likes": 18162,
+      "retweets": 997
+    },
+    {
+      "tweet_id": "2106125468365918268",
+      "author": "@claudeai",
+      "text": "Lots of inventive things made with Claude these past few weeks. A few of our favorites:\n\nA working watermill, built with Opus 5.5.",
+      "likes": 9177,
+      "retweets": 556
+    },
+    {
+      "tweet_id": "2106085986606403684",
+      "author": "@sama",
+      "text": "dot is my favorite openai product so far!\n\nit is amazing to me that each day it feels noticably better as it learns more of my workflow and style.\n\nhaving it do the stuff i don't like doing--and usually just builds up as a gravity well of dread--has me very happy.",
+      "likes": 8398,
+      "retweets": 334
+    },
+    {
+      "tweet_id": "2106147184693620924",
+      "author": "@sama",
+      "text": "There is some speculation about our partnership with Cerebras.\n\nCerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.",
+      "likes": 8045,
+      "retweets": 341
+    },
+    {
+      "tweet_id": "2106125469599068492",
+      "author": "@claudeai",
+      "text": "Embossed cards, made with Opus 5.5.",
+      "likes": 976,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2106049984164463069",
+      "author": "@GoogleAI",
+      "text": "Project Suncatcher has liftoff! ☀️🚀\n\nAnnounced last year, this moonshot project explores if we can one day host machine learning infrastructure in space. After years of research, we’ve just launched a prototype satellite, built in partnership with @planet, into orbit on",
+      "likes": 849,
+      "retweets": 102
+    },
+    {
+      "tweet_id": "2106125472178565288",
+      "author": "@claudeai",
+      "text": "Water, simulated in the browser.",
+      "likes": 780,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2106125470786105375",
+      "author": "@claudeai",
+      "text": "A 3D site that flies you from outside the Milky Way down to Jupiter’s moons, Opus 5.5.",
+      "likes": 679,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2106125476167381210",
+      "author": "@claudeai",
+      "text": "A pixel walk through Seattle that follows the real weather and time of day.",
+      "likes": 302,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106125477710901276",
+      "author": "@claudeai",
+      "text": "A pop-up city where each building is a paper fold drawn on a flat canvas, Sonnet 5.5.",
+      "likes": 297,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2106125474900701633",
+      "author": "@claudeai",
+      "text": "Claude Code and a camera, left running overnight on Old Street.",
+      "likes": 292,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2106362128798216625",
+      "author": "@svpino",
+      "text": "Right now, I consult for several companies. I help their engineering teams introduce AI into their workflows.\n\nEach of these teams has become much more productive than before using AI. Their software is better. They deliver faster and more.\n\nIt usually takes time to ramp up, but",
+      "likes": 222,
+      "retweets": 21
+    },
+    {
+      "tweet_id": "2106498527866286101",
+      "author": "@reach_vb",
+      "text": "this is what I like about OpenAI too\n\nflat org w/ a huge bias for action, if you’re willing - just do what piques your interest",
+      "likes": 156,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106043812611239980",
+      "author": "@jerryjliu0",
+      "text": "one of the most challenging tasks for frontier models is being able to extract thousands of values from extremely dense tables in documents.\n\nour new Extract v2.5 agents are able to get 93%-96%+ on long-list extraction, including cells that fall in between pages. \n\nin contrast,",
+      "likes": 116,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2106090859728961835",
+      "author": "@reach_vb",
+      "text": "+1 the last time I felt PMF (internal &amp; external) for a product this good was the Codex App launch \n\nSpecially it proactively fixing things for me and recommending me stuff I should be on top of\n\nAnd the experience continues getting better the more I use it",
+      "likes": 115,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106475835964477533",
+      "author": "@hwchase17",
+      "text": "specialized agents or one mega agent?\n\nwe're having this debate internally...",
+      "likes": 102,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2105914268868661709",
+      "author": "@reach_vb",
+      "text": "touchdown back from DevDay &amp; excited to keep the momentum going!\n\nreflecting back, what an incredible sprint from giving a full house talk (out on YT soon) to helping ship our models/ products and hell of a lot of testing/ feedback - proud of it\n\ntoo many folks to tag in one",
+      "likes": 101,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106077292678246697",
+      "author": "@hwchase17",
+      "text": "good pattern from this google paper\n\nthe verifier starts from a clean context, so the explorer's reasoning can't talk it into a bad proof\n\nso the explorer can try wild ideas and the verifier tosses the wrong ones\n\nsame reason deepagents subagents get their own context",
+      "likes": 93,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2106054930041872693",
+      "author": "@hwchase17",
+      "text": "Memory is hard to get working well, especially in a company setting\n\nMaking some improvements to how we memory in managed deepagents!",
+      "likes": 88,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2106440473170591990",
+      "author": "@reach_vb",
+      "text": "“Eat at a local restaurant tonight. Get the cream sauce. Have a cold pint at 4 o’clock in a mostly empty bar. Go somewhere you’ve never been. \nListen to someone you think may have nothing in common with you. Order the steak rare. Eat an oyster. Have a Negroni. Have two. \nBe open",
+      "likes": 93,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106022931059159337",
+      "author": "@svpino",
+      "text": "Every company enforces policies.\n\nEspecially now, with so many agentic systems doing work for us.\n\nHere is how you can use a Small Language Model plus deterministic rules to enforce your policies on any content.\n\nWorks really well!",
+      "likes": 66,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2106305480029073878",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5.5 i Sonnet 5.5 w Antigravity!\n\nW planach Gemini Pro i Ultra właśnie pojawiły się dobre (Sonnet 5.5) i świetne (Opus 5.5) modele od Anthropic.\n\nAntigravity znowu zaczyna być użyteczne, szczególnie jeżeli dorwiecie jedną z bardzo tanich promocji na roczne Gemini Pro",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106475668804657555",
+      "author": "@hwchase17",
+      "text": "cool project by @dbreunig\n\nin langchain this is ModelRouterMiddleware - jev reads the first message, picks the model, and that model handles the whole run\n\njev is cheap enough that you can also re-pick after each tool result with a custom hook\n\ndocs:",
+      "likes": 56,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2106187777058693216",
+      "author": "@jerryjliu0",
+      "text": "Our new extraction agents are extremely good at reasoning over tables that span multiple pages\n\nsometimes a record starts on one page and finishes on the next. extremely common for real world docs (insurance claims, regulatory filings, legal schedules) - for instance you print",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2106075174793863630",
+      "author": "@hwchase17",
+      "text": "every agent team ends up wanting its own review ui over their traces - LangSmith Custom Apps lets you build it on your own data and ship it right into the workspace",
+      "likes": 42,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106075243991461980",
+      "author": "@svpino",
+      "text": "I have 20 free tickets for Vercel Ship.\n\nThis is Vercel's event for AI builders, happening on Thursday, October 15, at the Palace of Fine Arts in San Francisco.\n\nIt's a one-day, in-person event with hands-on workshops and demos.\n\nThis is the place to meet developers, AI builders,",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2106075209945981182",
+      "author": "@rpl_0x",
+      "text": "Dotarliśmy do Hiszpani, planujemy tu zostać trochę dłużej.\nPo kilku dniach dość skomplikowanej logistyki dotarliśmy w końcu do Ciudad Real który w najbliższych miesiącach będzie naszym miejscem pracy i bazą wypadową.\n\nZabraliśmy ze sobą rowery, więc plan jest dość mocno",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106582677738656039",
+      "author": "@jerryjliu0",
+      "text": "sfo is the best airport in the US",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106415656434315616",
+      "author": "@rpl_0x",
+      "text": "W Barcelonie znajduje się najpiękniejsze data center na świecie - wewnątrz pięknej, zabytkowej katedry!\n\nMareNostrum 5 zajmuje obecnie 16. miejsce w rankingu TOP500 najpotężniejszych superkomputerów świata. Dla porównania najmocniejszy polski superkomputer, Helios GPU z",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106388964936425492",
+      "author": "@nauczymycieAI",
+      "text": "Wygląda na to, że nawet w planie Ultra w Antigravity nie poszalejemy z Opusem i Sonnetem 5.5.\n\nWniosek - jeżeli Gemini 4 nie okaże się hitem (opisywałem dlaczego to raczej się nie wydarzy) - subskrypcje AI Google nadal pozostaną bezużyteczne",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106472215235739974",
+      "author": "@rpl_0x",
+      "text": "Protestowaliśmy z Hiszpanami, mieszkanie prawem nie towarem 😉 \n\nPrzechodząc przez centrum Ciudad trafiliśmy na protest. Ludzie wyszli na ulice, bo w Hiszpanii jest duży problem z wynajmem, czynsze są wysokie, wielu młodych normalnie pracuje, a mimo to nie stać ich na samodzielne",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106451274296184931",
+      "author": "@nauczymycieAI",
+      "text": "Chcesz być na bieżąco z AI do pracy?\n\nW poniedziałek wychodzi mój darmowy newsletter. W środku znajdziesz najważniejsze informacje i poradniki z tego miesiąca, polecane narzędzia + bonus: spółki giełdowe, które obserwuję.\n\nZachęcam do zapisu 👇",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106123261570425049",
+      "author": "@rpl_0x",
+      "text": "Podczas gdy większość platform ogranicza/blokuje automatyczne komentarze pisane przez AI.\n\nYT sam podsuwa takowe - wystarczy zatwierdzić 😉",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

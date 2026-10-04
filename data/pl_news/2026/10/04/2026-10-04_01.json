@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-04",
+  "slot": "01",
+  "generated_at": "2026-10-04T06:12:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2105962403611468225",
+      "author": "@laskowski_pl",
+      "text": "Jak ktoś narzeka na NFZ, to polecam leczenie w USA.\n\n\"Ja na przykład płacę ponad 1500 dolarów miesięcznie – a i tak moja polisa daje mi pewną ochronę, ale dopiero po tym, jak wydam 7 tysięcy dolarów rocznie na koszty medyczne. Potem łaskawie zaczyna działać ubezpieczenie. Ale nie",
+      "likes": 233,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2105974482544259470",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w weekend oraz w poniedziałek litr benzyny 95 ma kosztować nie więcej niż 6,73 zł, benzyny 98 - 7,59 zł, a oleju napędowego - 7,88 zł\n#PAPinformacje",
+      "likes": 130,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2105926182382477448",
+      "author": "@laskowski_pl",
+      "text": "Wyrok w zawiasach za zabicie człowieka to norma. \"Sprawa ląduje na drugim końcu Polski, bo w lokalnej prokuraturze sami koledzy myśliwi\"\n\nJedna klika.",
+      "likes": 96,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2106269357307211891",
+      "author": "@PAPinformacje",
+      "text": "Stoch: cieszę się, że byłem częścią najlepszej drużyny w historii skoków narciarskich w Polsce [WIDEO]\n#PAPInformacje",
+      "likes": 78,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2106037555082768458",
+      "author": "@PAPinformacje",
+      "text": "Sąd nakazał Łukaszowi Gibale sprostowanie wypowiedzi o radnych KO #PAPinformacje",
+      "likes": 53,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2105970156258071026",
+      "author": "@laskowski_pl",
+      "text": "\"Żyjemy w epoce, w której można wprost prawdzie zaprzeczyć, a mniej więcej połowa społeczeństwa w to uwierzy. To powoduje, że kłamstwo jest dziś chodliwym towarem jak nigdy wcześniej. Można na nim zrobić karierę, kłamiąc w żywe oczy. \n\nWystarczy być bardzo pewnym siebie.\n\nWedług",
+      "likes": 45,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2105934819524010346",
+      "author": "@Macronextcom",
+      "text": "Jest dobrze. #GPW znowu pokazuje siłę.💪\n\nOrlen tylko -2,8%, pomimo windfall tax i -2,6% na ropie.\n\nBanki bez reakcji pomimo, że szanse na podwyżkę stóp się wyzerowały.\n\nModivo zaskakuje wzrostem +1,1%\n\nKGHM +2,3% po info o Sierra Gorda.\n\nFinalnie zamiast spadku WIG20, mamy +0,1%",
+      "likes": 55,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105908851593634151",
+      "author": "@Macronextcom",
+      "text": "Nowy \"pakiet CPN\" obniżający ceny paliw będzie kosztował budżet około 5 mld zł w ciągu trzech miesięcy - ocenia minister energii.",
+      "likes": 54,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106380257951396228",
+      "author": "@laskowski_pl",
+      "text": "Do hasła Pana @KGawkowski \"zastrzeż PESEL\", dochodzi \"zastrzeż paszport\". \n\n#sarkazm i irytacja",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106259848048357578",
+      "author": "@Macronextcom",
+      "text": "Ciekawa opinia @GSiemionczyk. \n\nKonsolidacji fiskalna po wyborach w 2027 będzie problemem nowego rządu, ale też prezydenta.\n\nIm większa będzie konsolidacja, tym mniejsze szanse na reelekcję prezydenta.\n\n\"Wpadł w fiskalną pułapkę. To dlatego Nawrocki...\"",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106002835787964675",
+      "author": "@Macronextcom",
+      "text": "Właśnie dokonały żywota wszystkie oczekiwania na podwyżkę stóp proc. przez #Fed w październiku, a podwyżka do końca roku też stanęła pod znakiem zapytania.",
+      "likes": 33,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2105905137583870181",
+      "author": "@laskowski_pl",
+      "text": "1.5 roku więzienia oraz grzywna 15 tys. \nJak kraść to miliony!",
+      "likes": 27,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2106398073350197466",
+      "author": "@PAPinformacje",
+      "text": "Rosyjskie MSZ apeluje do dyplomatów i obcokrajowców, aby opuścili Kijów #PAPinformacje",
+      "likes": 22,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2106059429313757294",
+      "author": "@Macronextcom",
+      "text": "Państwa G7 uwolnią do 100 mln baryłek oleju napędowego i innych paliw w ramach Międzynarodowej Agencji Energetycznej (MAE).",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105977333274292718",
+      "author": "@laskowski_pl",
+      "text": "Felg Dent to system używany przez gabinety stomatologiczne. Z serwerów miały wyciec dane pacjentów, recepty oraz dokumentacja medyczna. Chodzi o informacje dotyczące 2,4 mln osób.\n\nPamiętajcie, aby zastrzec PESEL! 😡",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106121320861970595",
+      "author": "@PAPinformacje",
+      "text": "Piłkarska reprezentacja Polski wygrała z Rumunią 6:0 w meczu Ligi Narodów #PAPinformacje",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105998891388710944",
+      "author": "@Macronextcom",
+      "text": "Sytuacja na rynku pracy w USA 🇺🇸 - wrzesień 2026:\n\n🔸#NFP: +29 tys. (prognoza: +90 tys.)\n🔸bezrobocie: 4,2% (prognoza: 4,1%)\n\n➡️",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106383488278528244",
+      "author": "@laskowski_pl",
+      "text": "Rozrzuca ochłapy, gdy on sam i jego rodzina koszą miliardy z lewych transakcji, łapówek i gry na giełdzie informacjami poufnymi.",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106328659657363834",
+      "author": "@PAPinformacje",
+      "text": "Zmarł słynny hipnotyzer Anatolij Kaszpirowski\n#PAPInformacje",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106341743549366532",
+      "author": "@Macronextcom",
+      "text": "Konieczność wprowadzenia obowiązkowych szkoleń wojskowych wchodzi do politycznego mainstreamu.\n\nSzkolenia popiera: Rozwój Plus (3 mies.), PiS (16 dni), Mentzen/Konfederacja.\n\nPrzeciw: KO, PSL, PL2050, Lewica, Razem i KKP.\n\nPrzypominam: 76,6% Polaków popiera obowiązkowe szkolenie.",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105995568925360356",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Ceny paliw w dniu 3 października:\n\nPB 95: 6,73 zł 📉\nPB 98: 7,59 zł 📉\nON: 7,88 zł 📉",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105914948329119756",
+      "author": "@laskowski_pl",
+      "text": "Zdolny jestem niesłychanie,\nNajpiękniejsze mam ubranie,\nMoja buzia tryska zdrowiem,\nJak coś powiem, to już powiem,\nJak odpowiem, to roztropnie.",
+      "likes": 14,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106326337875009928",
+      "author": "@PAPinformacje",
+      "text": "Jego telewizyjne „seanse” oglądały miliony ludzi w ZSRR, a na początku lat 90. także w Polsce. W wieku 87 lat zmarł Anatolij Kaszpirowski - psychoterapeuta i hipnotyzer, który pod koniec lat 80. stał się jednym z najbardziej rozpoznawalnych fenomenów radzieckiej telewizji.",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106248182485197062",
+      "author": "@PAPinformacje",
+      "text": "Benzyna 95 - 6,73 zł za litr, diesel - 7,88 zł. Maksymalne ceny do poniedziałku\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106095763390660838",
+      "author": "@PAPinformacje",
+      "text": "W Poznaniu uczczono 20 lat służby myśliwców F-16 [WIDEO] #PAPinformacje",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106006164232134900",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Dane z rynku pracy zaskoczyły negatywnie. Umiarkowany wzrost zatrudnienia we wrześniu (29 tys. etatów) oraz wyższa stopa bezrobocia (4,2%) raczej nie zmienią nastawienia FOMC, ale sugerują brak potrzeby pośpiechu z podwyżkami. Na taką decyzje poczekamy do grudnia.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105979355763806352",
+      "author": "@Macronextcom",
+      "text": "To już dziś.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106420183707406400",
+      "author": "@PAPinformacje",
+      "text": "Andrzej Poczobut: Nawet w totalitarnym państwie można wywalczyć 10–15 minut wolności #PAPinformacje",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106020497733382387",
+      "author": "@PAPinformacje",
+      "text": "Inwestycja w obronność. Podpisano umowę na rozbudowę zakładu PIT-RADWAR w Czernicy\n@PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2105941422772007138",
+      "author": "@PAPinformacje",
+      "text": "Niższe ceny paliw od soboty. Rozporządzenia w Dzienniku Ustaw\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106354842193334705",
+      "author": "@PAPinformacje",
+      "text": "Rosyjskie drony i rakiety wtargnęły w przestrzeń powietrzną Mołdawii\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106624710352175532",
+      "author": "@laskowski_pl",
+      "text": "Pamiętacie krzyk PiS o tym, że na wydatki w ramach SAFE musi się zgodzić Bruksela? \nOni wolę czekać na zgodę USA.",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106336463323271666",
+      "author": "@laskowski_pl",
+      "text": "Chiny nie chcą być drugą Ameryką – z wywiadu z Yu Jie\n\nChińska opinia publiczna postrzega sztuczną inteligencję zupełnie inaczej niż Zachód.\n\nW Chinach AI jest generalnie postrzegana pozytywnie jako technologia, która może poprawić jakość życia.\nNa Zachodzie natomiast, gdy mowa o",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106471382255083958",
+      "author": "@PAPinformacje",
+      "text": "32 kostiumy z najnowszej ekranizacji „Lalki” w reżyserii Macieja Kawalskiego są prezentowane na wystawie czasowej na terenie Łazienek Królewskich w Warszawie.\n\nW miejscu nieprzypadkowym, bo będącym tłem kilku spotkań Izabeli Łęckiej i Stanisława Wokulskiego, głównych bohaterów",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105961806699122825",
+      "author": "@PAPinformacje",
+      "text": "Brazylia wybierze prezydenta. Kto ma największe szanse na zwycięstwo? [WIDEO]\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2105965717875282256",
+      "author": "@PAPinformacje",
+      "text": "Wyjątkowa wystawa prac Andrzeja Kota w Lublinie [NASZE WIDEO]\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105949049836736719",
+      "author": "@PAPinformacje",
+      "text": "✨ Studio PAP w nowej, podcastowej odsłonie 🎥🎧\n\nNaszym gościem jest Paweł Maślona, reżyser serialu „Lalka”. Serialowa reinterpretacja powieści Bolesława Prusa zadebiutowała na platformie @netflixpl 16 września.\n\n📌Bądźcie z nami o godz. 13. Transmisja na Facebooku i stronie",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106379503396417707",
+      "author": "@laskowski_pl",
+      "text": "Od dłuższego czasu, to nie jest śmieszne.\n\n@CYFRA_GOV_PL proszę brać się do roboty. \nOgłosiliście podstawowe zmiany 31 sierpnia, jest październik, to nie Rzym, gdzie młyny papieskie mielą powoli.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106020233991389216",
+      "author": "@GUS_STAT",
+      "text": "Czy współczesny Stanisław znajdzie swoją Izabelę? 💛\n\nW 2025 roku rodzice wybierali Stanisława 11 razy częściej niż Izabelę. A na początku wieku Izabele wygrywały. 👀\n\n#Lalka #GUS",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2105958516393427376",
+      "author": "@GUS_STAT",
+      "text": "👻 Co łączy escape room, dom strachu i kręgielnię?\n\nWszystkie znajdziesz w #PKD2025 w podklasie 93.29.A.\n\nProwadzisz taką działalność? Sprawdź, czy masz odpowiedni kod PKD.\n\n🔗\n\n#GUS #biznes #escaperoom",
+      "likes": 1,
+      "retweets": 2
+    }
+  ]
+}
