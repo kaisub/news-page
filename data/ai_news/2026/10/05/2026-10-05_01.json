@@ -1,0 +1,163 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-05",
+  "slot": "01",
+  "generated_at": "2026-10-05T06:03:42Z",
+  "tweets": [
+    {
+      "tweet_id": "2106388373221118198",
+      "author": "@sama",
+      "text": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+      "likes": 28101,
+      "retweets": 1882
+    },
+    {
+      "tweet_id": "2106362128798216625",
+      "author": "@svpino",
+      "text": "Right now, I consult for several companies. I help their engineering teams introduce AI into their workflows.\n\nEach of these teams has become much more productive than before using AI. Their software is better. They deliver faster and more.\n\nIt usually takes time to ramp up, but",
+      "likes": 280,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2106798332597150147",
+      "author": "@reach_vb",
+      "text": "GPT 6.1 Sol is all you need! It’s my go to on both work as well personally work\n\nAccording to arena you should get ~5x more usage as compared to Astra",
+      "likes": 272,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106498527866286101",
+      "author": "@reach_vb",
+      "text": "this is what I like about OpenAI too\n\nflat org w/ a huge bias for action, if you’re willing - just do what piques your interest",
+      "likes": 260,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106582677738656039",
+      "author": "@jerryjliu0",
+      "text": "sfo is the best airport in the US",
+      "likes": 225,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106475835964477533",
+      "author": "@hwchase17",
+      "text": "specialized agents or one mega agent?\n\nwe're having this debate internally...",
+      "likes": 182,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2106695651169800418",
+      "author": "@hwchase17",
+      "text": "we're seeing our coding agent costs decrease significantly for second month in row\n\nlonger blog on this later, but three quick steps we took\n\n1/ cost visibility. you cant control what you cant measure. Start tracking everything to langsmith. This gives us super granular",
+      "likes": 155,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2106668577633800496",
+      "author": "@nauczymycieAI",
+      "text": "Współtwórca Bielika wypuścił właśnie odpowiedź na głośny ostatnio model decyzyjny Jev.\n\nZoptymalizowany pod działanie po polsku i w pełni open source. Polecam sprawdzić.\n\nSzeroka dostępność od jutra",
+      "likes": 164,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106440473170591990",
+      "author": "@reach_vb",
+      "text": "“Eat at a local restaurant tonight. Get the cream sauce. Have a cold pint at 4 o’clock in a mostly empty bar. Go somewhere you’ve never been. \nListen to someone you think may have nothing in common with you. Order the steak rare. Eat an oyster. Have a Negroni. Have two. \nBe open",
+      "likes": 135,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106475668804657555",
+      "author": "@hwchase17",
+      "text": "cool project by @dbreunig\n\nin langchain this is ModelRouterMiddleware - jev reads the first message, picks the model, and that model handles the whole run\n\njev is cheap enough that you can also re-pick after each tool result with a custom hook\n\ndocs:",
+      "likes": 86,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2106835158867534282",
+      "author": "@jerryjliu0",
+      "text": "We got extremely good at extracting a scanned from layer by layer 📋 - from printed fields, overlaid text, handwriting, and reviewer annotations.\n\nFor instance, on an annotated permit, our Extract agents can extract out both the original permit number but also any",
+      "likes": 67,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2106876530307596582",
+      "author": "@reach_vb",
+      "text": "down with fever the last two days but felt strong enough to go for a walk in the park nearby\n\ndid not disappoint",
+      "likes": 76,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106305480029073878",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5.5 i Sonnet 5.5 w Antigravity!\n\nW planach Gemini Pro i Ultra właśnie pojawiły się dobre (Sonnet 5.5) i świetne (Opus 5.5) modele od Anthropic.\n\nAntigravity znowu zaczyna być użyteczne, szczególnie jeżeli dorwiecie jedną z bardzo tanich promocji na roczne Gemini Pro",
+      "likes": 72,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106844101635379533",
+      "author": "@jerryjliu0",
+      "text": "I agree that chatgpt/codex has the current best agent interface for deep work. \n- It unifies all my work (coding/knowledge work) in one interface. Toggling between chatgpt/codex doesn't have explicitly separate flows\n- It has forking (why doesn't the claude app have forking?)",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106415656434315616",
+      "author": "@rpl_0x",
+      "text": "W Barcelonie znajduje się najpiękniejsze data center na świecie - wewnątrz pięknej, zabytkowej katedry!\n\nMareNostrum 5 zajmuje obecnie 16. miejsce w rankingu TOP500 najpotężniejszych superkomputerów świata. Dla porównania najmocniejszy polski superkomputer, Helios GPU z",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106388964936425492",
+      "author": "@nauczymycieAI",
+      "text": "Wygląda na to, że nawet w planie Ultra w Antigravity nie poszalejemy z Opusem i Sonnetem 5.5.\n\nWniosek - jeżeli Gemini 4 nie okaże się hitem (opisywałem dlaczego to raczej się nie wydarzy) - subskrypcje AI Google nadal pozostaną bezużyteczne",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106657599697330528",
+      "author": "@rpl_0x",
+      "text": "Uczę Hiszpanów korzystać z Polskich rozwiązań!\n\nPisałem kilka dni temu że miałem awarie roweru i musiałem odwiedzić serwis.\n\nZostawiłem tam sakwę z narzędziami, dla mnie normalne, jestem roztrzepany i ciągle coś gubię xd.\n\nOkazuje się że InPost dobrze już osadził się w Hiszpanii",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106804249715769761",
+      "author": "@nauczymycieAI",
+      "text": "Jak skorzystać z długo wyczekiwanej funkcjonalności ChataGPT? Takiej, która nie jest szeroko dostępna w Polsce.\n\nMuse od Mety okazała się hitem w USA. W zaledwie 22 dni od premiery, asystent AI od Mety osiągnął 5 milionów pobrań. Niestety nie skorzystasz z niego w Polsce",
+      "likes": 17,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2106472215235739974",
+      "author": "@rpl_0x",
+      "text": "Protestowaliśmy z Hiszpanami, mieszkanie prawem nie towarem 😉 \n\nPrzechodząc przez centrum Ciudad trafiliśmy na protest. Ludzie wyszli na ulice, bo w Hiszpanii jest duży problem z wynajmem, czynsze są wysokie, wielu młodych normalnie pracuje, a mimo to nie stać ich na samodzielne",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106664224004985095",
+      "author": "@rpl_0x",
+      "text": "Okolice Ciudad Real mają naprawdę intrygujący krajobraz, zupełnie inny od naszego.\n\n Te wzgórza dookoła to w dużej części ślady dawnej aktywności wulkanicznej.\n\nJesteśmy na terenie Campo de Calatrava, jednego z najciekawszych obszarów wulkanicznych Hiszpanii. Są tu wygasłe",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106451274296184931",
+      "author": "@nauczymycieAI",
+      "text": "Chcesz być na bieżąco z AI do pracy?\n\nW poniedziałek wychodzi mój darmowy newsletter. W środku znajdziesz najważniejsze informacje i poradniki z tego miesiąca, polecane narzędzia + bonus: spółki giełdowe, które obserwuję.\n\nZachęcam do zapisu 👇",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106841552534339698",
+      "author": "@nauczymycieAI",
+      "text": "Ostatnia szansa, żeby załapać się na podsumowanie najważniejszych informacji i poradników ze świata AI do pracy.\n\nW bonusie dorzucam warte obserwowania akcje - kilka wcześniejszych propozycji szybko wystrzeliło :)\n\n1x w miesiącu, 0 spamu. Zapis 👇",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}
