@@ -1,0 +1,142 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-06",
+  "slot": "01",
+  "generated_at": "2026-10-06T06:35:52Z",
+  "tweets": [
+    {
+      "tweet_id": "2107162023129723241",
+      "author": "@reach_vb",
+      "text": "LFG!! Team optimised inference for GPT 6 Astra and 6.1 Sol to be 50% faster!!\n\nAcross Sign-in with ChatGPT and plans\n\nRolling out over the next couple hours - Enjoy!",
+      "likes": 596,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2106798332597150147",
+      "author": "@reach_vb",
+      "text": "GPT 6.1 Sol is all you need! It’s my go to on both work as well personally work\n\nAccording to arena you should get ~5x more usage as compared to Astra",
+      "likes": 310,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106695651169800418",
+      "author": "@hwchase17",
+      "text": "we're seeing our coding agent costs decrease significantly for second month in row\n\nlonger blog on this later, but three quick steps we took\n\n1/ cost visibility. you cant control what you cant measure. Start tracking everything to langsmith. This gives us super granular",
+      "likes": 175,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2106668577633800496",
+      "author": "@nauczymycieAI",
+      "text": "Współtwórca Bielika wypuścił właśnie odpowiedź na głośny ostatnio model decyzyjny Jev.\n\nZoptymalizowany pod działanie po polsku i w pełni open source. Polecam sprawdzić.\n\nSzeroka dostępność od jutra",
+      "likes": 178,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2107101076998734054",
+      "author": "@svpino",
+      "text": "This enables a really cool workflow:\n\n1. Someone reports a problem in Slack\n2. Ship gathers context from the code and the running app\n3. It then reproduces the failure and captures evidence\n4. It investigates the likely cause of the problem.\n5. It creates a ticket with all the",
+      "likes": 124,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2106835158867534282",
+      "author": "@jerryjliu0",
+      "text": "We got extremely good at extracting a scanned from layer by layer 📋 - from printed fields, overlaid text, handwriting, and reviewer annotations.\n\nFor instance, on an annotated permit, our Extract agents can extract out both the original permit number but also any",
+      "likes": 114,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2107206402078851519",
+      "author": "@hwchase17",
+      "text": "cool to see cognition doing \"dreaming\" - memory needs an offline cleanup loop, not just better retrieval, otherwise stale records pile up\n\nopen q is how inferred memories get validated before the agent uses them\n\nglad it's an open standard too - memory should be open",
+      "likes": 120,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2106876530307596582",
+      "author": "@reach_vb",
+      "text": "down with fever the last two days but felt strong enough to go for a walk in the park nearby\n\ndid not disappoint",
+      "likes": 102,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107127639609889022",
+      "author": "@svpino",
+      "text": "This is a very comprehensive way to test agents:\n\nYou describe a business (any business, in one line), and this app generates a complete synthetic company and writes it across multiple systems: CRM, tickets, Slack, files, emails, call recordings, etc.\n\nYou can then test your",
+      "likes": 92,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107142712314982637",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5.5 to teraz prawdopodobnie najlepsza oferta w kategorii subskrypcji do $20 miesięcznie.\n\nI nie jest nawet blisko",
+      "likes": 83,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107134272196805010",
+      "author": "@svpino",
+      "text": "This is the first AI-led prescription and treatment app on the market (at least that I know of). It helps treat acne.\n\nAnd it's happening here in the United States (Utah)!\n\n• You scan your face and answer a few questions\n• The app gives you a personalized plan\n• It gives you a",
+      "likes": 73,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107236304757100878",
+      "author": "@reach_vb",
+      "text": "stay hungry. stay foolish.",
+      "likes": 68,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2106844101635379533",
+      "author": "@jerryjliu0",
+      "text": "I agree that chatgpt/codex has the current best agent interface for deep work. \n- It unifies all my work (coding/knowledge work) in one interface. Toggling between chatgpt/codex doesn't have explicitly separate flows\n- It has forking (why doesn't the claude app have forking?)",
+      "likes": 42,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106804249715769761",
+      "author": "@nauczymycieAI",
+      "text": "Jak skorzystać z długo wyczekiwanej funkcjonalności ChataGPT? Takiej, która nie jest szeroko dostępna w Polsce.\n\nMuse od Mety okazała się hitem w USA. W zaledwie 22 dni od premiery, asystent AI od Mety osiągnął 5 milionów pobrań. Niestety nie skorzystasz z niego w Polsce",
+      "likes": 33,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107326639231344822",
+      "author": "@hwchase17",
+      "text": "Good take on harnesses",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106657599697330528",
+      "author": "@rpl_0x",
+      "text": "Uczę Hiszpanów korzystać z Polskich rozwiązań!\n\nPisałem kilka dni temu że miałem awarie roweru i musiałem odwiedzić serwis.\n\nZostawiłem tam sakwę z narzędziami, dla mnie normalne, jestem roztrzepany i ciągle coś gubię xd.\n\nOkazuje się że InPost dobrze już osadził się w Hiszpanii",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2106664224004985095",
+      "author": "@rpl_0x",
+      "text": "Okolice Ciudad Real mają naprawdę intrygujący krajobraz, zupełnie inny od naszego.\n\n Te wzgórza dookoła to w dużej części ślady dawnej aktywności wulkanicznej.\n\nJesteśmy na terenie Campo de Calatrava, jednego z najciekawszych obszarów wulkanicznych Hiszpanii. Są tu wygasłe",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2106841552534339698",
+      "author": "@nauczymycieAI",
+      "text": "Ostatnia szansa, żeby załapać się na podsumowanie najważniejszych informacji i poradników ze świata AI do pracy.\n\nW bonusie dorzucam warte obserwowania akcje - kilka wcześniejszych propozycji szybko wystrzeliło :)\n\n1x w miesiącu, 0 spamu. Zapis 👇",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107257748580921849",
+      "author": "@sentient_agency",
+      "text": "here's what you get with Sage:\n\n&gt; roles hand-picked the moment they open\n&gt; application packet ready, one tap to apply\n&gt; mock interviews with feedback\n&gt; all inside a text thread\n\na recruiter that never clocks out",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
