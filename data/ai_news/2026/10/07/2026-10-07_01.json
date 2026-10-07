@@ -1,0 +1,247 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-07",
+  "slot": "01",
+  "generated_at": "2026-10-07T06:21:20Z",
+  "tweets": [
+    {
+      "tweet_id": "2107522596845822135",
+      "author": "@claudeai",
+      "text": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands.",
+      "likes": 32237,
+      "retweets": 2055
+    },
+    {
+      "tweet_id": "2107513494493179954",
+      "author": "@claudeai",
+      "text": "The Claude Startups program is expanding to more founders.\n\nMembers can get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours with Anthropic’s Applied AI team.",
+      "likes": 12251,
+      "retweets": 698
+    },
+    {
+      "tweet_id": "2107565388250874193",
+      "author": "@bcherny",
+      "text": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in",
+      "likes": 8743,
+      "retweets": 494
+    },
+    {
+      "tweet_id": "2107623610483720463",
+      "author": "@sama",
+      "text": "We are entering a new era of discovery now:",
+      "likes": 6123,
+      "retweets": 568
+    },
+    {
+      "tweet_id": "2107546569654636883",
+      "author": "@AnthropicAI",
+      "text": "We’re expanding our Cyber Verification Program to give security professionals broader access to our most capable models.\n\nThrough this program, verified security professionals can access Claude Mythos 5.1, Opus 5.5, and Sonnet 5.5 with safeguards designed for defensive work.",
+      "likes": 4336,
+      "retweets": 460
+    },
+    {
+      "tweet_id": "2107691261776052633",
+      "author": "@sama",
+      "text": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\"",
+      "likes": 3874,
+      "retweets": 199
+    },
+    {
+      "tweet_id": "2107574195978641911",
+      "author": "@claudeai",
+      "text": "The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack.\n\nOnce it caught on internally, they released it to their subscribers.",
+      "likes": 1630,
+      "retweets": 90
+    },
+    {
+      "tweet_id": "2107516876876362200",
+      "author": "@bcherny",
+      "text": "I asked Opus 5.5 to make an interactive website companion for the latest @AcquiredFM Home Depot episode. It came out pretty nice!\n\nWater color illustrations all drawn by Claude, too: \n\nEpisode here:",
+      "likes": 1391,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2107691577015755196",
+      "author": "@sama",
+      "text": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+      "likes": 1388,
+      "retweets": 51
+    },
+    {
+      "tweet_id": "2107691262795239805",
+      "author": "@sama",
+      "text": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+      "likes": 1254,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2107162023129723241",
+      "author": "@reach_vb",
+      "text": "LFG!! Team optimised inference for GPT 6 Astra and 6.1 Sol to be 50% faster!!\n\nAcross Sign-in with ChatGPT and plans\n\nRolling out over the next couple hours - Enjoy!",
+      "likes": 618,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2107645527407931441",
+      "author": "@leerob",
+      "text": "Every game is being decompiled\nEvery math problem is being solved\nEverything is happening all at once\n\nThink about the progress in the past year\nNow imagine another year\nAnd another year",
+      "likes": 536,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2107379601521672241",
+      "author": "@reach_vb",
+      "text": "Auto-review is now free for everyone who uses it via ChatGPT account!\n\nI default to “Approve for me” for all my codex tasks and auto-review makes sure that I’m protected from any unintended consequences\n\nIf you haven’t already, enable it in your settings - Enjoy!",
+      "likes": 276,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107591233262555353",
+      "author": "@reach_vb",
+      "text": "Decisions API is now in public beta!! \n\nUse GPT-6 Luna to classify text and images, route requests and score inputs, ~10× faster than Responses API, starting at $0.10 per million input tokens with no output or cache charges.",
+      "likes": 248,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107495364760609158",
+      "author": "@reach_vb",
+      "text": "There’s a bit of confusion about Auto-review, so a quick primer 👇\n\nAuto-review is the “Approve for me” permission mode. \n\nA separate agent checks actions that need approval, including requests to run commands outside the sandbox or access additional files and network resources.",
+      "likes": 247,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2107508908847984981",
+      "author": "@svpino",
+      "text": "The biggest advantage of using this is how much system-specific work it packages for you.\n\nYou can use Ampersand to connect an agent to your customer's Salesforce. You configure the object and field mappings, and Ampersand applies them while handling API calls, authentication,",
+      "likes": 127,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2107206402078851519",
+      "author": "@hwchase17",
+      "text": "cool to see cognition doing \"dreaming\" - memory needs an offline cleanup loop, not just better retrieval, otherwise stale records pile up\n\nopen q is how inferred memories get validated before the agent uses them\n\nglad it's an open standard too - memory should be open",
+      "likes": 148,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107127639609889022",
+      "author": "@svpino",
+      "text": "This is a very comprehensive way to test agents:\n\nYou describe a business (any business, in one line), and this app generates a complete synthetic company and writes it across multiple systems: CRM, tickets, Slack, files, emails, call recordings, etc.\n\nYou can then test your",
+      "likes": 144,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107101076998734054",
+      "author": "@svpino",
+      "text": "This enables a really cool workflow:\n\n1. Someone reports a problem in Slack\n2. Ship gathers context from the code and the running app\n3. It then reproduces the failure and captures evidence\n4. It investigates the likely cause of the problem.\n5. It creates a ticket with all the",
+      "likes": 131,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107134272196805010",
+      "author": "@svpino",
+      "text": "This is the first AI-led prescription and treatment app on the market (at least that I know of). It helps treat acne.\n\nAnd it's happening here in the United States (Utah)!\n\n• You scan your face and answer a few questions\n• The app gives you a personalized plan\n• It gives you a",
+      "likes": 129,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107460412468072518",
+      "author": "@svpino",
+      "text": "I first used Gamma in 2024.\n\nA bunch of people in my cohort used it to upload their resumes and generate fully functional websites in a few seconds.\n\nThe new Gamma 5 looks much improved:\n\n• It asks questions before building your deck\n• It supports PowerPoint import and export",
+      "likes": 108,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2107236304757100878",
+      "author": "@reach_vb",
+      "text": "stay hungry. stay foolish.",
+      "likes": 102,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107142712314982637",
+      "author": "@nauczymycieAI",
+      "text": "Opus 5.5 to teraz prawdopodobnie najlepsza oferta w kategorii subskrypcji do $20 miesięcznie.\n\nI nie jest nawet blisko",
+      "likes": 84,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107326639231344822",
+      "author": "@hwchase17",
+      "text": "Good take on harnesses",
+      "likes": 79,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107425668669546876",
+      "author": "@nauczymycieAI",
+      "text": "ChatGPT przestał się opłacać - po premierze Opusa 5.5, Claude dominuje pod kątem możliwości oraz efektywności. \n\nRóżnica jest ogromna. Poniżej obliczenia, które to udowadniają.\n\nWzór na ilość zadań, które możesz zlecić agentowi w swoim abonamencie, to w uproszczeniu: limit",
+      "likes": 47,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107541061417722035",
+      "author": "@rpl_0x",
+      "text": "3€ za piwo + tapas. Całkiem spoko 😉",
+      "likes": 46,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107679159099216060",
+      "author": "@jerryjliu0",
+      "text": "You can literally do anything these days if you just ask for it",
+      "likes": 42,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107458443124867210",
+      "author": "@svpino",
+      "text": "If you want to:\n\n• Get some coding experience\n• Become an open-source contributor\n• Increase your online reputation\n\nGo to Kestra's Hacktober landing page, register, and start contributing:\n\n\n\nYou can fix issues in their core or plugin repositories, or",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107516741492543806",
+      "author": "@svpino",
+      "text": "This looks like Computer Use from existing agents, but the way they package these capabilities is really cool:\n\n• The browser runs in @gumloop's infrastructure, not on your desktop.\n\n• They have built-in account management with a vault, persistent browser profiles, and",
+      "likes": 27,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107428964130054323",
+      "author": "@rpl_0x",
+      "text": "AI SLOPERZY\ndo wygrania spory hajs od 11labs - który cwaniak się podjmie?\n\ntrzeba stworzyć reklame dla fikcyjnej firmy",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107641238799479075",
+      "author": "@jerryjliu0",
+      "text": "OCR is the perfect example of a use case that has been dominated by legacy/brittle systems, and can be solved both accurately and cheaply by applying the right amount of agentic intelligence.\n\nA properly tuned agentic OCR needs to dynamically apply extra compute to complex",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107467634174566893",
+      "author": "@sentient_agency",
+      "text": "Everyone talks about AI making the creative.\n\nThere’s also a lot of boring work after it’s made.\n\nGlad to see @airHQ tackling that.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107257748580921849",
+      "author": "@sentient_agency",
+      "text": "here's what you get with Sage:\n\n&gt; roles hand-picked the moment they open\n&gt; application packet ready, one tap to apply\n&gt; mock interviews with feedback\n&gt; all inside a text thread\n\na recruiter that never clocks out",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107476712501964822",
+      "author": "@Wbalcerzak87",
+      "text": "OPEN SOURCE ZACZĄŁ ROZBIERAĆ NA CZĘŚCI MODEL BIZNESOWY GIGANTÓW AI\n\nPrzez ostatnie lata narracja była prosta.\n\nChcesz korzystać z najlepszej sztucznej inteligencji?\n\nPłacisz OpenAI, Anthropic, Google albo innemu dostawcy za dostęp do zamkniętego API.\n\nDeweloper buduje aplikację",
+      "likes": 20,
+      "retweets": 2
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-07",
+  "slot": "01",
+  "generated_at": "2026-10-07T06:21:20Z",
+  "tweets": [
+    {
+      "tweet_id": "2107449301760942410",
+      "author": "@PAPinformacje",
+      "text": "Premier Szwecji: wyślemy systemy obrony powietrznej Patriot na wschodnią granicę Polski w ramach misji NATO #PAPinformacje",
+      "likes": 1012,
+      "retweets": 105
+    },
+    {
+      "tweet_id": "2107516984510271653",
+      "author": "@PAPinformacje",
+      "text": "Minister Aktywów Państwowych zajmie się przejęciem TVN przez grupę Paramount Skydance; celem ocena, czy transakcja zagraża bezpieczeństwu lub porządkowi publicznemu w Polsce - podał resort. (PAP)\n#PAPinformacje",
+      "likes": 864,
+      "retweets": 141
+    },
+    {
+      "tweet_id": "2107389176585032072",
+      "author": "@PAPinformacje",
+      "text": "Media: były szef wywiadu Niemiec August Hanning zatrzymany pod zarzutem szpiegostwa #PAPinformacje",
+      "likes": 220,
+      "retweets": 43
+    },
+    {
+      "tweet_id": "2107008947723145420",
+      "author": "@Macronextcom",
+      "text": "Premier Hiszpanii 🇪🇸 ogłosił przedterminowe wybory 29 listopada, po tym jak parlament odrzucił dwa rządowe dekrety dotyczące mieszkalnictwa.\n\nDekrety wprowadzały zakaz kupna mieszkań przez fundusze, limit podwyżek czynszu, regulowały najem krótkoterm. i chroniły przed eksmisją.",
+      "likes": 153,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2107442648709738538",
+      "author": "@Macronextcom",
+      "text": "Dziś powiało optymizmem:\n\n🔻ropa Brent -2,5%\n🔻ropa WTI najtańsza od początku września\n🔺WIG20 +1,6% i tylko 0,5% poniżej ATH\n🔻USD/PLN prawie 6 gr poniżej wczorajszego maxa\n🔻rentowność 10let. obligacji Polski poniżej 6,25%",
+      "likes": 85,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107351633827160159",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VIII 2026 r. Zamówienia w przemyśle -10,6% m/m 📉 (prognoza: -1,0%; poprzednio: 3,2%)\n\nZamówienia kaput. Mocny spadek jest wyłącznie efektem spadku dużych zamówień, bo po ich wyłączeniu wyniósł on tylko -0,1% m/m.\n\nRoczna dynamika zamówień dalej na plusie (+2,7%).",
+      "likes": 72,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2107525416441217059",
+      "author": "@PAPinformacje",
+      "text": "Minister Aktywów Państwowych zajmie się przejęciem TVN przez grupę Paramount Skydance\n#PAPinformacje",
+      "likes": 60,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2107394105504678373",
+      "author": "@PAPinformacje",
+      "text": "Szef BBN: prezydent postanowił mianować z dniem 10 października gen. Wiesława Kukułę na kolejną kadencję na stanowisku Szefa Sztabu Generalnego WP #PAPinformacje",
+      "likes": 73,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107413555893170366",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W środę (07.10) decyzja #RPP ws. stóp proc. w Polsce. \n\nRynek oczekuje, że jutro Rada nie zmieni stóp i utrzyma główną stopę na poziomie 3,75%.\n\nEkonomiści prognozują, że RPP nie zmieni stóp w Polsce aż do końca III kw. 2027 r., a w IV kw. 2027 r. obniży je o 25 pb do 3,50%.",
+      "likes": 65,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107427395166973988",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w środę litr benzyny 95 ma kosztować nie więcej niż 6,86 zł, benzyny 98 - 7,74 zł, a oleju napędowego - 7,80 zł #PAPinformacje",
+      "likes": 50,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107392901508460912",
+      "author": "@Macronextcom",
+      "text": "My tu gadu gadu, a akcje #Allegro najdroższe od października 2021. \n\nAllegro rośnie 7. kolejny miesiąc. Wyniki finansowe, perspektywy i układ na wykresie mogą sugerować, że to jeszcze nie koniec.",
+      "likes": 38,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107469860716544062",
+      "author": "@PAPinformacje",
+      "text": "Funkcjonariusze CBA weszli do biura Rzecznika Praw Dziecka\n#PAPinformacje",
+      "likes": 27,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2107016840144630178",
+      "author": "@laskowski_pl",
+      "text": "Firma przetestowała LLM-y przy okazji wyszukiwania 200 towarów i okazało się, że w aż 46% przypadków dochodziło do „halucynacji” – algorytmy zmyślały usterki polskich produktów, rekomendując jednocześnie w ich miejsce zagraniczne alternatywy, w tym tanie zamienniki z globalnych",
+      "likes": 17,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107564649281650892",
+      "author": "@PAPinformacje",
+      "text": "Ponad 102 mld zł na Program Ochrony Ludności i Obrony Cywilnej w latach 2027-2031.\n\nProgram ma w swoich priorytetach  budowle ochronne, sprzęt i bazę ratowniczą, zdolność zapewnienia ciągłości dostaw wody i energii, a także miejsca gromadzenia zapasów na",
+      "likes": 17,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2107469760871149848",
+      "author": "@PAPinformacje",
+      "text": "Sprawa listu żelaznego dla Marcina Romanowskiego. Jest zażalenie prokuratury\n#PAPinformacje",
+      "likes": 17,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107394765205672102",
+      "author": "@PAPinformacje",
+      "text": "Zwrot wypożyczonej hulajnogi elektrycznej będzie możliwy jedynie w wyznaczonej strefie\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107052821388411321",
+      "author": "@laskowski_pl",
+      "text": "Przewaga amerykańskich firm nad chińskimi w dziedzinie sztucznej inteligencji wyraźnie się zmniejsza. Według Bloomberg Intelligence różnica w wynikach najlepszych modeli spadła do 3 proc.,  dzięki postępom takich firm jak DeepSeek.\n\nJeszcze na początku",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107408256935108881",
+      "author": "@PAPinformacje",
+      "text": "Francis Halzen - laureatem tegorocznej Nagrody Nobla z fizyki (PAP)\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107386461444039105",
+      "author": "@Macronextcom",
+      "text": "Invest Cuffs Poznań - dzień drugi. @InvestCuffs",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107461391179563291",
+      "author": "@PAPinformacje",
+      "text": "PK: do Sądu Apelacyjnego w Warszawie trafiło we wtorek zażalenie na postanowienie o wydaniu b. wiceszefowi MS Marcinowi Romanowskiemu listu żelaznego w śledztwie dot. Funduszu Sprawiedliwości. (PAP)\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107373026937630773",
+      "author": "@GUS_STAT",
+      "text": "Według skorygowanego szacunku produkt krajowy brutto (#PKB) w 2025 r. wzrósł realnie o 3,8% w porównaniu z 2024 r. To o 0,2 p. proc. więcej, niż wskazywał szacunek opublikowany w kwietniu 2026 r.\n\n🔗\n\n#GUS #PKB",
+      "likes": 5,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107493123634925984",
+      "author": "@PAPinformacje",
+      "text": "Fizyk: opracowany przez noblistę detektor IceCube to triumf ludzkiego umysłu #PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107714232758280450",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w VIII 2026 r. Produkcja przemysłowa 2,0% m/m 📈 (prognoza: 0,5%; poprzednio: -1,2%)👇\n\nW relacji rocznej produkcja przemysłowa (wda) wzrosła w sierpniu o 2,3%, po spadku w lipcu o 1,8% r/r.\n\nSierpniowy wzrost produkcji przede wszystkim wsparła budowlanka (+9,3% m/m).",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107474960528834824",
+      "author": "@Macronextcom",
+      "text": "Dziś na koniec sesji trzeba mieć akcje #TEXT, a jutro #LPP, żeby zgarnąć dywidendę z tych spółek.\n\nKalendarz dywidend:",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107540774908789033",
+      "author": "@PAPinformacje",
+      "text": "Turystyczny triumf Japonii. Kraj Kwitnącej Wiśni na szczycie nowego rankingu\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107023935581639036",
+      "author": "@Macronextcom",
+      "text": "Poprawa w sektorze usług w Europie we wrześniu 2026.\n\nKalendarz:",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107504389816476121",
+      "author": "@PAPinformacje",
+      "text": "Jazda na kropelce benzyny – bolid studentów PŁ może pokonać 837 km na litrze paliwa\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107483971571347915",
+      "author": "@PAPinformacje",
+      "text": "Paramount sfinalizował przejęcie WBD. Jest nowa megaspółka\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107360935950139824",
+      "author": "@DGPrawna",
+      "text": "UOKiK stawia zarzuty Google. Chodzi o wynagrodzenia dla wydawców prasy",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2107716256782577991",
+      "author": "@Macronextcom",
+      "text": "#KGHM POLSKA MIEDZ SA : MORGAN STANLEY CUTS TARGET PRICE TO PLN 345 FROM PLN 350 (Reuters)",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107525770889630097",
+      "author": "@PAPinformacje",
+      "text": "Afera w Szpitalu Południowym. Dawid K. usłyszał zarzuty\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107422243957641448",
+      "author": "@GUS_STAT",
+      "text": "W I poł.  2026 r. aż 97,3% nowych budynków mieszkalnych stanowiły domy jednorodzinne.\nCo ciekawe, liczba mieszkań w domach i blokach była niemal równa:\n🏡 47,1 tys. – w budynkach jednorodzinnych\n🏢 46,4 tys. – w wielorodzinnych.\n\n#GUS #mieszkania #mieszkalnictwo #domy",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107498835840749902",
+      "author": "@laskowski_pl",
+      "text": "Zaczyna się lobbowanie za swoimi zmianami w ochronie zdrowia, a właściwie za pozostawieniem tak jak jest. \nDzisiaj czytałem opinię dyrektora szpitala i lekarza, jeden i drugi po części ma rację, ale każdy patrzy na swój interes.\nNie czytałem jeszcze opinii @MZ_GOV_PL  i NFZ.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107419595590234200",
+      "author": "@DGPrawna",
+      "text": "Jeśli Chiny ograniczą dostawy kluczowych surowców, polskie firmy mogą zostać bez odpowiedniego zabezpieczenia. Przedsiębiorstwa nie budują większych zapasów, a państwo dopiero zaczyna tworzyć system strategicznych rezerw.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107373542203429118",
+      "author": "@DGPrawna",
+      "text": "Wojsko podpowie, gdzie zachować oddziały chirurgiczne",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107513489287725405",
+      "author": "@PAPinformacje",
+      "text": "Ekspert o dorobku Polaków LN: jesteśmy na etapie prób i błędów\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107456188040577313",
+      "author": "@PAPinformacje",
+      "text": "Wybory w Krakowie. Komitet Łukasza Gibały złożył kolejny pozew w trybie wyborczym #PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107450549776048321",
+      "author": "@DGPrawna",
+      "text": "Miliardy na zbrojenia tylko dla Europy. Berlin chce cięć",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107404244840222818",
+      "author": "@DGPrawna",
+      "text": "Rosja raniła mołdawskiego pogranicznika i podgrzewa nastroje wokół Królewca",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107369263958827397",
+      "author": "@DGPrawna",
+      "text": "Trzy czwarte kadencji rządu Donalda Tuska za nami. Rok wyborczy przed nami. Jaki jest stan gry? Kto zyskał, a kto stracił? I kto wygra za rok?",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
