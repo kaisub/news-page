@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-08",
+  "slot": "01",
+  "generated_at": "2026-10-08T06:22:05Z",
+  "tweets": [
+    {
+      "tweet_id": "2107522596845822135",
+      "author": "@claudeai",
+      "text": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands.",
+      "likes": 52185,
+      "retweets": 4060
+    },
+    {
+      "tweet_id": "2107894039626277339",
+      "author": "@claudeai",
+      "text": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5.",
+      "likes": 39828,
+      "retweets": 2902
+    },
+    {
+      "tweet_id": "2107513494493179954",
+      "author": "@claudeai",
+      "text": "The Claude Startups program is expanding to more founders.\n\nMembers can get a year of Claude Team, API credits, special offers on the tools a startup runs on, and office hours with Anthropic’s Applied AI team.",
+      "likes": 17344,
+      "retweets": 1097
+    },
+    {
+      "tweet_id": "2107565388250874193",
+      "author": "@bcherny",
+      "text": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in",
+      "likes": 12592,
+      "retweets": 758
+    },
+    {
+      "tweet_id": "2107691261776052633",
+      "author": "@sama",
+      "text": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\"",
+      "likes": 11732,
+      "retweets": 617
+    },
+    {
+      "tweet_id": "2107623610483720463",
+      "author": "@sama",
+      "text": "We are entering a new era of discovery now:",
+      "likes": 10385,
+      "retweets": 926
+    },
+    {
+      "tweet_id": "2107924408597950702",
+      "author": "@sama",
+      "text": "ChatGPT can now generate a custom UI for you!",
+      "likes": 7862,
+      "retweets": 330
+    },
+    {
+      "tweet_id": "2107546569654636883",
+      "author": "@AnthropicAI",
+      "text": "We’re expanding our Cyber Verification Program to give security professionals broader access to our most capable models.\n\nThrough this program, verified security professionals can access Claude Mythos 5.1, Opus 5.5, and Sonnet 5.5 with safeguards designed for defensive work.",
+      "likes": 5678,
+      "retweets": 603
+    },
+    {
+      "tweet_id": "2107691577015755196",
+      "author": "@sama",
+      "text": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+      "likes": 3810,
+      "retweets": 125
+    },
+    {
+      "tweet_id": "2107691262795239805",
+      "author": "@sama",
+      "text": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+      "likes": 3366,
+      "retweets": 96
+    },
+    {
+      "tweet_id": "2107645527407931441",
+      "author": "@leerob",
+      "text": "Every game is being decompiled\nEvery math problem is being solved\nEverything is happening all at once\n\nThink about the progress in the past year\nNow imagine another year\nAnd another year",
+      "likes": 3196,
+      "retweets": 235
+    },
+    {
+      "tweet_id": "2107574195978641911",
+      "author": "@claudeai",
+      "text": "The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack.\n\nOnce it caught on internally, they released it to their subscribers.",
+      "likes": 2435,
+      "retweets": 131
+    },
+    {
+      "tweet_id": "2107909939025052107",
+      "author": "@bcherny",
+      "text": "Haiku 5.5 is a good Haiku.\n\nWith 100k token context, it's also 10x cheaper than Haiku 4.5",
+      "likes": 1968,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2107516876876362200",
+      "author": "@bcherny",
+      "text": "I asked Opus 5.5 to make an interactive website companion for the latest @AcquiredFM Home Depot episode. It came out pretty nice!\n\nWater color illustrations all drawn by Claude, too: \n\nEpisode here:",
+      "likes": 1797,
+      "retweets": 82
+    },
+    {
+      "tweet_id": "2107836750257107133",
+      "author": "@GoogleAI",
+      "text": "Our SynthID technology lets you easily verify if an image, video, or audio file is AI-generated, and today we’re expanding access.\n\nNow anyone can go to  to check files for a SynthID watermark — whether they were generated by us or industry partners like",
+      "likes": 1288,
+      "retweets": 244
+    },
+    {
+      "tweet_id": "2108004023249088528",
+      "author": "@bcherny",
+      "text": "Sometimes I read on flights, and sometimes…",
+      "likes": 1268,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2107818977376526675",
+      "author": "@svpino",
+      "text": "Remember when people thought “prompt engineering” was going to be a profitable career?",
+      "likes": 619,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2107864677611139096",
+      "author": "@jerryjliu0",
+      "text": "Today I’m excited to introduce OpenDocRouter - a unified API for document parsing with the latest frontier and open-weight models.\n\nThere are a lot of VLMs and OCR models that can be used for document parsing: we have over 130+ models on ParseBench, and a HuggingFace search for",
+      "likes": 420,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2107591233262555353",
+      "author": "@reach_vb",
+      "text": "Decisions API is now in public beta!! \n\nUse GPT-6 Luna to classify text and images, route requests and score inputs, ~10× faster than Responses API, starting at $0.10 per million input tokens with no output or cache charges.",
+      "likes": 369,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107959412778209407",
+      "author": "@reach_vb",
+      "text": "What a milestone! 40,000,000 users across Codex &amp; ChatGPT Work!!\n\nGrateful for the community around our models and products, you all rock 🤗\n\nTo celebrate - Banked Reset incoming EOD PST today!!",
+      "likes": 327,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107379601521672241",
+      "author": "@reach_vb",
+      "text": "Auto-review is now free for everyone who uses it via ChatGPT account!\n\nI default to “Approve for me” for all my codex tasks and auto-review makes sure that I’m protected from any unintended consequences\n\nIf you haven’t already, enable it in your settings - Enjoy!",
+      "likes": 277,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107495364760609158",
+      "author": "@reach_vb",
+      "text": "There’s a bit of confusion about Auto-review, so a quick primer 👇\n\nAuto-review is the “Approve for me” permission mode. \n\nA separate agent checks actions that need approval, including requests to run commands outside the sandbox or access additional files and network resources.",
+      "likes": 260,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2107641238799479075",
+      "author": "@jerryjliu0",
+      "text": "OCR is the perfect example of a use case that has been dominated by legacy/brittle systems, and can be solved both accurately and cheaply by applying the right amount of agentic intelligence.\n\nA properly tuned agentic OCR needs to dynamically apply extra compute to complex",
+      "likes": 171,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2107508908847984981",
+      "author": "@svpino",
+      "text": "The biggest advantage of using this is how much system-specific work it packages for you.\n\nYou can use Ampersand to connect an agent to your customer's Salesforce. You configure the object and field mappings, and Ampersand applies them while handling API calls, authentication,",
+      "likes": 133,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2107899798024007897",
+      "author": "@reach_vb",
+      "text": "ChatGPT can now turn your question into something you can play with. This is a fun one!\n\nWe’re rolling out GPT-6 + Intelligent UI: interactive diagrams, calculators and tools built right into the conversation.\n\nPlan dinner and adjust the guest count. Split a bill. Learn a tricky",
+      "likes": 160,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107679159099216060",
+      "author": "@jerryjliu0",
+      "text": "You can literally do anything these days if you just ask for it",
+      "likes": 123,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107460412468072518",
+      "author": "@svpino",
+      "text": "I first used Gamma in 2024.\n\nA bunch of people in my cohort used it to upload their resumes and generate fully functional websites in a few seconds.\n\nThe new Gamma 5 looks much improved:\n\n• It asks questions before building your deck\n• It supports PowerPoint import and export",
+      "likes": 111,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107867822806405213",
+      "author": "@svpino",
+      "text": "This is very clever:\n\nIt's a model that \"extracts\" values that don't exist in a document but can be derived from the values that do exist.\n\nFor example, you can ask for the yearly cost of using a product, and it will automatically compute it from the monthly cost.\n\nThe video",
+      "likes": 97,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107766611646038216",
+      "author": "@hwchase17",
+      "text": "We have a really strong team :)\n\nCome join us!",
+      "likes": 81,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2107842557740736766",
+      "author": "@svpino",
+      "text": "Prompt engineering is not dead. It was never alive in the first place.\n\nThe better these models become, the less we'll need to resort to phrasing tricks or weird instructions.\n\nThe endgame is models that understand the way we communicate. \n\n\"Prompt engineering\" will simply become",
+      "likes": 76,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107541061417722035",
+      "author": "@rpl_0x",
+      "text": "3€ za piwo + tapas. Całkiem spoko 😉",
+      "likes": 66,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107908436965179896",
+      "author": "@hwchase17",
+      "text": "One cool thing deepagents now supports: dynamically loading tools when is a skill is loaded\n\nSome skills require specific tools that you may not always want to have available. This now allows you to pair them \n\nWith openai/anthropic models, it’s possible to do this in a way where",
+      "likes": 50,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2108006118966665463",
+      "author": "@bcherny",
+      "text": "Try it",
+      "likes": 54,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107425668669546876",
+      "author": "@nauczymycieAI",
+      "text": "ChatGPT przestał się opłacać - po premierze Opusa 5.5, Claude dominuje pod kątem możliwości oraz efektywności. \n\nRóżnica jest ogromna. Poniżej obliczenia, które to udowadniają.\n\nWzór na ilość zadań, które możesz zlecić agentowi w swoim abonamencie, to w uproszczeniu: limit",
+      "likes": 49,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2107940101217309041",
+      "author": "@jerryjliu0",
+      "text": "Claude Haiku 5.5 is now available on OpenDocRouter as one of the cheapest models for document parsing.\n\nIt is roughly $1.2 / 1k pages and does quite well on tables and text reading order compared to other models at this price point. It struggles a bit on charts, semantic",
+      "likes": 43,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107927530745598448",
+      "author": "@svpino",
+      "text": "Really cool feature for anyone who wants to design something but isn't sure what to do:\n\n1. Start with an idea\n2. Use burst mode\n3. Get 6 images back\n4. Extremely fast\n\nFrom there, you can explore a specific direction by clicking on \"more like this\", or zero in on a specific",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107458443124867210",
+      "author": "@svpino",
+      "text": "If you want to:\n\n• Get some coding experience\n• Become an open-source contributor\n• Increase your online reputation\n\nGo to Kestra's Hacktober landing page, register, and start contributing:\n\n\n\nYou can fix issues in their core or plugin repositories, or",
+      "likes": 39,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107516741492543806",
+      "author": "@svpino",
+      "text": "This looks like Computer Use from existing agents, but the way they package these capabilities is really cool:\n\n• The browser runs in @gumloop's infrastructure, not on your desktop.\n\n• They have built-in account management with a vault, persistent browser profiles, and",
+      "likes": 34,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2107776863208956105",
+      "author": "@svpino",
+      "text": "What I like the most about this new architect is its ability to proactively look for improvements and come back with a drafted proposal that’s already validated.\n\nThink about that for a second.\n\nThe architect looks at your agents, how they work, their conversations, and comes",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2107898544858521679",
+      "author": "@nauczymycieAI",
+      "text": "Recenzja Opusa 5.5 po 2 tygodniach codziennego użycia w pracy.\n\nOpus 5.5 to fantastyczny model. Anthropic po kilku miesiącach przegrywania z OpenAI, na kilka dni przed IPO - poszło na noże. Również z ceną i limitami.\n\nJeżeli chcesz być z takimi treściami na bieżąco - obserwuj mój",
+      "likes": 35,
+      "retweets": 0
+    }
+  ]
+}
