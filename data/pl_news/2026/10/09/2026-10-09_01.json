@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-09",
+  "slot": "01",
+  "generated_at": "2026-10-09T06:36:49Z",
+  "tweets": [
+    {
+      "tweet_id": "2108283404240179585",
+      "author": "@PAPinformacje",
+      "text": "Sejm uchwalił ustawę wprowadzającą zakaz reklamy alkoholu\n#PAPinformacje",
+      "likes": 863,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2108115251959107751",
+      "author": "@Macronextcom",
+      "text": "19-latek z Ostrołęki\n17-latek z Sierpca\n15-latek z Leszczydół-Nowiny\n13-latek z Wąbrzeźna\n\nTo mówicie, że niektórzy chcą powszechnego dostępu do broni w Polsce?",
+      "likes": 539,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2108311757764899150",
+      "author": "@PAPinformacje",
+      "text": "RCB: alert dla Lubelszczyzny - zagrożenie atakiem z powietrza; znajdź bezpieczne miejsce. (PAP)",
+      "likes": 106,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2107832220991864953",
+      "author": "@Macronextcom",
+      "text": "Bez zaskoczenia. Na zakończonym posiedzeniu #RPP nie zmieniła stóp proc. w Polsce 🇵🇱 i pozostawiła główną z nich na poziomie 3,75%.\n\nEkonomiści prognozują, że minimum do końca 2026 roku stopy w Polsce się nie zmienią.\n\nW czwartek o godz. 15:00 konferencja prasowa prezesa NBP.",
+      "likes": 93,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2108147802631274917",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Polska już jest G10... Gold10",
+      "likes": 84,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108059095571878320",
+      "author": "@laskowski_pl",
+      "text": "Płaca minimalna \n2016 - 1850 zł. - 434€\n2026 - 4806 zł. - 1 118€ \nDla tych co krzyczą \"gdzie paliwo po 5.19!\" mogę przeliczyć na litry PB95 😉",
+      "likes": 68,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2107860863432511832",
+      "author": "@laskowski_pl",
+      "text": "Apele Pana @KGawkowski aby \"zastrzec PESEL\" są w tym momencie, absolutnie niepoważne (wcześniej też były, ale to inny wątek).\nPo wszystkich wyciekach, cały świat ma Polskie numery PESEL.",
+      "likes": 60,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2108172768822829066",
+      "author": "@PAPinformacje",
+      "text": "Przydacz: w ramach kampanii o członkostwo Polski w G20 prezydent odwiedzi Arabię Saudyjską, Senegal i Argentynę\n#PAPinformacje",
+      "likes": 57,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2108276063780606092",
+      "author": "@PAPinformacje",
+      "text": "Sejm uchwalił ustawę pozwalającą na blokowanie nielegalnych treści w internecie\n#PAPinformacje",
+      "likes": 56,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2108119477707514331",
+      "author": "@laskowski_pl",
+      "text": "Wszystkie fundacje powołane przez PiS działają i mają się wyjątkowo dobrze, zmieniły się zarządy.",
+      "likes": 49,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2108081813801333005",
+      "author": "@laskowski_pl",
+      "text": "W związku z masowym wyciekiem danych medycznych wicepremier i minister cyfryzacji Krzysztof Gawkowski zwrócił się z apelem do Polaków o pilne zastrzeżenie swojego numeru PESEL.\nI cyk, nagroda 😁",
+      "likes": 52,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2108183636596101342",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 POLISH CENTRAL BANK GOVERNOR GLAPINSKI: #NBP HAS 672 TONS OF GOLD.",
+      "likes": 47,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2107862136458195226",
+      "author": "@laskowski_pl",
+      "text": "Co takiego \"fort trump\" wniesie do naszego bezpieczeństwa poza kosztami dla nas? \nOstatni przykład, państwa znad zatoki perskiej miały odpowiednik amerykańskich fortów. \nIran zbombardował ich i forty. \nCoś dodać?",
+      "likes": 42,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2107832836346794420",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Rada debatowała długo, ale ostatecznie stopy bez zmian.",
+      "likes": 46,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108283486586986556",
+      "author": "@PAPinformacje",
+      "text": "Sejm przeciw odrzuceniu projektu budżetu na 2027 r.; projekt został skierowany do prac w komisjach\n#PAPinformacje",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2108275099631575120",
+      "author": "@PAPinformacje",
+      "text": "Sejm uchwalił specustawę pomocową dla poszkodowanych właścicieli domów w programie „Czyste Powietrze”\n#PAPinformacje",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108197824085045741",
+      "author": "@PAPinformacje",
+      "text": "Właściwe zachowanie nauczyciela i uczniów szkoły w Sierpcu. Burmistrz miasta: trzeba takie postawy chwalić\n#PAPinformacje",
+      "likes": 26,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2108313768522399773",
+      "author": "@PAPinformacje",
+      "text": "RCB: Zakończył się atak powietrzny na Ukrainę. Brak zagrożenia na terenie Polski",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108055040904589419",
+      "author": "@laskowski_pl",
+      "text": "Czy @CYFRA_GOV_PL może po prostu zastrzec PESEL wszystkich Polaków, z automatu.\nKto będzie chciał, ten odblokuje.",
+      "likes": 23,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2108156943110213995",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Zmieniamy nasz scenariusz stóp procentowych ⤵️",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108194846641152095",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Z wypowiedzi prezesa NBP wynika, że pojawienie się pierwszych symptomów efektów drugiej rundy i/lub brak przedłużenia od stycznia \"programu CPN\", może w 2027 roku przynieść podwyżkę stóp proc. w Polsce.\n\n---\nGlapiński (NBP): na razie nie ma żadnych symptomów drugiej rundy",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108435965437980771",
+      "author": "@PAPinformacje",
+      "text": "Policja ze Szczytna zatrzymała 16-latka, który zapowiadał akt przemocy w szkole\n#PAPinformacje",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2108435356949320052",
+      "author": "@laskowski_pl",
+      "text": "Z analizy danych w grupie niemal dwustu wybranych rodzajów świadczeń wynika, że w porównaniu z I kwartałem tego roku w kolejce przybyło 62,8 tys. pacjentów „pilnych”. Łącznie na przyjęcie czekało 980 tys. osób ze skierowaniem na cito. To o 180 tys. więcej niż rok wcześniej.\n\nJak",
+      "likes": 10,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2108165425519620549",
+      "author": "@PAPinformacje",
+      "text": "Premier Tusk po aktach przemocy w szkołach: proszę o zwiększenie liczby patroli wokół placówek\n#PAPinformacje",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108423317291954249",
+      "author": "@Macronextcom",
+      "text": "Paramount Pictures zapowiada prace nad aktorskim filmem osadzonym w świecie z gry \"Cyberpunk 2077\". 💪",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108161367081382159",
+      "author": "@PAPinformacje",
+      "text": "Polska i Filipiny zainteresowane współpracą na rzecz partnerstwa strategicznego\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108425702521348590",
+      "author": "@PAPinformacje",
+      "text": "Seria ataków w szkołach. Niektóre placówki będą dziś zamknięte\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108100577519382636",
+      "author": "@Macronextcom",
+      "text": "Dziś akcje #LPP pierwszy dzień notowane są bez dywidendy.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108425822038278626",
+      "author": "@PAPinformacje",
+      "text": "Ile zapłacimy za paliwo w piątek? Ceny w górę\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2108287515337642457",
+      "author": "@PAPinformacje",
+      "text": "📌 Zarzuty m. in. usiłowania zabójstwa usłyszał 19-latek, który w środę w Zespole Szkół Zawodowych nr 4 w Ostrołęce zaatakował nożem 9 osób – poinformowała w czwartek wieczorem rzeczniczka prokuratury okręgowej Elżbieta Edyta Łukasiewicz.\n📌 Prokuratura jeszcze w czwartek",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108190725099983233",
+      "author": "@PAPinformacje",
+      "text": "Fala ataków w polskich szkołach. Psycholog: decyzja o takim czynie nie jest podejmowana z dnia na dzień\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108226272971170234",
+      "author": "@PAPinformacje",
+      "text": "„Nagroda, z której Polacy mogą być dumni”. Ekspert o literackim Noblu dla Anne Carson\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2107735524953956794",
+      "author": "@GUS_STAT",
+      "text": "W kwietniu 2026 r. mediana wynagrodzeń miesięcznych brutto w #GospodarkaNarodowa wyniosła 7695,00 zł i była niższa o 20,3% od przeciętnego miesięcznego wynagrodzenia brutto (9651,59 zł).\n\n🔗 \n\n#GUS #statystyki #wynagrodzenia",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108155947587862859",
+      "author": "@DGPrawna",
+      "text": "Ministerstwo Infrastruktury chce utworzyć Fundusz Wodny",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108099827774935472",
+      "author": "@DGPrawna",
+      "text": "Rząd chce uporządkować sytuację prawną gruntów pod blokami. Spółdzielnie mają wątpliwości",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108426007954800902",
+      "author": "@PAPinformacje",
+      "text": "Kraków. Ostatni dzień kampanii przed II turą wyborów prezydenta miasta\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108194199879254182",
+      "author": "@DGPrawna",
+      "text": "Populacje dzikich gatunków zwierząt dramatycznie się kurczą. Spadek o 72 proc.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108179298020700326",
+      "author": "@DGPrawna",
+      "text": "Donald Tusk po atakach w szkołach: więcej policji w placówkach i pilne działania w internecie",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108413645625643514",
+      "author": "@DGPrawna",
+      "text": "USA i Rosja kontra „klimatyczne cło” UE. Czy jest zgodne z zasadami wolnego handlu?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108225912370258212",
+      "author": "@DGPrawna",
+      "text": "„Kilometrówki” dla radnych muszą być ogłoszone w dzienniku urzędowym. Jest wyrok",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
