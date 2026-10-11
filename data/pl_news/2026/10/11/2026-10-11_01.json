@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-11",
+  "slot": "01",
+  "generated_at": "2026-10-11T06:02:47Z",
+  "tweets": [
+    {
+      "tweet_id": "2108964855742918733",
+      "author": "@PAPinformacje",
+      "text": "Trump: Zełenski mógł wiele razy zakończyć wojnę; czas, by Ukraina wybrała nowego prezydenta #PAPinformacje",
+      "likes": 333,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2108903042221330788",
+      "author": "@PAPinformacje",
+      "text": "21-latka zaatakowała nożem 3 osoby w szkole  w Warszawie\n#PAPInformacje",
+      "likes": 38,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2108805970373771273",
+      "author": "@laskowski_pl",
+      "text": "Nie chodzi o te 300 tys. ton, to jakiś ułamek w światowym zużyciu, chodzi o fakt. \nUSA zużywa dziennie około 520 tys. ton oleju napędowego.",
+      "likes": 36,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2108546773102846043",
+      "author": "@Macronextcom",
+      "text": "Uzupełniając info, że Paramount pracuje nad filmem z \"Cyberpunk 2077\", kilka ciekawych dat dla CD Projekt:\n\n14.10 IGN Fan Fest (?)\n20.10: Cyberpunk: Edgerunners 2 na Netflix\n06.11: premiera Cyberpunk TCG\n24.11: wyniki za III kw. 2026\n10.12: The Game Awards (?)\n\n@StockWatchPL 👇",
+      "likes": 38,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108991563699528010",
+      "author": "@PAPinformacje",
+      "text": "Trump uderza w Zełenskiego. \"Czas by Ukraina wybrała nowego prezydenta\" #PAPinformacje",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2108482302812807546",
+      "author": "@Macronextcom",
+      "text": "Ciekawa sesja na GPW. Aż 3 spółki z #WIG20 drożeją więcej niż 4%.",
+      "likes": 32,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108516070562861084",
+      "author": "@Macronextcom",
+      "text": "Wybory, które mogą okazać się ważne.  \n\n25.10: Wybory prezydenckie w Brazylii 🇧🇷\n27.10: Wybory parlamentarne w Izraelu  🇮🇱\n03.11: Wybory midterms w USA 🇺🇸\n29.11: Wybory parlamentarne w Hiszpanii 🇪🇸",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108909383614681198",
+      "author": "@laskowski_pl",
+      "text": "Jak przejdzie dwukadencyjność dla parlamentarzystów, to głosuję na @nowePSL \nNawet jak kochają nepotyzm. \nGdzie palą lasy tam nie szkoda róż. 😁",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2109140954116702416",
+      "author": "@laskowski_pl",
+      "text": "Prezydent Trump chce, aby zapamiętała go historia. \nMa duże szanse, aby zostać PIERWSZYM prezydentem w historii USA, który  został usunięty z urzędu w wyniku procedury impeachmentu.\n\nTo lepsze wyróżnienie niż Nobel😉\n(pokojowego Nobla dostało czterech prezydentów)",
+      "likes": 19,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2108823382913700294",
+      "author": "@PAPinformacje",
+      "text": "Policja: po atakach w szkołach 50 tys. skontrolowanych placówek, 76 osób zatrzymanych\n#PAPInformacje",
+      "likes": 17,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2109148129782116598",
+      "author": "@laskowski_pl",
+      "text": "Donald Trump, Donald Trump 👏\nJak tam elita z pałacu, dalej klaszczecie? 😁",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108470017461567559",
+      "author": "@Macronextcom",
+      "text": "We wtorek, 13 października, startuje na Wall Street 🇺🇸 sezon publikacji wyników za III kw. 2026. Tradycyjnie otworzą go duże amerykańskie banki.\n\nAnalitycy prognozują, że w III kw. 2026 r. zysk na akcje spółek z indeksu S&amp;P500 wzrósł o 29,5% r/r.  👇",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108947790718255301",
+      "author": "@PAPinformacje",
+      "text": "Akcja w Garwolinie. Policjanci zabezpieczyli niebezpieczny arsenał 14-latka\n#PAPInformacje",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108943934277759240",
+      "author": "@PAPinformacje",
+      "text": "W zespole szkół dla dorosłych przy ul. Mińskiej w @warszawa doszło do ataku z użyciem noża. \n\nRzecznik prasowy @Policja_KSP kom. Jacek Wiśniewski przekazał, że 21-lenia napastniczka, będąca uczennicą szkoły, w której doszło do zdarzenia, zaatakowała 17-latkę, która trafiła do",
+      "likes": 10,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108964078886547512",
+      "author": "@PAPinformacje",
+      "text": "RCB ostrzega mieszkańców woj. lubelskiego i podkarpackiego w związku z rosyjskim atakiem na terenie Ukrainy #PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108890183894503623",
+      "author": "@PAPinformacje",
+      "text": "Niemczycki: Polska utrzymuje największą alokację w przyszłym budżecie UE\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108464610848231856",
+      "author": "@GUS_STAT",
+      "text": "📊 Statystyka jest wszędzie!\n\nWszędzie tam, gdzie obecne są dane, pojawia się statystyka.\n\nA skoro spotykasz ją każdego dnia, może czas sprawdzić, co potrafisz z niej wyczytać? 👀\n\nDołącz do XI edycji Olimpiady Statystycznej!\n\n\n\n#OlimpiadaStatystyczna",
+      "likes": 3,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2108802560345702680",
+      "author": "@laskowski_pl",
+      "text": "Pobór - w jakim celu? \n\nCo innego powszechne przeszkolenie wojskowe, rozbudowa sieci strzelnic ( \"Strzelnica w każdym powiecie\" - program Macierewicza, który nie został wdrożony, a wdrażać go ponownie chce @RozwojPlus ) \nRozsądne zasady dostępu do broni, podyskutujmy. \n\nJaką",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108995959761809559",
+      "author": "@PAPinformacje",
+      "text": "Pemiera „Orestei” w @TeatrNarodowy\n„Moim zdaniem jest to przedstawienie o dziedziczeniu przemocy” – mówił PAP Robert Czerwiński, który gra Agamemnona i jego syna Orestesa.\n\nNa scenie występują również Danuta Stenka, Aleksandra Justa, Ewa Bukała, Karolina Staniec, Hanna",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108854315817505255",
+      "author": "@PAPinformacje",
+      "text": "Wypadek autokaru z polskimi turystami. Dziewięciu Polaków rannych w Turcji\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108809523788193948",
+      "author": "@PAPinformacje",
+      "text": "Członek RPP Ludwik Kotecki: sytuacja wokół NBP jest bez precedensu [WYWIAD]\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108862134348321077",
+      "author": "@laskowski_pl",
+      "text": "Spokojnie, jeszcze dwa lata, zdążycie się naklaskać 😁",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108872343338856792",
+      "author": "@PAPinformacje",
+      "text": "Irlandzka prezydencja proponuje zmniejszenie budżetu UE\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108902829964280203",
+      "author": "@laskowski_pl",
+      "text": "Opowieści chomika, można spokojnie włożyć na półkę z cyklu  \"opowieści dziwnej treści\".\nBielan się legenduje i ktoś w to wierzy, kto? 😀",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108791961314283790",
+      "author": "@PAPinformacje",
+      "text": "Atak powietrzny na Ukrainę dobiegł końca. Brak zagrożenia na terenie Polski\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2108985435309449466",
+      "author": "@PAPinformacje",
+      "text": "RCB odwołało alert dla woj. lubelskiego i podkarpackiego. Brak zagrożenia na terenie Polski #PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108961628314308919",
+      "author": "@PAPinformacje",
+      "text": "Szef ukraińskiego IPN: między Polską a Ukrainą nie ma złych ani dobrych stosunków\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2108557643027751315",
+      "author": "@DGPrawna",
+      "text": "Glapiński przed Trybunałem Stanu? Jest spór o to, ilu posłów do tego potrzeba",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108451454490988680",
+      "author": "@DGPrawna",
+      "text": "Prohibicja alkoholowa w całym kraju. Sejm zabrania też reklam",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108948944004809051",
+      "author": "@PAPinformacje",
+      "text": "F1 w Singapurze. Hamilton: trzeba polegać tylko i wyłącznie na własnym instynkcie\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108921367496196210",
+      "author": "@PAPinformacje",
+      "text": "Spór polskiego elektryka z Erlingiem Haalandem. Sprawa trafiła do TSUEE\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108966539311419597",
+      "author": "@DGPrawna",
+      "text": "Rząd finansuje badania litu, miedzi i metali ziem rzadkich do 2033 r. Czy powstanie kopalnia w Myszkowie?",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108779264355312077",
+      "author": "@DGPrawna",
+      "text": "Kaczyński dyscyplinuje PiS. Kontrola posłów i zakazy wystąpień w mediach",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108459282182132202",
+      "author": "@DGPrawna",
+      "text": "Pobierz bezpłatny e-book „Reklasyfikacja umów i kontrole PIP w praktyce”. Znajdziesz w nim praktyczne wskazówki dotyczące audytu umów, przebiegu kontroli oraz możliwych konsekwencji prawnych i finansowych.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108882147008249975",
+      "author": "@laskowski_pl",
+      "text": "Zawsze warto znać wszystkie opinie przed oddaniem głosu ⬇️",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108484902949916785",
+      "author": "@DGPrawna",
+      "text": "Seria ataków i gróźb w szkołach. Policja dementuje doniesienia o internetowym „challenge'u”",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2108477063556727091",
+      "author": "@DGPrawna",
+      "text": "🎤 PODCAST \"Analogie\" | Przekształcenie Europejskiej Wspólnoty Gospodarczej w federalne państwo było w 1965 r. strategicznym celem Komisji Europejskiej, kierowanej przez Waltera Hallsteina. Ale prezydent de Gaulle nie negocjował tylko wywrócić stolik.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109156089354957087",
+      "author": "@PAPinformacje",
+      "text": "W Krakowie rozpoczęła się II tura przedterminowych wyborów na prezydenta miasta #PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2108907504881336612",
+      "author": "@PAPinformacje",
+      "text": "59-latka uszkodziła dwie stacje paliw. Została zatrzymana po policyjnym pościgu\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109148012337602947",
+      "author": "@DGPrawna",
+      "text": ".@KosiniakKamysz znalazł się między presją Donalda Tuska a oczekiwaniami otoczenia Donalda Trumpa. Milczenie wokół jego marcowego spotkania z prezydentem USA może być politycznie kosztowne, zwłaszcza jeśli projekt stałej bazy wojskowej utknie w miejscu.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
