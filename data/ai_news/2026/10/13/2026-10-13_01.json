@@ -1,0 +1,212 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-13",
+  "slot": "01",
+  "generated_at": "2026-10-13T07:07:43Z",
+  "tweets": [
+    {
+      "tweet_id": "2109361546505966046",
+      "author": "@karpathy",
+      "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+      "likes": 40769,
+      "retweets": 5367
+    },
+    {
+      "tweet_id": "2109795898909950247",
+      "author": "@AnthropicAI",
+      "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how:",
+      "likes": 3519,
+      "retweets": 312
+    },
+    {
+      "tweet_id": "2109543080609165508",
+      "author": "@reach_vb",
+      "text": "PSA: starting today GPT 6.1 Sol has a default context window of 500k (from earlier 272k)\n\nThis should mean fewer (2-3x) compactions on long running tasks and faster E2E task completion!\n\nAll at no extra charge across Codex &amp; ChatGPT Work - Enjoy!!",
+      "likes": 608,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2109307704346853833",
+      "author": "@hwchase17",
+      "text": "this is the summary slide that describes how all agents in the future will look\n\nvery much aligns with our vision for managed deepagents \n\ndurable workflows: builds on LangGraph/LSD \n\ncan use a computer: uses Langsmith Sandboxes",
+      "likes": 384,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2109391596743716963",
+      "author": "@jerryjliu0",
+      "text": "Unlimited OCR is a good example of a low-parameter OCR model that can process any document extremely quickly.\n\nIt's good at reading order and layout, and decent over tables. It is slightly better than PaddleOCR on tables and slightly worse on layout.\n\nThere are tradeoffs though",
+      "likes": 320,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2109297234864971878",
+      "author": "@hwchase17",
+      "text": "this is a great talk\n\nif you want to just follow along in slides, extracted screenshots here to make it easy\n\nwriting up thoughts as we speak",
+      "likes": 262,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2109585768649990218",
+      "author": "@hwchase17",
+      "text": "Ha gave this take to our team last week\n\nWill share some (very basic) stuff I vibe coded around this shortly\n\nLots to be explored here!",
+      "likes": 243,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2109707534101836241",
+      "author": "@reach_vb",
+      "text": "we created Codex Ambassadors in february with 15–20 people in mind.\n\nnow we have 199 ambassadors across 49+ countries &amp; territories who’ve run 300+ events (!!)\n\nwaking up to photos of people building together in Tokyo, India, London, SF has been one of my favourite parts of",
+      "likes": 223,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2109774963666526270",
+      "author": "@reach_vb",
+      "text": "current set up:\n&gt; gpt 6.1 sol (high)\n&gt; cloud envs (default to it)\n&gt; dots as an orchestrator\n&gt; codex exec for evals\n&gt; vanilla codex app",
+      "likes": 224,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2109409807773884633",
+      "author": "@reach_vb",
+      "text": "curiosity maxxing\n\nfind answers to the questions that randomly pop up, lean into the thought that make you uneasy\n\nwrite till your brain runs clear, follow through those strings of ramblings &amp; unkempt thoughts\n\nand keep going until your “why now” becomes a “why not”\n\nbe curious.",
+      "likes": 203,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2109649055060271378",
+      "author": "@svpino",
+      "text": "This is the first audio model I've seen that lets you edit individual words.\n\nText-to-Speech models have gotten really good lately, but they still make mistakes, and I hate having to redo an entire voiceover because one word is wrong.\n\n@FishAudio just released Drama 3, and it",
+      "likes": 178,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2109872508853756077",
+      "author": "@reach_vb",
+      "text": "team landed a bunch of updates to dots  🙌\n\nnew things:\n- create your dot on iOS / Android + open ChatGPT straight into it\n- kick off Codex work and follow up on threads, with context from your chats, Codex threads and automations\n- review + edit Scheduled Tasks\n\nand a whole",
+      "likes": 156,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2109319298531709416",
+      "author": "@jerryjliu0",
+      "text": "One of the biggest historical bottlenecks for training specialized models has been curating ground-truth. This is typically a very labor intensive process done with human supervision.\n\nNow frontier models/agents are getting better and better at bootstrapping ground-truth from",
+      "likes": 137,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2109664498097496155",
+      "author": "@svpino",
+      "text": "I think Simulations will be huge (and it's probably the best feature of this release).\n\nBasically, this will let you simulate how your agent works across real production conversations. It will score interactions and mock anything that costs money, so you can test everything",
+      "likes": 131,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2109509617487102020",
+      "author": "@reach_vb",
+      "text": "W E E K E N D",
+      "likes": 133,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109270222163066890",
+      "author": "@hwchase17",
+      "text": "historically, most of our internal agents (openswe for coding, gtm agent for outreach) have acted \"on behalf of\" whoever is using them\n\nbut as they start to do more proactive, background work... I wonder if that should change. eg i really like the idea Hone put forward of agents",
+      "likes": 106,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2109712737140150377",
+      "author": "@svpino",
+      "text": "This is a great idea for people who maintain an API and want to make it more accessible to agents.\n\n• You install the Restless SDK in your API\n• Your customers connect their agents to their MCP server\n\nThen:\n\n• Restless will use live API traffic to keep docs updated\n• Agents",
+      "likes": 71,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2109269280231739408",
+      "author": "@hwchase17",
+      "text": "what is the future of building internal company agents? how will their identity work?\n\n1. fixed set of credentials\n2. \"on behalf of\" flow (uses credentials of whoever is using it)\n3. some fixed credentials, others \"on behalf of\"",
+      "likes": 61,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2109680496733274135",
+      "author": "@svpino",
+      "text": "Decision-making models are the new hot thing in the industry.\n\nSubQ Snap is the latest model to come out, and it looks pretty strong:\n\n• Up to 384K tokens of context in a single call\n• Processes 100K tokens and returns a decision in &lt;1 second\n• Uses sparse attention to skip",
+      "likes": 53,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2109344359384756590",
+      "author": "@svpino",
+      "text": "Sarah Chieng and Vivian Shen are launching a new podcast called SOTA Wives, which I already find funny.\n\nThis looks completely different than every other tech podcast, and I hope it stays that way.\n\nThey'll talk about the behind-the-scenes stuff people don't get to see: dating in",
+      "likes": 37,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109795496978235639",
+      "author": "@jerryjliu0",
+      "text": "least clickbait slop post",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2109684074369650871",
+      "author": "@svpino",
+      "text": "Nothing is hotter right now than a personal agent with eyes that can process the world and give you proactive intelligence.\n\nThis still looks like science fiction to me.\n\nI really want to try one of these!",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2109715578747256879",
+      "author": "@nauczymycieAI",
+      "text": "Meta wypuściła właśnie swoją odpowiedź na Claude Fable oraz GPT Astrę. I wygląda na to, że Zuckerberg gra o wszystko.\n\nMuse Wonder i Muse Wonder Full zostały wytrenowane od zera z myślą o samodzielnej pracy agentów w aplikacji Muse. Według Mety dorównują GPT-6 Astra i Claude",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109711684281815444",
+      "author": "@jerryjliu0",
+      "text": "We hosted an awesome black tie gala last Friday to close out SF tech week \n\nhuge shoutout to everyone involved with organizing! @ValyuOfficial @MongoDB @daytonaio @arceuslegal @obvious @thelinqapp @lemma_ @Tiny_Fish + ofc @imaanxsultan from our side",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2109695363116605563",
+      "author": "@nauczymycieAI",
+      "text": "Nowy model od Mety, Muse Watermelon / Wonder zaraz ma za chwilę zostać szeroko udostępniony.\n\nPonoć możliwościami zbliża się do Claude Fable",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2109601222898450894",
+      "author": "@rpl_0x",
+      "text": "Día de la Hispanidad, czyli Dzien Hiszpańskości\n\n12 października 1492 roku Krzysztof Kolumb dotarł do wysp na Karaibach, przekonany, że znalazł drogę do Azji.\n\n Jego wyprawę sfinansowali hiszpańscy monarchowie, Izabela Kastylijska i Ferdynand Aragoński.\n\nTo wydarzenie",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109298454866362622",
+      "author": "@rpl_0x",
+      "text": "Kolejka zeby zdjęcie sobie zrobić przy dziurce. Później napiszę co to jak się dowiem xd",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109354283908907404",
+      "author": "@rpl_0x",
+      "text": "I jeszcze trafiliśmy na dość gruby protest w Madrycie. Klimat jak na Woodstocku, namiot przy namiocie, rozdają żarcie, chilluja sobie przy namiotach 😉\n\nMożna wejść do środka wielkiego obozu, ale była prośba żeby nie robić zdjęć więc nie pokaże 😉\n\nA protest związany z kryzysem",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109882284933619969",
+      "author": "@jerryjliu0",
+      "text": "you guys are really living life at the edge",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}
