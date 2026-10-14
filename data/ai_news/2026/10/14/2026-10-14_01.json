@@ -1,0 +1,282 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-14",
+  "slot": "01",
+  "generated_at": "2026-10-14T05:05:08Z",
+  "tweets": [
+    {
+      "tweet_id": "2110047081414987957",
+      "author": "@AnthropicAI",
+      "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.",
+      "likes": 17854,
+      "retweets": 1665
+    },
+    {
+      "tweet_id": "2109795898909950247",
+      "author": "@AnthropicAI",
+      "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how:",
+      "likes": 6049,
+      "retweets": 548
+    },
+    {
+      "tweet_id": "2110039860077527293",
+      "author": "@GoogleAI",
+      "text": "Gemini 4️⃣ Argon ✨ is now rolling out globally.\n\nOur frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science.\n\nCheck out how you can use Argon in your favorite Google product 🧵",
+      "likes": 1477,
+      "retweets": 129
+    },
+    {
+      "tweet_id": "2110057926799073462",
+      "author": "@ammaar",
+      "text": "Gemini 4 Argon is AMAZING at making games 🎮\n\nIt can create 3D assets from scratch and build amazing mechanics, all in one shot.\n\nHere's a thread of games I made with prompts and code so you can play or remix them too!\n\n1/6 Argon Tennis: use your phone as a tennis racket 🧵",
+      "likes": 1123,
+      "retweets": 71
+    },
+    {
+      "tweet_id": "2110083927620591769",
+      "author": "@GoogleAI",
+      "text": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of our tests was using videos of humans performing fun tasks (game of bags, anyone?) to autonomously spin up training simulations, rather than relying entirely on manual programming.",
+      "likes": 607,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2110038433880027197",
+      "author": "@svpino",
+      "text": "Today, I wanted to know how much money I've spent, so I vibe-coded a financial report that connects to all of my accounts.\n\nSince my wife wanted to see the report, I also vibe-coded a messaging app and sent her the PDF.\n\nBefore opening the file, she vibe-coded a PDF viewer and",
+      "likes": 618,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2109543080609165508",
+      "author": "@reach_vb",
+      "text": "PSA: starting today GPT 6.1 Sol has a default context window of 500k (from earlier 272k)\n\nThis should mean fewer (2-3x) compactions on long running tasks and faster E2E task completion!\n\nAll at no extra charge across Codex &amp; ChatGPT Work - Enjoy!!",
+      "likes": 617,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2109872508853756077",
+      "author": "@reach_vb",
+      "text": "team landed a bunch of updates to dots  🙌\n\nnew things:\n- create your dot on iOS / Android + open ChatGPT straight into it\n- kick off Codex work and follow up on threads, with context from your chats, Codex threads and automations\n- review + edit Scheduled Tasks\n\nand a whole",
+      "likes": 509,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2109774963666526270",
+      "author": "@reach_vb",
+      "text": "current set up:\n&gt; gpt 6.1 sol (high)\n&gt; cloud envs (default to it)\n&gt; dots as an orchestrator\n&gt; codex exec for evals\n&gt; vanilla codex app",
+      "likes": 316,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2109707534101836241",
+      "author": "@reach_vb",
+      "text": "we created Codex Ambassadors in february with 15–20 people in mind.\n\nnow we have 199 ambassadors across 49+ countries &amp; territories who’ve run 300+ events (!!)\n\nwaking up to photos of people building together in Tokyo, India, London, SF has been one of my favourite parts of",
+      "likes": 272,
+      "retweets": 30
+    },
+    {
+      "tweet_id": "2109585768649990218",
+      "author": "@hwchase17",
+      "text": "Ha gave this take to our team last week\n\nWill share some (very basic) stuff I vibe coded around this shortly\n\nLots to be explored here!",
+      "likes": 253,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2110040213208850499",
+      "author": "@ammaar",
+      "text": "Gemini 4 Argon is here and available today!\n\nIt's an incredible model on a number of fronts from solving really difficult coding tasks, complex 3D animations and models, to deep knowledge work.\n\nAvailable in AI Studio, Gemini API, and the Gemini app 🚀",
+      "likes": 230,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2109882284933619969",
+      "author": "@jerryjliu0",
+      "text": "you guys are really living life at the edge",
+      "likes": 184,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2109509617487102020",
+      "author": "@reach_vb",
+      "text": "W E E K E N D",
+      "likes": 139,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109938151472890070",
+      "author": "@hwchase17",
+      "text": "we are thinking a lot about how to make deepagents more async native. specifically about making async subagents work better/more prominent\n\none key question is how does a finished subagent \"notify\" the parent agent? some default behaviors we're considering for when the parent is",
+      "likes": 118,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2110026905118556563",
+      "author": "@svpino",
+      "text": "Software Engineering has never been more alive.\n\nIf you care about building reliable agents, you'll need to make 1,000 decisions about models, data, tools, security, infrastructure, and how to improve them over time.\n\nThe industry's cream of the crop will be at this summit:",
+      "likes": 109,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2110041909284745578",
+      "author": "@hwchase17",
+      "text": "router lives in the harness, not a gateway, bc the harness knows the task\n\nblog:",
+      "likes": 106,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2110075949932765568",
+      "author": "@nauczymycieAI",
+      "text": "Możesz zaoszczędzić nawet 95% tokenów AI jedną prostą metodą. Ta metoda to pilnowanie cache - i bywa problematyczne, ale da się ją zautomatyzować.\n\nJak działa cache? W dużym uproszczeniu - model zapamiętuje Waszą pracę w pamięci podręcznej i nie musi wykonywać za każdym obliczeń,",
+      "likes": 96,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2109795496978235639",
+      "author": "@jerryjliu0",
+      "text": "least clickbait slop post",
+      "likes": 54,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110054710304821352",
+      "author": "@svpino",
+      "text": "Audio models are getting incredible!\n\nThis new release of Drama 3 supports multiple speakers at once and—even better—lets you edit individual words while keeping everything else intact.\n\nThe process:\n\n1. Give it a script\n2. Choose the voices you want\n3. Describe the pacing and",
+      "likes": 46,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2110117192150999546",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked Gemini 4 Argon, Muse Wonder, and Muse Spark comprehensively on hard document OCR tasks.\n\nThey're all pretty good! \n- Muse Spark and Gemini 4 Argon* are SOTA at their respective price points for table understanding among frontier models. \n- Wonder and Argon are also",
+      "likes": 43,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2109715578747256879",
+      "author": "@nauczymycieAI",
+      "text": "Meta wypuściła właśnie swoją odpowiedź na Claude Fable oraz GPT Astrę. I wygląda na to, że Zuckerberg gra o wszystko.\n\nMuse Wonder i Muse Wonder Full zostały wytrenowane od zera z myślą o samodzielnej pracy agentów w aplikacji Muse. Według Mety dorównują GPT-6 Astra i Claude",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109711684281815444",
+      "author": "@jerryjliu0",
+      "text": "We hosted an awesome black tie gala last Friday to close out SF tech week \n\nhuge shoutout to everyone involved with organizing! @ValyuOfficial @MongoDB @daytonaio @arceuslegal @obvious @thelinqapp @lemma_ @Tiny_Fish + ofc @imaanxsultan from our side",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110032816700551602",
+      "author": "@svpino",
+      "text": "I love that this generates videos you can keep and edit later.\n\nBasically, the AI here operates on an editable project. You get clips, layers, narration, and timing available, so you can edit the videos like any other video project.\n\nThis is the first tool I've seen doing this.",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110061831276609597",
+      "author": "@svpino",
+      "text": "This is like sending your agent to college.\n\nThis is an open-source engine that you plug into your agents and improves them without retraining. This gives them access to a huge indexed content library + search capabilities:\n\n• Source code\n• Engineering guidelines\n•",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2109975579961536834",
+      "author": "@svpino",
+      "text": "How to attend a meeting in 2026:\n\n• Run Ambi\n• Turn on listening mode so it follows the meeting\n• Ambi will identify possible next steps\n• It will research questions and prepare follow-up materials\n• You can always review the results and approve the work\n• Turn off",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110070816566288707",
+      "author": "@svpino",
+      "text": "I've been using Kylon for a few days already, and I really like it.\n\nThis is a \"company harness\".\n\nIt takes your people + your data + your agents and puts them into the same workspace. Basically, everyone can work and collaborate in the same space.\n\nI'm using it with my local",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110198389971583132",
+      "author": "@jerryjliu0",
+      "text": "Benchmarks are becoming the core competency of any company.\n\nOur company mission is to build the world’s best models for document processing. This also means that we have to build the world’s best benchmarks for doc parsing and extraction.\n\nIt’s been incredible to see the",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110022359155405270",
+      "author": "@svpino",
+      "text": "Wrappers around Big AI models also give them access to all their data, so it's easy to tell what works and what doesn't.\n\nIf you build a popular service on top of Claude/GPT, start counting your days, because they have everything they need to crush you.\n\nIt's the Amazon effect.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109695363116605563",
+      "author": "@nauczymycieAI",
+      "text": "Nowy model od Mety, Muse Watermelon / Wonder zaraz ma za chwilę zostać szeroko udostępniony.\n\nPonoć możliwościami zbliża się do Claude Fable",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110039381734256994",
+      "author": "@svpino",
+      "text": "Every developer dreams of an agent that proactively monitors and suggests a fix whenever something breaks.\n\nThis is a pretty cool app:\n\n• Connect Sazabi to your application logs\n• Connect your repository as well\n• You'll get issue alerts with the likely cause and suggested fix",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110103635262832722",
+      "author": "@jerryjliu0",
+      "text": "We launched a drink at @UseCorgi cafe 🐶\n\nDoc Chai: \n- iced toasted brown sugar chai\n- whole spices and black tea\n- your choice of milk \n\napproved by me, @imaanxsultan, and a bunch of other folks on the @llama_index team. 10/10 would recommend \n\nCome check out our launch party on",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110107858704691447",
+      "author": "@svpino",
+      "text": "Yeah, we all read \"software is dead\" and thought the person meant to say \"software is dead\".\n\nShame on us.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109601222898450894",
+      "author": "@rpl_0x",
+      "text": "Día de la Hispanidad, czyli Dzien Hiszpańskości\n\n12 października 1492 roku Krzysztof Kolumb dotarł do wysp na Karaibach, przekonany, że znalazł drogę do Azji.\n\n Jego wyprawę sfinansowali hiszpańscy monarchowie, Izabela Kastylijska i Ferdynand Aragoński.\n\nTo wydarzenie",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110199046027747659",
+      "author": "@jerryjliu0",
+      "text": "Gemini 4 Argon, Muse Spark 1.3, and Muse Wonder 1.0 are all really good at pdf parsing.\n\nCome check it out on OpenDocRouter!",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110201181305979142",
+      "author": "@jerryjliu0",
+      "text": "this is so good",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110052457455972716",
+      "author": "@svpino",
+      "text": "To install this in Codex/Claude Code, you can use the following prompt:\n\n\"Install XERJ (docs:  index this project's sources, docs, and logs, and connect  as reference memory hub\"",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110038528050831612",
+      "author": "@sentient_agency",
+      "text": "The best AI tools don’t try to own the canvas. They sit inside the process you already have.\n\nMagicOS keeps the PRD, inspiration, variations, and design system visible and shared. That’s a much more practical model than another isolated generation loop.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110196257604186540",
+      "author": "@jerryjliu0",
+      "text": "doc chai is really good \n\nspiced, creamy, refreshing. we went through like 10 variations of this before settling on this one \n\ncome try it!!",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
