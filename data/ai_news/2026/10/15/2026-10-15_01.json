@@ -1,0 +1,275 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-15",
+  "slot": "01",
+  "generated_at": "2026-10-15T05:00:37Z",
+  "tweets": [
+    {
+      "tweet_id": "2110047081414987957",
+      "author": "@AnthropicAI",
+      "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.",
+      "likes": 24829,
+      "retweets": 2539
+    },
+    {
+      "tweet_id": "2110289695888511368",
+      "author": "@AnthropicAI",
+      "text": "We’ve opened an office in Singapore—our fifth in the Asia-Pacific region. We’ve also signed an MOU with the Government of Singapore on AI safety and responsible adoption.\n\nYou can read more about our new office here:",
+      "likes": 3247,
+      "retweets": 184
+    },
+    {
+      "tweet_id": "2110039860077527293",
+      "author": "@GoogleAI",
+      "text": "Gemini 4️⃣ Argon ✨ is now rolling out globally.\n\nOur frontier model is built for complex, real-world tasks across coding, finance, legal, cybersecurity, and science.\n\nCheck out how you can use Argon in your favorite Google product 🧵",
+      "likes": 1624,
+      "retweets": 146
+    },
+    {
+      "tweet_id": "2110057926799073462",
+      "author": "@ammaar",
+      "text": "Gemini 4 Argon is AMAZING at making games 🎮\n\nIt can create 3D assets from scratch and build amazing mechanics, all in one shot.\n\nHere's a thread of games I made with prompts and code so you can play or remix them too!\n\n1/6 Argon Tennis: use your phone as a tennis racket 🧵",
+      "likes": 1468,
+      "retweets": 90
+    },
+    {
+      "tweet_id": "2110083927620591769",
+      "author": "@GoogleAI",
+      "text": "We’ve been exploring the potential of using Gemini 4 Argon to accelerate research @Google. One of our tests was using videos of humans performing fun tasks (game of bags, anyone?) to autonomously spin up training simulations, rather than relying entirely on manual programming.",
+      "likes": 1040,
+      "retweets": 113
+    },
+    {
+      "tweet_id": "2110392574754107405",
+      "author": "@GoogleAI",
+      "text": "Textbook biology, brought to life right in your browser 🌿\n\nThis interactive 5-stage visual atlas built by Argon in @antigravity turns dense textbook biology into a hands-on experience. With fluid animations and scientific precision, you can scroll from a sunlit leaf all the way",
+      "likes": 705,
+      "retweets": 91
+    },
+    {
+      "tweet_id": "2109872508853756077",
+      "author": "@reach_vb",
+      "text": "team landed a bunch of updates to dots  🙌\n\nnew things:\n- create your dot on iOS / Android + open ChatGPT straight into it\n- kick off Codex work and follow up on threads, with context from your chats, Codex threads and automations\n- review + edit Scheduled Tasks\n\nand a whole",
+      "likes": 526,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2110367132727042057",
+      "author": "@reach_vb",
+      "text": "dots tip: ask your dot to proactively look for areas that will improve quality of your life/ work and check in with you every x hours\n\nworks wonders",
+      "likes": 427,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2110438512939901329",
+      "author": "@svpino",
+      "text": "This is exactly what I see everywhere I go and what I hear from everyone I talk to: they need more people, not fewer.\n\nIn fact, many companies are telling me they are stuck because they can't find enough talent in the market.\n\nThey are already using the latest-and-greatest",
+      "likes": 357,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2110266099434434923",
+      "author": "@reach_vb",
+      "text": "Threads on your codex app take up to 60% less space this is complimentary to the optimisations we made to how codex reads data from your disk!\n\nMore long running threads ftw!",
+      "likes": 267,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2110040213208850499",
+      "author": "@ammaar",
+      "text": "Gemini 4 Argon is here and available today!\n\nIt's an incredible model on a number of fronts from solving really difficult coding tasks, complex 3D animations and models, to deep knowledge work.\n\nAvailable in AI Studio, Gemini API, and the Gemini app 🚀",
+      "likes": 252,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2110420473507176554",
+      "author": "@svpino",
+      "text": "Here is the thing you are missing about booking trips with AI:\n\nAnyone can build an agent that fills out forms and clicks buttons, but that won't make a good booking agent.\n\nTo stand out, you need backend relationships, connections, and commercial arrangements with hotels and",
+      "likes": 173,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2110041909284745578",
+      "author": "@hwchase17",
+      "text": "router lives in the harness, not a gateway, bc the harness knows the task\n\nblog:",
+      "likes": 142,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2109938151472890070",
+      "author": "@hwchase17",
+      "text": "we are thinking a lot about how to make deepagents more async native. specifically about making async subagents work better/more prominent\n\none key question is how does a finished subagent \"notify\" the parent agent? some default behaviors we're considering for when the parent is",
+      "likes": 127,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2110075949932765568",
+      "author": "@nauczymycieAI",
+      "text": "Możesz zaoszczędzić nawet 95% tokenów AI jedną prostą metodą. Ta metoda to pilnowanie cache - i bywa problematyczne, ale da się ją zautomatyzować.\n\nJak działa cache? W dużym uproszczeniu - model zapamiętuje Waszą pracę w pamięci podręcznej i nie musi wykonywać za każdym obliczeń,",
+      "likes": 106,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110391094630650062",
+      "author": "@svpino",
+      "text": "The hottest bet in the market right now is collaborative workspaces for people, agents, and data.\n\nPeople + Agents + Context + Tools working in the same conversation.\n\nReally cool when you want to automate different workflows across different apps in your company.",
+      "likes": 83,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2110117192150999546",
+      "author": "@jerryjliu0",
+      "text": "We benchmarked Gemini 4 Argon, Muse Wonder, and Muse Spark comprehensively on hard document OCR tasks.\n\nThey're all pretty good! \n- Muse Spark and Gemini 4 Argon* are SOTA at their respective price points for table understanding among frontier models. \n- Wonder and Argon are also",
+      "likes": 81,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2110198389971583132",
+      "author": "@jerryjliu0",
+      "text": "Benchmarks are becoming the core competency of any company.\n\nOur company mission is to build the world’s best models for document processing. This also means that we have to build the world’s best benchmarks for doc parsing and extraction.\n\nIt’s been incredible to see the",
+      "likes": 62,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2110565323489317345",
+      "author": "@reach_vb",
+      "text": "icymi: dots can control your local and cloud codex threads - particularly useful if you’re working across multiple projects!",
+      "likes": 64,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110342181655392745",
+      "author": "@nauczymycieAI",
+      "text": "Pełna zgoda, dywersyfikujcie się.\n\nDo lekarza (szczególnie u nas) warto jechać ze wstępną diagnozą i listą pytań.\n\nTak, żeby na maksa wykorzystać te 5 minut, które dla nas ma pomiędzy innymi pacjentami i wklepywaniem danych do komputera",
+      "likes": 63,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110448152210026974",
+      "author": "@svpino",
+      "text": "AI will forever change education.\n\nI've been using @gakkuai. It's an AI-native learning app for ages 6–16 focused on writing, speaking, and thinking.\n\nThis is pretty different than every other educational app you've seen.\n\nYou get a coach that talks to you in real time and guides",
+      "likes": 52,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2110390579519762469",
+      "author": "@svpino",
+      "text": "These guys put a SQL engine inside their CRM.\n\nThis means an agent can query across all data, join records, and do math. They also added data connectors, so you can query data from external tools.\n\nAny software that doesn't support agents is destined to die.",
+      "likes": 49,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2110549450355826863",
+      "author": "@reach_vb",
+      "text": "just landed in Bengaluru - who’s ready for DevDay Exchange tomorrow? ;)\n\nexcited to meet you all and chat all things GPT 6, Codex and more!",
+      "likes": 46,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110360473774493819",
+      "author": "@reach_vb",
+      "text": "Still in awe of how fast @rhiannon_io moves and the amount of care she puts in making all of these events a success!!\n\nShe managed to bring the magic of Codex &amp; Astra to 52 cities across the globe all in her first few weeks - incredible milestone.\n\nKudos Rhiannon!!",
+      "likes": 45,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110480849258901918",
+      "author": "@svpino",
+      "text": "Many software people are still dismissing AI as a fad, or because of the water consumption, intellectual property, or whatever.\n\nAnd it's not just one or two people; I'm talking about a ton of folks closing their eyes and repeating \"stochastic parrot\" with no idea what they are",
+      "likes": 40,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110107858704691447",
+      "author": "@svpino",
+      "text": "Yeah, we all read \"software is dead\" and thought the person meant to say \"software is dead\".\n\nShame on us.",
+      "likes": 38,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110103635262832722",
+      "author": "@jerryjliu0",
+      "text": "We launched a drink at @UseCorgi cafe 🐶\n\nDoc Chai: \n- iced toasted brown sugar chai\n- whole spices and black tea\n- your choice of milk \n\napproved by me, @imaanxsultan, and a bunch of other folks on the @llama_index team. 10/10 would recommend \n\nCome check out our launch party on",
+      "likes": 32,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110410305167917542",
+      "author": "@svpino",
+      "text": "One of the easiest ways to connect your agents to the web:\n\n1. Add Expand's MCP server to your agent\n2. Sign in when prompted\n3. Ask the agent to use this server when fetching pages\n\nAny time your agent fetches a URL, Expand will return Markdown content while preserving its",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110447687363412201",
+      "author": "@nauczymycieAI",
+      "text": "Jak dobry jest Gemini 4 Argon w codziennej pracy? Zebrałem dla Was opinie użytkowników.\n\nDwa tygodnie temu pisałem, że Gemini 4 to najpewniej kolejny model podrasowany pod benchmarki. Pierwsze dni z Argonem pokazują, że tym razem Google wypuściło coś przydatnego. \n\nNie miałem",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110400758831272099",
+      "author": "@svpino",
+      "text": "Open-Science is a cool open-source workbench focused on reproducibility.\n\nAI agents search for scientific sources, run Python and R, and generate research outputs. Every single result here retains all available inputs, code, and execution evidence.\n\nThat means you can rerun and",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110357456413155341",
+      "author": "@svpino",
+      "text": "If you haven't done this already, now is the time!\n\nKestra's Hacktober ends on October 31, and it's a great chance to develop your reputation as an open-source contributor.\n\nYou can participate in a couple of ways:\n\n1. Fix an issue in Kestra's core or plugin repositories — Grab",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110417600635437136",
+      "author": "@svpino",
+      "text": "My wife would absolutely love a robot that makes her coffee 3 times every day.\n\nI hope she doesn't see this.",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110417415108763733",
+      "author": "@svpino",
+      "text": "It's only $0.035 per million cached input tokens on Gemma 4 26B with Inworld Inference.\n\nThat's really, really inexpensive.\n\nI wonder how long you can use the free-tier chat at this price before you need to pay anything.",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110199046027747659",
+      "author": "@jerryjliu0",
+      "text": "Gemini 4 Argon, Muse Spark 1.3, and Muse Wonder 1.0 are all really good at pdf parsing.\n\nCome check it out on OpenDocRouter!",
+      "likes": 16,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110201181305979142",
+      "author": "@jerryjliu0",
+      "text": "this is so good",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110515619347243428",
+      "author": "@svpino",
+      "text": "My Lyft ride in SFO todayshowed 12 minutes away for 20 minutes before going down to 11 mins away.",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110196257604186540",
+      "author": "@jerryjliu0",
+      "text": "doc chai is really good \n\nspiced, creamy, refreshing. we went through like 10 variations of this before settling on this one \n\ncome try it!!",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110038528050831612",
+      "author": "@sentient_agency",
+      "text": "The best AI tools don’t try to own the canvas. They sit inside the process you already have.\n\nMagicOS keeps the PRD, inspiration, variations, and design system visible and shared. That’s a much more practical model than another isolated generation loop.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}

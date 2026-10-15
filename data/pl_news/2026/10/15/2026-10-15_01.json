@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-15",
+  "slot": "01",
+  "generated_at": "2026-10-15T05:00:37Z",
+  "tweets": [
+    {
+      "tweet_id": "2110367762933592097",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura: wszczęto czynności sprawdzające ws. zmuszania przemocą policjantów do zaniechania czynności służbowych pod TK  przez Roberta Bąkiewicza. (PAP)\n#PAPinformacje",
+      "likes": 486,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2110316963516068073",
+      "author": "@PAPinformacje",
+      "text": "Prezydent: jeśli Maciej Berek nie dokonał formalności ślubowania wobec prezydenta, to nie jest sędzią Trybunału Konstytucyjnego. (PAP)\n#PAPinformacje",
+      "likes": 359,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2110352934949224763",
+      "author": "@PAPinformacje",
+      "text": "MAP: do resortu wpłynęło zawiadomienie o przejęciu spółki TVN, która znajduje się na liście przedsiębiorstw strategicznych",
+      "likes": 257,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2110408389440286773",
+      "author": "@PAPinformacje",
+      "text": "Szef KPRP: prezydent Karol Nawrocki z uwagi na sytuację w TK odwoła zaplanowaną na czwartek wizytę w Słowenii. (PAP)\n#PAPinformacje",
+      "likes": 175,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2110372965208731845",
+      "author": "@PAPinformacje",
+      "text": "Leśkiewicz: prezydent Karol Nawrocki przybył do siedziby Trybunału Konstytucyjnego.\n#PAPinformacje",
+      "likes": 139,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2110350740728221779",
+      "author": "@PAPinformacje",
+      "text": "Szef MS: poleciłem szefowi PK podjęcie czynności w związku z próbą sparaliżowania pracy TK\n#PAPinformacje",
+      "likes": 121,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2110252509574885806",
+      "author": "@laskowski_pl",
+      "text": "Mimo niezwykłej zamożności, Norwegia miała fatalne wyniki w ostatnich badaniach jakości edukacji PISA. Coś jednak nie działa…\n\n\"Wie pan, co nie działa w szkołach? To! (premier wskazuje na telefon komórkowy). Załamanie pojawiło się w 2015 r., kiedy zaczęły nas zalewać media",
+      "likes": 87,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2110037687486890467",
+      "author": "@Macronextcom",
+      "text": "Tu Komisja Wenecka nie jest potrzebna. 🙃 Nowy rekord wszech czasów indeksu WIG 🇵🇱 jest faktem. Teraz wynosi on 159502,71 pkt. 💪",
+      "likes": 65,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2110468794602688800",
+      "author": "@PAPinformacje",
+      "text": "Zełenski: Trump zawierając porozumienie z Putinem wybrał złą stronę\n#PAPinformacje",
+      "likes": 49,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2110379293545259041",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura: wszczęte czynności sprawdzające ws. zachowania Roberta Bąkiewicza pod TK\n#PAPinformacje",
+      "likes": 51,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2110317051721941043",
+      "author": "@Macronextcom",
+      "text": "Dąbrowski (RPP) 🇵🇱: strategia spokojnego obserwowania tego, co się dzieje, bez podwyższania ani obniżania stóp do końca roku, powinna zwyciężyć.",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110440587274879178",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura: dwumiesięczny areszt dla 66-latka podejrzanego o przygotowanie zamachu  na premiera\n#PAPinformacje",
+      "likes": 26,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2109956756902154697",
+      "author": "@Macronextcom",
+      "text": "Sezon wyników w USA właśnie wystartował.\n\nJPMorgan Chase - wyniki za III kw. 2026:\n🔸EPS: 5,57 USD (prognoza: 5,93 USD)\n🔸Przychody: 50,2 mld USD (prognoza: 51,2 mld USD)",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110372485866946744",
+      "author": "@PAPinformacje",
+      "text": "Prezes PiS: atak na Trybunał Konstytucyjny to próba zamachu stanu\n#PAPinformacje",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110331413635780798",
+      "author": "@PAPinformacje",
+      "text": "Minister Energii: w czwartek litr benzyny 95 ma kosztować nie więcej niż 7,01 zł, benzyny 98 - 7,83 zł, a diesla - 8,05 zł. (PAP)\n#PAPInformacje",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110259698108698632",
+      "author": "@Macronextcom",
+      "text": "🇨🇳 We wrześniu eksport Chin wzrósł 36,3% (prog. 25,5%)👇, a import o 31% r/r (prog. 24,5%), co przełożyło się na wzrost nadwyżki handlowej Chin do 133,53 mld USD (prog. 118 mld USD).\n\nNadwyżka handlowa Chin w handlu z USA 🇺🇸 wzrosła do 34 mld USD i jest najwyższa od 20 miesięcy.",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110279262620279160",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w okresie styczeń-sierpień 2026 r. polski eksport (w PLN) wzrósł o 7,0%, a import o 7,5% r/r.\n\nNajwięcej eksportujemy do Niemiec (289 mld zł), skąd również najwięcej importujemy (207,9 mld zł).",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2109934814153334793",
+      "author": "@laskowski_pl",
+      "text": "Nie ma czegoś takiego jak \"prezydencki fundusz medyczny\" Panie @NawrockiKn \nPrezydent był inicjatorem Funduszu Medycznego, ale nie zarządza nim i nie ma bezpośredniego dostępu do jego środków.\nNieodzowny redaktor @michal_kolanko oczywiście tego nie sprostował.",
+      "likes": 15,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110372396394057859",
+      "author": "@Macronextcom",
+      "text": "Rockstar chce być być jak CD Projekt Red. 🙂\n\nFirma uważa, że GTA6 będzie \"technologicznym fundamentem\" i pozwoli szybiciej wydawać kolejne gry.\n\nDla Redów takim fundamentem ma być \"Wiedźmin 4\" i w 6 lat chcą wydać całą nową wiedźmińską trylogię.",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110342041590727059",
+      "author": "@GUS_STAT",
+      "text": "📚 Ponad 508 tys. etatów, a za tymi liczbami stoją ludzie, którzy każdego dnia dzielą się wiedzą, rozwijają talenty i pomagają odkrywać świat.\n\nZ okazji #DzieńEdukacjiNarodowej nauczycielom i pracownikom oświaty życzymy satysfakcji, inspiracji i wielu powodów do dumy! 💐\n\n #GUS",
+      "likes": 8,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2110244747797504016",
+      "author": "@laskowski_pl",
+      "text": "To postępuje...",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110277241267523852",
+      "author": "@laskowski_pl",
+      "text": "12 letnie kadencje, to może dożywotnie jak w Sądzie Najwyższym w USA? \nJa nie jest gotowy na kolejnego \"piotrowicza\", którego mam oglądać 12 lat. \nZresztą każda ustawa będzie miała jedną nieusuwalną wadę, nie zapobiega złej woli np. prezydenta, który zachowa się jak szatniarz w",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110100675954880597",
+      "author": "@laskowski_pl",
+      "text": "Prezydent USA teraz publikuje filmy, na których zwierzęta pożerają ludzi.\n\nPsychiatra, to za mało.",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110435467942404435",
+      "author": "@Macronextcom",
+      "text": "Dobrze to wygląda. Jest poprawa.\n\n🇵🇱 Październik przyniósł wyraźną poprawę nastrojów wśród polskich przedsiębiorców. Miesięczny Indeks Koniunktury (MIK) od @PIE_NET_PL  wzrósł w październiku o 6,4 pkt. do poziomu 102,4 pkt.",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110361026361528824",
+      "author": "@Macronextcom",
+      "text": "Litwiniuk (RPP) 🇵🇱: \n\n🔸 mimo osłabienia w ostatnich miesiącach kurs #PLN pozostaje mocny, a kwestia kursowa związana ze słabszą walutą nie jest głównym czynnikiem w rozważaniach RPP;\n\n(1/2)",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110340390767264123",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w VIII 2026 r. saldo rachunku bieżącego -3,567 mld EUR (prognoza: -2,53 mld EUR; poprzednio: -1,925 mld EUR)",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110093910550651358",
+      "author": "@laskowski_pl",
+      "text": "Kolejny sukces Trumpa 😁",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109974018660921463",
+      "author": "@laskowski_pl",
+      "text": "Jak wyciągnąć największy revenue i przywalić czysty profit, używając ChatGPT, obłędnego drive'u, borderline bezczelności oraz czystego impetu i audacity.",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110284106659741972",
+      "author": "@mbank_research",
+      "text": "Zaktualizowana wersja naszych opisowych prognoz dla stóp procentowych i walut jest już dostępna. ⤵️",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2109903707374494059",
+      "author": "@Macronextcom",
+      "text": "MFW podwyższył do 3,1% z 3% prognozę wzrostu światowej gospodarki w 2026 roku, podnosząc przede wszystkim prognozy dla dużych europejskich gospodarek (za wyjątkiem Francji) i obniżjąc dla Chin, Brazylii i innych rynków wschodzących.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110372057385230615",
+      "author": "@PAPinformacje",
+      "text": "NATO potrzebuje planu działań wobec zagrożeń hybrydowych ze strony Rosji - podkreślił w wywiadzie dla PAP premier Litwy @mindaugassink. Skoro jeden czy kilka dronów to za mało by uruchomić Arytkuł 5, to jaka liczba bezpilotowców będzie do tego wystarczająca? - pytał.",
+      "likes": 4,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110345421784531434",
+      "author": "@PAPinformacje",
+      "text": "Kolejne rosyjskie ataki na Ukrainę. Wzrosła liczba ofiar [WIDEO]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110331758847644106",
+      "author": "@PAPinformacje",
+      "text": "Premier Litwy: NATO potrzebuje planu działań wobec zagrożeń hybrydowych ze strony Rosji [WYWIAD]\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110347591997382726",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Nawrocki skomentował ślubowanie Macieja Berka\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110313686468555240",
+      "author": "@Macronextcom",
+      "text": "19 października (g. 12:30) odbędzie się konferencja prasowa #PGE, podczas której zostanie przedstawiona aktualizacja Strategii PGE.\n\nKalendarz GPW/NC:",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110428901960749250",
+      "author": "@PAPinformacje",
+      "text": "EFNI 2026. W Sopocie rozpoczęło się 15. Europejskie Forum Nowych Idei\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110273067960226067",
+      "author": "@GUS_STAT",
+      "text": "W okresie od stycznia do sierpnia 2026 r. ujemne saldo w #HandelZagraniczny ukształtowało się na poziomie minus 27,9 mld PLN. W porównaniu z analogicznym okresem 2025 r. eksport wzrósł o 7,0%, a import wzrósł o 7,5%.\n\n🔗\n\n#GUS #HandelZagraniczny",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110288924094439781",
+      "author": "@DGPrawna",
+      "text": "Nie będzie rozwoju AI i chmury bez bezpiecznej łączności. Kto zapłaci za sieci w Europie – telekomy czy Big Tech?\n\nO Digital Networks Act, licytacjach częstotliwości i suwerenności cyfrowej z europosłem Michałem Koboską rozmawia Jan Pilewski (Play).",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110096232609673690",
+      "author": "@DGPrawna",
+      "text": "Mniej zabitych na drogach. Ale na samozadowolenie jeszcze za wcześnie",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2110455013013160397",
+      "author": "@PAPinformacje",
+      "text": "W Hali Stulecia we Wrocławiu odbyła się premiera nowej powieści Olgi Tokarczuk „Świata jest za dużo”. W wydarzeniu uczestniczyło ponad 4 tys. czytelników twórczości polskiej noblistki.\n\n@wroclaw_info @Hala_Stulecia",
+      "likes": 2,
+      "retweets": 1
+    }
+  ]
+}
