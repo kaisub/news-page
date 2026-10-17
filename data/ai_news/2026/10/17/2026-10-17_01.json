@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-17",
+  "slot": "01",
+  "generated_at": "2026-10-17T04:53:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2111131677351432197",
+      "author": "@sama",
+      "text": "Wow the new roadster looks quite amazing, good job @elonmusk",
+      "likes": 53825,
+      "retweets": 1525
+    },
+    {
+      "tweet_id": "2111177834127601902",
+      "author": "@claudeai",
+      "text": "Six projects from the last few weeks that caught our attention:\n\nA wildfire analysis prototype that maps the fire’s spread over time and tracks hot spots, made with Opus 5.5.",
+      "likes": 18111,
+      "retweets": 1089
+    },
+    {
+      "tweet_id": "2111139227761266699",
+      "author": "@sama",
+      "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution:",
+      "likes": 8719,
+      "retweets": 401
+    },
+    {
+      "tweet_id": "2110720940665372825",
+      "author": "@AnthropicAI",
+      "text": "Applications are now open for two new Anthropic Fellowships.\n\nSTEM Fellows (science and engineering) and Conceptual Reasoning Fellows (philosophy, cognitive science, economics, policy, and law) will spend four months at Anthropic from January 2027, working to help Claude reason",
+      "likes": 6739,
+      "retweets": 552
+    },
+    {
+      "tweet_id": "2111152183240511640",
+      "author": "@AnthropicAI",
+      "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
+      "likes": 3630,
+      "retweets": 385
+    },
+    {
+      "tweet_id": "2110784662071398807",
+      "author": "@AnthropicAI",
+      "text": "We’ve committed to having evaluators assess our safety practices. We're in discussions with multiple organizations, and have now given employee-like access to a team from @METR_Evals.\n\nIn this post, we describe how we work with third-party evaluators:",
+      "likes": 3710,
+      "retweets": 254
+    },
+    {
+      "tweet_id": "2111158313463525518",
+      "author": "@bcherny",
+      "text": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar",
+      "likes": 3170,
+      "retweets": 98
+    },
+    {
+      "tweet_id": "2111158659971699136",
+      "author": "@bcherny",
+      "text": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days\n\nTry it:",
+      "likes": 2816,
+      "retweets": 86
+    },
+    {
+      "tweet_id": "2111130577789493706",
+      "author": "@sama",
+      "text": "Very happy to see this from Nick!",
+      "likes": 2789,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2110846112152105136",
+      "author": "@AnthropicAI",
+      "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding,",
+      "likes": 2405,
+      "retweets": 173
+    },
+    {
+      "tweet_id": "2111200113095803282",
+      "author": "@ammaar",
+      "text": "I used Gemini 4 Argon to make Subway Surfers for the new flying Tesla Roadster 🚀\n\nFly over moving traffic, hit the thrusters to barrel roll in the sky, and collect air power-ups to set a high score.\n\nPlay + code below!",
+      "likes": 2013,
+      "retweets": 134
+    },
+    {
+      "tweet_id": "2110730965056131375",
+      "author": "@leerob",
+      "text": "This architecture is also the future of coding btw.\n\nYou can think about Cursor Projects like \"Grok Bot for Coding\". It's the same idea, just with more visibility into subagents, context, etc if you want.\n\nIt's like GarageBand vs. Logic Pro, for my music friends.",
+      "likes": 846,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2110791698611855624",
+      "author": "@bcherny",
+      "text": "Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that we solve it across the industry. \n\nReally excited to partner with Gray Swan to host this competition. Can’t wait to see what you",
+      "likes": 743,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2110813795245249018",
+      "author": "@hwchase17",
+      "text": "Most of the interesting agent harness work is happening at intersection of harness and infra:\n\n1/ dreaming \n2/ async subagents\n3/ heartbeats\n4/ letting agent schedule reminders\n\nPart of reason im so bullish on managed agents platforms!\n\nAll of these in managed deep agents!",
+      "likes": 467,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2110744759111213217",
+      "author": "@GoogleAI",
+      "text": "See a fully-explorable 3D world build itself in minutes ⛩️\n\nWatch @GoogleDeepMind's @GeokenAI explain how Gemini 4 Argon acts as a virtual builder in @antigravity to autonomously create a stunning, multi-tiered pagoda sanctuary.",
+      "likes": 384,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2111003818511282343",
+      "author": "@reach_vb",
+      "text": "Just about ready to kick off!!\n\nexcited to see you all soon ;)",
+      "likes": 382,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2110778090851049746",
+      "author": "@svpino",
+      "text": "This is a company harness. Basically, you bring your team, data, and agents into the same workspace.\n\nEvery company will eventually move to this model. It makes much more sense than having everyone work in silos.\n\nI recorded a quick video about @kylon_ai. It's super fun to set",
+      "likes": 309,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2110784770489856278",
+      "author": "@svpino",
+      "text": "This is pretty bonkers:\n\nYou can text your website URL to this service, and they will send you back a branded agent phone number for your customers.\n\nYou can now share your agent line with your customers. Your customers can text your agent line and chat about your service and the",
+      "likes": 226,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2110596227352121368",
+      "author": "@reach_vb",
+      "text": "RESET IS SO BACK!!",
+      "likes": 228,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110755573843230774",
+      "author": "@reach_vb",
+      "text": "More compute, less disruptions! ✨",
+      "likes": 201,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111004062292275425",
+      "author": "@rpl_0x",
+      "text": "1,5 roku, najpierw eksperymentowałem. Dużo czytałem, testowałem, chłonąłem różne teorie i próbowałem przekuwać je w praktykę.\n\nNa początku moim konikiem były automatyzacje. Brałem zlecenia na automatyzacje, czy to w n8n, czy programistyczne, i przygotowałem sporo różnych",
+      "likes": 160,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110696529808048500",
+      "author": "@hwchase17",
+      "text": "Coding agents (Claude code, codex) -&gt; personal agents (instinct, muse) -&gt; companyOS (???)",
+      "likes": 144,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2110766726405411179",
+      "author": "@jerryjliu0",
+      "text": "Introducing ExtractBenchPro: the most challenging benchmark for real-world document extraction.\n\nWe see a massive long tail of document complexity in terms of use cases brought on from our customers, that are completely unsolved from a price-performance standpoint. These include",
+      "likes": 123,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2110927444316406049",
+      "author": "@reach_vb",
+      "text": "LFG! GPT Live 1.1 is out with the focus on better multilingual support!\n\nWith updates to French, German, Hindi, Mexican Spanish, Korean, and Japanese.\n\nBonus: less “checking…”\n\nRolling out in Codex, ChatGPT &amp; Dots - API coming soon ;)",
+      "likes": 130,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2111068390467203336",
+      "author": "@svpino",
+      "text": "We will build more software. We will need more software engineers.\n\nTechnological improvements that increase the efficiency of a resource actually lead to a rise, rather than a fall, in the total consumption of that resource.",
+      "likes": 117,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2111091543943807384",
+      "author": "@svpino",
+      "text": "This app will help you generate videos with AI, but it does something really interesting:\n\nIt will keep a record of every contribution you make. ← This is important!\n\n1. It helps you generate and edit videos.\n\n2. It checks for potential IP issues, scanning for recognizable",
+      "likes": 104,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2110832073942720996",
+      "author": "@svpino",
+      "text": "This is the end of stock images as we know it.\n\nThis will let you edit stock images before downloading them:\n\n• Change their background\n• Remove objects\n• Adjust lighting\n• Extend the image to a different layout",
+      "likes": 91,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2111147783537525240",
+      "author": "@svpino",
+      "text": "Choosing hotels based on reviews, using Jev to classify thousands of reviews quickly.\n\nThis is only possible thanks to Jev.",
+      "likes": 79,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110774357660443055",
+      "author": "@svpino",
+      "text": "This will let your agents use credentials without sharing them with the model.\n\nFor example, you can connect Codex to the vault using MCP and give it access to placeholder credentials to log in to a website.\n\nWhen Codex tries to log in, Agent Vault's proxy will replace the",
+      "likes": 76,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2111126086528680212",
+      "author": "@svpino",
+      "text": "Nobody likes killer-looking robots, but everyone loves these.\n\nThe difference is huge.\n\nThese guys spun off from Boston Dynamics and are now building real-life creatures that move around.\n\nI couldn't find many details on how they train these characters, but I read that they use",
+      "likes": 70,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2110870554639204407",
+      "author": "@jerryjliu0",
+      "text": "Document extraction is an arbitrarily complex reasoning problem for both frontier models and humans.\n\n✅ The schema encodes essentially hundreds of interrelated reasoning tasks\n✅ A PDF can be hundreds or even thousands of pages - it’s an open-world information environment for",
+      "likes": 58,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2111150762944516216",
+      "author": "@svpino",
+      "text": "You can show this model an image or a video, and it will answer any questions about it.\n\nIt goes way beyond what frontier models can do.\n\nFor example, Glimpse can tell you how objects in an image relate to each other, or how an action changes over time in a video.\n\nRobotic teams",
+      "likes": 58,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2110984816367706311",
+      "author": "@nauczymycieAI",
+      "text": "Do dzisiaj w komentarzach czytam, że AI to tylko slop. \n\nTymczasem AI (i to nie najlepszy dostępny na rynku model) deslopifikuje już ludzką naukę.\n\nJaki wskaźnik halucynacji ma doktor nauk ścisłych? I czy czasami nie jest wyższy niż AI?",
+      "likes": 50,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111226977265000576",
+      "author": "@jerryjliu0",
+      "text": "A lot of real-world documents embed extremely dense charts that require humans to not only \"perceive\" the chart values, but also reason over them and reconcile with other complex elements (e.g. tables) to solve a knowledge task.\n\nWe've encoded this complex chart+document",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111130404313080261",
+      "author": "@svpino",
+      "text": "It took me quite a while to get all of the paperwork for my LLC.\n\nBut that was a long time ago. You can now get an LLC and a business bank account in a single session:\n\n1. Enter your company name, state, owner details, and addresses\n\n2. Rho files your LLC paperwork and submits",
+      "likes": 40,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2111074033588412530",
+      "author": "@svpino",
+      "text": "I built a simple agent to handle refunds.\n\nIt didn't work.\n\nLet me show you how I messed this up and how I fixed it.",
+      "likes": 43,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111109529069047984",
+      "author": "@svpino",
+      "text": "We can use a lot more software. \nWe can also use better software. \n\nDemand for software right now is virtually infinite.",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2110904164922589427",
+      "author": "@jerryjliu0",
+      "text": "claude cowork really needs to let you fork a conversation\n\nthis feature exists in other apps (e.g. codex app, claude code cli). it's one of the main reasons i've been using codex as a daily driver for the past few months",
+      "likes": 40,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110802866994864484",
+      "author": "@nauczymycieAI",
+      "text": "Jak z AI korzysta się w dolinie krzemowej - czyli w miejscu, które najszybciej adoptuje nowe technologie?\n\nPopularne stały się \"szeptane biura\" - w których niemal wymaga się, żeby pracować z kilkoma agentami jednocześnie - korzystając z głosowych modeli transkrypcyjnych.\n\nPowód",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110923500408246287",
+      "author": "@jerryjliu0",
+      "text": "thought this was AI wtf",
+      "likes": 32,
+      "retweets": 1
+    }
+  ]
+}
