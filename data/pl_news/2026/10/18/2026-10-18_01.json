@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-18",
+  "slot": "01",
+  "generated_at": "2026-10-18T04:59:56Z",
+  "tweets": [
+    {
+      "tweet_id": "2111437550955155635",
+      "author": "@laskowski_pl",
+      "text": "Republika TV i jej przyjaciele zapomnieli, że policjanci mają kamery.",
+      "likes": 1659,
+      "retweets": 197
+    },
+    {
+      "tweet_id": "2111335942485155920",
+      "author": "@laskowski_pl",
+      "text": "Po 5 dniach, gdy wyszło na jaw, że jej wykształcenie jest kłamstwem i nie jest żadnym adwokatem, znaczy jest, ale dyplom zdobyła w Chinach, Trump musiał wyrzucić ją za burtę. \nJest coraz zabawniej, a wybory za 2 tygodnie.",
+      "likes": 284,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2111468642177081619",
+      "author": "@PAPinformacje",
+      "text": "Po wydarzeniach przy Trybunale Konstytucyjnym pod adresem dziennikarzy PAP padają obelgi i oskarżenia o świadome manipulowanie informacjami. Błąd rzeczywiście się zdarzył. Nie daje to jednak nikomu prawa do obrażania ludzi i przypisywania im intencji, na które nie ma żadnych",
+      "likes": 203,
+      "retweets": 27
+    },
+    {
+      "tweet_id": "2111460733297062308",
+      "author": "@PAPinformacje",
+      "text": "Maja Chwalińska wygrała z Igą Świątek 7:5, 6:1 w półfinale tenisowego turnieju WTA 1000 w Wuhan",
+      "likes": 211,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2110998784855425444",
+      "author": "@Macronextcom",
+      "text": "Wzrost gospodarczy w Polsce 🇵🇱 był jeszcze wyższy niż to wcześniej szacowano. \n\nGUS właśnie skorygował w górę wzrost polskiego #PKB w każdym z kwartałów od I kw. 2025 do II kw. 2026. \n\nW efekcie w II kw. 2026 PKB urósł o 4,1% r/r. 👇",
+      "likes": 175,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2111542079960875382",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura: Piotr W. ma zostać przewieziony na czynności. Policja chce aresztu wobec zatrzymanego ⤵️\n#PAPInformacje",
+      "likes": 95,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2110979844045410808",
+      "author": "@laskowski_pl",
+      "text": "Dresiarze to fajne chłopaki są - i nie zapraszam do dyskusji 😉\n\nMożna dresiarza ubrać w garnitur, można nauczyć robić piramidki z rąk, można wszystko, ale prawdziwa natura i tak z niego wyjdzie. Nie ważne czy to będzie niewygodne pytanie z sali czy też pomyłka podczas czytania z",
+      "likes": 40,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2111129538574917857",
+      "author": "@Macronextcom",
+      "text": "Republiki upadają, a #WIG  🇵🇱 rośnie dalej. 🚀\n\nIndeks właśnie przebił 160 tys.  🤯 📈  To już 8. kolejny kwartał wzrostów i 4. rok hossy na giełdzie w Warszawie.",
+      "likes": 44,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2110991566722511355",
+      "author": "@Macronextcom",
+      "text": "Kotecki (RPP) 🇵🇱: Jest szansa, że NBP osiągnie zysk w 2026 roku.\n\n---\nJeżeli tak się stanie to będzie to pierwszy zysk NBP od 5 lat. Rok 2025 bank centralny zamknął rekordową stratą w wysokości 35,74 mld zł.",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111540863855689926",
+      "author": "@PAPinformacje",
+      "text": "Papież Leon XIV opuścił w sobotę szpital w Rzymie i wrócił do Watykanu po wtorkowej operacji usunięcia nowotworu płuca. Rano lekarze uznali, że pozwalają na to wyniki badań kontrolnych. Papież został entuzjastycznie powitany przez setki osób przed Polikliniką Gemelli.",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111469335177032014",
+      "author": "@PAPinformacje",
+      "text": "Morawiecki: bez @RozwojPlus nie będzie można stworzyć dobrego rządu dla Polski\n#PAPinformacje",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2111466073174208535",
+      "author": "@PAPinformacje",
+      "text": "Trening w ramach Krajowego Treningu Rodzinnego Akademii Ochrony Ludności i Obrony Cywilnej w Warszawie. Wydarzenie było otwarte dla mieszkańców, którzy chcą nauczyć się, jak reagować na alarmy i alerty RCB oraz gdzie szukać schronienia w sytuacji zagrożenia. Do udziału zaproszone",
+      "likes": 17,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2111020267094802608",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Wiemy już jak wygląda rewizja wzrostu PKB dokonana przez GUS, ale tym razem dokładnie - po kwartałach. Popyt (konsumpcja i inwestycje) jest wyższy. Czy to dużo, czy mało, zależy od punktu widzenia. Popatrzmy na to przez pryzmat banku centralnego. 1/x",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111007488321392934",
+      "author": "@laskowski_pl",
+      "text": "Ilość negatywnych wpisów pod moim wpisami o @NawrockiKn drastycznie spadła, to kolejny przykład jak ubicie kilku ruskich serwerowni wpływa na jakość debaty na X. \nDobra robota Ukraino 😁",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111482249421984005",
+      "author": "@PAPinformacje",
+      "text": "Wenezuela. Liderka opozycji największym poparciem na prezydenta kraju ⤵️\n#PAPInformacje",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2111353769027924416",
+      "author": "@Macronextcom",
+      "text": "Tesla pokazała latający samochód 👇, a w przyszłym tygodniu #PGE pokaże nową strategię, #Quercus wyniki, Netflix wyniki i \"Cyberpunk: Edgerunners 2\" (ważne dla #CDProjekt), wyniki też opublikuje IBM, Tesla, Texas Instruments, 3M, GE, GM, P&amp;G, SAP i Halliburton.",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111504261339111653",
+      "author": "@PAPinformacje",
+      "text": "Zełenski o relacjach z Polską. \"Rzeczywiście się poprawiły\" ⤵️\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111516135606657044",
+      "author": "@PAPinformacje",
+      "text": "Polscy dyplomaci zaatakowani na Zachodnim Brzegu. MSZ uspokaja: nic im się nie stało\n#PAPinformacje",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111015416550371706",
+      "author": "@laskowski_pl",
+      "text": "Ważne! \n\nNie ma spójnej polityki cyfryzacji państwa, znaczy się formalnie jest, ale to tylko papier za którym nic nie idzie. \nWydajemy dziesiątki miliardów rocznie na amerykańskie rozwiązanie, a takie pomysły jak Polska Chmura Krajowa, to USA pod polską nazwą.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110984995254706309",
+      "author": "@laskowski_pl",
+      "text": "Udział w ciałach doradczych i debatach Prezydenta RP\n\nForum Debaty Publicznej (Kancelaria Prezydenta RP): Prof. Piotrowski brał udział w pracach i debatach eksperckich organizowanych przez KPRP ( w ramach opracowania Zielonej Księgi ws. Systemu stanowienia",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111532875304804592",
+      "author": "@PAPinformacje",
+      "text": "Rumuńskie myśliwce zestrzeliły dwa drony nad wodami terytorialnymi kraju ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2110996891177480285",
+      "author": "@GUS_STAT",
+      "text": "W porównaniu z poprzednim szacunkiem dynamika realnego PKB r/r wzrosła o 0,2 p. proc. w 1 i 2 kwartale 2026 r. Na rewizję wpłynęły m. in. zmiany w spożyciu publicznym i nakładach brutto na środki trwałe.\n\n🔗\n\n#GUS #PKB",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111325097499808053",
+      "author": "@DGPrawna",
+      "text": "Po atakach w szkołach wicepremier @KGawkowski  spotkał się z przedstawicielami cyfrowych gigantów. Co ustalili?",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2111089936099426658",
+      "author": "@mbank_research",
+      "text": "🇺🇸 Wrześniowa produkcja przemysłowa zaskakuje pozytywnie, a głównym powodem jest sektor energetyczny. Być może pomogła aktywność tamtejszych rafinerii przerabiających ropę naftową. Od początku roku trend produkcji jest mocno wzrostowy, a wrzesień tylko to potwierdza.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111418947970941036",
+      "author": "@laskowski_pl",
+      "text": "Między Waszyngtonem  a Moskwą - niemodna racja stanu.\n\n\"Na tle tej analizy uwarunkowań, choć  z konieczności skrótowej, łatwiej zrozumieć to, co dzieje się obecnie w sto licach Stanów Zjednoczonych i Rosji – oraz we wzajemnych relacjach obu  państw. \n\nZ jednej strony mamy",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111558551030165577",
+      "author": "@PAPinformacje",
+      "text": "Wielotysięczne demonstracje we Francji, przyćmione przez akty wandalizmu i grabieże ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111507728556347486",
+      "author": "@PAPinformacje",
+      "text": "Tragedia w Pruszczu Gdańskim. Szybowiec runął z 50 metrów, nie żyje pilot ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111482354833223928",
+      "author": "@PAPinformacje",
+      "text": "Maryla Rodowicz odsłoniła swoją gwiazdę w alei pod Wawelem ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111482171211034738",
+      "author": "@PAPinformacje",
+      "text": "Prokuratura wszczęła śledztwo ws. pożaru w Nisku, w którym zginęli dwaj strażacy ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111328539056460252",
+      "author": "@DGPrawna",
+      "text": "Za nic nie możesz się zgodzić na podpisanie kontraktu z armią. Jeśli ulegniesz presji, przepadłeś – mówi DGP Grigorij Swierdlin, kierownik inicjatywy Idźcie Lasem, pomagającej Rosjanom uchylać się od wysłania na wojnę z Ukrainą.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111057567258386822",
+      "author": "@DGPrawna",
+      "text": "Po nocnej prohibicji czas na małpki. Alkoholowe zakazy piętrzą się w Sejmie",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111043222843609240",
+      "author": "@DGPrawna",
+      "text": "Weksel, kara, sztywne ceny? Co sieć może wpisać do umowy franczyzy",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111025858249208292",
+      "author": "@DGPrawna",
+      "text": "178 dni zaległego urlopu sędziego Piotrowicza w TK. Co zrobi PIP?",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111010507113062470",
+      "author": "@DGPrawna",
+      "text": "Bezpłatna tomografia po 50. roku życia dla palaczy",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111681680876675326",
+      "author": "@PAPinformacje",
+      "text": "DORSZ: związku z podejrzeniem naruszenia przestrzeni powietrznej RP przez niezidentyfikowany obiekt, do którego mogło dojść minionej nocy, podjęto działania mające na celu weryfikację tego zdarzenia. (PAP)\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111522631665201576",
+      "author": "@DGPrawna",
+      "text": "Prezes PiS nie może się pogodzić z rosnącą rolą prezydenta na prawicy. Po raz pierwszy Kaczyński przestaje boksować w wadze ciężkiej, staje się jednym z wielu - mówi @PZgorzelskiP, szef Rady Naczelnej @nowePSL",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111357455733014779",
+      "author": "@DGPrawna",
+      "text": "Nie, nie o Trybunał Konstytucyjny, nie o sondaże i wybory tu chodzi, lecz o egoizm partyjnych elit. Najzwyczajniej w świecie nauczyły się one działać w warunkach demokracji gorączkowej. I tego oblicza demokracji chcą.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111017899658006769",
+      "author": "@DGPrawna",
+      "text": "Kontrola NIK w programie jądrowym. Polityczna potrzeba chwili wygrała z rozsądkiem?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111489916077293624",
+      "author": "@DGPrawna",
+      "text": "Ofiary urbanizacji i kryzysu mieszkalnictwa. Co mówi nam katastrofa w Nairobi",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111458711050793287",
+      "author": "@DGPrawna",
+      "text": "Woś obserwuje: dlaczego Nobel z ekonomii znów mnie nie zachwyca",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
