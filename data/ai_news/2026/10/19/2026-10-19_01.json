@@ -1,0 +1,93 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-19",
+  "slot": "01",
+  "generated_at": "2026-10-19T05:01:38Z",
+  "tweets": [
+    {
+      "tweet_id": "2111881963657412903",
+      "author": "@AnthropicAI",
+      "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can",
+      "likes": 14892,
+      "retweets": 1106
+    },
+    {
+      "tweet_id": "2111497018732613710",
+      "author": "@reach_vb",
+      "text": "Reset landing at EoD PST today! Enjoy!!",
+      "likes": 196,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112002870929473551",
+      "author": "@reach_vb",
+      "text": "You can now go back through a conversation, edit prompts and resume the conversation from there.\n\nIt works by discarding the messages/ tool calls post the edited prompt to make sure the model doesn’t get confused.\n\nThis has been a long requested feature, happy team shipped it!",
+      "likes": 182,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2111622533162336427",
+      "author": "@jerryjliu0",
+      "text": "There’s a crazy number of complicated PDFs out there.\n\nEach PDF is a self-contained environment for knowledge work, and it can take humans hours to read, analyze, and synthesize a document to solve their task.\n\n@llama_index is a research lab dedicated to pushing the frontier of",
+      "likes": 82,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2111886670312374531",
+      "author": "@jerryjliu0",
+      "text": "One of the most important challenges in advancing enterprise AI is creating evaluation benchmarks that reflect their real data and workflows - without using their actual data or workflows due to privacy/security restrictions \n\nWe see our customers upload a massive long tail of",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112041919782285712",
+      "author": "@reach_vb",
+      "text": "just boarded my flight out of India, honestly tired AF after an intense last few days\n\nbut energised from all the chats with devs, startups and enthusiasts I met over the past 4 days\n\nthanks for all the memories and brill conversations 🙌\n\nsee you in Berlin soon ;)",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111834430662652106",
+      "author": "@rpl_0x",
+      "text": "Sam środek Hiszpanii. Dookoła tylko czerwona, nieżyzna gleba, wypalone słońcem trawy i nagie skały. Powietrze faluje z gorąca, w ustach czuć rdzawy kurz, a przez dziesiątki kilometrów ciągnie się tylko kamienista pustka La Manchy, na której nic nie chce rosnąć.\n\nAż tu nagle",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111617664196157512",
+      "author": "@jerryjliu0",
+      "text": "my guy is running gradient descent on math",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111698203204898930",
+      "author": "@jerryjliu0",
+      "text": "All I can say after watching it is,\n\nI am so excited for The Rehearsal season 3",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112000167939641586",
+      "author": "@jerryjliu0",
+      "text": "it's crazy to see how universal the acclaim for YCSE is, despite the massive divergence in opinion in both interpretation as well as political affiliation.\n\nno one can agree on anything regarding any of the people/characters in the movie, but they all agree nathan fielder",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111513495837549021",
+      "author": "@Jakub_Kubajek",
+      "text": "🇵🇱Stan polskiego AI:\n\nNajlepszy model open-source w swojej klasie, stworzony przez jedną osobę, po godzinach i za własne pieniądze.",
+      "likes": 1186,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2111869526434255063",
+      "author": "@CKeruac",
+      "text": "basal-omni to nie model „od zera, w pełni polski”. To bardzo solidna specjalizacja Google Gemma 4 pod niszę typed-decision (szybkie, skalibrowane decyzje, routing, extract itp.).\nHype o „historycznym sukcesie polskiego open-source AI od podstaw” jest przesadzony, ale wyniki na",
+      "likes": 147,
+      "retweets": 4
+    }
+  ]
+}
