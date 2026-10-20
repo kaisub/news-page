@@ -1,0 +1,170 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-20",
+  "slot": "01",
+  "generated_at": "2026-10-20T05:18:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2111881963657412903",
+      "author": "@AnthropicAI",
+      "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can",
+      "likes": 20972,
+      "retweets": 1676
+    },
+    {
+      "tweet_id": "2112155578550321206",
+      "author": "@svpino",
+      "text": "Why would anyone spend money buying apps when they could spend 10x that amount buying tokens and wasting their weekends building everything from scratch?",
+      "likes": 592,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2112002870929473551",
+      "author": "@reach_vb",
+      "text": "You can now go back through a conversation, edit prompts and resume the conversation from there.\n\nIt works by discarding the messages/ tool calls post the edited prompt to make sure the model doesn’t get confused.\n\nThis has been a long requested feature, happy team shipped it!",
+      "likes": 304,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2112167632493269243",
+      "author": "@reach_vb",
+      "text": "icymi: you can now get ChatGPT to work in your Chrome tabs without installing the desktop app 🙌\n\ninstall the extension, open chatgpt com or the side panel, and you're good to go. it works with the tabs you already have open and the sites you're already signed into.\n\nin Chat, you",
+      "likes": 286,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2112274521671831824",
+      "author": "@ammaar",
+      "text": "Over 20,000 of you have played this since Friday!\n\nThe crazy part isn’t even this game Gemini 4 made, it’s how quickly the way in which we make games and bring our ideas to life has changed. \n\nA year ago, this would’ve taken a whole weekend of babysitting code and a ton of",
+      "likes": 235,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2112041919782285712",
+      "author": "@reach_vb",
+      "text": "just boarded my flight out of India, honestly tired AF after an intense last few days\n\nbut energised from all the chats with devs, startups and enthusiasts I met over the past 4 days\n\nthanks for all the memories and brill conversations 🙌\n\nsee you in Berlin soon ;)",
+      "likes": 216,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112223509946798474",
+      "author": "@svpino",
+      "text": "Instead of generating videos, Viggel’s JST-2 outputs 3D characters that move in their environment.\n\nIt combines character, motion, and scene generation into a single model:\n\n• Upload a photo and it creates the character\n• Describe how you want it to move, or upload a reference",
+      "likes": 160,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2112245934306504896",
+      "author": "@svpino",
+      "text": "Great way to explore new product concepts or compare alternatives with 3D designs!\n\nThis is an engineering world model.\n\nYou give it a text prompt or an image, and it generates a 3D assembly.\n\nLook at the examples: it breaks a design into smaller parts, creates each part in 3D,",
+      "likes": 111,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2112072486892556714",
+      "author": "@reach_vb",
+      "text": "blessed w/ Starlink at 11,581m above sea level!\n\nalmost giddy having internet this good in the sky. what an incredible time to be alive!!",
+      "likes": 104,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112236084365246635",
+      "author": "@svpino",
+      "text": "Speed up your code like crazy!\n\nMaxwell is a new kind of AI. It's a code execution model that speeds up your code on CPUs and GPUs.\n\n\"Code execution models\" are a new category of AI. Maxwell is the first one, but this category will explode in popularity, and you'll see why.\n\nSay",
+      "likes": 51,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112179638802006194",
+      "author": "@hwchase17",
+      "text": "love to see this integration",
+      "likes": 51,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2111886670312374531",
+      "author": "@jerryjliu0",
+      "text": "One of the most important challenges in advancing enterprise AI is creating evaluation benchmarks that reflect their real data and workflows - without using their actual data or workflows due to privacy/security restrictions \n\nWe see our customers upload a massive long tail of",
+      "likes": 37,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112122612101070934",
+      "author": "@svpino",
+      "text": "$10M for builders in Europe!\n\nFor those of you who wish you had enough compute to finish a project, this is your chance.",
+      "likes": 37,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2111834430662652106",
+      "author": "@rpl_0x",
+      "text": "Sam środek Hiszpanii. Dookoła tylko czerwona, nieżyzna gleba, wypalone słońcem trawy i nagie skały. Powietrze faluje z gorąca, w ustach czuć rdzawy kurz, a przez dziesiątki kilometrów ciągnie się tylko kamienista pustka La Manchy, na której nic nie chce rosnąć.\n\nAż tu nagle",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112316104664314301",
+      "author": "@jerryjliu0",
+      "text": "A lot of professional work around documents can be arbitrarily challenging to automate.\n\nIt not only requires deep visual perception/OCR around complex entities (diagrams/charts), but also requires a reasoning trace that can reconcile disparate sources of oftentimes contradictory",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112180812624085230",
+      "author": "@svpino",
+      "text": "November 3rd — Forge '26 — San Francisco.\n\nThis is probably one of the biggest AI events in the world.\n\nNVIDIA's Jensen Huang and DHH are hosting fireside chats. @FireworksAI_HQ's CEO, Lin Qiao, is doing the keynote.\n\nThe event is free, but you need to apply to attend.",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112126626276532542",
+      "author": "@sentient_agency",
+      "text": "Some OpenCode users found out their AI keys were stolen when the bill showed up, before the company had even told them.\n\nOpenCode makes a coding assistant. Its paid web dashboard, called Console, let people save their OpenAI, Anthropic and Google keys on OpenCode's servers.\n\nOn",
+      "likes": 12,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2112223817192063093",
+      "author": "@svpino",
+      "text": "This lets you rent a remote computer for AI work.\n\nYou select the hardware and location, and they will provision it for you.\n\nThe great thing is you can compare hardware across providers and choose the best price and availability.\n\nBasically, you can rent GPUs from multiple cloud",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112362186857386004",
+      "author": "@jerryjliu0",
+      "text": "Every RL environment is just a PDF environment if you're brave enough",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111698203204898930",
+      "author": "@jerryjliu0",
+      "text": "All I can say after watching it is,\n\nI am so excited for The Rehearsal season 3",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112000167939641586",
+      "author": "@jerryjliu0",
+      "text": "it's crazy to see how universal the acclaim for YCSE is, despite the massive divergence in opinion in both interpretation as well as political affiliation.\n\nno one can agree on anything regarding any of the people/characters in the movie, but they all agree nathan fielder",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112404455471841512",
+      "author": "@jerryjliu0",
+      "text": "if this is your introduction to nathan fielder, you have to watch the rehearsal s2 from start to finish\n\nit's a masterclass in television (98% on RT) and i'm pretty sure he interleaved filming with YCSE",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111869526434255063",
+      "author": "@CKeruac",
+      "text": "basal-omni to nie model „od zera, w pełni polski”. To bardzo solidna specjalizacja Google Gemma 4 pod niszę typed-decision (szybkie, skalibrowane decyzje, routing, extract itp.).\nHype o „historycznym sukcesie polskiego open-source AI od podstaw” jest przesadzony, ale wyniki na",
+      "likes": 192,
+      "retweets": 4
+    }
+  ]
+}

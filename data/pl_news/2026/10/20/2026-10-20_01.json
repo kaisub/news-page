@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-20",
+  "slot": "01",
+  "generated_at": "2026-10-20T05:18:21Z",
+  "tweets": [
+    {
+      "tweet_id": "2112273590674493612",
+      "author": "@PAPinformacje",
+      "text": "Jeśli prezydent Karol Nawrocki ma wpływ na prezydenta USA Donalda Trumpa, to nastał moment, by to wykorzystać; chodzi o to, żeby nie było Jałty II wobec Ukrainy - powiedział w wywiadzie dla PAP wicepremier, szef @MSZ_RP  Radosław Sikorski. Jak dodał, chodzi też o to, by wzmocnić",
+      "likes": 53,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2111695473895711007",
+      "author": "@laskowski_pl",
+      "text": "Pan @NawrockiKn chce szerokiego dostępu do broni w Polsce. \nOK, ale proszę nie na styl jego patrona z USA.",
+      "likes": 40,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112115655902392458",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 PGE wraca do dywidendy.\n\n\"Strategia #PGE przewiduje powrót do wypłacania dywidendy od zysku za 2026 rok, na poziomie stopy dywidendy niewyższej niż 5%\"\n\nPGE ostatni raz wypłaciła dywidendę w październiku 2016.",
+      "likes": 41,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2111689856997093597",
+      "author": "@laskowski_pl",
+      "text": "Zamieszki i grabieże sklepów we Francji i Włoszech. \nPutin do spółki z Trumpem, chyba nie muszę tłumaczyć, że działają razem, dowodów nie brakuje, chcą zdestabilizować Europę.",
+      "likes": 32,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2111744249230176526",
+      "author": "@laskowski_pl",
+      "text": "Obstrukcja – celowe przeciąganie lub utrudnianie działania bez wyraźnej odmowy.\n\nTo w przypadku ślubowań sędziów TK robi prezydent.",
+      "likes": 28,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112188572803428488",
+      "author": "@PAPinformacje",
+      "text": "Nawrocki: nie ma innej drogi do zostania sędzią niż złożenie przysięgi w obecności prezydenta ⤵️\n#PAPInformacje",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2111775634951176593",
+      "author": "@laskowski_pl",
+      "text": "J.D. Vance przyjeżdża do Europy i śmie nas pouczać o wolności słowa?",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112076291122029016",
+      "author": "@Macronextcom",
+      "text": "Analitycy Barclays podwyższyli cenę docelowa dla akcji #Pekao do 286 zł z 261 zł.  \n\nW piątek na koniec dnia tre akcje kosztowaly 267,20 zł.\n\nBANK PEKAO : BARCLAYS RAISES TARGET PRICE TO PLN 286 FROM PLN 261 (Reuters)",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112232273026413037",
+      "author": "@PAPinformacje",
+      "text": "Sikorski po rozmowie z szefem MSZ Izraela. Chodzi o dziennikarzy i dyplomatów na Zachodnim Brzegu ⤵️\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112101096013586681",
+      "author": "@mbank_research",
+      "text": "🇪🇺 Z ostatniej wypowiedzi Lagarde widać wyraźnie, gdzie myślenie EBC różni się od tego w NBP. Mianowicie, EBC działa zanim ujrzy filtrowanie się wysokich cen energii do gospodarki. NBP z kolei preferuje poczekać aż takowe filtrowanie ujrzy, zanim zacznie działać.",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112068567093195101",
+      "author": "@Macronextcom",
+      "text": "W III kw. 2026 r. wzrost #PKB Chin 🇨🇳 przyspieszył do 4,5% z 4,3% r/r w II kw., gdy był najniższy od 3 lat. Dane są lepsze od prognoz (4,4%).\n\nChińską gospodarkę napędza przede wszystkim eksport.",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112132598269153444",
+      "author": "@Macronextcom",
+      "text": "🇫🇷 Francuski indeks #CAC40 traci dziś -1,5%, a od szczytu z sierpnia spada już -10,5%.\n\nW ostatnich 3 latach giełda w Paryżu rosła, ale była wyraźnie w tyle za giełdami we 🇩🇪 Frankfurcie, 🇮🇹 Mediolanie, 🇪🇸 Madrycie, czy w 🇵🇱 Warszawie.\n\n(1/2)",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112193072834433168",
+      "author": "@Macronextcom",
+      "text": "Nie tylko Francja...",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112267710285365462",
+      "author": "@PAPinformacje",
+      "text": "RCB ostrzega mieszkańców Lubelszczyzny i Podkarpacia w związku z atakiem Rosji na Ukrainę\n\nRządowe Centrum Bezpieczeństwa wydało w poniedziałek kolejny tej doby alert w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. Alert wysłano do odbiorców na terenie Lubelszczyzny",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112172281652715604",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Tydzień z danymi z Polski.\n\n➡️20 X: Produkcja przemysłowa, produkcja budowlano-montażowa, PPI, płace i zatrudnienie\n➡️21 X: Koniunktura konsumencka\n➡️22 X: Sprzedaż detaliczna, koniunktura gospodarcza, podaż pieniądza\n➡️23 X: Bezrobocie \n\nKalendarz:",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112197151967109420",
+      "author": "@PAPinformacje",
+      "text": "🎖️ Uroczystym apelem, defiladą oraz odebraniem odznaczeń i awansów żołnierze 15. Brygady Łączności w Sieradzu uczcili święto jednostki.\n\nW ramach obchodów odsłonięto również tablicę upamiętniającą zamordowanych przez sowieckich oprawców wojskowych z 31. Pułku Strzelców",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112146676781580731",
+      "author": "@PAPinformacje",
+      "text": "Alert RCB w związku z atakiem powietrznym na terenie Ukrainy\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112190252416639035",
+      "author": "@PAPinformacje",
+      "text": "KE zapowiada kolejne zaostrzenie polityki wizowej wobec Rosjan\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112170969465045046",
+      "author": "@PAPinformacje",
+      "text": "Wybory w Brazylii. Bolsonaro i Lula starli się w pierwszej debacie przed drugą turą [WIDEO]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112192090310590501",
+      "author": "@PAPinformacje",
+      "text": "Gwałtownie ulewy w Hiszpanii, są ofiary śmiertelne. W wielu gminach nakaz pozostania w domu [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112148031801819270",
+      "author": "@GUS_STAT",
+      "text": "Masz firmę sprzed 2025 r.? \nSprawdź, czy we wpisie nadal masz kody PKD 2007. \n\nDo 31 grudnia możesz samodzielnie dostosować je do PKD 2025 i wybrać kod najlepiej opisujący działalność firmy.\n\n🔎 \n\n#GUS #PKD2025",
+      "likes": 1,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112084917979136246",
+      "author": "@GUS_STAT",
+      "text": "Średnia cena skupu żyta za 11 kwartałów poprzedzających kwartał poprzedzający rok podatkowy 2027 wyniosła 62 zł za 1 dt.\n\n🔗\n\n#GUS #rolnictwo #żyto",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112197251086905355",
+      "author": "@PAPinformacje",
+      "text": "Raport: młodzi nie ufają autorytetom, a źródłem ich wiedzy są  media społecznościowe ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112188456222830922",
+      "author": "@PAPinformacje",
+      "text": "Francja reaguje na zamieszki. Premier chce częściowej godziny policyjnej ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112176465165058352",
+      "author": "@PAPinformacje",
+      "text": "Będzie przełom w Szwecji? Liderka Partii Centrum otrzymała misję utworzenia rządu\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112084516143849941",
+      "author": "@GUS_STAT",
+      "text": "Średnia cena sprzedaży drewna* za pierwsze trzy kwartały 2026 r. wyniosła 312,02 zł za 1m3.\n\n*obliczana wg. średniej ceny drewna uzyskanej przez nadleśnictwa\n\n🔗\n\n#GUS #leśnictwo #drewno",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112407442885616103",
+      "author": "@DGPrawna",
+      "text": "Francja wprowadza godzinę policyjną, możliwy jest stan wyjątkowy",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112234572771410133",
+      "author": "@DGPrawna",
+      "text": "🎤 PODCAST \"Bez podatku\" | TSUE orzekł, że przekształcenie w spółkę osobową bez wniesienia wkładów jest bez PCC. Pod jakimi warunkami i jakie praktyczne skutki ma ten wyrok dla polskich przedsiębiorców?",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112401296137359849",
+      "author": "@PAPinformacje",
+      "text": "Kolejny alert RCB dla Lubelszczyzny w związku z atakiem Rosji na Ukrainę\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112254107985781105",
+      "author": "@PAPinformacje",
+      "text": "Cristiano Ronaldo ukarany za opuszczenie zgrupowania. Zapadła decyzja\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112245810473640109",
+      "author": "@PAPinformacje",
+      "text": "Alberta odłączy się od Kanady? Mieszkańcy prowincji głosują w referendum ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112197117968273460",
+      "author": "@PAPinformacje",
+      "text": "Policja po atakach w szkołach: sytuacja się ustabilizowała, nie zanotowano kolejnych zdarzeń ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112406770488648074",
+      "author": "@DGPrawna",
+      "text": "Coraz więcej osób ginie w starciu z e-hulajnogą. Problemem prędkość i wiek kierujących",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112287355206025498",
+      "author": "@PAPinformacje",
+      "text": "🔴 AKTUALIZACJA\n\n@RCB_RP  wydało w poniedziałek późnym wieczorem powiadomienie do odbiorców na terenie Lubelszczyzny i Podkarpacia, że nie ma już zagrożenia na terenie Polski w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. \n\nRCB rozesłało alert o treści: \"Uwaga!",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112256446239056077",
+      "author": "@PAPinformacje",
+      "text": "Polska wicemistrzyni olimpijska zawieszona. Wydała oświadczenie. \"Niedopatrzenie i natłok obowiązków\" ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112232845884141873",
+      "author": "@PAPinformacje",
+      "text": "Papież Leon XIV rozmawiał z Zełenskim. Czego dotyczyła rozmowa? ⤵️\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112084163734163624",
+      "author": "@GUS_STAT",
+      "text": "Ponad 1,17 mln osób korzystało z środowiskowej pomocy społecznej w Polsce w ub.r. To 3,1% ogółu ludności. W tej grupie było 680,5 tys. osób ubogich.\n\n🔗\n\n#GUS #PomocSpołeczna",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112265025465491512",
+      "author": "@DGPrawna",
+      "text": "Kościół nie zawsze może korzystać z cudzej muzyki, powołując się na koncert religijny",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112242626225492447",
+      "author": "@DGPrawna",
+      "text": "Infrastruktura krytyczna pod presją dronów. Nowe prawo daje narzędzie, ale czy tworzy system?",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112238850944749994",
+      "author": "@DGPrawna",
+      "text": "Wyższe stawki za terapię traumy. Resort zdrowia podnosi wyceny w pilotażu",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
