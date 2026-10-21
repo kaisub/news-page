@@ -1,0 +1,268 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-21",
+  "slot": "01",
+  "generated_at": "2026-10-21T05:04:05Z",
+  "tweets": [
+    {
+      "tweet_id": "2112579251555721573",
+      "author": "@AnthropicAI",
+      "text": "New on our Science Blog: designing protein binders against scorpion neurotoxins.\n\nScorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.",
+      "likes": 5734,
+      "retweets": 449
+    },
+    {
+      "tweet_id": "2112517943582196053",
+      "author": "@svpino",
+      "text": "In 1994, software was dead. People told me programming was for nerds and that I should become a doctor or a lawyer instead.\n\nIn 2004, software was dead. People told me that someone from India would take my job for $5/hour.\n\nIn 2014, software was dead. People told me that no-code",
+      "likes": 4209,
+      "retweets": 435
+    },
+    {
+      "tweet_id": "2112652656602923366",
+      "author": "@sama",
+      "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+      "likes": 4294,
+      "retweets": 143
+    },
+    {
+      "tweet_id": "2112662980391526713",
+      "author": "@svpino",
+      "text": "This will make language models generate text much faster.\n\nNormally, a model generates one token at a time.\n\nBut with this tool, a smaller helper model guesses several upcoming tokens, and the main model checks those guesses together.\n\nWhen the guesses are right, you get several",
+      "likes": 675,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112223509946798474",
+      "author": "@svpino",
+      "text": "Instead of generating videos, Viggel’s JST-2 outputs 3D characters that move in their environment.\n\nIt combines character, motion, and scene generation into a single model:\n\n• Upload a photo and it creates the character\n• Describe how you want it to move, or upload a reference",
+      "likes": 331,
+      "retweets": 31
+    },
+    {
+      "tweet_id": "2112274521671831824",
+      "author": "@ammaar",
+      "text": "Over 20,000 of you have played this since Friday!\n\nThe crazy part isn’t even this game Gemini 4 made, it’s how quickly the way in which we make games and bring our ideas to life has changed. \n\nA year ago, this would’ve taken a whole weekend of babysitting code and a ton of",
+      "likes": 330,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2112167632493269243",
+      "author": "@reach_vb",
+      "text": "icymi: you can now get ChatGPT to work in your Chrome tabs without installing the desktop app 🙌\n\ninstall the extension, open chatgpt com or the side panel, and you're good to go. it works with the tabs you already have open and the sites you're already signed into.\n\nin Chat, you",
+      "likes": 308,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2112559535420563892",
+      "author": "@svpino",
+      "text": "I still remember when the goal was to make these models sound like people.\n\nAnd now we are in the \"emotion\" phase. There's absolutely no way I can tell these voices apart from real people.\n\nListen to the examples and how easy it is to generate emotional text by describing how the",
+      "likes": 244,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2112489626061738209",
+      "author": "@hwchase17",
+      "text": "Would agree with this\n\nStart with a harness (I like deepagents)\n\nAdd context (skills, tools)\n\nThen if needed modify harness slightly (middleware in deepagents is goated for this)\n\nThen if needed make workflow with langgraph",
+      "likes": 246,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2112625360642666569",
+      "author": "@reach_vb",
+      "text": "they quantized me down to Q4_K_M at work today",
+      "likes": 183,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112441205896478848",
+      "author": "@reach_vb",
+      "text": "R E S E T ✨",
+      "likes": 159,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112245934306504896",
+      "author": "@svpino",
+      "text": "Great way to explore new product concepts or compare alternatives with 3D designs!\n\nThis is an engineering world model.\n\nYou give it a text prompt or an image, and it generates a 3D assembly.\n\nLook at the examples: it breaks a design into smaller parts, creates each part in 3D,",
+      "likes": 132,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2112471992435667163",
+      "author": "@hwchase17",
+      "text": "had a lot of fun talking with @HarryStebbings about all things ai\n\none line of questioning we went done - vertical vs horizontal agents, and how to build them\n\nim bullish on vertical agents, and i think you can create differentiation (from horizontal agents) in three ways:\n\n1/",
+      "likes": 114,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2112072486892556714",
+      "author": "@reach_vb",
+      "text": "blessed w/ Starlink at 11,581m above sea level!\n\nalmost giddy having internet this good in the sky. what an incredible time to be alive!!",
+      "likes": 105,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112650555852275951",
+      "author": "@hwchase17",
+      "text": "this is great deepdive into what a managed harness looks like! some quick thoughts while reading:\n\n- many diff types of agents built on it. doesnt surprise me - a lot of agents look very similar inside these days\n\n- why not use off the shelf? (1) model and provider agnostic), (2)",
+      "likes": 96,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112571293245886519",
+      "author": "@svpino",
+      "text": "This is pretty interesting:\n\nAn open-source memory and activity-recording layer for developers using coding agents such as Claude Code, Cursor, Codex, and OpenCode.\n\nThe idea is to collect session history across tools and turn it into reusable knowledge.\n\nAfter a session, this",
+      "likes": 89,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112593439921688797",
+      "author": "@svpino",
+      "text": "Here is a model that was trained specifically to create layered designs.\n\nThis is good because you can use it to design something, but you can also modify it later in any other editing software.\n\nUsually, when you generate an image with a regular model, you get a bunch of pixels.",
+      "likes": 66,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2112236084365246635",
+      "author": "@svpino",
+      "text": "Speed up your code like crazy!\n\nMaxwell is a new kind of AI. It's a code execution model that speeds up your code on CPUs and GPUs.\n\n\"Code execution models\" are a new category of AI. Maxwell is the first one, but this category will explode in popularity, and you'll see why.\n\nSay",
+      "likes": 82,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2112478242565202048",
+      "author": "@rpl_0x",
+      "text": "Chcąc coś budować w dobie AI, trzeba mieć świadomość zjawiska baniek informacyjnych.\n\nSzczególnie jeśli obracamy się wśród ludzi technicznych, tutaj na X, czy w społecznościach skupionych wokół AI.\n\nczasem łatwo jest odnieść wrażenie, że wszystko już istnieje, wszystko da się",
+      "likes": 83,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112362186857386004",
+      "author": "@jerryjliu0",
+      "text": "Every RL environment is just a PDF environment if you're brave enough",
+      "likes": 63,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112179638802006194",
+      "author": "@hwchase17",
+      "text": "love to see this integration",
+      "likes": 57,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2112451959256912112",
+      "author": "@rpl_0x",
+      "text": "Z wiadomych przyczyn nie pisałem o tym jak było eldorado.\nNa jednym poście, grafice, filmie dało się zarobić kilkaset złotych.\n\nFB dobrze płaciło za posty, mocno promowało treści, i dawało bonusy - kilkadziesiąt dolarów można było dostać za zwykłe udostępnienie na wybranych",
+      "likes": 56,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112523326715281745",
+      "author": "@rpl_0x",
+      "text": "Pod tym adresem możemy sprawdzić jakim aplikacją daliśmy jakie uprawniania do naszego konta google - warto regularnie sprawdzać i porządkować\n\nmyaccount [.] google [.] com/connections",
+      "likes": 51,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112602732984938689",
+      "author": "@hwchase17",
+      "text": "deep agents is the harness - the agent loop\n\nmanaged deep agents adds what you need once lots of people call the same agent: each user's own credentials and their own memory",
+      "likes": 53,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112625547775983938",
+      "author": "@nauczymycieAI",
+      "text": "Jak przygotować się na nadchodzące możliwości AI? Już teraz systematycznie buduj swojego codziennego asystenta. \n\nTo Twój pracownik, który wykona za Ciebie codzienne zadania, rozumiejąc Twój kontekst i Twoje potrzeby. Dzięki temu spędzisz mniej czasu na poprawki, a jakość",
+      "likes": 46,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112645417804718259",
+      "author": "@hwchase17",
+      "text": "great points by caspar on what makes building a \"company harness\" (companyOS? org harness?) hard\n\nand how MDA solves them!",
+      "likes": 43,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112575573868654888",
+      "author": "@svpino",
+      "text": "I bet we'll see robots doing all of these boring tasks at home in our lifetimes.\n\nWe are getting closer and closer.\n\nCheck this one out: you can ask it to bring you a book, put things away, water plants, and find your wallet.\n\nThe robot has cameras to locate objects and can",
+      "likes": 43,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112621016518377491",
+      "author": "@hwchase17",
+      "text": "the useful part of a judge on production traffic is what happens to the outputs it flags\n\ncalibrate it on human labels, flag low scorers, confirm the real failures, add them to evals, fix, rerun\n\nprod finds the failures your offline dataset never had",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112683748131299683",
+      "author": "@hwchase17",
+      "text": "we're rolling out redteaming to more users\n\nredteaming may be bit of misnomer - this is less security, more finding places the agent messes up\n\ndm me if interested in trying",
+      "likes": 33,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112316104664314301",
+      "author": "@jerryjliu0",
+      "text": "A lot of professional work around documents can be arbitrarily challenging to automate.\n\nIt not only requires deep visual perception/OCR around complex entities (diagrams/charts), but also requires a reasoning trace that can reconcile disparate sources of oftentimes contradictory",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112554298240541064",
+      "author": "@svpino",
+      "text": "This is something I want on every of my assistants:\n\nI want a physical button that I can press to capture my thoughts and send them to my assistant without having to interrupt whatever I’m doing.",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112223817192063093",
+      "author": "@svpino",
+      "text": "This lets you rent a remote computer for AI work.\n\nYou select the hardware and location, and they will provision it for you.\n\nThe great thing is you can compare hardware across providers and choose the best price and availability.\n\nBasically, you can rent GPUs from multiple cloud",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112597225998364764",
+      "author": "@svpino",
+      "text": "When you send a prompt to a model, a couple of things happen:\n\n1. The model processes the prompt and generates the first token (prefill stage).\n\n2. Then, the model continuously processes the prompt + new tokens until it produces the complete answer (decode stage)\n\nThese guys are",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112126626276532542",
+      "author": "@sentient_agency",
+      "text": "Some OpenCode users found out their AI keys were stolen when the bill showed up, before the company had even told them.\n\nOpenCode makes a coding assistant. Its paid web dashboard, called Console, let people save their OpenAI, Anthropic and Google keys on OpenCode's servers.\n\nOn",
+      "likes": 12,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2112404455471841512",
+      "author": "@jerryjliu0",
+      "text": "if this is your introduction to nathan fielder, you have to watch the rehearsal s2 from start to finish\n\nit's a masterclass in television (98% on RT) and i'm pretty sure he interleaved filming with YCSE",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112590167638991120",
+      "author": "@svpino",
+      "text": "If your company paid for GPUs and you want to make extra money, you can rent any idle capacity with Shadeform Flex VMs.\n\nAs long as those GPUs are hosted in a Tier 3 or Tier 4 data center, you can make them available as rentable compute using the Shadeform marketplace.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112622180462928257",
+      "author": "@jerryjliu0",
+      "text": "we delivered big boxes of arsicault (and llamaparse $$) to startups all over the city.\n\nif you're a startup with PDFs and you like arsicault, come talk to us 🙂\n\nhuge shoutout to @imaanxsultan for running this!",
+      "likes": 10,
+      "retweets": 0
+    }
+  ]
+}

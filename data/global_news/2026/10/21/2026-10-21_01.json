@@ -1,0 +1,289 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-10-21",
+  "slot": "01",
+  "generated_at": "2026-10-21T05:04:06Z",
+  "tweets": [
+    {
+      "tweet_id": "2112138349997863271",
+      "author": "@OSW_pl",
+      "text": "Jakie są skutki ataków na centra danych w Rosji?\n\n1⃣  Zniszczenia uderzają bezpośrednio także w interesy putinowskiej elity. Jej członkowie kontrolują w zasadzie wszystkie dochodowe koncerny w Rosji, w tym Yandex i VK. \n\n1/4",
+      "likes": 314,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2112603449149821175",
+      "author": "@RadekPyffel",
+      "text": "Bardzo ostre, wręcz szokujące słowa Rafała Brzoski na wczorajszym Forum Idee dla Polski Instytutu Sobieskiego dotyczące polityki wielkich mocarstw.\n\nPrzyznam, że się nie spodziewałem.",
+      "likes": 183,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2112196132923142533",
+      "author": "@RadekPyffel",
+      "text": "Trochę chyba jednak zaskakująca sytuacja. Podczas wizyty w Indiach premier Netanjahu stwierdził, że istnieje ryzyko, że przyszły prezydent USA może zająć wrogie stanowisko wobec Izraela, dlatego Izrael będzie dywersyfikował.\n\nNetanjahu stwierdził, że Tel Awiw maksymalnie",
+      "likes": 79,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112561909228552461",
+      "author": "@RadekPyffel",
+      "text": "Coraz gorzej w relacjach Ukraina-Korea.\n\nSeul zdecydował o wycofaniu kolejnych pracowników z koreańskiej ambasady w Kijowie.\n\nMinisterstwo spraw zagranicznych Korei Południowej zarzuca Kijowowi brak wystarczającej reakcji na spór o ujawnienie transferu dwóch schwytanych",
+      "likes": 57,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112168638451273925",
+      "author": "@OSW_pl",
+      "text": "Straty, jakie powodują uszkodzenia centrów danych, mogą okazać się wyższe niż w przypadku ataków na platformy handlu detalicznego. \n\nYandex posiada niemal monopolistyczną pozycję na rynku komercyjnych usług technologicznych.",
+      "likes": 46,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112205269778276468",
+      "author": "@RadekPyffel",
+      "text": "Ciekawe i chyba trochę zaskakujące posunięcie Sekretarza Stanu USA Marco Rubio, który przybył do Samarkandy i przygotowuje się do rozmów z przywódcami grupy C5 skupiającej państwa Azji Środkowej (stanowiących formalnie strefę wpływów Rosji, a fajtycznie w coraz większym stopniu",
+      "likes": 39,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112556153943044391",
+      "author": "@RadekPyffel",
+      "text": "Szykuje się pogrom separatystów w stanie Alberta. Wygląda na to, że zwolennicy pozostania w Kanadzie wygrywają referendum aż 75 do 25.",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112517030645534822",
+      "author": "@RadekPyffel",
+      "text": "Niestety... Godziny policyjne we Francji.\n\nPo weekendowych zamieszkach w Paryżu i innych miastach francuskie władze zdecydowały się na wprowadzenie ograniczenia poruszania się w wybranych rejonach. \n\nPlac Republiki patrolował policyjny śmigłowiec, a premier Sébastien Lecornu",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112473199535419508",
+      "author": "@OSW_pl",
+      "text": "„Przesunięcie obecności wojsk amerykańskich przede wszystkim na wschód, przy jednoczesnej redukcji na całym kontynencie, może być rozwiązaniem pośrednim, które pozwoli zjeść ciastko i mieć ciastko” - mówił o  bazach USA w Polsce @TarocinskiJacek.",
+      "likes": 25,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112474034453819406",
+      "author": "@OSW_pl",
+      "text": "„Według ostatnich sondaży żaden z bloków, które się zarysowują, nie uzyska większości. Wynik jest bardzo zbliżony, ale obydwu blokom brakuje około 10 mandatów” - mówił o zbliżających się wyborach w Izraelu Marek Matusiak.",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112090338743496760",
+      "author": "@RadekPyffel",
+      "text": "Ogromne zainteresowanie sesją plenarną III Forum Idee dla Polski \"Nowy System Operacyjny- Strategia na 2027-2037\" \n\nWygląda na to, że w Centrum Nauki Kopernik  brakuje miejsc siedzących.\n\nDobry początek dnia @InstSobieskiego",
+      "likes": 20,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112128278588952725",
+      "author": "@OSW_pl",
+      "text": "Na wschodzie Niemiec sprzeciw wobec wsparcia dla Ukrainy jest wyraźny – 50% badanych w byłej NRD domaga się ograniczenia pomocy, podczas gdy na zachodzie kraju odsetek ten wynosi 41%.",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112189160677118158",
+      "author": "@RadekPyffel",
+      "text": "Według dziennika „Beijing Daily” do 2035 roku aż 1/3 mieszkańców stolicy Chin będzie miała 60 lat i więcej. \n\nWładze ChRL aby przeciwdziałać gwałtownemu starzeniu się populacji planują (oprócz automatyzacji, robotyzacji i przechodzenia na AI) przeznaczyć około 27 mld $ na",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112095508944531863",
+      "author": "@RadekPyffel",
+      "text": "Ciekawa debata polityczna na otwarcie III Forum Idee dla Polski \"Nowy System Operacyjny- strategia na 2027-2037\".\n\nOczywìscie sporo taktyki politycznej (i bieżącej polityki) ale też- co dość rzadko się w Polsce zdarza- dyskusja o elementach strategicznych (i na serio).\n\nNie wiem",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112528444705640529",
+      "author": "@OSW_pl",
+      "text": "[WAŻNY FILM]\n\nJuż wkrótce wybory w Izraelu. W związku z tym prezentujemy obszerne kompendium wiedzy o scenie politycznej Izraela.\n\nNasz ekspert Marek Matusiak omawia:\n▪️partie polityczne Izraela,\n▪️charakterystykę sceny politycznej,\n▪️ew. możliwość zmian.",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112431307829444800",
+      "author": "@RadekPyffel",
+      "text": "Niestety wojny celne i hybrydowe najwyraźniej z roku na rok coraz bardziej rozstrajają psychicznie i dekoncentrują młodzież z Europy i Polski utrudniając osiąganie mistrzowskiego poziomu w grze na fortepianie (konkurs chopinowski) i skrzypcach (Konkurs Skrzypcowy im",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112534673033216288",
+      "author": "@OSW_pl",
+      "text": "„Przyjęcie ustawy wzmocni wpływ MSW, obecnie pod kontrolą CSU, na politykę historyczną RFN. Ponadto poprzez wskazanie, że upamiętnienia wysiedleń mają koncentrować się na doświadczeniach Niemców”\n\nWięcej w tekście @KamilFrymark.",
+      "likes": 12,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112472486231056703",
+      "author": "@OSW_pl",
+      "text": "„Jest to pierwsze naprawdę mocne rozmiękczenie reżimu sankcyjnego przez administrację Trumpa. Ważniejszy jest tu wymiar polityczny, niż budżetowy” - o ostatnich decyzjach Donalda Trumpa mówił @RudnikFilip.",
+      "likes": 12,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112568048486117517",
+      "author": "@OSW_pl",
+      "text": "Misja Obserwacyjna ONZ ds. Praw Człowieka na Ukrainie powiadomiła o utrzymującej się rekordowo wysokiej liczbie ofiar cywilnych rosyjskich ataków. \n\nWe wrześniu zginęło co najmniej 328 cywilów, a 2105 zostało rannych.",
+      "likes": 12,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112541300008636700",
+      "author": "@OSW_pl",
+      "text": "W #podcastOSW omawiamy zmiany w unijnej polityce wobec Chin.\n\n◾️ Jak Unia chce walczyć z zależnością od Chin?\n◾️Co zdecydowała Rada Europejska?\n◾️Skąd biorą się zmiany w podejściu do Pekinu?\n\nNa te pytania odpowiadają @J_Jakobowski i @MKalwasinski.",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112553957075632607",
+      "author": "@OSW_pl",
+      "text": "W Czechach zakończył się tygodniowy cykl wyborów do Senatu (izby wyższej) i samorządów lokalnych\n\nW pierwszym poważnym teście po roku od wyborów do Izby Poselskiej partie koalicji rządzącej dostały sygnał ostrzegawczy.\n\nWięcej w analizie @DebiecKrzysztof.",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112593086861672876",
+      "author": "@RadekPyffel",
+      "text": "Marco Rubio rozpoczął wizytę w Indiach, w czasie której ma rozmawiać z ministrem S. Jaishankarem i przedstawicielami biznesu. \n\nWaszyngton i Nowe Delhi sygnalizują bliskość porozumienia handlowego.\n\nWażnym elementem pozostaje indyjski import rosyjskiej ropy, na który już teraz",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112566405891571978",
+      "author": "@RadekPyffel",
+      "text": "W ten czwartek o 18.00 Azja na Koszykowej i Malezja oraz Indonezja wobec wyzwań współczesności.\n\nSerdecznie zapraszam:",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112103920788996347",
+      "author": "@RadekPyffel",
+      "text": "Wojna o Trybunał, przypadki Michała Kołodziejczaka, nowa dynamika w Europie, Boże Igrzyska w Polsce i kolejny Nadwiślański Cross z @lkwarzecha \n\nPolecam w wolnej chwili:",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112181916296237431",
+      "author": "@MarioBojic",
+      "text": "🚨🇫🇷French President Emmanuel Macron has traveled to the UAE while France is literally in a civil war.\n\nLet me repeat: while his country is burning to the ground, Macron is touring the Middle East.\n\nYou can't make this shit up.",
+      "likes": 33606,
+      "retweets": 9470
+    },
+    {
+      "tweet_id": "2112310323134759109",
+      "author": "@Ryan_Parkerrr",
+      "text": "BREAKING: President Trump is pushing to publicly release a classified Ukraine funding report. Opponents warn it would collapse both parties and send many lawmakers to prison.\n\nA. Release it. Let the sky fall.  \nB. Keep it sealed.",
+      "likes": 23520,
+      "retweets": 3993
+    },
+    {
+      "tweet_id": "2112469093882183755",
+      "author": "@visegrad24",
+      "text": "A French woman says that the rioters and looters broke into her building and threatened her with rape while she was holding her child in her arms.\n\n“That’s collateral damage” responds the feminist activist Bettina Zourli who holds a Master’s in gender studies and focuses her work",
+      "likes": 20235,
+      "retweets": 5586
+    },
+    {
+      "tweet_id": "2112508980048155019",
+      "author": "@GOP_is_Gutless",
+      "text": "🚨This is a MUST READ:  it’s a post from a French Citizen: Brivael Le Pogam, this is the best description of what has occurred in France I have seen, read his words:\n\nLe Pogam: “To every American, and to everyone watching France burn from abroad:\n\nDo not blame the French people",
+      "likes": 17036,
+      "retweets": 7091
+    },
+    {
+      "tweet_id": "2112247550434795858",
+      "author": "@DocStrangelove2",
+      "text": "&gt;MW4 releases\n&gt;plot about North Korea invading South Korea\n&gt;Kim Jong Un allegedly eats it a day later",
+      "likes": 21740,
+      "retweets": 1356
+    },
+    {
+      "tweet_id": "2112337460537839976",
+      "author": "@RapidResponse47",
+      "text": ".@POTUS: If you want to see what is at stake in this election, just look at what's happening in France — a once-great nation that is being conquered, looted, and burned to the ground by migrants, jihadists, and Communists who hate Christianity and Western civilization itself.",
+      "likes": 8098,
+      "retweets": 1895
+    },
+    {
+      "tweet_id": "2112408982908547111",
+      "author": "@ConflictM0nitor",
+      "text": "🇸🇦⚖️ SAUDI ARABIA: EXECUTIONS BY NATIONALITY\n\n490 foreign nationals were executed in Saudi Arabia between 2010 and 2021, including:\n\n🇵🇰 Pakistan: 164\n🇾🇪 Yemen: 92\n🇸🇾 Syria: 58\n🇪🇬 Egypt: 26\n🇯🇴 Jordan: 25\n🇳🇬 Nigeria: 17\n🇧🇩 Bangladesh: 16\n🇪🇹 Ethiopia: 15\n🇹🇩 Chad: 14\n\n#SaudiArabia",
+      "likes": 7565,
+      "retweets": 1219
+    },
+    {
+      "tweet_id": "2112151784773083137",
+      "author": "@realvictorbout",
+      "text": "A reminder for those who forgot that the Ukrainian Maidan was a staged coup",
+      "likes": 6527,
+      "retweets": 1138
+    },
+    {
+      "tweet_id": "2112618231559283037",
+      "author": "@brivael",
+      "text": "In my last two threads, I explained how communists have always taken power, what DataRepublican just uncovered, and how to counter it. Today I have one message, and it's for Donald Trump: be very careful.\n\nThe most dangerous part of their plan isn't what they will do. It's what",
+      "likes": 5283,
+      "retweets": 1901
+    },
+    {
+      "tweet_id": "2112195174466236567",
+      "author": "@Propeertys",
+      "text": "Kolejne centrum danych w Rosji przeszło w tryb zdalny 😂😂😂",
+      "likes": 5779,
+      "retweets": 767
+    },
+    {
+      "tweet_id": "2112529058663637126",
+      "author": "@Franklin_Graham",
+      "text": "What has been happening in France is shameful. @SpeakerJohnson wrote: “France is descending into chaos because they wanted OPEN BORDERS—just like the socialist Democrats in America. What we are witnessing is a chilling warning for all Americans of what happens when the radical",
+      "likes": 4852,
+      "retweets": 1502
+    },
+    {
+      "tweet_id": "2112557505897468337",
+      "author": "@fugitivemama",
+      "text": "Why are you involved in planning a coup against the President @GovBobFerguson?",
+      "likes": 4557,
+      "retweets": 1546
+    },
+    {
+      "tweet_id": "2112351642750447769",
+      "author": "@JustinWStapley",
+      "text": "I'm getting sick and tired of these Putin apologists acting like the war in Ukraine is some kind of natural disaster that Putin just found himself in and that Ukraine wants to perpetuate.\n\nPutin started the war. Russia invaded Ukraine. Ukraine wants to be free. \n\nHow is this",
+      "likes": 5316,
+      "retweets": 747
+    },
+    {
+      "tweet_id": "2112105895329194492",
+      "author": "@OlgaBazova",
+      "text": "‼️JUST IN: Macron presented evidence of Russian involvement in the protests in France.",
+      "likes": 4761,
+      "retweets": 739
+    },
+    {
+      "tweet_id": "2112443161679118767",
+      "author": "@JonWiltshire_",
+      "text": "This latest article from Thomas Pikkety, the renowned French economist and leading authority on wealth inequality, should be essential reading here in the UK.\n\nHis argument is simple.\n\nFrance has never been wealthier. Yet education funding per student has fallen by 20% since",
+      "likes": 3837,
+      "retweets": 1609
+    },
+    {
+      "tweet_id": "2112337183952777360",
+      "author": "@cavalierpatriot",
+      "text": "The civil war was a communist revolution",
+      "likes": 4346,
+      "retweets": 277
+    }
+  ]
+}
