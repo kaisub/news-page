@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-22",
+  "slot": "01",
+  "generated_at": "2026-10-22T05:16:03Z",
+  "tweets": [
+    {
+      "tweet_id": "2112984664256241837",
+      "author": "@claudeai",
+      "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf.",
+      "likes": 42740,
+      "retweets": 3239
+    },
+    {
+      "tweet_id": "2112962248218148878",
+      "author": "@claudeai",
+      "text": "Claude Security now keeps up with your code as it changes.\n\nConnect your repositories once. Claude runs a deep first scan, then re-scans as changes land, so findings stay close to the current state of your code.\n\nIn public beta on Claude Enterprise.",
+      "likes": 7923,
+      "retweets": 404
+    },
+    {
+      "tweet_id": "2112579251555721573",
+      "author": "@AnthropicAI",
+      "text": "New on our Science Blog: designing protein binders against scorpion neurotoxins.\n\nScorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.",
+      "likes": 7214,
+      "retweets": 608
+    },
+    {
+      "tweet_id": "2112652656602923366",
+      "author": "@sama",
+      "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+      "likes": 6769,
+      "retweets": 233
+    },
+    {
+      "tweet_id": "2112517943582196053",
+      "author": "@svpino",
+      "text": "In 1994, software was dead. People told me programming was for nerds and that I should become a doctor or a lawyer instead.\n\nIn 2004, software was dead. People told me that someone from India would take my job for $5/hour.\n\nIn 2014, software was dead. People told me that no-code",
+      "likes": 4790,
+      "retweets": 507
+    },
+    {
+      "tweet_id": "2112966949273801086",
+      "author": "@AnthropicAI",
+      "text": "Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we’re taking to advance them. \n\nRead the full report at this page:",
+      "likes": 2114,
+      "retweets": 181
+    },
+    {
+      "tweet_id": "2112946750264676743",
+      "author": "@AnthropicAI",
+      "text": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more:",
+      "likes": 1737,
+      "retweets": 97
+    },
+    {
+      "tweet_id": "2112662980391526713",
+      "author": "@svpino",
+      "text": "This will make language models generate text much faster.\n\nNormally, a model generates one token at a time.\n\nBut with this tool, a smaller helper model guesses several upcoming tokens, and the main model checks those guesses together.\n\nWhen the guesses are right, you get several",
+      "likes": 1354,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2113008819328700439",
+      "author": "@jerryjliu0",
+      "text": "Congrats to @nvidia for creating the best open-weight model on document parsing so far.\n\nNemotron 3.5 Parse takes the #1 spot on ParseBench, our comprehensive real-world benchmark for document  understanding. The full list consists of 150+ frontier models, open-weight models, and",
+      "likes": 617,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2112887880272249008",
+      "author": "@svpino",
+      "text": "A programmer and a software engineer aren’t the same.\n\nI’ve known many people who made a living writing code, but they were always a cog in a larger process they never understood.\n\nFrontier models can do that job today. 1000x better.\n\nSoftware engineers can write code, but they",
+      "likes": 379,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2112559535420563892",
+      "author": "@svpino",
+      "text": "I still remember when the goal was to make these models sound like people.\n\nAnd now we are in the \"emotion\" phase. There's absolutely no way I can tell these voices apart from real people.\n\nListen to the examples and how easy it is to generate emotional text by describing how the",
+      "likes": 316,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2112946818913067163",
+      "author": "@svpino",
+      "text": "Here is an open-weight coding model you can run locally on your computer.\n\nIt's a 40B parameter model with a mixture-of-experts architecture. It activates 2.5B parameters per generated token. 512K context window.\n\nThis thing runs on regular computers! 125 tokens/sec on an M4",
+      "likes": 263,
+      "retweets": 51
+    },
+    {
+      "tweet_id": "2112489626061738209",
+      "author": "@hwchase17",
+      "text": "Would agree with this\n\nStart with a harness (I like deepagents)\n\nAdd context (skills, tools)\n\nThen if needed modify harness slightly (middleware in deepagents is goated for this)\n\nThen if needed make workflow with langgraph",
+      "likes": 264,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2112625360642666569",
+      "author": "@reach_vb",
+      "text": "they quantized me down to Q4_K_M at work today",
+      "likes": 248,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112982643738362295",
+      "author": "@reach_vb",
+      "text": "Excited to ship an update to our Codex for OSS grants - all grants are automatically upgraded to Pro 200 \n\nWe're committed to provide access to software/ tools of today to open source software that keeps our world moving!\n\nIf you haven't already apply today!",
+      "likes": 184,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2112441205896478848",
+      "author": "@reach_vb",
+      "text": "R E S E T ✨",
+      "likes": 162,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112650555852275951",
+      "author": "@hwchase17",
+      "text": "this is great deepdive into what a managed harness looks like! some quick thoughts while reading:\n\n- many diff types of agents built on it. doesnt surprise me - a lot of agents look very similar inside these days\n\n- why not use off the shelf? (1) model and provider agnostic), (2)",
+      "likes": 139,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2112471992435667163",
+      "author": "@hwchase17",
+      "text": "had a lot of fun talking with @HarryStebbings about all things ai\n\none line of questioning we went done - vertical vs horizontal agents, and how to build them\n\nim bullish on vertical agents, and i think you can create differentiation (from horizontal agents) in three ways:\n\n1/",
+      "likes": 121,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2112902480778706957",
+      "author": "@svpino",
+      "text": "Redis is cutting down the cost of running AI applications:\n\n1. Semantic caching — Reuses generated answers from previous requests as long as they are sufficiently similar\n\n2. Persistent memory — Retrieves relevant conversation context instead of requiring the full history in",
+      "likes": 112,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2112571293245886519",
+      "author": "@svpino",
+      "text": "This is pretty interesting:\n\nAn open-source memory and activity-recording layer for developers using coding agents such as Claude Code, Cursor, Codex, and OpenCode.\n\nThe idea is to collect session history across tools and turn it into reusable knowledge.\n\nAfter a session, this",
+      "likes": 109,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2112593439921688797",
+      "author": "@svpino",
+      "text": "Here is a model that was trained specifically to create layered designs.\n\nThis is good because you can use it to design something, but you can also modify it later in any other editing software.\n\nUsually, when you generate an image with a regular model, you get a bunch of pixels.",
+      "likes": 70,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2112478242565202048",
+      "author": "@rpl_0x",
+      "text": "Chcąc coś budować w dobie AI, trzeba mieć świadomość zjawiska baniek informacyjnych.\n\nSzczególnie jeśli obracamy się wśród ludzi technicznych, tutaj na X, czy w społecznościach skupionych wokół AI.\n\nczasem łatwo jest odnieść wrażenie, że wszystko już istnieje, wszystko da się",
+      "likes": 87,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112917260587442617",
+      "author": "@svpino",
+      "text": "I haven't talked to a single company that thinks it needs a better model to do what it wants.\n\nI think we have far more \"intelligence\" than we can use, and the biggest problem today is organizing knowledge and using it with the models we have.\n\nThese guys are doing something",
+      "likes": 80,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112983115215802417",
+      "author": "@hwchase17",
+      "text": "the traces you already log are training data - keep the runs that did the task well, fine-tune a small model on them, eval on your task\n\na 9B model beating frontier models makes sense when it's trained on exactly your task\n\nsmithtune:",
+      "likes": 75,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2112602732984938689",
+      "author": "@hwchase17",
+      "text": "deep agents is the harness - the agent loop\n\nmanaged deep agents adds what you need once lots of people call the same agent: each user's own credentials and their own memory",
+      "likes": 70,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112645417804718259",
+      "author": "@hwchase17",
+      "text": "great points by caspar on what makes building a \"company harness\" (companyOS? org harness?) hard\n\nand how MDA solves them!",
+      "likes": 68,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2112625547775983938",
+      "author": "@nauczymycieAI",
+      "text": "Jak przygotować się na nadchodzące możliwości AI? Już teraz systematycznie buduj swojego codziennego asystenta. \n\nTo Twój pracownik, który wykona za Ciebie codzienne zadania, rozumiejąc Twój kontekst i Twoje potrzeby. Dzięki temu spędzisz mniej czasu na poprawki, a jakość",
+      "likes": 69,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2112871824425890155",
+      "author": "@rpl_0x",
+      "text": "Sekret skutecznych agentów AI nie tkwi tylko w modelu. Poznaj Harness Engineering",
+      "likes": 64,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112451959256912112",
+      "author": "@rpl_0x",
+      "text": "Z wiadomych przyczyn nie pisałem o tym jak było eldorado.\nNa jednym poście, grafice, filmie dało się zarobić kilkaset złotych.\n\nFB dobrze płaciło za posty, mocno promowało treści, i dawało bonusy - kilkadziesiąt dolarów można było dostać za zwykłe udostępnienie na wybranych",
+      "likes": 63,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112683748131299683",
+      "author": "@hwchase17",
+      "text": "we're rolling out redteaming to more users\n\nredteaming may be bit of misnomer - this is less security, more finding places the agent messes up\n\ndm me if interested in trying",
+      "likes": 57,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112523326715281745",
+      "author": "@rpl_0x",
+      "text": "Pod tym adresem możemy sprawdzić jakim aplikacją daliśmy jakie uprawniania do naszego konta google - warto regularnie sprawdzać i porządkować\n\nmyaccount [.] google [.] com/connections",
+      "likes": 55,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112621016518377491",
+      "author": "@hwchase17",
+      "text": "the useful part of a judge on production traffic is what happens to the outputs it flags\n\ncalibrate it on human labels, flag low scorers, confirm the real failures, add them to evals, fix, rerun\n\nprod finds the failures your offline dataset never had",
+      "likes": 55,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112880222403993937",
+      "author": "@rpl_0x",
+      "text": "Projekt open source - Agent Harness Kit, czyli szkielet pomagający zaprojektować i zbudować własny harness dla agenta AI.\n\nNarzędzie działa zarówno z nowymi projektami, jak i istniejącymi repozytoriami. Najpierw analizuje strukturę projektu, technologie i dostępne komendy, a",
+      "likes": 53,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112995556528185840",
+      "author": "@nauczymycieAI",
+      "text": "Wieku osób (w tym ja) na to czekało.\n\nGrok Bot / Dots / Muse czyli proaktywny agent działający 24/7 z własnym komputerem, ale w wydaniu z Claude Opusem.\n\nNiestety na razie wyłącznie w USA. Oby szybko weszło do Polski",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112575573868654888",
+      "author": "@svpino",
+      "text": "I bet we'll see robots doing all of these boring tasks at home in our lifetimes.\n\nWe are getting closer and closer.\n\nCheck this one out: you can ask it to bring you a book, put things away, water plants, and find your wallet.\n\nThe robot has cameras to locate objects and can",
+      "likes": 46,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112597225998364764",
+      "author": "@svpino",
+      "text": "When you send a prompt to a model, a couple of things happen:\n\n1. The model processes the prompt and generates the first token (prefill stage).\n\n2. Then, the model continuously processes the prompt + new tokens until it produces the complete answer (decode stage)\n\nThese guys are",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112554298240541064",
+      "author": "@svpino",
+      "text": "This is something I want on every of my assistants:\n\nI want a physical button that I can press to capture my thoughts and send them to my assistant without having to interrupt whatever I’m doing.",
+      "likes": 37,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112806147254010057",
+      "author": "@nauczymycieAI",
+      "text": "Ponad 120 z Was zapisało tego posta na później.\n\nZbudowanie sobie osobistego asystenta to prawdopodobnie najważniejszy krok w stronę AI, które przydaje się w codziennej pracy.\n\nNajlepsze, że AI ustawi wszystko samo - poradnik poniżej 👇",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112929522316124283",
+      "author": "@rpl_0x",
+      "text": "Projektowanie stron, mimo AI pozostaje trudne.\n\nZ AI zrobisz działająca na pierwszy rzut oka dobrze wyglądająca, no ale sztampowa stronę wyglądająca jak dziesiątki innych która może odrzucać.",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112958923531767911",
+      "author": "@svpino",
+      "text": "These guys run their own web index, which makes a big difference when searching the web.\n\nIf you have an agent and want to give it web access, you can connect to @KeenableAI (MCP or API). It will return developer-friendly ranked results.\n\nThey also built something pretty clever:",
+      "likes": 19,
+      "retweets": 0
+    }
+  ]
+}
