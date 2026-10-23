@@ -1,0 +1,289 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-10-23",
+  "slot": "01",
+  "generated_at": "2026-10-23T05:11:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2112898584588718577",
+      "author": "@RadekPyffel",
+      "text": "A jednak.  UPA i Szuchewycz bohaterami we Lwowie.\n\nLwowska Rada Obwodowa przegłosowała ustanowienie 2027 roku rokiem UPA oraz jej dowódcy Romana Szuchewycza. \nZa uchwałą głosowało 52 radnych (na 84)\n\nWszystko w momencie, gdy Polska jest i pozostanie jednym z najważniejszych,",
+      "likes": 90,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113259348436668782",
+      "author": "@RadekPyffel",
+      "text": "Azjatyckie giełdy gwałtownie tracą.\n\nKoreański KOSPI spadł o ponad 4 proc., japoński Nikkei o około 2 proc., a indeks Hang Seng w Hongkongu o ponad 3 proc. \n\nAkcje producenta półprzewodników SK Hynix tracą około 5,7 proc., Samsunga ponad 4 proc., a chińskiej Alibaby 6,5 proc.",
+      "likes": 82,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2113267848667627854",
+      "author": "@RadekPyffel",
+      "text": "Niemieccy licealiści także szykują się do wyjścia na ulice?\n\nProtesty we Francji zmotywowały niezadowoloną młodzież niemiecką do zaplanowania rodzimej fali protestów \"Gen Z Regelt\" na terenie 21 miast kraju. \n\nWśród powodów do niezadowolenia młodych Niemców widnieją: stan",
+      "likes": 42,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113208702077669598",
+      "author": "@OSW_pl",
+      "text": "Najnowszy #filmOSW⬇️\n\nRosja oskarża Polskę o przygotowywanie ataku na obwód królewiecki. Maria Zacharowa mówi o „Planie Barbarossa 2.0”.\nDlaczego Polska stała się głównym celem tej rosyjskiej narracji? Wyjaśnia @WRwicz.",
+      "likes": 37,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2112845048585081204",
+      "author": "@OSW_pl",
+      "text": "Kto przejmie władzę po Alaksandrze Łukaszence? \nO sukcesję w Mińsku mogą rywalizować synowie dyktatora, ludzie aparatu bezpieczeństwa i młodzi menedżerowie. O wariantach sukcesji na Białorusi pisze Kamil Kłysiński⬇️",
+      "likes": 22,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2112926341691539918",
+      "author": "@RadekPyffel",
+      "text": "Nie udaje się uspokoić cen ropy i Bliskiego Wschodu. Brent przekracza 110 dolarów za baryłkę. \n\nCena wzrosła dziś o ponad 2 dolary po kolejnych wypowiedziach irańskich władz, które \"nie widzą podstaw do przełomu w rozmowach ze Stanami Zjednoczonymi\". \n\nW ciągu ostatnich 2 tygodni",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112838049226994123",
+      "author": "@OSW_pl",
+      "text": "„Przede wszystkim chodzi o surowce krytyczne, chodzi o metale ziem rzadkich, o wolfram, o uran, które ma Uzbekistan, ale które też znajdują się w innych krajach Azji Centralnej, zwłaszcza w Kazachstanie”- @Woj_Gorecki.",
+      "likes": 19,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112853508198109526",
+      "author": "@OSW_pl",
+      "text": "▪️Co się dzieje w Albanii?\n▪️Czy rząd Ediego Ramy upadnie?\n▪️Czy zamieszki będą eskalować?\nNa te i inne pytania w #podcastOSW odpowiada Michał Kucharski.",
+      "likes": 20,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113191377333092548",
+      "author": "@OSW_pl",
+      "text": "Wiele wskazuje na to, że władza w Serbii realizuje plan podporządkowania ostatnich niezależnych od niej wpływowych mediów.\nWięcej w #komentarzOSW ⬇️",
+      "likes": 19,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112895950452838510",
+      "author": "@OSW_pl",
+      "text": "„Od wieczora 13 października do rana 20 października Rosja wykorzystała nieujawnioną liczbę pocisków manewrujących i balistycznych oraz 2256 uderzeniowych bezzałogowych statków powietrznych typu Shahed”.",
+      "likes": 17,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2112875277114081709",
+      "author": "@OSW_pl",
+      "text": "„Mołdawia radykalnie ograniczyła też zależność handlową od rosyjskiego rynku. Jest przez to znacznie mniej wrażliwa na embarga – instrument nacisku, po który Moskwa wcześniej regularnie sięgała”.",
+      "likes": 15,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2113279206377631813",
+      "author": "@OSW_pl",
+      "text": "◾️20 października parlament Rumunii udzielił wotum zaufania rządowi bezpartyjnego dyplomaty Luki Niculescu.\n\n◾️Rząd Niculescu nie dysponuje stabilną większością i będzie działał w warunkach permanentnej niepewności.\n\nWięcej w tekście @KamilCaus ⬇️",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112822223065203093",
+      "author": "@OSW_pl",
+      "text": "▪️Dlaczego Trump zdecydował się na zbliżenie z Rosją? \n▪️Czy ma to związek z polityką wewnętrzną?\n▪️Co może się wydarzyć, jeśli Demokraci przejmą Kongres?\nNa te i inne pytania, prosto z Waszyngtonu, opowiada @aj_kohut.",
+      "likes": 14,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113175901261213861",
+      "author": "@OSW_pl",
+      "text": "Duma Państwowa zatwierdziła zmiany w składzie rządu. [...] W systemie władzy umocni się pozycja resortu finansów, odpowiedzialnego za pozyskiwanie środków na kontynuację wojny.\n\nWięcej w #analizaOSW ⬇️",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112822356494500317",
+      "author": "@OSW_pl",
+      "text": "„Istotną różnicą w porównaniu do lat poprzednich jest też pojawienie się rosyjskich dronów odrzutowych w istotnych ilościach. Trudniej je Ukraińcom strącać, więc wzrosła skuteczność uderzeń Rosjan”- @S_Matuszak dla @gazetapl_news.",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112936026620518539",
+      "author": "@RadekPyffel",
+      "text": "Już 12–13 listopada wezmę udział w Poznańskim Kongresie Gospodarczym organizowanym przez @InstytutPoznanski.\n\n💬 W programie dwa dni debat, konfrontacji, praktycznych warsztatów i spotkań poświęconych biznesowi, gospodarce i aktualnym wyzwaniom, przed którymi stoi Polska.\n\n🤝",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113300070917419338",
+      "author": "@RadekPyffel",
+      "text": "Azja na Koszykowej. Malezja &amp; Indonezja wobec współczesnych wyzwań - zaczynamy.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112880916758507876",
+      "author": "@RadekPyffel",
+      "text": "Skupiamy się sprzęcie, czołgach, dronach i patriotach, czyli taktyce, ale wojna rosyjsko-ukraińska to problem dla nas znacznie szerszy, czyli strategiczny.\n\nPoza walką (coraz różniej definiowanego w PL) Dobra i Zła, rozgrywka (celowo używam tego słowa) odbywa się na kilku",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113148112273281345",
+      "author": "@RadekPyffel",
+      "text": "No i zaczynamy kolejny dzień pięknej \"złotej polskiej jesieni\" od rozmowy o polityce światowej z @gchlasta w poranku @rdcpolskieradio \n\nJeśli jedziecie do pracy, polecam ;)",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113256798878916775",
+      "author": "@DataRepublican",
+      "text": "🚨🚨 THE ILLEGITIMACY PLAYBOOK / THE DEMOCRACY FILES: A PRIMER 🚨\n\nI will be using this thread to track all drops, so bookmark it.\n\nI spent most of yesterday backing everything (now 312 gigabytes) up in various sources and getting the materials out to others. I also produced an",
+      "likes": 32990,
+      "retweets": 16079
+    },
+    {
+      "tweet_id": "2112910418087694624",
+      "author": "@RadioGenoa",
+      "text": "Macron attacks Trump: \"France was not invaded by hordes of Muslim immigrants. Those images are false, it's AI and foreign manipulation.\"",
+      "likes": 18803,
+      "retweets": 4671
+    },
+    {
+      "tweet_id": "2113109741534925252",
+      "author": "@CynicalPublius",
+      "text": "One other thing about the American Color Revolution.\n\nI'm hearing a lot of very sober conservatives saying that there is no there there in the various videos from the @DataRepublican drops, and that these people are LARPers fantasizing about events that can never, ever happen in",
+      "likes": 13363,
+      "retweets": 4663
+    },
+    {
+      "tweet_id": "2112917315088196005",
+      "author": "@donaldtusk",
+      "text": "Z wicepremierem ruszamy z gospodarczą ofensywą w Indiach i Wietnamie. Polska idzie po nowe możliwości i nikt nas nie zatrzyma! 🇵🇱",
+      "likes": 10118,
+      "retweets": 1603
+    },
+    {
+      "tweet_id": "2113301965845213452",
+      "author": "@realMAG1775",
+      "text": "You noticed how DataRepublican been dropping video upon video on color revolution, yet the Doomers like MTG, Tucker and Megyn Kelly are so quiet?",
+      "likes": 9508,
+      "retweets": 1689
+    },
+    {
+      "tweet_id": "2113311892810662335",
+      "author": "@TRobinsonNewEra",
+      "text": "Invader breaks a swans' neck and carries it out the park in \"Modern Britain\".\n\nSwans are protected under UK law.\n\nBut we all know nothing will happen.\n\nProbably just make another leaflet 🙄",
+      "likes": 8132,
+      "retweets": 2854
+    },
+    {
+      "tweet_id": "2113403396732469485",
+      "author": "@polyfraggrenade",
+      "text": "how do you even defeat a state that has modern technology? sometimes i fear the era of revolution is over",
+      "likes": 8694,
+      "retweets": 281
+    },
+    {
+      "tweet_id": "2113386023522902417",
+      "author": "@Megatron_ron",
+      "text": "BREAKING: 🇺🇸🇮🇱🇸🇦 A bombshell Vanity Fair excerpt from Princes and Thieves alleges that Jared Kushner’s hacked iPhone exposed secret discussions in which he promised to advance the agendas of Saudi Crown Prince Mohamed Bin Salman and UAE President Mohamed Bin Zayed with Trump in",
+      "likes": 6601,
+      "retweets": 2298
+    },
+    {
+      "tweet_id": "2113308026954543396",
+      "author": "@jmilinovich",
+      "text": "# Black October\n\nFor anyone who knows me even somewhat well, it's clear that I am a 99th percentile tech optimist. However, the vibes have shifted for me quite a bit in the last 18 hours, and I feel a moral imperative to share what I'm thinking and feeling with my circles so that",
+      "likes": 7984,
+      "retweets": 763
+    },
+    {
+      "tweet_id": "2113320614966804958",
+      "author": "@KoreansWithIL",
+      "text": "As a Korean, I want to explain what’s really happening in our country right now.  \n\nOur current president, Lee Jae-myung, is a fake president who won through a rigged election with help from the Chinese Communist Party. Our real president, Yoon Suk-yeol — the one who actually",
+      "likes": 6607,
+      "retweets": 1876
+    },
+    {
+      "tweet_id": "2113323226889662887",
+      "author": "@ZelenskyyUa",
+      "text": "Today, we continue our cooperation with Finland – and very substantively. We are working comprehensively with the Government of Finland – with Prime Minister @PetteriOrpo. Thank you for this cooperation and for this level of relations between our countries. We have a new support",
+      "likes": 5639,
+      "retweets": 753
+    },
+    {
+      "tweet_id": "2112921932312256821",
+      "author": "@EYakoby",
+      "text": "BREAKING: While the entire country of France burns,  Macron is currently in Qatar claiming that the scenes out of Paris are actually AI generated.",
+      "likes": 4778,
+      "retweets": 1491
+    },
+    {
+      "tweet_id": "2113310291970920513",
+      "author": "@narendramodi",
+      "text": "Across sectors, India is achieving several firsts.\n\nOur conventional strengths are growing stronger.\n\nWe are making our mark in new areas too. \n\nThis is the impact of Reform, Perform and Transform!",
+      "likes": 4850,
+      "retweets": 1216
+    },
+    {
+      "tweet_id": "2113303685459533891",
+      "author": "@YourAnonNews",
+      "text": "VIVE LA REVOLUCION!\nWe see you, France.  Americans should take some notes.",
+      "likes": 4956,
+      "retweets": 653
+    },
+    {
+      "tweet_id": "2113226052197613822",
+      "author": "@BRICSinfo",
+      "text": "JUST IN: 🇾🇪🇮🇳🇸🇦 Yemen's Houthis say they are rescuing 14 Indians from a yacht allegedly attacked by Saudi Arabia in the Red Sea.",
+      "likes": 5081,
+      "retweets": 410
+    },
+    {
+      "tweet_id": "2113173936557236512",
+      "author": "@Propeertys",
+      "text": "Głosujący w usa zgłaszają że głosy na demokratów są blokowane",
+      "likes": 4072,
+      "retweets": 1231
+    },
+    {
+      "tweet_id": "2112864306723197368",
+      "author": "@SovereignMindsX",
+      "text": "Democrats got caught red handed in a plan with thousands of people including sitting governors to start a Civil War and not a word about it in MSM.\n\nHow is that possible?",
+      "likes": 3912,
+      "retweets": 850
+    },
+    {
+      "tweet_id": "2112977577509810205",
+      "author": "@DorotaGth",
+      "text": "Sławomir Sierakowski:\n\n\"Nasze bezpieczeństwo zależy nie od Ameryki a od Ukrainy.\nNa USA nie ma co liczyć.\"\n\nZgadzasz się z tą wypowiedzią? Bo ja tak.",
+      "likes": 2996,
+      "retweets": 598
+    },
+    {
+      "tweet_id": "2112993724431323589",
+      "author": "@MarkJCarney",
+      "text": "In the face of U.S. tariffs and growing global uncertainty, Canada is focused on what we can control.\n \nPremier @fordnation and I are launching a new action plan — nearly $9 billion to protect jobs, transform our steel and auto industries, and unleash Ontario’s full potential in",
+      "likes": 3053,
+      "retweets": 461
+    },
+    {
+      "tweet_id": "2113078969310523676",
+      "author": "@amitkilhor",
+      "text": "Science, technology, liberty, Equality - anyone against this is anti india.\n\n#amitkilhor #kilhor",
+      "likes": 3064,
+      "retweets": 419
+    },
+    {
+      "tweet_id": "2113229022939275372",
+      "author": "@ragipsoylu",
+      "text": "Historic: Carney becomes the first ever head of Canadian government to visit Nato ally Turkey \n\nHe visited Ataturk’s mausoleum per protocol",
+      "likes": 2921,
+      "retweets": 220
+    }
+  ]
+}

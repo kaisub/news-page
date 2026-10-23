@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-23",
+  "slot": "01",
+  "generated_at": "2026-10-23T05:11:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2112984664256241837",
+      "author": "@claudeai",
+      "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf.",
+      "likes": 53362,
+      "retweets": 4089
+    },
+    {
+      "tweet_id": "2113360845409583307",
+      "author": "@claudeai",
+      "text": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.\n\nRather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime.",
+      "likes": 13764,
+      "retweets": 487
+    },
+    {
+      "tweet_id": "2112962248218148878",
+      "author": "@claudeai",
+      "text": "Claude Security now keeps up with your code as it changes.\n\nConnect your repositories once. Claude runs a deep first scan, then re-scans as changes land, so findings stay close to the current state of your code.\n\nIn public beta on Claude Enterprise.",
+      "likes": 10660,
+      "retweets": 541
+    },
+    {
+      "tweet_id": "2113390212911083894",
+      "author": "@AnthropicAI",
+      "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+      "likes": 5170,
+      "retweets": 507
+    },
+    {
+      "tweet_id": "2113380122468454765",
+      "author": "@claudeai",
+      "text": "Claude Models on Google Cloud (Anthropic managed) is now generally available.\n\nGet the full set of Claude Platform features on Google Cloud, with Google Cloud IAM credentials, billing, and commitment retirement.",
+      "likes": 3754,
+      "retweets": 215
+    },
+    {
+      "tweet_id": "2112966949273801086",
+      "author": "@AnthropicAI",
+      "text": "Anthropic is a Public Benefit Corporation. Today, we’re publishing our annual Public Benefit Report. This report shares our five pillars and takes stock of the actions we’re taking to advance them. \n\nRead the full report at this page:",
+      "likes": 2492,
+      "retweets": 212
+    },
+    {
+      "tweet_id": "2112946750264676743",
+      "author": "@AnthropicAI",
+      "text": "Dr. Christopher Stubbs is joining our Long-Term Benefit Trust. Chris is an experimental physicist and a former Dean of Science at Harvard University. He has also advised the US government on national security and arms control.\n\nRead more:",
+      "likes": 2175,
+      "retweets": 125
+    },
+    {
+      "tweet_id": "2113333859907747871",
+      "author": "@bcherny",
+      "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.",
+      "likes": 1620,
+      "retweets": 50
+    },
+    {
+      "tweet_id": "2113352457359097930",
+      "author": "@svpino",
+      "text": "People are in denial.\n\nThey literally think they will wake up tomorrow and all the AI-generated code will somehow be useless, and we'll go back to typing code by hand like Neanderthals.",
+      "likes": 1259,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2113248504823124147",
+      "author": "@svpino",
+      "text": "For some people, coding was the only valuable skill they had.\n\nIf you made your money by selling your ability to write JavaScript, CSS, Python, or whatever else, I understand why you are pissed now.\n\n\"Writing code\" is worth very little today.\n\nThe sad part is that learning to",
+      "likes": 1087,
+      "retweets": 108
+    },
+    {
+      "tweet_id": "2113395332520300623",
+      "author": "@reach_vb",
+      "text": "past ~48 hours in security:\n\n&gt; PHP:  unauthenticated remote code execution\n&gt; GitLab: CVSS 10.0 remote code execution\n&gt; Node.js: Brotli decoder RCE + 9 other flaws\n&gt; Chrome: 353 security fixes\n&gt; Signal: a bug that can prevent calls fully ending\n&gt; eMudhra: compromised CA keys\n&gt;",
+      "likes": 414,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2113171960251244655",
+      "author": "@reach_vb",
+      "text": "RESET &amp; reminder to secure your code, projects &amp; apps - apply for daybreak today!",
+      "likes": 399,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2112982643738362295",
+      "author": "@reach_vb",
+      "text": "Excited to ship an update to our Codex for OSS grants - all grants are automatically upgraded to Pro 200 \n\nWe're committed to provide access to software/ tools of today to open source software that keeps our world moving!\n\nIf you haven't already apply today!",
+      "likes": 227,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2113302944212758631",
+      "author": "@rpl_0x",
+      "text": "AI trochę spadło mi z nieba. Gdyby nie ono, lata nauki i doświadczenia w szeroko pojętym IT poszłyby w pizdu, bo po wypaleniu zawodowym raczej nie planowałem już wracać do tej branży.\n\nJakieś 5 lat temu pracowałem jako dev w software housie i w pewnym momencie po prostu jebnąłem",
+      "likes": 193,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2113317746054467859",
+      "author": "@svpino",
+      "text": "You can now sell your data to train AI.\n\nYou can package any datasets you think are valuable, describe them, and set a price.\n\nThen, you upload them to this marketplace.\n\nAnd just like this, a completely new business model starts.",
+      "likes": 128,
+      "retweets": 32
+    },
+    {
+      "tweet_id": "2113314180027879597",
+      "author": "@svpino",
+      "text": "Please stop whatever you are doing and take the recent news about cyber vulnerabilities seriously.\n\nThese events are now happening every 2-3 weeks.\n\nYour best next step:\n\n• Ask your agent how to protect your online accounts.\n• Be paranoid.\n• Do everything the agent says, even",
+      "likes": 138,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2112983115215802417",
+      "author": "@hwchase17",
+      "text": "the traces you already log are training data - keep the runs that did the task well, fine-tune a small model on them, eval on your task\n\na 9B model beating frontier models makes sense when it's trained on exactly your task\n\nsmithtune:",
+      "likes": 105,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2113339406299853076",
+      "author": "@hwchase17",
+      "text": "is agent server a good name?\n\nagent os? agent? agent kernel?",
+      "likes": 94,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113286601111752717",
+      "author": "@svpino",
+      "text": "I love the idea of an agent reviewing all my social activity and identifying who is worth following and replying to.\n\nAt some point, you can't reply to everyone, and you miss a ton of good opportunities because of it.\n\nNow, with so many AI replies, the problem is even worse.",
+      "likes": 86,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2112871824425890155",
+      "author": "@rpl_0x",
+      "text": "Sekret skutecznych agentów AI nie tkwi tylko w modelu. Poznaj Harness Engineering",
+      "likes": 70,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113362839666876437",
+      "author": "@svpino",
+      "text": "Nothing is safe from AI — and this is a good thing, I think.\n\nThis is a new platform for freelancers and people doing creative work, and at the core of it, there's an agent doing a ton of work we usually have to do manually:\n\n1. It drafts proposals for clients\n2. It generates",
+      "likes": 60,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2113351794302832824",
+      "author": "@svpino",
+      "text": "This is a new model specialized in generating posters, marketing assets, illustrations, and photography.\n\nSpecialized models always beat general models at their specific task. I hope companies continue releasing these models.\n\nHere is how this one works with the platform:\n\n1.",
+      "likes": 54,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2112880222403993937",
+      "author": "@rpl_0x",
+      "text": "Projekt open source - Agent Harness Kit, czyli szkielet pomagający zaprojektować i zbudować własny harness dla agenta AI.\n\nNarzędzie działa zarówno z nowymi projektami, jak i istniejącymi repozytoriami. Najpierw analizuje strukturę projektu, technologie i dostępne komendy, a",
+      "likes": 59,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112995556528185840",
+      "author": "@nauczymycieAI",
+      "text": "Wieku osób (w tym ja) na to czekało.\n\nGrok Bot / Dots / Muse czyli proaktywny agent działający 24/7 z własnym komputerem, ale w wydaniu z Claude Opusem.\n\nNiestety na razie wyłącznie w USA. Oby szybko weszło do Polski",
+      "likes": 58,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113270399656169773",
+      "author": "@svpino",
+      "text": "San Francisco is off the charts.\n\nI spent a day last week at the @vercel Ship event, and I was shocked by the excitement around AI, software, and the future in general.\n\nHere are some of the things I learned:\n\n• Writing code is a solved problem. Trusting the code is not.\n\n• I",
+      "likes": 43,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113433024104960133",
+      "author": "@leerob",
+      "text": "I can appreciate (and even enjoy) some AI songs, but I just can't get the same emotional connection to them as I do from art created by humans.\n\nMy favorite music producers all have creative ways of making their music sound more \"human\". You might not even realize it's there, but",
+      "likes": 38,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113280293625090131",
+      "author": "@svpino",
+      "text": "Why do many AI-generated slop replies start with \"What really got me was...\"?\n\nIs it because people don't know how to prompt these models, or because the models aren't good enough to generate better replies?",
+      "likes": 39,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113404055070646582",
+      "author": "@jerryjliu0",
+      "text": "how much to buy scott as an RL env",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113374845522395618",
+      "author": "@svpino",
+      "text": "This is pretty smart:\n\nMemT 1.0 is a new open model that can use information from earlier interactions in later tasks.\n\nFor example, it can use the feedback you gave it yesterday on a similar task you are completing today.\n\nThe model uses a Mixture-of-Storage architecture (MoS)",
+      "likes": 34,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113282887881785446",
+      "author": "@hwchase17",
+      "text": "Incredible to see this growth!",
+      "likes": 35,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113346876527525919",
+      "author": "@nauczymycieAI",
+      "text": "Jakość: Opus 5.5 &gt; Astra 6\n\nSzybkość: Opus 5.5 &gt;&gt; Astra 6\n\nSamodzielność: Opus 5.5 &gt; Astra 6\n\nLimity w subskrypcji: Opus 5.5 &gt;&gt;&gt; Astra 6\n\nObsluga komputera: Astra 6 &gt;&gt;&gt; Opus 5.5\n\nWniosek: Jeżeli nie korzystasz intensywnie z obsługi komputera, tracisz czas i pieniądze z GPT",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112806147254010057",
+      "author": "@nauczymycieAI",
+      "text": "Ponad 120 z Was zapisało tego posta na później.\n\nZbudowanie sobie osobistego asystenta to prawdopodobnie najważniejszy krok w stronę AI, które przydaje się w codziennej pracy.\n\nNajlepsze, że AI ustawi wszystko samo - poradnik poniżej 👇",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112958923531767911",
+      "author": "@svpino",
+      "text": "These guys run their own web index, which makes a big difference when searching the web.\n\nIf you have an agent and want to give it web access, you can connect to @KeenableAI (MCP or API). It will return developer-friendly ranked results.\n\nThey also built something pretty clever:",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112929522316124283",
+      "author": "@rpl_0x",
+      "text": "Projektowanie stron, mimo AI pozostaje trudne.\n\nZ AI zrobisz działająca na pierwszy rzut oka dobrze wyglądająca, no ale sztampowa stronę wyglądająca jak dziesiątki innych która może odrzucać.",
+      "likes": 26,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113399582096818467",
+      "author": "@nauczymycieAI",
+      "text": "Oj, nieładnie. Anthropic testuje czy może obniżyć wybitne limity Opusa 5.5.\n\nKażdy plan powinien mieć transparentną liczbę tokenów, z których dostawcę można rozliczyć",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113274228531474941",
+      "author": "@svpino",
+      "text": "This is a place where you can literally add everything you see/hear/want to remember, and let AI organize it and surface it back when you want.\n\nHere is how it works:\n\n1. You need to install the app first, obviously.\n\n2. Record things with your voice. Type them in. Add documents,",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113317120289435919",
+      "author": "@svpino",
+      "text": "Nice way to generate training data for building robotic models:\n\n1. Go to this platform and define the experience your model needs.\n\n2. They take that and define the tasks, settings, and movements.\n\n3. Then, operators record real work. They wear cameras while completing the tasks",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113146599450812597",
+      "author": "@nauczymycieAI",
+      "text": "\"AI nie można zaufać z tworzeniem bezpiecznego kodu\".\n\nWychodzi na to, że ludziom też nie",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112956989680521608",
+      "author": "@rpl_0x",
+      "text": "Skille do analizy w związku z podatnościami w PHP core",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113331914702471641",
+      "author": "@nauczymycieAI",
+      "text": "Chcesz poznać praktyczne przykłady wykorzystywania AI w pozyskaniu klientów?\n\nKamil z naszego zespołu, zaprezentuje kilka praktycznych zastosowań AI w marketingu, na najbliższym spotkaniu Rebel Marketers. \n\nWrocław, 27.10, 18:00 House Tęczowa. Zapisy na stronie wydarzenia 👇",
+      "likes": 6,
+      "retweets": 0
+    }
+  ]
+}

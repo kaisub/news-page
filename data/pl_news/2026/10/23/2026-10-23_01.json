@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-23",
+  "slot": "01",
+  "generated_at": "2026-10-23T05:11:31Z",
+  "tweets": [
+    {
+      "tweet_id": "2113295231151919341",
+      "author": "@PAPinformacje",
+      "text": "Sejm za podniesieniem progu podatkowego oraz wprowadzeniem nowej, 24-proc. stawki dla dochodów między 130 a 150 tys. zł\n#PAPinformacje",
+      "likes": 431,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2113335765891461573",
+      "author": "@PAPinformacje",
+      "text": "Katarzyna Pełczyńska-Nałęcz: odchodzę z rządu Donalda Tuska\n#PAPinformacje",
+      "likes": 255,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2113320861981978632",
+      "author": "@PAPinformacje",
+      "text": "Sejm uchwalił tzw. ustawę praworządnościową mającą uporządkować status sędziów „nieprawidłowo powołanych” w latach 2018-2026\n#PAPinformacje",
+      "likes": 226,
+      "retweets": 44
+    },
+    {
+      "tweet_id": "2112946928375693392",
+      "author": "@laskowski_pl",
+      "text": "\"Pomylenie\" człowieka z dzikiem, rok w zawieszeniu i 10 tys. grzywny, zabicie 3 osobowej rodziny, 8 lat (z czego już odsiedział 4 lata w areszcie). \nNie mam pretensji do sądu, mam pretensje do naszego systemu prawnego.",
+      "likes": 218,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2113299803308212639",
+      "author": "@PAPinformacje",
+      "text": "Sejm odrzucił nowelę Kodeksu wyborczego, znoszącą dwukadencyjność wójtów, burmistrzów i prezydentów miast #PAPinformacje",
+      "likes": 237,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2113295410609680886",
+      "author": "@PAPinformacje",
+      "text": "Wojciech Olszański ps. Jaszczur trafił na 3 miesiące do więzienia za nawoływanie do nienawiści na tle narodowościowym ⤵️\n#PAPInformacje",
+      "likes": 78,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2112780836462285161",
+      "author": "@Macronextcom",
+      "text": "2/3 Polaków 🇵🇱 uważa, że Donald Trump 🇺🇲 szkodzi Polsce.\n\n66,5% badanych uważa, że działania prezydenta USA nie służą Polsce - wynika z sondażu IBRIS. Przy czym zdecydowanych zwolenników Trumpa jest tylko 4,4%.",
+      "likes": 49,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113313470301245750",
+      "author": "@Macronextcom",
+      "text": "Indie popierają członkostwo Polski 🇵🇱 w #G20.",
+      "likes": 45,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113172106821226639",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: we IX 2026 r. Sprzedaż detaliczna (ceny stałe): 3,3% r/r 📊 (prognoza: 3,7%; poprzednio: 3,8%) #PLN #RPP \n\nDwucyfrowy wzrost notuje sprzedaż aut/części (+13,1% r/r), meble, RTV, AGD (+10,7%) i kategoria pozostałe (+15,7%).\n\nKalendarz: ➡️",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112947946820133298",
+      "author": "@laskowski_pl",
+      "text": "13-tka, nagrody roczne, obowiązkowa waloryzacja płac, fundusz premiowy itd. wszystko sfinansowane z dopłat z budżetu państwa. \n\nW zamian mamy awizo w skrzynce.",
+      "likes": 31,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113331560099492041",
+      "author": "@PAPinformacje",
+      "text": "Sejm za poprawkami Senatu do ustawy wdrażającej Akt o usługach cyfrowych (DSA), w tym o blokowaniu mowy nienawiści\n#PAPinformacje",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113339311852839403",
+      "author": "@PAPinformacje",
+      "text": "Minister funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz poinformowała, że odchodzi z rządu Donalda Tuska\n#PAPinformacje",
+      "likes": 22,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113286609432871094",
+      "author": "@PAPinformacje",
+      "text": "Nurkowie natrafili na wrak ORP Gdynia w Zatoce Puckiej ⤵️\n#PAPInformacje",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113224170536579080",
+      "author": "@Macronextcom",
+      "text": "Bank Turcji 🇹🇷 obniżył stopy proc. o 100 pb do 36%.",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113179307078041854",
+      "author": "@laskowski_pl",
+      "text": "Rosja to stacja benzynowa zarządzana przez bandytów, a USA to serwerownia zarządzana przez techno-oligarchów.",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113163909473435890",
+      "author": "@laskowski_pl",
+      "text": "Amerykańskie firmy są zobligowane do przekazywania wszystkim informacji rządowi USA. \nMamy tak duże zaufanie do naszego sojusznika?",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113268587477737977",
+      "author": "@PAPinformacje",
+      "text": "Zarząd województwa lubelskiego chce zerwania współpracy z obwodem lwowskim ⤵️\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113257815947026465",
+      "author": "@Macronextcom",
+      "text": "Wg prognoz analityków zysk netto Banku Millennium wzrósł w III kw. 2026 r. o 9,2% r/r do 377 mln zł, a wynik odsetkowy o 2,6% do ponad 1,48 mld zł.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113325905447616637",
+      "author": "@PAPinformacje",
+      "text": "Sejm za poprawkami Senatu do ustawy o asystencji osobistej osób z niepełnosprawnościami\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113293559646523814",
+      "author": "@PAPinformacje",
+      "text": "Andrzej Banasiak dyrektorem ds. komercjalizacji i partnerstwa przemysłowego ESA\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113262287096016933",
+      "author": "@laskowski_pl",
+      "text": "Niech Pani prezes @PocztaPolska osobiście idzie na pocztę i odbierze awizo, potem porozmawiamy.\nPo drugie te plany to mrzonki, rynek jest nasycony więc komu zabierze, InPost?",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112895427691553088",
+      "author": "@Macronextcom",
+      "text": "Wkrótce na GPW startuje sezon publikacji wyników za III kw. 2026 (wybrane spółki):\n\n26.10: Kęty, Asseco Poland, Orange Polska\n27.10: Alior Bank, Millennium, Budimex, Kruk, Żabka\n28.10: mBank\n29.10: Pekao, ING BŚ\n30.10: Erste...\n\nKalendarz GPW/NC:",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113487840566804678",
+      "author": "@PAPinformacje",
+      "text": "Alert RCB dla Podkarpacia i Lubelszczyzny w związku z atakiem Rosji na Ukrainę\n#PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113289206714012006",
+      "author": "@PAPinformacje",
+      "text": "Systemy ostrzegania nie są dostosowane do osób z niepełnosprawnościami. RCB analizuje sprawę #PAPinformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113289061171666950",
+      "author": "@PAPinformacje",
+      "text": "Ekspert: Trump ograniczył walkę z dezinformacją mimo zagranicznych operacji wpływu #PAPinformacje",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113273239736910069",
+      "author": "@PAPinformacje",
+      "text": "Siemoniak: ABW zatrzymała drugiego podejrzanego w sprawie zabójstwa Rosjanina w Białej Podlaskiej\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112814297390715305",
+      "author": "@GUS_STAT",
+      "text": "Deficyt sektora instytucji rządowych i samorządowych wyniósł w ub.r. ponad 283,6 mld zł (7,2% PKB), a dług tego sektora 2,34 bln zł (59,6% PKB). \n\n🔗 \n\n#GUS",
+      "likes": 5,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112854254423875985",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Wg MF deficyt sektora GG w tym roku wyniesie dokładnie 7,06%, więc możemy mówić o konsolidacji fiskalnej, wszak deficyt w 2025 wyniósł 7,2% :)\nW tym duchu zachęcamy do przejrzenia nowej edycji monitora krajowego długu.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2112812038183334137",
+      "author": "@GUS_STAT",
+      "text": "Wzrasta liczba osób korzystających z AI. Prawie 3/4 z nich to ludzie młodzi (16-24 lata).\nW tym roku dostęp do internetu ma już 96,6% gospodarstw domowych.\n\nWięcej o #SpołeczeństwoInformacyjne tutaj:\n\n🔗 \n\n#GUS #statystyki #internet",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2112809321767616905",
+      "author": "@GUS_STAT",
+      "text": "Pogorszyły się nastroje konsumenckie w stosunku do poprzedniego miesiąca. \nNajwiększy spadek - o 7,6 - odnotowano dla oceny przyszłej sytuacji ekonomicznej kraju.\n\n🔗\n\n#GUS #BWUK",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113295087866143044",
+      "author": "@PAPinformacje",
+      "text": "Szef Ukraińskiego IPN o ekshumacjach: będą trwały, mimo sprawy Szeremety ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113286732640608469",
+      "author": "@PAPinformacje",
+      "text": "Pierwszy przypadek wirusa Shamonda u człowieka. Jest oświadczenie WHO ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113181360794091578",
+      "author": "@GUS_STAT",
+      "text": "Nakłady krajowe brutto na działalność B+R (GERD) w 2025 r. wyniosły 58,8 mld zł, wzrost o 14,2% r/r. Wartość nakładów krajowych brutto w przeliczeniu na 1 mieszkańca wyniosła 1 571 zł i była o 14,6% większa niż przed rokiem.  \n\n🔗 \n\n#GUS #statystyki",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113172512112853400",
+      "author": "@GUS_STAT",
+      "text": "#SprzedażDetaliczna w cenach stałych we wrześniu była wyższa o 3,3% niż przed rokiem. Wzrost odnotowano w większości grup, największy w:\n🔸pozostałe (o 15,7%),\n🔸pojazdy samochodowe, motocykle, części (o 13,1%),\n🔸meble, RTV, AGD (o 10,7%).\n\n🔗 \n\n#GUS",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2112884056048517474",
+      "author": "@GUS_STAT",
+      "text": "Wg naszych prognoz, do 2060 r. grupa osób w wieku produkcyjnym zmniejszy się o niemal 7 mln - poinformowała Hanna Strzelecka, wiceprezes GUS podczas debaty „Demografia zmienia wszystko. \nJak przeprojektować państwo, miasto i biznes na czas nowych wyzwań?” \n@gazetaprawnapl",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113293272542064885",
+      "author": "@PAPinformacje",
+      "text": "Pierwsza na świecie podziemna kontrofensywa na tak dużą skalę. Ukraińcy chwalą się sukcesem\nPAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113171411703386576",
+      "author": "@GUS_STAT",
+      "text": "We wrześniu 2026 r. #ceny skupu podstawowych produktów rolnych spadły o 12,6% w porównaniu z wrześniem 2025 r.\n\n🔗 \n\n#GUS #statystyki #rolnictwo #ProdutkyRolne",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113171146632052742",
+      "author": "@GUS_STAT",
+      "text": "Według danych ostatecznych przeciętne zatrudnienie w gospodarce narodowej w 2025 r. wyniosło 11,0 mln etatów i pozostało na zbliżonym poziomie w stosunku do poprzedniego roku. Najwięcej etatów (22,4%) było w sekcji przetwórstwo przemysłowe.\n\n🔗\n\n#GUS",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113178212377444353",
+      "author": "@mbank_research",
+      "text": "Sprzedaż detaliczna spowolniła lekko we wrześniu z 3,6% do 3,3%r/r, zgodnie z prognozami. Komentarz GUS wskazuje, że w przypadku głównych dóbr trwałych (np. sprzedaż samochodów, RTV i AGD) dalej obserwowaliśmy silne wyniki, negatywnie ciążył prawie 10% spadek sprzedaży paliw.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113334570909126876",
+      "author": "@Macronextcom",
+      "text": "Tydzień z bankami centralnymi. \n\nW ostatnim tygodniu października decyzje ws. stóp proc. będą podejmować banki centralne w USA 🇺🇸, strefie euro 🇪🇺, Japonii 🇯🇵, Kanadzie 🇨🇦 i Nowej Zelandii🇳🇿.\n\nKalendarz:",
+      "likes": 3,
+      "retweets": 0
+    }
+  ]
+}
