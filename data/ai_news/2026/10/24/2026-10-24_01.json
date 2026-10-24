@@ -1,0 +1,254 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-24",
+  "slot": "01",
+  "generated_at": "2026-10-24T04:58:15Z",
+  "tweets": [
+    {
+      "tweet_id": "2113360845409583307",
+      "author": "@claudeai",
+      "text": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.\n\nRather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime.",
+      "likes": 20024,
+      "retweets": 804
+    },
+    {
+      "tweet_id": "2113390212911083894",
+      "author": "@AnthropicAI",
+      "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+      "likes": 9013,
+      "retweets": 942
+    },
+    {
+      "tweet_id": "2113380122468454765",
+      "author": "@claudeai",
+      "text": "Claude Models on Google Cloud (Anthropic managed) is now generally available.\n\nGet the full set of Claude Platform features on Google Cloud, with Google Cloud IAM credentials, billing, and commitment retirement.",
+      "likes": 6022,
+      "retweets": 334
+    },
+    {
+      "tweet_id": "2113626655902126442",
+      "author": "@AnthropicAI",
+      "text": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI’s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties.",
+      "likes": 3655,
+      "retweets": 384
+    },
+    {
+      "tweet_id": "2113333859907747871",
+      "author": "@bcherny",
+      "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.",
+      "likes": 2433,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2113792409448714468",
+      "author": "@leerob",
+      "text": "Help us improve Grok Bot and I'll send you $100!\n\nReply on this thread with your best bug report or feature suggestion. I'll pick 5 replies and send you $100 through X Money tomorrow.",
+      "likes": 2168,
+      "retweets": 88
+    },
+    {
+      "tweet_id": "2113610137873285147",
+      "author": "@svpino",
+      "text": "Stay safe online.\n\nHere is what I do:\n\n1. I use a password manager (Passwords, which comes preinstalled on Apple's ecosystem)\n\n2. I have 2FA enabled everywhere.\n\n3. If the site supports hardware keys, that's what I use. I have 3 YubiKeys 5C. I keep them in different locations.",
+      "likes": 720,
+      "retweets": 70
+    },
+    {
+      "tweet_id": "2113395332520300623",
+      "author": "@reach_vb",
+      "text": "past ~48 hours in security:\n\n&gt; PHP:  unauthenticated remote code execution\n&gt; GitLab: CVSS 10.0 remote code execution\n&gt; Node.js: Brotli decoder RCE + 9 other flaws\n&gt; Chrome: 353 security fixes\n&gt; Signal: a bug that can prevent calls fully ending\n&gt; eMudhra: compromised CA keys\n&gt;",
+      "likes": 709,
+      "retweets": 62
+    },
+    {
+      "tweet_id": "2113171960251244655",
+      "author": "@reach_vb",
+      "text": "RESET &amp; reminder to secure your code, projects &amp; apps - apply for daybreak today!",
+      "likes": 404,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2113302944212758631",
+      "author": "@rpl_0x",
+      "text": "AI trochę spadło mi z nieba. Gdyby nie ono, lata nauki i doświadczenia w szeroko pojętym IT poszłyby w pizdu, bo po wypaleniu zawodowym raczej nie planowałem już wracać do tej branży.\n\nJakieś 5 lat temu pracowałem jako dev w software housie i w pewnym momencie po prostu jebnąłem",
+      "likes": 255,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2113682309274628382",
+      "author": "@hwchase17",
+      "text": "Skills are so much more powerful if you start to think of them as memory/brains not static files",
+      "likes": 244,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2113656852785582303",
+      "author": "@svpino",
+      "text": "Let's say your app is calling Opus 5.5.\n\nGo to your code, change the URL you are calling, and replace it with Mubit's URL.\n\nHere is what happens internally:\n\n• Mubit will learn about the tasks you are solving.\n• It will use your requests to train a small model.\n• This small",
+      "likes": 173,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2113622504191218009",
+      "author": "@svpino",
+      "text": "Jev is really useful, actually.\n\nI have a script that receives a notification every time I get a new email. I use Jev to decide whether I care about that email or not (some sort of spam filtering).\n\nThis is \"personalized spam\" detection. A layer on top of my email provider's spam",
+      "likes": 136,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113649113741045826",
+      "author": "@hwchase17",
+      "text": "you can trace everything",
+      "likes": 131,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2113339406299853076",
+      "author": "@hwchase17",
+      "text": "is agent server a good name?\n\nagent os? agent? agent kernel?",
+      "likes": 129,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113627134917066993",
+      "author": "@svpino",
+      "text": "Your agent sucks at searching the web. I don't care what prompt you are using; you are just getting mediocre results.\n\nHere is how you can fix it.",
+      "likes": 107,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2113591209029415039",
+      "author": "@rpl_0x",
+      "text": "W trakcie kampanii wyborczej pan @LukaszGibala zapowiadał ochronę tego obszaru, a pani @dgpopiolek mieszkająca w sąsiedztwie nawet zgłaszała do prokuratury trwające nielegalne pracę.\n\nTeraz wjechały koparki niszcząc jedno z najważniejszych przyrodniczo miejsc w Krakowie\n\nLobby",
+      "likes": 78,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2113686677327593949",
+      "author": "@svpino",
+      "text": "Something else that keeps me safe:\n\nI use Privacy for all of my credit cards. Not sponsored, and I've been using them for years now.\n\nBasically, instead of putting my credit cards out there, I create single-use cards with Privacy. As soon as I pay, the card is deactivated.\n\nI",
+      "likes": 85,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113655748307947700",
+      "author": "@reach_vb",
+      "text": "so far behind on email, slack, calendar and DMs that “apologies if i missed this..” has my replaced “hey hey” as my default opener",
+      "likes": 83,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113374845522395618",
+      "author": "@svpino",
+      "text": "This is pretty smart:\n\nMemT 1.0 is a new open model that can use information from earlier interactions in later tasks.\n\nFor example, it can use the feedback you gave it yesterday on a similar task you are completing today.\n\nThe model uses a Mixture-of-Storage architecture (MoS)",
+      "likes": 67,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2113690674742849836",
+      "author": "@svpino",
+      "text": "This new open-weight model is pretty interesting:\n\nEdgeRock-4B works with text and images, and it's designed to handle long reasoning tasks, but there's a twist:\n\nThe model keeps its history at a fixed size, making memory usage more predictable as reasoning continues.\n\nAs",
+      "likes": 65,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2113717390563496174",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is now on OpenDocRouter\n\nIt’s absurdly fast 🔥 parse PDFs at lightspeed \n\nOpenDocRouter: \n\nYou can also try it as part of our agentic harness in LlamaParse:",
+      "likes": 63,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2113651398910820426",
+      "author": "@hwchase17",
+      "text": "our internal agents team is a lot of fun to work on\n\nand we're hiring for it!",
+      "likes": 60,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113404055070646582",
+      "author": "@jerryjliu0",
+      "text": "how much to buy scott as an RL env",
+      "likes": 50,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113346876527525919",
+      "author": "@nauczymycieAI",
+      "text": "Jakość: Opus 5.5 &gt; Astra 6\n\nSzybkość: Opus 5.5 &gt;&gt; Astra 6\n\nSamodzielność: Opus 5.5 &gt; Astra 6\n\nLimity w subskrypcji: Opus 5.5 &gt;&gt;&gt; Astra 6\n\nObsluga komputera: Astra 6 &gt;&gt;&gt; Opus 5.5\n\nWniosek: Jeżeli nie korzystasz intensywnie z obsługi komputera, tracisz czas i pieniądze z GPT",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113399582096818467",
+      "author": "@nauczymycieAI",
+      "text": "Oj, nieładnie. Anthropic testuje czy może obniżyć wybitne limity Opusa 5.5.\n\nKażdy plan powinien mieć transparentną liczbę tokenów, z których dostawcę można rozliczyć",
+      "likes": 44,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113282887881785446",
+      "author": "@hwchase17",
+      "text": "Incredible to see this growth!",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2113541112321192024",
+      "author": "@rpl_0x",
+      "text": "Odnośnie tego narzędzia co udostępniłem OS\n\nNajpierw odezwała się ekipa z Chin, rozwijająca platformę do benchmarków agentów AI. Zaproponowali swoje rozwiązanie do weryfikacji skuteczności takich narzędzi.\n\nPotem dostałem maila od twórcy marketplace'u ze skillami AI, który",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113671236807188842",
+      "author": "@svpino",
+      "text": "Voice Arena just added 5 new languages to their TTS leaderboards: French, German, Bahasa, Tagalog, and Indian English.\n\nIf you are building a voice app, this is the place where you'll find the best model for the languages you want.\n\nBlind testing. Unbiased.\n\nThey work by having",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113693501603123264",
+      "author": "@rpl_0x",
+      "text": "Widok na Alhambre a w oddali Sierra Nevada - nasz jutrzejszy cel",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113146599450812597",
+      "author": "@nauczymycieAI",
+      "text": "\"AI nie można zaufać z tworzeniem bezpiecznego kodu\".\n\nWychodzi na to, że ludziom też nie",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113331914702471641",
+      "author": "@nauczymycieAI",
+      "text": "Chcesz poznać praktyczne przykłady wykorzystywania AI w pozyskaniu klientów?\n\nKamil z naszego zespołu, zaprezentuje kilka praktycznych zastosowań AI w marketingu, na najbliższym spotkaniu Rebel Marketers. \n\nWrocław, 27.10, 18:00 House Tęczowa. Zapisy na stronie wydarzenia 👇",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113591540350103784",
+      "author": "@rpl_0x",
+      "text": "@LukaszGibala @dgpopiolek Film pani Darii",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113627432360231103",
+      "author": "@svpino",
+      "text": "Here is the GitHub link: \n\nAnd here is the website:",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113592267990593757",
+      "author": "@rpl_0x",
+      "text": "@LukaszGibala @dgpopiolek Pani @dgpopiolek , mamy jakieś informacje?",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
