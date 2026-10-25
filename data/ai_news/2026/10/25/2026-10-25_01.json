@@ -1,0 +1,261 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-25",
+  "slot": "01",
+  "generated_at": "2026-10-25T04:58:41Z",
+  "tweets": [
+    {
+      "tweet_id": "2113626655902126442",
+      "author": "@AnthropicAI",
+      "text": "In August, @AISecurityInst reported an incident where Claude Mythos 5 took unauthorized actions on the internet during AISI’s testing of its cyber capabilities.\n\nWe've now produced a further analysis of this incident, to better understand the model's alignment properties.",
+      "likes": 4364,
+      "retweets": 463
+    },
+    {
+      "tweet_id": "2113792409448714468",
+      "author": "@leerob",
+      "text": "Help us improve Grok Bot and I'll send you $100!\n\nReply on this thread with your best bug report or feature suggestion. I'll pick 5 replies and send you $100 through X Money tomorrow.",
+      "likes": 4301,
+      "retweets": 190
+    },
+    {
+      "tweet_id": "2113610137873285147",
+      "author": "@svpino",
+      "text": "Stay safe online.\n\nHere is what I do:\n\n1. I use a password manager (Passwords, which comes preinstalled on Apple's ecosystem)\n\n2. I have 2FA enabled everywhere.\n\n3. If the site supports hardware keys, that's what I use. I have 3 YubiKeys 5C. I keep them in different locations.",
+      "likes": 903,
+      "retweets": 97
+    },
+    {
+      "tweet_id": "2113954319141654673",
+      "author": "@reach_vb",
+      "text": "still find it insane that this video has ~140 MILLION views",
+      "likes": 542,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114009650370605083",
+      "author": "@svpino",
+      "text": "Genuine question: what's up with LeetCode, HackerRank, and all of those services?\n\nAre people still paying them to learn how to sort a B-Tree for a coding interview?",
+      "likes": 514,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113792526125768728",
+      "author": "@leerob",
+      "text": "I strongly recommend then using the money to have a nice steak dinner. But your call!",
+      "likes": 515,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113894745118290345",
+      "author": "@reach_vb",
+      "text": "QoL update for Codex devs:\n\nYou can now switch reasoning levels mid-conversation without losing your cache! Use lower reasoning for the quick stuff and dial it up when you need it, without having to rebuild the context.\n\nand some nice CLI updates:\n\n- Reusable prompt presets",
+      "likes": 348,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2113682309274628382",
+      "author": "@hwchase17",
+      "text": "Skills are so much more powerful if you start to think of them as memory/brains not static files",
+      "likes": 318,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2113656852785582303",
+      "author": "@svpino",
+      "text": "Let's say your app is calling Opus 5.5.\n\nGo to your code, change the URL you are calling, and replace it with Mubit's URL.\n\nHere is what happens internally:\n\n• Mubit will learn about the tasks you are solving.\n• It will use your requests to train a small model.\n• This small",
+      "likes": 191,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2113622504191218009",
+      "author": "@svpino",
+      "text": "Jev is really useful, actually.\n\nI have a script that receives a notification every time I get a new email. I use Jev to decide whether I care about that email or not (some sort of spam filtering).\n\nThis is \"personalized spam\" detection. A layer on top of my email provider's spam",
+      "likes": 182,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113973602978758847",
+      "author": "@reach_vb",
+      "text": "Codex on iPhone duo:",
+      "likes": 180,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113717390563496174",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is now on OpenDocRouter\n\nIt’s absurdly fast 🔥 parse PDFs at lightspeed \n\nOpenDocRouter: \n\nYou can also try it as part of our agentic harness in LlamaParse:",
+      "likes": 149,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2113591209029415039",
+      "author": "@rpl_0x",
+      "text": "W trakcie kampanii wyborczej pan @LukaszGibala zapowiadał ochronę tego obszaru, a pani @dgpopiolek mieszkająca w sąsiedztwie nawet zgłaszała do prokuratury trwające nielegalne pracę.\n\nTeraz wjechały koparki niszcząc jedno z najważniejszych przyrodniczo miejsc w Krakowie\n\nLobby",
+      "likes": 133,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2113982594874577382",
+      "author": "@svpino",
+      "text": "People told me I wasn't writing code anymore as an insult.\n\nI was spending most of my time in meetings. My focus shifted from writing code to architecture and client management.\n\nI went from spending 100% of my time in a code editor to spending 80% of my time on a whiteboard.",
+      "likes": 149,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2113649113741045826",
+      "author": "@hwchase17",
+      "text": "you can trace everything",
+      "likes": 139,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2114055063778070669",
+      "author": "@hwchase17",
+      "text": "Multiplayer agents is way harder than single player",
+      "likes": 141,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113690674742849836",
+      "author": "@svpino",
+      "text": "This new open-weight model is pretty interesting:\n\nEdgeRock-4B works with text and images, and it's designed to handle long reasoning tasks, but there's a twist:\n\nThe model keeps its history at a fixed size, making memory usage more predictable as reasoning continues.\n\nAs",
+      "likes": 128,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2113627134917066993",
+      "author": "@svpino",
+      "text": "Your agent sucks at searching the web. I don't care what prompt you are using; you are just getting mediocre results.\n\nHere is how you can fix it.",
+      "likes": 126,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2113686677327593949",
+      "author": "@svpino",
+      "text": "Something else that keeps me safe:\n\nI use Privacy for all of my credit cards. Not sponsored, and I've been using them for years now.\n\nBasically, instead of putting my credit cards out there, I create single-use cards with Privacy. As soon as I pay, the card is deactivated.\n\nI",
+      "likes": 124,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114006946999402933",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is the best general purpose model for document parsing.\n\nModel card below 🃏",
+      "likes": 102,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2113655748307947700",
+      "author": "@reach_vb",
+      "text": "so far behind on email, slack, calendar and DMs that “apologies if i missed this..” has my replaced “hey hey” as my default opener",
+      "likes": 102,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2113651398910820426",
+      "author": "@hwchase17",
+      "text": "our internal agents team is a lot of fun to work on\n\nand we're hiring for it!",
+      "likes": 66,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114011548784222264",
+      "author": "@svpino",
+      "text": "This is a new model that specializes in 3D rendering and geometry.\n\nYou give it an image and a rough 3D mesh, and it creates a more detailed 3D shape.\n\nThe model was trained on 2 million 3D assets, which is a ton of data! This is probably why it can generate pretty good results.",
+      "likes": 50,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114085240163676648",
+      "author": "@hwchase17",
+      "text": "Still working on this. If you want early access, get in touch",
+      "likes": 44,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113541112321192024",
+      "author": "@rpl_0x",
+      "text": "Odnośnie tego narzędzia co udostępniłem OS\n\nNajpierw odezwała się ekipa z Chin, rozwijająca platformę do benchmarków agentów AI. Zaproponowali swoje rozwiązanie do weryfikacji skuteczności takich narzędzi.\n\nPotem dostałem maila od twórcy marketplace'u ze skillami AI, który",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113671236807188842",
+      "author": "@svpino",
+      "text": "Voice Arena just added 5 new languages to their TTS leaderboards: French, German, Bahasa, Tagalog, and Indian English.\n\nIf you are building a voice app, this is the place where you'll find the best model for the languages you want.\n\nBlind testing. Unbiased.\n\nThey work by having",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114060699462676902",
+      "author": "@nauczymycieAI",
+      "text": "Słyszałeś o najnowszej fali incydentów cyberbezpieczeństwa? Przyczyn należy szukać w Chinach. I w Anthropic.\n\nZacznijmy od Chin. DeepSeek wypuścił właśnie V4.1 Flash 1017, model z otwartymi wagami, który każdy może pobrać i uruchomić na swoim własnym sprzęcie. Nie trzeba zakładać",
+      "likes": 29,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114085096882118995",
+      "author": "@hwchase17",
+      "text": "We’ve seen pretty widespread adoption of agents internally across all teams",
+      "likes": 30,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113693501603123264",
+      "author": "@rpl_0x",
+      "text": "Widok na Alhambre a w oddali Sierra Nevada - nasz jutrzejszy cel",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114084516440723525",
+      "author": "@hwchase17",
+      "text": "Content studio makes all our diagrams. And videos. And PowerPoint’s",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114188380997300263",
+      "author": "@jerryjliu0",
+      "text": "👇 this\n\nThere’s always a meta, you just have to be really good at the meta",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114097100854051073",
+      "author": "@nauczymycieAI",
+      "text": "Wielcy tego świata się bawią.\n\nTymczasem my mamy jedne z najwyższych kosztów energii na świecie (polityka klimatyczna) i sprawiamy, że budowanie czegokolwiek trwa długie lata (pozwolenia środowiskowe). W konsekwencji przemysł i nowe technologie (AI) leżą.\n\nMa to sens?",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113591540350103784",
+      "author": "@rpl_0x",
+      "text": "@LukaszGibala @dgpopiolek Film pani Darii",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113627432360231103",
+      "author": "@svpino",
+      "text": "Here is the GitHub link: \n\nAnd here is the website:",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113592267990593757",
+      "author": "@rpl_0x",
+      "text": "@LukaszGibala @dgpopiolek Pani @dgpopiolek , mamy jakieś informacje?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113893253066133975",
+      "author": "@lidlonerzy",
+      "text": "x: wszyscy zarabiają na ai.\neurostat: w polsce ai używa 8,4% firm.\n\nwierzymy eurostatowi. i dlatego jesteśmy spokojni.\n\nna x każdy ma tysiąc agentów i wydaje $10k miesięcznie na tokeny. w realu znajomy od usług cnc pierwszy raz zobaczył, co umie ai za $20, i poczuł się zwolniony.",
+      "likes": 22,
+      "retweets": 0
+    }
+  ]
+}
