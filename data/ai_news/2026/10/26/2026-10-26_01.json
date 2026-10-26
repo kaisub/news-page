@@ -1,0 +1,163 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-26",
+  "slot": "01",
+  "generated_at": "2026-10-26T05:06:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2114009650370605083",
+      "author": "@svpino",
+      "text": "Genuine question: what's up with LeetCode, HackerRank, and all of those services?\n\nAre people still paying them to learn how to sort a B-Tree for a coding interview?",
+      "likes": 620,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2113954319141654673",
+      "author": "@reach_vb",
+      "text": "still find it insane that this video has ~140 MILLION views",
+      "likes": 603,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2113894745118290345",
+      "author": "@reach_vb",
+      "text": "QoL update for Codex devs:\n\nYou can now switch reasoning levels mid-conversation without losing your cache! Use lower reasoning for the quick stuff and dial it up when you need it, without having to rebuild the context.\n\nand some nice CLI updates:\n\n- Reusable prompt presets",
+      "likes": 365,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2114255005167349952",
+      "author": "@reach_vb",
+      "text": "Clocks went back by an hour &amp; your usage limit ALSO went back to 100%\n\nEnjoy the weekend and happy codex maxxing!",
+      "likes": 208,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114055063778070669",
+      "author": "@hwchase17",
+      "text": "Multiplayer agents is way harder than single player",
+      "likes": 200,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2113973602978758847",
+      "author": "@reach_vb",
+      "text": "Codex on iPhone duo:",
+      "likes": 200,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2113982594874577382",
+      "author": "@svpino",
+      "text": "People told me I wasn't writing code anymore as an insult.\n\nI was spending most of my time in meetings. My focus shifted from writing code to architecture and client management.\n\nI went from spending 100% of my time in a code editor to spending 80% of my time on a whiteboard.",
+      "likes": 159,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114006946999402933",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is the best general purpose model for document parsing.\n\nModel card below 🃏",
+      "likes": 147,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2114404538652217370",
+      "author": "@jerryjliu0",
+      "text": "We wrote a 37-page technical report on OCRia-1, our SOTA model for document parsing.\n\n✅ It contains comprehensive evals against most other major open-weight OCR models (e.g. Infinity-Parser, LightOnOCR 3, Chandra 2, dots.mocr) on multiple OCR benchmarks: ParseBench,",
+      "likes": 113,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2114085240163676648",
+      "author": "@hwchase17",
+      "text": "Still working on this. If you want early access, get in touch",
+      "likes": 66,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114011548784222264",
+      "author": "@svpino",
+      "text": "This is a new model that specializes in 3D rendering and geometry.\n\nYou give it an image and a rough 3D mesh, and it creates a more detailed 3D shape.\n\nThe model was trained on 2 million 3D assets, which is a ton of data! This is probably why it can generate pretty good results.",
+      "likes": 62,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114272973271998648",
+      "author": "@rpl_0x",
+      "text": "Byliśmy na Mulhacen 3478, najwyższy szycie polwyspu iberyjskiego. \nNa szczycie mocno zaskoczyły nas konie.\nTym bardziej że szlak którym szliśmy był dość trudny, w jednym fragmencie były łańcuchy które na orlej perci byłyby jednymi z słynniejszych moim zdaniem.\n\nMega podobały mi",
+      "likes": 43,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114085096882118995",
+      "author": "@hwchase17",
+      "text": "We’ve seen pretty widespread adoption of agents internally across all teams",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114060699462676902",
+      "author": "@nauczymycieAI",
+      "text": "Słyszałeś o najnowszej fali incydentów cyberbezpieczeństwa? Przyczyn należy szukać w Chinach. I w Anthropic.\n\nZacznijmy od Chin. DeepSeek wypuścił właśnie V4.1 Flash 1017, model z otwartymi wagami, który każdy może pobrać i uruchomić na swoim własnym sprzęcie. Nie trzeba zakładać",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114084516440723525",
+      "author": "@hwchase17",
+      "text": "Content studio makes all our diagrams. And videos. And PowerPoint’s",
+      "likes": 31,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114097100854051073",
+      "author": "@nauczymycieAI",
+      "text": "Wielcy tego świata się bawią.\n\nTymczasem my mamy jedne z najwyższych kosztów energii na świecie (polityka klimatyczna) i sprawiamy, że budowanie czegokolwiek trwa długie lata (pozwolenia środowiskowe). W konsekwencji przemysł i nowe technologie (AI) leżą.\n\nMa to sens?",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114188380997300263",
+      "author": "@jerryjliu0",
+      "text": "👇 this\n\nThere’s always a meta, you just have to be really good at the meta",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114467547890532743",
+      "author": "@rpl_0x",
+      "text": "Wersja właściwa.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114458697514770512",
+      "author": "@nauczymycieAI",
+      "text": "AI a sprawa polska \n\nBardzo dobre notatki i bardzo ciekawe opinie z którymi się (w większości) zgadzam.",
+      "likes": 7,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114460791671754961",
+      "author": "@rpl_0x",
+      "text": "Pani Darii, ma pani info od prokuratury? Bo właśnie koparki rozpierdalają nasze ulubione miejsce!",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114462467086503981",
+      "author": "@rpl_0x",
+      "text": "Dominik przygotowal i udostępnił apke opensource na tv, fajny pomysł, może komuś się przyda 😉",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2113893253066133975",
+      "author": "@lidlonerzy",
+      "text": "x: wszyscy zarabiają na ai.\neurostat: w polsce ai używa 8,4% firm.\n\nwierzymy eurostatowi. i dlatego jesteśmy spokojni.\n\nna x każdy ma tysiąc agentów i wydaje $10k miesięcznie na tokeny. w realu znajomy od usług cnc pierwszy raz zobaczył, co umie ai za $20, i poczuł się zwolniony.",
+      "likes": 25,
+      "retweets": 0
+    }
+  ]
+}
