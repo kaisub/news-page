@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-27",
+  "slot": "01",
+  "generated_at": "2026-10-27T05:23:32Z",
+  "tweets": [
+    {
+      "tweet_id": "2114591210962899340",
+      "author": "@laskowski_pl",
+      "text": "Wycie zwolenników MAGA po przegranych kandydatów Trumpa w Brazylii i Serbii, to piękna muzyka o poranku 😀\nMiłego dnia!",
+      "likes": 1124,
+      "retweets": 113
+    },
+    {
+      "tweet_id": "2114829667735847015",
+      "author": "@PAPinformacje",
+      "text": "Spotkanie szefów MSZ G20. Polskę będzie reprezentował Sikorski\n#PAPinformacje",
+      "likes": 186,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2114737523222073452",
+      "author": "@laskowski_pl",
+      "text": "Z dedykacją dla koalicji rządzącej. Jak tego nie zrobicie, to wybory wygrają oligarchowie z USA i ich kandydaci.",
+      "likes": 111,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2114583615585894900",
+      "author": "@laskowski_pl",
+      "text": "Lula po wygraniu wyborów: Brazylia nie będzie niczyim podwórkiem",
+      "likes": 55,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2114735950374785172",
+      "author": "@PAPinformacje",
+      "text": "PZL Mielec wyprodukuje elementy do F-35 oraz śmigłowców Black Hawk\n#PAPInformacje",
+      "likes": 35,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114739871059190126",
+      "author": "@laskowski_pl",
+      "text": "Ale to Soros manipuluje wyborami, a Elon to prawie święty 😀",
+      "likes": 28,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114754550964068509",
+      "author": "@PAPinformacje",
+      "text": "Przemyśl zawiesza współpracę ze Lwowem. Jednogłośna decyzja radnych #PAPInformacje",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114273917397303796",
+      "author": "@Macronextcom",
+      "text": "Widzę, że sporo z Was miało podobny pomysł na sobotni wieczór.  😎",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114764815797293083",
+      "author": "@PAPinformacje",
+      "text": "Państwa UE porozumiały się w sprawie kwot połowowych na Bałtyku na 2027 r. - nie będzie dalszych cięć kwot dla śledzia i dorsza. (PAP)\n#PAPInformacje",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114692900705734959",
+      "author": "@Macronextcom",
+      "text": "...bo Brazylijczycy źle wybrali. \n\n🇧🇷 BRAZIL'S BENCHMARK STOCK INDEX BOVESPA FUTURES FALLS 14.84% IN EARLY TRADING (Reuters)",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114736152875770062",
+      "author": "@PAPinformacje",
+      "text": "Szef Audi z występem na wiecu Trumpa. Fala krytyki w Niemczech\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114736079613968875",
+      "author": "@PAPinformacje",
+      "text": "Norwegowie ćwiczą na wypadek braku dostępu do telefonów i internetu\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114645571944210898",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w X 2026 r. Indeks instytutu #Ifo 90,2 pkt. 📈 (prognoza: 90,0 pkt.; poprzednio: 89,9 pkt.) \n\nNajwyższy odczyt Indeksu Ifo od maja 2023 roku.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114723571977367895",
+      "author": "@PAPinformacje",
+      "text": "Rozpoczęła się budowa Magazynu Energii Gryfino [WIDEO]\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114293143692529809",
+      "author": "@laskowski_pl",
+      "text": "Iść do sądu czy odpuścić? 🤔\nNie znam, ale może należy się jakiś przykład.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114632623998054623",
+      "author": "@DGPrawna",
+      "text": "Kulisy odejścia Pełczyńskiej-Nałęcz. „Chce być świadkiem koronnym opozycji”",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114862359445401917",
+      "author": "@PAPinformacje",
+      "text": "Złota Piłka. Kane zwycięzcą plebiscytu, Pajor druga wśród kobiet\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114722467302265127",
+      "author": "@Macronextcom",
+      "text": "Kremlowi generalnie nie należy wierzyć, ale ta wypowiedź 👇 Pieskowa wpisuje się w ciąg innych sygnałów, które mogą dawać jakąś nadzieję na przyszły rozejm w Ukrainie.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114792916241551382",
+      "author": "@PAPinformacje",
+      "text": "Połowy na Bałtyku. Jest decyzja państw UE\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114739294304919831",
+      "author": "@PAPinformacje",
+      "text": "Macron: sobota będzie „ryzykowna”, demonstracje będą kierowane poza centra miast #PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114699249522798957",
+      "author": "@PAPinformacje",
+      "text": "\"Żegnaj, obywatelu\". Serbskie media o zakończeniu 14 lat rządów partii Vuczicia ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114714738064073083",
+      "author": "@PAPinformacje",
+      "text": "W trakcie tegorocznej kampanii przed wyborami uzupełniającymi w USA najwięcej fałszywych informacji pojawia się w stanach, gdzie toczą się najbardziej zacięte pojedynki – mówią PAP amerykańscy eksperci specjalizujący się w analizie dezinformacji.\n\nLink w komentarzu ⬇️",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114711144325681277",
+      "author": "@Macronextcom",
+      "text": "Przypominajka: od dziś do końca tygodnia - gdy Amerykanie zmienią czas na zimowy ❄️ - dane makroekonomiczne z USA 🇺🇸 będą publikowane o godzinę wcześniej (czasu polskiego) niż zwykle, a sesja na Wall Street będzie startować o 14:30. \n\nKalendarz USA:",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114803877052629384",
+      "author": "@PAPinformacje",
+      "text": "Katowicki szpital przeszczepia rocznie około 170 nerek i wątrób [WIDEO]\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114762731379437922",
+      "author": "@DGPrawna",
+      "text": "Sejm w czwartek przyjął ustawę praworządnościową. Przyjął też wszystkie sześć poprawek Senatu do nowelizacji prawa farmaceutycznego, która znosi obowiązujący od 2012 r. całkowity zakaz reklamy aptek.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114742410248884537",
+      "author": "@DGPrawna",
+      "text": "Serbia: Era Vučicia dobiegła końca za sprawą studenckich protestów",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114853063248707765",
+      "author": "@PAPinformacje",
+      "text": "Anglik Harry Kane zdobywcą Złotej Piłki w plebiscycie „France Football”. (PAP)\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114716448002089054",
+      "author": "@PAPinformacje",
+      "text": "Konkurs główny festiwalu ToruńCamerimage - 15 filmów powalczy o Złotą Żabę\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114711231718416700",
+      "author": "@PAPinformacje",
+      "text": "Kreml: rozejm w Ołeszkach może stać się precedensem dla kolejnych podobnych decyzji #PAPInformacje",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114760718318703033",
+      "author": "@DGPrawna",
+      "text": "Dwukadencyjność w samorządach pozostaje, ale temat wciąż jest otwarty",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114751844916289600",
+      "author": "@DGPrawna",
+      "text": "Brazylia: Lula ponownie wybrany na prezydenta. Bolsonaro nie uznaje porażki",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114722466253922661",
+      "author": "@DGPrawna",
+      "text": "Trzy progi PIT od 2027 r. Sejm przyjął też sporo innych zmian w PIT",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114661061630538031",
+      "author": "@DGPrawna",
+      "text": "Według ekspertów przejęcie Tesli przez SpaceX jest praktycznie przesądzone. Na potencjalnej transakcji najwięcej zyska najbogatszy człowiek na świecie.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114644955440595106",
+      "author": "@DGPrawna",
+      "text": "Nowe EdB w szkołach. Uczniowie mają strzelać i ćwiczyć na wypadek wojny",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114793108559004112",
+      "author": "@PAPinformacje",
+      "text": "Pierwszy stopień zagrożenia lawinowego w Tatrach. TOPR ostrzega\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114764300430500015",
+      "author": "@PAPinformacje",
+      "text": "Papież nie odkłada podróży do Ameryki Płd. „Odbędzie się zgodnie z planem”\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114752113339154448",
+      "author": "@PAPinformacje",
+      "text": "Nowa opłata od paczek spoza Unii. Szef KAS: obniży napływ przesyłek\n#PAPInformacje",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114718912093024731",
+      "author": "@GUS_STAT",
+      "text": "Realizacja projektu #CyberbezpiecznaStatystyka umożliwi wzmocnienie bezpieczeństwa informacji dzięki wdrożeniu i integracji systemu SOAR z zasobami statystyki publicznej, co pozwoli zautomatyzować reakcję na incydenty i skrócić czas ich obsługi.\n\n🔗",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114718380712452246",
+      "author": "@GUS_STAT",
+      "text": "🏠Pośredniczysz w obrocie nieruchomościami? \nW PKD 2025 opisuje tę działalność osobna podklasa 68.31.Z. \nJeśli zacząłeś prowadzić firmę przed 2025 r., sprawdź i w razie potrzeby zaktualizuj wpis do 31 grudnia.\n\n🔎 \n\n#PKD2025 #GUS",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114741358464246240",
+      "author": "@DGPrawna",
+      "text": "Rosja krok po kroku przyłącza Osetię Południową. \"Pełzająca aneksja\"",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
