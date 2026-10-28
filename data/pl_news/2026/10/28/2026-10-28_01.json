@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-10-28",
+  "slot": "01",
+  "generated_at": "2026-10-28T06:02:29Z",
+  "tweets": [
+    {
+      "tweet_id": "2115152770768765122",
+      "author": "@PAPinformacje",
+      "text": "Senat za przywróceniem podwyżki CIT dla największych firm do 22 proc. i likwidacją corocznej waloryzacji progów podatkowych. (PAP)\n#PAPinformacje",
+      "likes": 176,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2114955568376959239",
+      "author": "@laskowski_pl",
+      "text": "Port Polska, bez: \n- pieniędzy\n- wykonawców\n- prezesa \nTak się kończy jak się upolitycznia duże projekty.",
+      "likes": 156,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2114737523222073452",
+      "author": "@laskowski_pl",
+      "text": "Z dedykacją dla koalicji rządzącej. Jak tego nie zrobicie, to wybory wygrają oligarchowie z USA i ich kandydaci.",
+      "likes": 126,
+      "retweets": 41
+    },
+    {
+      "tweet_id": "2115019391595127080",
+      "author": "@laskowski_pl",
+      "text": "Idąc przykładem Trumpa, monetyzują urząd Prezydenta RP.\nZa chwilę będzie reklamował garnki fafluna 😡",
+      "likes": 99,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2114995181141262624",
+      "author": "@laskowski_pl",
+      "text": "W Polsce ostatnią redukcję etatów w administracji zapowiadał @donaldtusk , o 10% w 2010 😀 (co stanowiło ok. 30 tys. etatów)\n\nOd tego czasu liczba zatrudnionych wzrosło o 100 tys. etatów, pomimo cyfryzacji.",
+      "likes": 48,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2115174686157861193",
+      "author": "@PAPinformacje",
+      "text": "Szef BBN: prezydent Karol Nawrocki zwołał na 3 listopada posiedzenie Rady Bezpieczeństwa Narodowego  w sprawie budowy stałej bazy wojsk amerykańskich w Polsce.(PAP)\n#PAPInformacje",
+      "likes": 34,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114739871059190126",
+      "author": "@laskowski_pl",
+      "text": "Ale to Soros manipuluje wyborami, a Elon to prawie święty 😀",
+      "likes": 31,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115152889811263741",
+      "author": "@PAPinformacje",
+      "text": "Śledztwo w sprawie finansowania kampanii Bolsonaro. Policja unieważniła jego paszporty ⤵️\n#PAPInformacje",
+      "likes": 24,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2115175809421914546",
+      "author": "@PAPinformacje",
+      "text": "Izrael/ Likud premiera Benjamina Netanjahu zdobył najwięcej głosów, ale ani blok rządzący, ani opozycyjny nie uzyskał większości parlamentarnej – sondaż exit poll Kanału 12. (PAP)\n#PAPInformacje",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115151517376467116",
+      "author": "@PAPinformacje",
+      "text": "Pentagon: w Polsce powstanie europejskie centrum serwisowania pocisków Patriot\n#PAPinformacje",
+      "likes": 25,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115045306211373567",
+      "author": "@laskowski_pl",
+      "text": "Jak.rynkowo, to rynkowo.\n\nZadłużone szpitale, a te płacą najwięcej, niech ogłoszą bankructwa.",
+      "likes": 16,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2114984378841629022",
+      "author": "@laskowski_pl",
+      "text": "Serial \"Szymon Hołownia - chce\", zaczyna być nużący. Czy on wie czego chce? 🤔",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115115512791474567",
+      "author": "@PAPinformacje",
+      "text": "Melania Trump: Rozejm w Ukrainie został rozszerzony poza Ołeszki by umożliwić dojazd konwojów humanitarnych (PAP) #PAPinformacje",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114692900705734959",
+      "author": "@Macronextcom",
+      "text": "...bo Brazylijczycy źle wybrali. \n\n🇧🇷 BRAZIL'S BENCHMARK STOCK INDEX BOVESPA FUTURES FALLS 14.84% IN EARLY TRADING (Reuters)",
+      "likes": 16,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114645571944210898",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w X 2026 r. Indeks instytutu #Ifo 90,2 pkt. 📈 (prognoza: 90,0 pkt.; poprzednio: 89,9 pkt.) \n\nNajwyższy odczyt Indeksu Ifo od maja 2023 roku.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115179346658738195",
+      "author": "@PAPinformacje",
+      "text": "Prezydent zwołuje posiedzenie RBN. Jest termin ⤵️\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115112285685342425",
+      "author": "@PAPinformacje",
+      "text": "Holandia rezygnuje z udziału w Eurowizji. Drugi rok z rzędu ⤵️\n#PAPInformacje",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115103656534212620",
+      "author": "@PAPinformacje",
+      "text": "Wiceszefowa MON: centrum serwisowania pocisków PAC-3 do systemów Patriot powstanie w Polsce #PAPinformacje",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114718380712452246",
+      "author": "@GUS_STAT",
+      "text": "🏠Pośredniczysz w obrocie nieruchomościami? \nW PKD 2025 opisuje tę działalność osobna podklasa 68.31.Z. \nJeśli zacząłeś prowadzić firmę przed 2025 r., sprawdź i w razie potrzeby zaktualizuj wpis do 31 grudnia.\n\n🔎 \n\n#PKD2025 #GUS",
+      "likes": 1,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115081605941481537",
+      "author": "@Macronextcom",
+      "text": "#USA 🇺🇸: w X 2026 r. Indeks zaufania amerykańskich konsumentów wg @Conferenceboard 91,7 pkt. (prognoza: 81,0 pkt.; poprzednio: 84,2 pkt.) #USD",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114711144325681277",
+      "author": "@Macronextcom",
+      "text": "Przypominajka: od dziś do końca tygodnia - gdy Amerykanie zmienią czas na zimowy ❄️ - dane makroekonomiczne z USA 🇺🇸 będą publikowane o godzinę wcześniej (czasu polskiego) niż zwykle, a sesja na Wall Street będzie startować o 14:30. \n\nKalendarz USA:",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115181104722575539",
+      "author": "@PAPinformacje",
+      "text": "Wybory parlamentarne w Izraelu. Są wstępne wyniki ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114722467302265127",
+      "author": "@Macronextcom",
+      "text": "Kremlowi generalnie nie należy wierzyć, ale ta wypowiedź 👇 Pieskowa wpisuje się w ciąg innych sygnałów, które mogą dawać jakąś nadzieję na przyszły rozejm w Ukrainie.",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115158694300197014",
+      "author": "@PAPinformacje",
+      "text": "🎓40 osadzonych, w tym cztery kobiety, rozpoczęło nowy rok akademicki w Centrum Studiów @KUL_Lublin przy @ASLublin\n\n„Odpowiedzialność za wyrządzone zło pozostaje, ale nie możemy odebrać człowiekowi możliwości zmiany” - podkreślił podczas inauguracji rektor KUL ks. prof. Mirosław",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114985448879653145",
+      "author": "@DGPrawna",
+      "text": "🟥 TYLKO W DGP |  Minister przemysłu Francji: \nUSA i Chiny chronią swoje fabryki, my powinniśmy robić to samo",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115166918109790618",
+      "author": "@PAPinformacje",
+      "text": "W Pałacu Prezydenckim wręczono noty identyfikacyjne rodzinom ofiar totalitaryzmów [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115112204068642866",
+      "author": "@PAPinformacje",
+      "text": "Zmiany kadrowe w Krakowie. Gibała zwolnił kolejnego dyrektora ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115166770138915142",
+      "author": "@PAPinformacje",
+      "text": "Wizyta Karola III na Karaibach w cieniu debaty o niewolnictwie i reparacjach ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115056173984702469",
+      "author": "@mbank_research",
+      "text": "🇪🇺 Z najnowszego badania ankietowego EBC wśród banków wynika, że te oczekują dalszego osłabienia popytu na kredyt do przedsiębiorstw i to po dużym spadku w Q3. Aspekt ten z pewnością nie umknie uwadze EBC podczas posiedzenia w tym tygodniu.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115171418480533902",
+      "author": "@PAPinformacje",
+      "text": "Hiszpańskie media o Złotej Piłce: Pajor przegrała godnie z “królową” Alexią ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115147395503739194",
+      "author": "@PAPinformacje",
+      "text": "Polska uwolni rezerwy paliw? Minister Motyka zabrał głos ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114718912093024731",
+      "author": "@GUS_STAT",
+      "text": "Realizacja projektu #CyberbezpiecznaStatystyka umożliwi wzmocnienie bezpieczeństwa informacji dzięki wdrożeniu i integracji systemu SOAR z zasobami statystyki publicznej, co pozwoli zautomatyzować reakcję na incydenty i skrócić czas ich obsługi.\n\n🔗",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2114992747979411662",
+      "author": "@DGPrawna",
+      "text": "Ponad rok wielkich korków przez poszerzanie autostrady A2. A za kilka lat budowa węzła przy CPK",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114952262825148638",
+      "author": "@DGPrawna",
+      "text": "Przed wyborami do Knesetu. Polacy chcą ograniczenia relacji z Izraelem",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114762731379437922",
+      "author": "@DGPrawna",
+      "text": "Sejm w czwartek przyjął ustawę praworządnościową. Przyjął też wszystkie sześć poprawek Senatu do nowelizacji prawa farmaceutycznego, która znosi obowiązujący od 2012 r. całkowity zakaz reklamy aptek.",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115113479556431879",
+      "author": "@PAPinformacje",
+      "text": "Narastają protesty we Francji. Mecze piłkarskie przekładane na inne terminy ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115318644427333839",
+      "author": "@DGPrawna",
+      "text": "Firma, której sztandarowym produktem jest Claude, uważany przez ekspertów za jeden z najbardziej zaawansowanych modeli sztucznej inteligencji, w listopadzie sprzeda akcje inwestorom i zadebiutuje na Wall Street.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115008098800656809",
+      "author": "@DGPrawna",
+      "text": "Nie chodzi nawet o to, że koalicja rządząca straciła prezydentów w Krakowie i Częstochowie. Chodzi o to, że w obu przypadkach były to porażki w złym stylu. A na styl ich wielkomiejscy wyborcy są szczególnie wyczuleni - pisze @AgatonKozinski",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114978402428133809",
+      "author": "@DGPrawna",
+      "text": "Rada UE uzgodniła stanowisko w sprawie Digital Omnibus. Firmy zyskają mniej obowiązków",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114962044789158193",
+      "author": "@DGPrawna",
+      "text": "Izrael głosuje. „Być może szybko czekają nas kolejne wybory”",
+      "likes": 0,
+      "retweets": 1
+    }
+  ]
+}

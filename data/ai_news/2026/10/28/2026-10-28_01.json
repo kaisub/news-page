@@ -1,0 +1,275 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-28",
+  "slot": "01",
+  "generated_at": "2026-10-28T06:02:29Z",
+  "tweets": [
+    {
+      "tweet_id": "2114705042817110293",
+      "author": "@AnthropicAI",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: \n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
+      "likes": 18020,
+      "retweets": 2344
+    },
+    {
+      "tweet_id": "2114818620782248024",
+      "author": "@sama",
+      "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use.",
+      "likes": 9166,
+      "retweets": 457
+    },
+    {
+      "tweet_id": "2115178675050307942",
+      "author": "@AnthropicAI",
+      "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+      "likes": 7254,
+      "retweets": 722
+    },
+    {
+      "tweet_id": "2114780227465338985",
+      "author": "@claudeai",
+      "text": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy:",
+      "likes": 6946,
+      "retweets": 325
+    },
+    {
+      "tweet_id": "2115207004293853358",
+      "author": "@AnthropicAI",
+      "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.",
+      "likes": 1443,
+      "retweets": 87
+    },
+    {
+      "tweet_id": "2115133048153067857",
+      "author": "@svpino",
+      "text": "Here is a complete family of open-weight, small models for text, vision, audio, and structured decisions.\n\nThey are around 2B parameters.\n\nYou can easily fine-tune these models and start using them in your application.",
+      "likes": 337,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2114782063731618299",
+      "author": "@reach_vb",
+      "text": "GPT-6.1 Terra is here!! 🚀\n\nbuild faster, more affordable agents that can reason over images and use computers.\n\n+15 points vs 5.6 Terra on Agents’ Last Exam at roughly 1/3 the cost.\n\nAPI pricing: $1/M input, $0.05/M cached, $5/M output.\n\nRolling out across paid plans in ChatGPT",
+      "likes": 327,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2114856267118494178",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is the best document parsing model for complex tables in PDFs: nested headers, merged cells, no cell borders, and extreme density within a single page.\n\nIt tops multiple parsing benchmarks on table accuracy. 91.5% on ParseBench, 92.9% on olmOCR-bench, 84.1% on",
+      "likes": 286,
+      "retweets": 28
+    },
+    {
+      "tweet_id": "2114643568685908465",
+      "author": "@reach_vb",
+      "text": "excited to host y’all at DevDay Exchange in Berlin soon 🍻",
+      "likes": 214,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114728809790394661",
+      "author": "@reach_vb",
+      "text": "Excited to kick-off our DevDay Exchange in Berlin &amp; Germany is cooking with Codex!! 🇩🇪\n\n- weekly active users are up 20× since January\n- nearly 70% use the desktop app\n- 1 in 5 desktop users use skills for docs, slides and spreadsheets\n\nand Germany is now top 5 globally for",
+      "likes": 212,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115204745677672511",
+      "author": "@reach_vb",
+      "text": "6.1 Terra beats Astra at vision tasks all whilst being ~47% faster and ~92% cheaper",
+      "likes": 200,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114728685668536668",
+      "author": "@svpino",
+      "text": "$1 million fund for tech funders who host their product on a .tech domain.\n\nYou don't need to give equity. No shares, no SAFE, no convertible, no board seat.\n\nThis is literally free money.\n\nHere are more details:",
+      "likes": 168,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2115130348187349104",
+      "author": "@hwchase17",
+      "text": "deepdive into how we built our design agent (along with oss code)\n\ni use this at least a few times a week for slides, gifs, images, etc",
+      "likes": 147,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2115091901565313446",
+      "author": "@svpino",
+      "text": "A bunch of agents chose which tasks to work on, wrote proofs, audited each other's work, and merged their contributions.\n\nThis is what software development will look like in the future. Heck, it's pretty much what it looks like right now!\n\nIt's hard to comprehend the scale we'll",
+      "likes": 116,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115114627998654901",
+      "author": "@GoogleAI",
+      "text": "Simulating the world is crucial on the road to AGI. We’re already exploring real world use cases of Genie 4 with trusted testers across filmmaking, game design, education and robotic simulation.\n\nEarly feedback has been promising, with use cases ranging from VFX pre-visualization",
+      "likes": 114,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114612886072959191",
+      "author": "@reach_vb",
+      "text": "good morning, Berlin!",
+      "likes": 112,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114775657880436770",
+      "author": "@reach_vb",
+      "text": "Fav people live on stage! ✨",
+      "likes": 102,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114675271575933391",
+      "author": "@rpl_0x",
+      "text": "Sztos! GTA 1 z 1997 w przeglądarce\n\nZrobił to Bramus Van Damme, programista pracujący w Google z pomocą tak niedocenianego gemini\n\nlink widoczny na screenie👇",
+      "likes": 82,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115161782079897946",
+      "author": "@hwchase17",
+      "text": "the hex team consistently gets what it means to build agents, and software to support them\n\nthree things that caught my eye from Hex 4.0 that mirror what we've done at LangChain and that I think speak to the future of building agents\n\n1/ use code as a backbone. they moved from",
+      "likes": 76,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115136859965956190",
+      "author": "@jerryjliu0",
+      "text": "Anthropic filed their 318-page S-1 yesterday for the biggest IPO in history.\n\nWe parsed and synthesized every page in the S-1 and built this reader so that you can get the highlights: \n\nBuilt with LlamaParse and @vercel",
+      "likes": 69,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115146511713792410",
+      "author": "@svpino",
+      "text": "AI is literally saving lives right now:\n\n• UC San Diego's AI sepsis model cut sepsis deaths by 17%.\n\n• In a trial of 100,000+ women in Sweden, AI-supported screening found 29% more cancers.\n\n• In a randomized trial involving 60,893 hospital encounters, an AI warning system",
+      "likes": 67,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115200361497792737",
+      "author": "@reach_vb",
+      "text": "humans yearn to be known and feel seen.\n\nimo, meeting that need is a big part of aligning a team, or even a society.",
+      "likes": 69,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115056835614937307",
+      "author": "@rpl_0x",
+      "text": "Od jakiegoś czasu działa nasza mała społeczność na Discordzie, w której wymieniamy się wiedzą, doświadczeniami i testami związanymi z AI.\n\nI muszę przyznać, że zebrała się tam naprawdę mocna ekipa. Każdy zajmuje się trochę czymś innym, ma swoje doświadczenia, projekty i",
+      "likes": 60,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115246437764350161",
+      "author": "@jerryjliu0",
+      "text": "GPT 6.1 Terra is a strong frontier model baseline for document parsing.\n\n✅ It spikes at table parsing, coming in 5th on our overall leaderboard, ahead of 6 Sol and behind Opus 5.5 / Astra\n✅ It is decent at content faithfulness and reading order\n✅ It struggles on layout,",
+      "likes": 59,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115079215582429355",
+      "author": "@svpino",
+      "text": "We've been running a few agents to monitor production systems for a few weeks now.\n\nAgents working 24/7, looking at failures, suggesting potential causes, and recommending fixes.\n\nWe're not only saving a ton of money, but we are also doing things we couldn't before.\n\nBut to set",
+      "likes": 55,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115114629953212908",
+      "author": "@GoogleAI",
+      "text": "Genie 4 includes strict safety guardrails, and all generated audio and video is watermarked with SynthID. Coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and @GoogleAIStudio.\n\nLearn more and join the waitlist for Genie 4 in",
+      "likes": 56,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114763661793456417",
+      "author": "@svpino",
+      "text": "These guys just launched the Data Resilience Initiative:\n\nYou can apply to use their backup and recovery service for free for 90 days.\n\nThis gives you isolated daily backups, ransomware-scanning backups, and help restoring data after an attack.",
+      "likes": 56,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114802628429336914",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI próbuje znaleźć swoje miejsce na rynku - na którym od premiery Opusa 5.5 dominuje Anthropic. GPT 6.1 Terra ma być na to odpowiedzią.\n\nWygląda na to, że w nowym modelu OpenAI niemal w 100% stawia na swoje mocne strony, czyli obsługę przeglądarki.\n\nWłaśnie o tym mówią niemal",
+      "likes": 48,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114780348660035978",
+      "author": "@svpino",
+      "text": "Recording a lesson for my class is pretty straightforward, but it takes a ton of time.\n\nThis workflow here is pretty interesting for editing videos:\n\n• A producer agent\n• An editor agent\n• A clipper agent\n• A marketer agent\n\nIt looks like you give it a raw recording and get",
+      "likes": 43,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2114751407719096753",
+      "author": "@svpino",
+      "text": "You can run this app on your computer to get access to a workspace where an agent completes tasks for you.\n\nThis works like LEGO: you can combine your favorite pieces to build your agent.\n\nOctop can hand off coding tasks to Claude Code, Codex, Cursor, or OpenCode.\n\nYou can also",
+      "likes": 40,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115139967601263004",
+      "author": "@svpino",
+      "text": "This app does a lot of what Siri should do on your Mac:\n\nIt builds context from files, messages, notes, emails, and calendar events, and then uses that information to help you write messages and complete tasks in the apps you use.\n\nAnd it uses a local Gemma 4 E4B model running",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115104144898064427",
+      "author": "@svpino",
+      "text": "After the security debacle we are living through, you may want to consider doing this to your projects:\n\n• Connect a repository to CodeRabbit Secure\n• Run their Deep Scan feature\n• You'll get back a list of weaknesses and solutions\n• Review the list and approve anything you",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2114714810869023031",
+      "author": "@svpino",
+      "text": "You can use this open project to connect a model to a simulated robot.\n\nThen, you can measure how well the robot completes a task.\n\nThe basic loop is simple:\n\n1. The model, SenseNova-RoboRSI-27B-Preview, receives a task and images from the robot's cameras.\n\n2. It chooses a",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115039596035600673",
+      "author": "@rpl_0x",
+      "text": "Eksperymentuje teraz z nowym, eksperymentalnym standardem WebMCP\n\nWebMCP pozwala stronom WWW udostępniać swoje funkcje bezpośrednio agentom AI. Zamiast analizować interfejs, szukać przycisków i klikać, agent może korzystać z konkretnych narzędzi udostępnionych przez aplikację.",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2114763994464391307",
+      "author": "@rpl_0x",
+      "text": "Darmowy poradnik tworzenia mcp na przykładzie @mumro_io oraz narzędzie open source dla programistów budujących integracje MCP.\n\nPozwala opisać funkcje udostępniane agentom AI, sprawdzić ich uprawnienia i zasady wykonywania operacji oraz wygenerować instrukcje.\n\nacademy . mumro .",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115113348291527010",
+      "author": "@svpino",
+      "text": "I hate leg day. It messes me up good.",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2114710151785492509",
+      "author": "@rpl_0x",
+      "text": "Zakładając scenariusz, który opisałem w artykule, w którym coraz częściej to agenci AI będą wyszukiwać produkty, porównywać oferty i robić za nas zakupy, jak widzicie przyszłość branży e-commerce?\n\nCzy doprowadzi to do jeszcze większej dominacji największych marek i monopolizacji",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115188902319603868",
+      "author": "@nauczymycieAI",
+      "text": "Niewiele firm wie, że od dostawców AI da się wynegocjować zniżki i specjalne przywileje.\n\nTrzeba tylko trafić w dobry moment - a taki, żeby dostać coś ekstra od OpenAI na lata - jest właśnie teraz",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
