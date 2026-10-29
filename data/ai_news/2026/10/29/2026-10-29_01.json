@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-29",
+  "slot": "01",
+  "generated_at": "2026-10-29T06:10:54Z",
+  "tweets": [
+    {
+      "tweet_id": "2115467192276025500",
+      "author": "@claudeai",
+      "text": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.\n\nStart from the built-in example, add your own documents and connectors, and share it with anyone across the business.",
+      "likes": 24259,
+      "retweets": 1499
+    },
+    {
+      "tweet_id": "2115178675050307942",
+      "author": "@AnthropicAI",
+      "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+      "likes": 10961,
+      "retweets": 1212
+    },
+    {
+      "tweet_id": "2115489593818816591",
+      "author": "@GoogleAI",
+      "text": "Announcing Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\n\nCarbon represents a step up across most benchmarks, delivering strong frontier performance in autonomous coding and cyber defense.\n\nWe’re first making Carbon",
+      "likes": 4425,
+      "retweets": 442
+    },
+    {
+      "tweet_id": "2115491259381072269",
+      "author": "@bcherny",
+      "text": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.",
+      "likes": 2408,
+      "retweets": 78
+    },
+    {
+      "tweet_id": "2115114625985368299",
+      "author": "@GoogleAI",
+      "text": "Introducing Genie 4 from @GoogleDeepMind, our most realistic and interactive world model yet 🌍\n\nNow you can use natural language to dynamically steer the world and its soundscape in real-time, whether you're changing the weather, moving the camera, or introducing new elements to",
+      "likes": 2183,
+      "retweets": 237
+    },
+    {
+      "tweet_id": "2115207004293853358",
+      "author": "@AnthropicAI",
+      "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.",
+      "likes": 2163,
+      "retweets": 132
+    },
+    {
+      "tweet_id": "2115590424421110239",
+      "author": "@reach_vb",
+      "text": "You asked, we delivered! Starting today you get up to 500$ per month in API credits.\n\nUse it on GPT Live, Image 2.5, Decisions API and more!!\n\nEnjoy!",
+      "likes": 689,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2115494301996396716",
+      "author": "@reach_vb",
+      "text": "Big FYI: DO NOT change models unless you really know what you’re doing, the prompts for these models are carefully calibrated for the defaults.",
+      "likes": 614,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2115516581925315034",
+      "author": "@jerryjliu0",
+      "text": "Introducing the Document Parsing Protocol (DPP) \n\nThere are hundreds of different OCR models and tools, but they might all parse a document in different ways. \n\nSome errors are very clear-cut (e.g. hallucinating text, or completely misaligning a table), but many errors are much",
+      "likes": 514,
+      "retweets": 53
+    },
+    {
+      "tweet_id": "2115133048153067857",
+      "author": "@svpino",
+      "text": "Here is a complete family of open-weight, small models for text, vision, audio, and structured decisions.\n\nThey are around 2B parameters.\n\nYou can easily fine-tune these models and start using them in your application.",
+      "likes": 384,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2115491985767485878",
+      "author": "@ammaar",
+      "text": "Gemini 4 Carbon! 🚀 Ranked #1 on on Artificial Analysis v5\n\nIt’s been amazing to work with as a daily driver and I can’t wait to see what you do with it when it lands.",
+      "likes": 324,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2115204745677672511",
+      "author": "@reach_vb",
+      "text": "6.1 Terra beats Astra at vision tasks all whilst being ~47% faster and ~92% cheaper",
+      "likes": 301,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115382866313933151",
+      "author": "@rpl_0x",
+      "text": "Coraz częściej mam takie przemyślenie, że rozwój AI doprowadzi do rozwarstwienia społecznego na skalę, jakiej dawno nie widzieliśmy.\n\nWbrew popularnej narracji, że przez AI wszyscy będziemy coraz głupsi, podejrzewam, że stanie się coś znacznie ciekawszego.\n\nLudzie inteligentni,",
+      "likes": 276,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115420315606286608",
+      "author": "@svpino",
+      "text": "Everyone should focus on automating code reviews.\n\nRight now, agents can write a virtually infinite amount of code, but it's for nothing if it doesn't work.\n\nI see people clinging to \"manually reviewing the code\" as the only way forward. I think this is a mistake and a major",
+      "likes": 208,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2115130348187349104",
+      "author": "@hwchase17",
+      "text": "deepdive into how we built our design agent (along with oss code)\n\ni use this at least a few times a week for slides, gifs, images, etc",
+      "likes": 195,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2115479787145929060",
+      "author": "@hwchase17",
+      "text": "crons are a simple technology but can be used in a bunch of ways to unlock new capabilities in agent harnesses:\n- memory (dreaming)\n- proactiveness\n- user reminders\n\nand more!",
+      "likes": 183,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2115536778585125039",
+      "author": "@svpino",
+      "text": "I have a touchscreen laptop. I don't remember the last time I touched the display.\n\nIt's fine. It's there, but I don't really use it. It doesn't bother me.\n\nAn entire generation grew up with touch interfaces. They are the intended user base for a touchscreen Mac.  They will",
+      "likes": 139,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115246437764350161",
+      "author": "@jerryjliu0",
+      "text": "GPT 6.1 Terra is a strong frontier model baseline for document parsing.\n\n✅ It spikes at table parsing, coming in 5th on our overall leaderboard, ahead of 6 Sol and behind Opus 5.5 / Astra\n✅ It is decent at content faithfulness and reading order\n✅ It struggles on layout,",
+      "likes": 124,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115381819810164810",
+      "author": "@reach_vb",
+      "text": "LETS GOOO Paris, excited to meet you in just a bit!! 🙌",
+      "likes": 128,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115161782079897946",
+      "author": "@hwchase17",
+      "text": "the hex team consistently gets what it means to build agents, and software to support them\n\nthree things that caught my eye from Hex 4.0 that mirror what we've done at LangChain and that I think speak to the future of building agents\n\n1/ use code as a backbone. they moved from",
+      "likes": 99,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115146511713792410",
+      "author": "@svpino",
+      "text": "AI is literally saving lives right now:\n\n• UC San Diego's AI sepsis model cut sepsis deaths by 17%.\n\n• In a trial of 100,000+ women in Sweden, AI-supported screening found 29% more cancers.\n\n• In a randomized trial involving 60,893 hospital encounters, an AI warning system",
+      "likes": 95,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115136859965956190",
+      "author": "@jerryjliu0",
+      "text": "Anthropic filed their 318-page S-1 yesterday for the biggest IPO in history.\n\nWe parsed and synthesized every page in the S-1 and built this reader so that you can get the highlights: \n\nBuilt with LlamaParse and @vercel",
+      "likes": 91,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2115463498742509994",
+      "author": "@svpino",
+      "text": "This is an interesting idea that replaces scrolling through Pinterest or Instagram when you are looking for inspiration:\n\nLet's say you are looking for ways to decorate your home.\n\n1. This will show you AI-generated images with real products: a sofa, a chair, lamps, a TV, etc.",
+      "likes": 84,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2115200361497792737",
+      "author": "@reach_vb",
+      "text": "humans yearn to be known and feel seen.\n\nimo, meeting that need is a big part of aligning a team, or even a society.",
+      "likes": 93,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115056835614937307",
+      "author": "@rpl_0x",
+      "text": "Od jakiegoś czasu działa nasza mała społeczność na Discordzie, w której wymieniamy się wiedzą, doświadczeniami i testami związanymi z AI.\n\nI muszę przyznać, że zebrała się tam naprawdę mocna ekipa. Każdy zajmuje się trochę czymś innym, ma swoje doświadczenia, projekty i",
+      "likes": 82,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2115454782290723045",
+      "author": "@reach_vb",
+      "text": "Excited to kickoff our DevDay Exchange in France, and you all are building with AI!! 🇫🇷\n\n&gt; weekly active Codex users are up more than 14x since the start of 2026\n&gt; ChatGPT Business seats are up nearly 70% over the past year\n&gt; work users tripled since launch\n\nand France is now top",
+      "likes": 79,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115465731299049848",
+      "author": "@svpino",
+      "text": "It's interesting to think about how little baggage people who've never coded before bring to this agentic era.\n\nIf you haven't coded before, you can't waste time doing manual code reviews, so you need to use agents to review what you ship.\n\nYour disadvantage becomes sort of an",
+      "likes": 83,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115463258971033962",
+      "author": "@reach_vb",
+      "text": "Codexmaxxing on iPhone Duo ✨",
+      "likes": 63,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115510689557295244",
+      "author": "@svpino",
+      "text": "It is 2022 all over again!.\n\nBack then, developers on this site (including me) said it was literally impossible for AI models to write working code.\n\nNow, people know writing code is solved*, so they're moving to the next frontier: reviewing code is impossible!",
+      "likes": 57,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115139967601263004",
+      "author": "@svpino",
+      "text": "This app does a lot of what Siri should do on your Mac:\n\nIt builds context from files, messages, notes, emails, and calendar events, and then uses that information to help you write messages and complete tasks in the apps you use.\n\nAnd it uses a local Gemma 4 E4B model running",
+      "likes": 49,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115437680356155671",
+      "author": "@svpino",
+      "text": "People are now writing code faster than they can roll it out to their users.\n\nYou need a plan for rolling out new features and updates. This is not optional anymore.\n\nI've made so many mistakes deploying updates to software I've built that I could write an encyclopedia about",
+      "likes": 44,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115551414629851486",
+      "author": "@nauczymycieAI",
+      "text": "Nie.\n\nTak samo jak nie wrócili Argonem. Historia będzie wyglądać podobnie - najpierw dobre benchmarki, potem kilka tygodni cisza.\n\nW międzyczasie konkurencja wypuszcza lepsze modele a Gemini w prawdziwych zadaniach nadal halucynuje i okazuje się paskudnie benchmaxxowany :)",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115506699796975880",
+      "author": "@svpino",
+      "text": "This is pretty cool:\n\nYou get the speed/cost/structural benefits of a decisions API like Jev.\n\nOn top of that, you also get access to current news, so you can make decisions based on the world's current state.\n\nCheck out some of the examples here:",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115491408765440340",
+      "author": "@svpino",
+      "text": "Working with people who don't like your agent is a pain. Switching agents is a pain. Repeating yourself over and over again is a pain.\n\nThis is an app you can run locally, and it solves all of this:\n\n1. Collaborate with other people and agents\n2. Everyone uses the agent they like",
+      "likes": 27,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115039596035600673",
+      "author": "@rpl_0x",
+      "text": "Eksperymentuje teraz z nowym, eksperymentalnym standardem WebMCP\n\nWebMCP pozwala stronom WWW udostępniać swoje funkcje bezpośrednio agentom AI. Zamiast analizować interfejs, szukać przycisków i klikać, agent może korzystać z konkretnych narzędzi udostępnionych przez aplikację.",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115410745538056456",
+      "author": "@rpl_0x",
+      "text": "Mega to fajne i inspirujące jak czytam do czego wykorzystujecie AI, a jeszcze ciekawsze są rozwinięcia tych tematów na kanale.\n\nMimo że tak dużo z nas, ma tak ciekawe pomysły które realizuje - często w swojej wąskiej niszy - to warto pamiętać że my tutaj jesteśmy w bardzo wąskiej",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115585425112986010",
+      "author": "@jerryjliu0",
+      "text": "all good beef happens on X 🥩🥩🥩",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115499524471115820",
+      "author": "@jerryjliu0",
+      "text": "it feels nice to be excited about shiny new hardware and not just the latest frontier model",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115113348291527010",
+      "author": "@svpino",
+      "text": "I hate leg day. It messes me up good.",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115188902319603868",
+      "author": "@nauczymycieAI",
+      "text": "Niewiele firm wie, że od dostawców AI da się wynegocjować zniżki i specjalne przywileje.\n\nTrzeba tylko trafić w dobry moment - a taki, żeby dostać coś ekstra od OpenAI na lata - jest właśnie teraz",
+      "likes": 3,
+      "retweets": 0
+    }
+  ]
+}
