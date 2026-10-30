@@ -1,0 +1,268 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-30",
+  "slot": "01",
+  "generated_at": "2026-10-30T06:05:12Z",
+  "tweets": [
+    {
+      "tweet_id": "2115467192276025500",
+      "author": "@claudeai",
+      "text": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more.\n\nStart from the built-in example, add your own documents and connectors, and share it with anyone across the business.",
+      "likes": 31168,
+      "retweets": 2154
+    },
+    {
+      "tweet_id": "2115859377488072879",
+      "author": "@claudeai",
+      "text": "A few upgrades to the Claude mobile apps this week:\n\nOn iPad and iPhone Duo: what Claude makes now opens beside the chat instead of over it, and goes full screen when you want a closer look.",
+      "likes": 7544,
+      "retweets": 297
+    },
+    {
+      "tweet_id": "2115489593818816591",
+      "author": "@GoogleAI",
+      "text": "Announcing Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities.\n\nCarbon represents a step up across most benchmarks, delivering strong frontier performance in autonomous coding and cyber defense.\n\nWe’re first making Carbon",
+      "likes": 5761,
+      "retweets": 544
+    },
+    {
+      "tweet_id": "2115871889549865429",
+      "author": "@AnthropicAI",
+      "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other",
+      "likes": 3001,
+      "retweets": 227
+    },
+    {
+      "tweet_id": "2115825653539025142",
+      "author": "@AnthropicAI",
+      "text": "We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institutions, and research groups.",
+      "likes": 2956,
+      "retweets": 230
+    },
+    {
+      "tweet_id": "2115491259381072269",
+      "author": "@bcherny",
+      "text": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot.",
+      "likes": 2966,
+      "retweets": 103
+    },
+    {
+      "tweet_id": "2115590424421110239",
+      "author": "@reach_vb",
+      "text": "You asked, we delivered! Starting today you get up to 500$ per month in API credits.\n\nUse it on GPT Live, Image 2.5, Decisions API and more!!\n\nEnjoy!",
+      "likes": 1172,
+      "retweets": 40
+    },
+    {
+      "tweet_id": "2115516581925315034",
+      "author": "@jerryjliu0",
+      "text": "Introducing the Document Parsing Protocol (DPP) \n\nThere are hundreds of different OCR models and tools, but they might all parse a document in different ways. \n\nSome errors are very clear-cut (e.g. hallucinating text, or completely misaligning a table), but many errors are much",
+      "likes": 785,
+      "retweets": 74
+    },
+    {
+      "tweet_id": "2115494301996396716",
+      "author": "@reach_vb",
+      "text": "Big FYI: DO NOT change models unless you really know what you’re doing, the prompts for these models are carefully calibrated for the defaults.",
+      "likes": 700,
+      "retweets": 16
+    },
+    {
+      "tweet_id": "2115854611353641061",
+      "author": "@reach_vb",
+      "text": "2x usage limits for Pro 100/200/500 + Business Premium, starting today!\n\nPro 200 limits won’t be reduced. dots keep their extended limits too, with usage counted separately.\n\nmore room to build 🫡",
+      "likes": 656,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115491985767485878",
+      "author": "@ammaar",
+      "text": "Gemini 4 Carbon! 🚀 Ranked #1 on on Artificial Analysis v5\n\nIt’s been amazing to work with as a daily driver and I can’t wait to see what you do with it when it lands.",
+      "likes": 434,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2115382866313933151",
+      "author": "@rpl_0x",
+      "text": "Coraz częściej mam takie przemyślenie, że rozwój AI doprowadzi do rozwarstwienia społecznego na skalę, jakiej dawno nie widzieliśmy.\n\nWbrew popularnej narracji, że przez AI wszyscy będziemy coraz głupsi, podejrzewam, że stanie się coś znacznie ciekawszego.\n\nLudzie inteligentni,",
+      "likes": 322,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115881689129877961",
+      "author": "@reach_vb",
+      "text": "To clarify: If you’re already on Pro 200, you’re keeping your current Work + Codex limits. No cuts.",
+      "likes": 307,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2115479787145929060",
+      "author": "@hwchase17",
+      "text": "crons are a simple technology but can be used in a bunch of ways to unlock new capabilities in agent harnesses:\n- memory (dreaming)\n- proactiveness\n- user reminders\n\nand more!",
+      "likes": 230,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2115536778585125039",
+      "author": "@svpino",
+      "text": "I have a touchscreen laptop. I don't remember the last time I touched the display.\n\nIt's fine. It's there, but I don't really use it. It doesn't bother me.\n\nAn entire generation grew up with touch interfaces. They are the intended user base for a touchscreen Mac.  They will",
+      "likes": 183,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115856171118874803",
+      "author": "@svpino",
+      "text": "There's no way call centers look the same after this.\n\nListen to this conversation.\n\nYou can't tell the person on the other end is an AI agent.\n\nThis is now the #1 voice model on ServiceNow's EVA-Bench right now.",
+      "likes": 130,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115381819810164810",
+      "author": "@reach_vb",
+      "text": "LETS GOOO Paris, excited to meet you in just a bit!! 🙌",
+      "likes": 131,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115784213194830218",
+      "author": "@svpino",
+      "text": "I feel stupid saying this, but you gotta make sure your agents don't repeat the same mistake.\n\nEvery time you find an issue that goes through your agentic review, ask the following:\n\n• What specific check should have caught this bug?\n• At what stage should that check have run?",
+      "likes": 121,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115812217115578648",
+      "author": "@svpino",
+      "text": "Agents are breaking containment and now entering architecture, too!\n\nThis agent takes a brief or rough building shape and proposes a plan for how to turn it into a detailed building.\n\n• It can add structure\n• It can add plumbing\n• It can add electrical systems\n• It can draft",
+      "likes": 111,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2115915990622241090",
+      "author": "@svpino",
+      "text": "Voice is solved.",
+      "likes": 95,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2115854759991369840",
+      "author": "@hwchase17",
+      "text": "a lot of the challenges in harness engineering are now best solved by closer integration of harness and infra\n\nasync subagents and browser use are two examples of this\n\nnow in MDA 0.10!",
+      "likes": 85,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2115826692224856191",
+      "author": "@svpino",
+      "text": "This is going to be massive for companies:\n\nIt's a service that sits between any AI software and the tools and model providers it uses.\n\nThe idea is to let the company control who uses what from a central location, for example:\n\n• Control model access\n• Control model budgets\n•",
+      "likes": 82,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2115454782290723045",
+      "author": "@reach_vb",
+      "text": "Excited to kickoff our DevDay Exchange in France, and you all are building with AI!! 🇫🇷\n\n&gt; weekly active Codex users are up more than 14x since the start of 2026\n&gt; ChatGPT Business seats are up nearly 70% over the past year\n&gt; work users tripled since launch\n\nand France is now top",
+      "likes": 84,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115850902863233101",
+      "author": "@svpino",
+      "text": "A new agent just launched.\n\nThe mission is clear here: learn to do something specific, then repeat it over and over.\n\n1. You describe the job you want the agent to do.\n2. Give it context and access to tools\n3. The agent goes and finishes the job\n4. You can review and ask for",
+      "likes": 57,
+      "retweets": 22
+    },
+    {
+      "tweet_id": "2115463258971033962",
+      "author": "@reach_vb",
+      "text": "Codexmaxxing on iPhone Duo ✨",
+      "likes": 76,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115897225796854213",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115551414629851486",
+      "author": "@nauczymycieAI",
+      "text": "Nie.\n\nTak samo jak nie wrócili Argonem. Historia będzie wyglądać podobnie - najpierw dobre benchmarki, potem kilka tygodni cisza.\n\nW międzyczasie konkurencja wypuszcza lepsze modele a Gemini w prawdziwych zadaniach nadal halucynuje i okazuje się paskudnie benchmaxxowany :)",
+      "likes": 65,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115841190994297231",
+      "author": "@svpino",
+      "text": "These guys built an agent that takes a process description and turns it into a TypeScript workflow.\n\nHere is how it works:\n\n1. You explain the rules you want to automate to the agent\n2. The agent creates the automation workflow\n3. You review the workflow and ask for any changes",
+      "likes": 55,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2115826346161299479",
+      "author": "@hwchase17",
+      "text": "browser use is one of the fastest growing agent primitives\n\nget started with it in managed deepagents today!",
+      "likes": 61,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115867331461103825",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI właśnie podniosło limity x2 dla planów $100/$200 i $500.\n\nTylko co z tego - skoro nawet po ulepszenia oferty x2, odczuwalnie lepszy niż 6.1 Sol, Opus 5.5 ma znacznie wyższe limity w każdym planie",
+      "likes": 40,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115410745538056456",
+      "author": "@rpl_0x",
+      "text": "Mega to fajne i inspirujące jak czytam do czego wykorzystujecie AI, a jeszcze ciekawsze są rozwinięcia tych tematów na kanale.\n\nMimo że tak dużo z nas, ma tak ciekawe pomysły które realizuje - często w swojej wąskiej niszy - to warto pamiętać że my tutaj jesteśmy w bardzo wąskiej",
+      "likes": 29,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115585425112986010",
+      "author": "@jerryjliu0",
+      "text": "all good beef happens on X 🥩🥩🥩",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115845366180680141",
+      "author": "@svpino",
+      "text": "This is for engineering and project managers.\n\nIt's a platform for coordinating engineering work across a team. The goal is to have a central place for people and agents to work together:\n\n• It gathers info from connected tools (Slack, GitHub, Linear, etc.)\n• It organizes it by",
+      "likes": 23,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2115890422996496387",
+      "author": "@svpino",
+      "text": "Video models improve faster than I can read about them.\n\nPika H3 Flex is an open-weight model doing something different:\n\nIt optimizes for faster generation with multiple ways to refine the video later:\n\n• It generates 15 seconds of video in just 7 seconds!\n• It exports",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115499524471115820",
+      "author": "@jerryjliu0",
+      "text": "it feels nice to be excited about shiny new hardware and not just the latest frontier model",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115867760941281621",
+      "author": "@svpino",
+      "text": "Really cool voice dataset from @voicearena_ai for training conversational models!\n\nThis is for anyone who's researching or developing voice models.\n\nThe data here is pretty cool:\n\n• Each speaker has a separate audio track\n• You get access to overlapping speech\n• Data includes",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115501283113320900",
+      "author": "@jerryjliu0",
+      "text": "is anyone else's wifi completely out in sf",
+      "likes": 3,
+      "retweets": 0
+    }
+  ]
+}
