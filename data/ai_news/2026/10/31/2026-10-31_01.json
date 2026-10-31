@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-10-31",
+  "slot": "01",
+  "generated_at": "2026-10-31T05:57:02Z",
+  "tweets": [
+    {
+      "tweet_id": "2116220869479428500",
+      "author": "@claudeai",
+      "text": "We’re renaming our Max plans: \n\nMax 5x → Max\nMax 20x → Ultra\n\nMax is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do.\n\nWe’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing",
+      "likes": 27211,
+      "retweets": 1615
+    },
+    {
+      "tweet_id": "2115859377488072879",
+      "author": "@claudeai",
+      "text": "A few upgrades to the Claude mobile apps this week:\n\nOn iPad and iPhone Duo: what Claude makes now opens beside the chat instead of over it, and goes full screen when you want a closer look.",
+      "likes": 9509,
+      "retweets": 387
+    },
+    {
+      "tweet_id": "2116222842413142111",
+      "author": "@bcherny",
+      "text": "We're removing the 5-hour limit for verified Ultra accounts.",
+      "likes": 8201,
+      "retweets": 178
+    },
+    {
+      "tweet_id": "2115871889549865429",
+      "author": "@AnthropicAI",
+      "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other",
+      "likes": 4313,
+      "retweets": 362
+    },
+    {
+      "tweet_id": "2115825653539025142",
+      "author": "@AnthropicAI",
+      "text": "We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institutions, and research groups.",
+      "likes": 3219,
+      "retweets": 262
+    },
+    {
+      "tweet_id": "2116349211549843666",
+      "author": "@AnthropicAI",
+      "text": "New Anthropic research: Automating subtle emergent misalignment research.\n\nRed-teaming is a vital part of model safety testing, but it’s also limited by researchers’ time. To see if we could automate it, we set thousands of Claude agents the task of evading a training data",
+      "likes": 1874,
+      "retweets": 164
+    },
+    {
+      "tweet_id": "2115854611353641061",
+      "author": "@reach_vb",
+      "text": "2x usage limits for Pro 100/200/500 + Business Premium, starting today!\n\nPro 200 limits won’t be reduced. dots keep their extended limits too, with usage counted separately.\n\nmore room to build 🫡",
+      "likes": 697,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115881689129877961",
+      "author": "@reach_vb",
+      "text": "To clarify: If you’re already on Pro 200, you’re keeping your current Work + Codex limits. No cuts.",
+      "likes": 348,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116277311934718034",
+      "author": "@nauczymycieAI",
+      "text": "40 lat temu świat miał nas za roboli, pijaków i złodziei.\n\n2 pokolenia Polaków ciężko pracowały na to, żeby pokazać że jesteśmy świetnymi przedsiebiorcami, specjalistami i naukowcami.\n\nI kiedy nasz kraj zaczyna być wskazywany jako pozytywny przykład dla Zachodu, który ma swoje",
+      "likes": 226,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2116279962089222289",
+      "author": "@reach_vb",
+      "text": "solved a few coding problems by hand today!\n\nfelt surreal",
+      "likes": 225,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2115856171118874803",
+      "author": "@svpino",
+      "text": "There's no way call centers look the same after this.\n\nListen to this conversation.\n\nYou can't tell the person on the other end is an AI agent.\n\nThis is now the #1 voice model on ServiceNow's EVA-Bench right now.",
+      "likes": 213,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116271043803586622",
+      "author": "@reach_vb",
+      "text": "there are many futures. which do you want to build?",
+      "likes": 211,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115915990622241090",
+      "author": "@svpino",
+      "text": "Voice is solved.",
+      "likes": 176,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116279214731395453",
+      "author": "@hwchase17",
+      "text": "when people think of \"agent observability\" they may think of \"datadog for agents\"\n\nit's really more like \"databricks for agents\"\n\nwe've done some stuff in this direction but expect to see more soon",
+      "likes": 142,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2116157060543082660",
+      "author": "@svpino",
+      "text": "This is a great model for exploring ideas quickly and cheaply.\n\nIt's an image-to-video generation model. 5x faster and 80% lower inference cost than its base open-weight model.\n\n• Input: a starting image and a prompt describing what you want\n• Output: a 720p video\n•",
+      "likes": 110,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2115854759991369840",
+      "author": "@hwchase17",
+      "text": "a lot of the challenges in harness engineering are now best solved by closer integration of harness and infra\n\nasync subagents and browser use are two examples of this\n\nnow in MDA 0.10!",
+      "likes": 102,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2116299214770819452",
+      "author": "@jerryjliu0",
+      "text": "congrats on $100m ARR in 2 months",
+      "likes": 107,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115850902863233101",
+      "author": "@svpino",
+      "text": "A new agent just launched.\n\nThe mission is clear here: learn to do something specific, then repeat it over and over.\n\n1. You describe the job you want the agent to do.\n2. Give it context and access to tools\n3. The agent goes and finishes the job\n4. You can review and ask for",
+      "likes": 70,
+      "retweets": 24
+    },
+    {
+      "tweet_id": "2116099059375108153",
+      "author": "@rpl_0x",
+      "text": "Ciekawa rzecz z wczorajszej konferencji wynikowej Reddita.\n\nSteve Huffman, szef Reddita, powiedział, że w październiku ruch z wyszukiwarek spadał średnio o ponad milion przekierowań tygodniowo. Jego zdaniem duży wpływ mają na to nowe funkcje AI w Google.\n\nGoogle nadal korzysta z",
+      "likes": 90,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116229411473440951",
+      "author": "@svpino",
+      "text": "This is a first for me: A 3D office where your coworkers are agents.\n\nHere's how it works:\n\n1. You can create an agent and give it a job\n2. You can connect the tools it needs\n3. You can give it a task\n4. You can review its work and give it feedback\n\nEvery agent gets a cloud",
+      "likes": 73,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2116137935653232893",
+      "author": "@nauczymycieAI",
+      "text": "GPT 6.1 Sol - recenzja po kilku tygodniach codziennej pracy.\n\nGPT 6 Sol przyjęto bardzo słabo, bo był to mały model, najprawdopodobniej bez intensywnego reinforcement learningu, bardzo leniwy, benchmaxxowany i niekoniecznie dobrze wyceniony. Po kiepskim odbierze, OpenAI nie",
+      "likes": 80,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2116148362546467112",
+      "author": "@svpino",
+      "text": "People are celebrating how much time they're saving by letting agents review their code.\n\nBut be honest: how much time are you spending fixing bugs afterward?\n\nSaving two hours on code review means nothing if you then spend four hours fixing problems.\n\nIf you really want to know",
+      "likes": 79,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115897225796854213",
+      "author": "@reach_vb",
+      "text": "recommended read 🔖",
+      "likes": 82,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115826346161299479",
+      "author": "@hwchase17",
+      "text": "browser use is one of the fastest growing agent primitives\n\nget started with it in managed deepagents today!",
+      "likes": 72,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2115841190994297231",
+      "author": "@svpino",
+      "text": "These guys built an agent that takes a process description and turns it into a TypeScript workflow.\n\nHere is how it works:\n\n1. You explain the rules you want to automate to the agent\n2. The agent creates the automation workflow\n3. You review the workflow and ask for any changes",
+      "likes": 59,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2116119604611158155",
+      "author": "@rpl_0x",
+      "text": "51% tygodniowego limitu Claude Max zużyte w jeden dzień. Nie dlatego, że agenci wykonali wyjątkowo dużo pracy, ale dlatego, że jedna z sesji przez trzy dni nie pozbywała się zbędnego kontekstu.\n\nNa GitHubie Anthropic pojawiło się ciekawe zgłoszenie. Autor uruchomił cztery",
+      "likes": 68,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116176289736626591",
+      "author": "@svpino",
+      "text": "I've never seen so many AI replies on this site. I think this is the worst it's ever been.",
+      "likes": 52,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116288817938497574",
+      "author": "@jerryjliu0",
+      "text": "Today we're introducing Extract Max Effort - the best frontier agent in the world for document extraction 💫.\n\n🚀 It is an absolute bazooka. Use this when you absolutely need perfect 100% extraction accuracy over the most complex documents and schemas. This includes reasoning",
+      "likes": 45,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2116230499140251964",
+      "author": "@hwchase17",
+      "text": "if you can define what good looks like for an agent for a particular domain, you will best positioned to win that domain\n\nthats why im so bullish on benchling for bio",
+      "likes": 43,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115867331461103825",
+      "author": "@nauczymycieAI",
+      "text": "OpenAI właśnie podniosło limity x2 dla planów $100/$200 i $500.\n\nTylko co z tego - skoro nawet po ulepszenia oferty x2, odczuwalnie lepszy niż 6.1 Sol, Opus 5.5 ma znacznie wyższe limity w każdym planie",
+      "likes": 42,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2115890422996496387",
+      "author": "@svpino",
+      "text": "Video models improve faster than I can read about them.\n\nPika H3 Flex is an open-weight model doing something different:\n\nIt optimizes for faster generation with multiple ways to refine the video later:\n\n• It generates 15 seconds of video in just 7 seconds!\n• It exports",
+      "likes": 41,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116102909209268616",
+      "author": "@rpl_0x",
+      "text": "Kierunek Alicante 😉",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116213725644673322",
+      "author": "@svpino",
+      "text": "How to help your agent (Codex, Claude Code, Cursor, OpenCode, etc.) get better online results.",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2115845366180680141",
+      "author": "@svpino",
+      "text": "This is for engineering and project managers.\n\nIt's a platform for coordinating engineering work across a team. The goal is to have a central place for people and agents to work together:\n\n• It gathers info from connected tools (Slack, GitHub, Linear, etc.)\n• It organizes it by",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116110439780139367",
+      "author": "@rpl_0x",
+      "text": "OpenAI opublikowało bardzo konkretny materiał o tym, jak monitoruje pracę swoich agentów AI. Jest tam sporo praktycznych rozwiązań, które można wykorzystać również przy programowaniu z agentami.\n\nJednym z ciekawszych pomysłów jest wielopoziomowa kontrola. Zamiast angażować mocny",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116402032990990836",
+      "author": "@reach_vb",
+      "text": "ngl, codex tab (composer predictions) is reminiscent of cursor tab",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116237096184951048",
+      "author": "@svpino",
+      "text": "The internet is a scary place right now.\n\nEveryone is getting hacked, people are losing money, and I'm paranoid.\n\nThis is a good thing, and I hope more companies build \"Bring Your Own Cloud\" solutions.\n\nHonestly, I'd rather trust my cloud than somebody else's.",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116240767815696868",
+      "author": "@svpino",
+      "text": "We now have a benchmark for how often we're tricked into thinking a voice is human.\n\nHere is how they measure this:\n\nYou hear two recordings of the same text. One is human, and the other is AI. You need to identify the human.\n\nThe best model right now at fooling people: Gemini",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2115867760941281621",
+      "author": "@svpino",
+      "text": "Really cool voice dataset from @voicearena_ai for training conversational models!\n\nThis is for anyone who's researching or developing voice models.\n\nThe data here is pretty cool:\n\n• Each speaker has a separate audio track\n• You get access to overlapping speech\n• Data includes",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116180192783724654",
+      "author": "@svpino",
+      "text": "Would this improve if we removed the ability to reply to posts via the API?",
+      "likes": 13,
+      "retweets": 0
+    }
+  ]
+}
