@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-11-01",
+  "slot": "01",
+  "generated_at": "2026-11-01T06:25:24Z",
+  "tweets": [
+    {
+      "tweet_id": "2116423791676973235",
+      "author": "@laskowski_pl",
+      "text": "Na marginesie. \nPrezydent to nie król, nie może wtargnąć do dowolnej instytucji tylko dlatego, że jest prezydentem. \nNa chatę też wam się może wbić z ochroniarzami i kumplami?",
+      "likes": 2494,
+      "retweets": 170
+    },
+    {
+      "tweet_id": "2116630373086220521",
+      "author": "@PAPinformacje",
+      "text": "Rzeczniczka KE dla PAP: powołanie ośmiu nowych członków TK mieści się w konstytucyjnych kompetencjach Sejmu, co potwierdziła Komisja Wenecka w swojej opinii z 13 października 2026 r. (PAP)",
+      "likes": 1085,
+      "retweets": 234
+    },
+    {
+      "tweet_id": "2116628400911884583",
+      "author": "@PAPinformacje",
+      "text": "Rzeczniczka KE dla PAP: do polskich władz należy zapewnienie, aby TK mógł funkcjonować zgodnie z polską konstytucją oraz z poszanowaniem odpowiedniego orzecznictwa TSUE. (PAP) #PAPinformacje",
+      "likes": 339,
+      "retweets": 95
+    },
+    {
+      "tweet_id": "2116606659015631019",
+      "author": "@PAPinformacje",
+      "text": "Premier w orędziu: demokratyczne państwo musi być silne i zdolne do egzekwowania sprawiedliwości. (PAP) #PAPinformacje",
+      "likes": 295,
+      "retweets": 52
+    },
+    {
+      "tweet_id": "2116607206737302000",
+      "author": "@PAPinformacje",
+      "text": "Premier: atak na Trybunał kolejną odsłoną procesu niszczenia rządów prawa w Polsce przez PiS i prezydentów Dudę i Nawrockiego. (PAP)",
+      "likes": 279,
+      "retweets": 47
+    },
+    {
+      "tweet_id": "2116405510358339683",
+      "author": "@laskowski_pl",
+      "text": "Pod trybunałem więcej policji niż garstki protestujących. Nikt nie obroni Godzilli, nawet sam prezydent, a za tydzień nikt o tym nie będzie pamiętał.\n\nMoim zdaniem ta instytucja jest tak ośmieszona, że powinna zostać zlikwidowana.",
+      "likes": 104,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2116611473162018856",
+      "author": "@PAPinformacje",
+      "text": "Demokratyczne państwo musi być silne i zdolne do egzekwowania sprawiedliwości - powiedział premier Donald Tusk w wyemitowanym w sobotę orędziu odnoszącym się do sytuacji związanej z Trybunałem Konstytucyjnym. \n\nPremier podkreślił w orędziu, że „atak na Trybunał i jego sędziów",
+      "likes": 93,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2116432818700181906",
+      "author": "@laskowski_pl",
+      "text": "- Wbijaj mordo na imprezę \n- Jak to kur... gdzie? W trybunale!",
+      "likes": 57,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2116614631749816645",
+      "author": "@PAPinformacje",
+      "text": "Kosiniak-Kamysz: reset konstytucyjny doprowadzi do odbudowy zaufania do Trybunału Konstytucyjnego #PAPinformacje",
+      "likes": 50,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2116417023106253249",
+      "author": "@laskowski_pl",
+      "text": "Czy wszyscy zwariowali? \nWbrew mediom i klakierom partyjnym na X, dla większości Polaków to co się dzieje z TK, jest kompletnie obojętne. \nTo już dawno przestał być sąd, tylko jest zbieranina kolesi jednej partii.\nDlatego nie rozumiem @KONFEDERACJA_ dlaczego staje w obronie",
+      "likes": 44,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2116063961254867045",
+      "author": "@laskowski_pl",
+      "text": "Od czerwca poziom zaufania do niego spadł o niemal 9% \n\nJak na pierwszy rok prezydentury to duży sukces 😁\n@szefernaker @BoguckiZbigniew ciężko na niego pracowali",
+      "likes": 38,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116482604484456605",
+      "author": "@laskowski_pl",
+      "text": "\"USA to taki kraj, gdzie ludzie z 6 zębami popierają kolesi z 14 jachtami\"",
+      "likes": 31,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116219465629303027",
+      "author": "@Macronextcom",
+      "text": "Na GPW 🇵🇱 była ucieczka do gotówki, ale na Wall Street 🇺🇸 na spółkach technologicznych jest jeszcze większa.\n\nTeraz Nasdaq -3,08%. Jeżeli tak się zamknie to będzie to największy spadek od 05.06 (-4,18%). I drugi najwiekszy od ponad roku.\n\nAha... złoto i srebro najtańsze od roku.",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116604630901850505",
+      "author": "@PAPinformacje",
+      "text": "Rubio: prezydent Trump uważa, że Polsce należy się miejsce w G20 #PAPinformacje",
+      "likes": 26,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2116568380115194313",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Osobiste Konta Inwestycyjne (#OKI) mogą zmienić strukturę oszczędności Polaków - uważa @PIE_NET_PL \n\nInstytut wskazuje, że podobne do OKI japońskie konta NISA i szwedzkie ISK, miały duży wpływ na upowszechnienie inwestowania.",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116455659244081650",
+      "author": "@laskowski_pl",
+      "text": "Nie pamiętam kiedy ostatnio dałem tyle banów co dzisiaj. \nMiłego dnia! 😀",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116059334363013398",
+      "author": "@Macronextcom",
+      "text": "Francja 🇫🇷 na granicy recesji.\n\nW III kw. 2026 #PKB Francji niespodziewanie spadł o 0,1% k/k📉 (prog. +0,1%) - informuje INSEE.👇\n\nW relacji rok do roku PKB Francji również spadł w III kw. o 0,1% (prog. +0,3%). To pierwszy ujemny odczyt do \"pandemicznego\" IV kw. 2020 (-5% r/r).",
+      "likes": 15,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116575328617324570",
+      "author": "@PAPinformacje",
+      "text": "Podsumowanie dotychczasowych informacji o sytuacji wokół Trybunału Konstytucyjnego:\n\n📌 KPRM przekazało, że o godzinie 20 premier Donald Tusk wygłosi orędzie.\n\n📌 W sobotę odbyła się seria spotkań prezydenta Karola Nawrockiego z przedstawicielami klubów parlamentarnych. W Pałacu",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2116646321532661776",
+      "author": "@PAPinformacje",
+      "text": "📌 I Prezes Sądu Najwyższego Zbigniew Kapiński zwołał na 3 listopada nadzwyczajne Zgromadzenie Ogólne Sędziów SN ws. omówienia zagrożeń dla porządku konstytucyjnego RP.\n\n📌 Na wtorek, 3 listopada zwołane jest także posiedzenie Zgromadzenia Ogólnego Sędziów TK w celu rozpatrzenia",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116113422928466420",
+      "author": "@laskowski_pl",
+      "text": "To ile mamy tego złota w @nbppl i ile jest warte?",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116093542766350456",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: w III kw. 2026 r. #PKB nsa (wst.): 1,3% r/r📈 (prognoza: 1,2%; poprzednio: 1,0%) \n\nWzrost nie poraża, gospodarka dalej w stagnacji, ale z drugiej strony to najszybszy wzrost niemieckiego PKB (r/r) od ponad 4 lat.",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116138998162755992",
+      "author": "@mbank_research",
+      "text": "🇪🇺 Strefa euro kontynuuje wzrost i w trzecim kwartale rośnie 0,4% kw/kw. O ile wynik jest w części efektem kolejnego mocnego wzrostu Irlandii, to nie zmienia postaci rzeczy, że wrześniowa projekcja EBC zakładała jednak wzrost o 0,3% kw/kw. \nNegatywy? Spadek PKB Francji o 0,1%.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116442298599039234",
+      "author": "@Macronextcom",
+      "text": "Sezon wyników na GPW - wybrane spółki (2-6.11.2026):\n\n04.11: Bumech Defense\n\n05.11: Asbis, Bank Handlowy, Dino Polska, Energa, Orlen, PKO BP, Toya\n\n06.11: iFirma, Kolejkowo, Medinice\n\nKalendarz GPW/NC:",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116484367698849918",
+      "author": "@laskowski_pl",
+      "text": "W wtorek kolejny test 😀",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116704863627419968",
+      "author": "@PAPinformacje",
+      "text": "Komisarz McGrath: TK musi mieć możliwość funkcjonowania zgodnie z konstytucją i orzecznictwem TSUE\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116576100159459578",
+      "author": "@PAPinformacje",
+      "text": "Amerykanie ostrzegli rosyjskie służby. Możliwy atak na ambasadę w Moskwie? ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116600171551412318",
+      "author": "@PAPinformacje",
+      "text": "Race i petardy podczas protestów pokolenia Z w Niemczech. Zakazano pochodu w Kolonii ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2116194394508239298",
+      "author": "@laskowski_pl",
+      "text": "Czy Intel będzie drugim Lehman Brothers 🤔",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116646993745662355",
+      "author": "@PAPinformacje",
+      "text": "Zełenski zostanie zaproszony na G20? Rubio zabrał głos ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116773842395836763",
+      "author": "@PAPinformacje",
+      "text": "Polacy odwiedzają cmentarze - katolicy obchodzą Wszystkich Świętych [WIDEO]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116617332575576555",
+      "author": "@PAPinformacje",
+      "text": "Ukraina. Ewakuacja mieszkańców z okupowanych Ołeszek [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116583415604523417",
+      "author": "@PAPinformacje",
+      "text": "IMGW ostrzega przed gęstą mgłą na północnym wschodzie kraju #PAPinformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116595727514448013",
+      "author": "@DGPrawna",
+      "text": "Od deeskalacji po zmianę rządu. Co politycy mówili po konsultacjach u prezydenta w sprawie TK",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116452609259397383",
+      "author": "@DGPrawna",
+      "text": "🟥 PILNE | Prezydent Karol Nawrocki zwołał na sobotę pilne konsultacje z przedstawicielami sił parlamentarnych, powołując się na zagrożenie bezpieczeństwa wewnętrznego. Spór w TK zaostrzyło miesięczne zawieszenie prezesa Bogdana Święczkowskiego.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116600324148318294",
+      "author": "@PAPinformacje",
+      "text": "Erdogan rozmawiał z Zełenskim. Chodzi o ataki na statki handlowe na Morzu Czarnym ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116770487657275414",
+      "author": "@DGPrawna",
+      "text": "Przypominamy sylwetki osób, które odegrały istotną rolę w krajowej polityce, a które pożegnaliśmy w ciągu ostatniego roku.",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116623875328954409",
+      "author": "@DGPrawna",
+      "text": "Ambasadorzy Kumoch i Soloch złożyli dymisje po przesileniu w TK. Trudno, żeby tego nie zrobili",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116448841763258839",
+      "author": "@DGPrawna",
+      "text": "Ostatni rok to decyzje zapadające w gremium czterech, pięciu ministrów lubianych przez premiera, pozostałych odsuwano na boczne tory - mówi @szyszkoj , były wiceminister funduszy i polityki regionalnej z Polski 2050.",
+      "likes": 0,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116778010699259978",
+      "author": "@DGPrawna",
+      "text": "Przypominamy osoby, które w ostatnich dekadach miały znaczący wpływ na politykę w różnych krajach świata, a które zmarły w ciągu ostatnich 12 miesięcy.",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116523085184614449",
+      "author": "@DGPrawna",
+      "text": "Używanie narzędzi sztucznej inteligencji wpływa na kompetencje człowieka. Skoro myślenie definiuje nas jako ludzi, pojawia się pytanie: co się stanie, jeśli je oddelegujemy? Kim się staniemy, jeśli z homo sapiens wytniemy „sapiens”?",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
