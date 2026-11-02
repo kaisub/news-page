@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-02",
+  "slot": "01",
+  "generated_at": "2026-11-02T06:26:45Z",
+  "tweets": [
+    {
+      "tweet_id": "2116957135661945283",
+      "author": "@karpathy",
+      "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n\n- Excellent",
+      "likes": 36380,
+      "retweets": 3231
+    },
+    {
+      "tweet_id": "2116553654857867330",
+      "author": "@hwchase17",
+      "text": "A lot of content engineering challenges have pretty standard solutions, which has lead to some engineers saying agent engineering is solved/boring\n\nTrue to some extent, but there are a bunch of (fun) new ones emerging as agents evolve!",
+      "likes": 510,
+      "retweets": 54
+    },
+    {
+      "tweet_id": "2116458053700571327",
+      "author": "@reach_vb",
+      "text": "Finally!! You can switch between accounts on the mobile app (desktop coming soon)\n\nAlso, RESETS incoming!??",
+      "likes": 269,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2116518048664625215",
+      "author": "@svpino",
+      "text": "Deterministic tests &gt; Written instructions\n\nAnything that should be checked automatically should have a test case:\n\n• Checking behavior → Unit and integration tests\n• Checking formatting → Formatters and linters\n• Checking types → Static type checkers\n• Checking API",
+      "likes": 226,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2116948445533725165",
+      "author": "@jerryjliu0",
+      "text": "We've built the most accurate document extraction system on the planet.\n\nExtract Max Effort will spend dynamic tokens reasoning about every visual detail across hundreds of pages to ensure that you get the maximum accuracy possible.\n\nCheck out this massive well log report below.",
+      "likes": 178,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2117039992627470520",
+      "author": "@reach_vb",
+      "text": "banked reset for y’all - enjoy!",
+      "likes": 186,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116567223393489088",
+      "author": "@reach_vb",
+      "text": "london",
+      "likes": 95,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116955397223252385",
+      "author": "@reach_vb",
+      "text": "it’s true! my dog just helped put all my upcoming concerts and movies in my calendar. \n\nstarting to wonder which one of us needs looking after",
+      "likes": 56,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116840620102992002",
+      "author": "@reach_vb",
+      "text": "it’s 1st of november which only means one thing - ITS CHRISTMAS TIMEEEE!!",
+      "likes": 50,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116945772398682337",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo dobra porada dot. przyszłego rynku pracy.\n\nZastanów się kto w firmie jest kosztem, a kto zyskiem.\n\nKoszty można zautomatyzować.\n\nPracownicy dowożący zysk spięci z AI dostarczą więcej wartości niż kiedykolwiek wcześniej i w konsekwencji będą świetnie zarabiać",
+      "likes": 47,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116556551993413744",
+      "author": "@hwchase17",
+      "text": "want to learn how to use decision models with langgraph/deepagents?\n\nwe're doing a meetup with Typesafe (Jev creators) next week\n\ncome join!",
+      "likes": 41,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2116558573350105387",
+      "author": "@svpino",
+      "text": "It’s time to remove the ability to reply from the X API. \n\nIt won’t completely  solve the problem, but at least it will slow it down to a point where replies become useful again.",
+      "likes": 35,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117035182100205776",
+      "author": "@svpino",
+      "text": "I'm adding every account that replies with AI-generated slop to a list, so I can mass-mute and block them all.\n\nThis is probably an uphill battle, but I'll try to fight back because the replies on this platform are useless right now.\n\nI'm using Grok to identify slop, and based on",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116589292562853989",
+      "author": "@jerryjliu0",
+      "text": "happy halloween! 🎃\n\nwe made a fun benchmark to \"scare\" LLMs and OCR tools into output repeating characters \n\na lot of real-world documents have repeating characters that cause models to completely go off the rails \n\ncheck out boobench! \nlink: \ndataset:",
+      "likes": 26,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2116466579605176762",
+      "author": "@sentient_agency",
+      "text": "A founder with 1,690 followers got 1.66M views on a launch post this week.\n\nI pulled 4 AI launches that broke out from small accounts. same pattern:\n\n1. line 1 is the problem, not the product. Mintive: \"Every AI agent at work runs with the access of whoever set it up.\"\n2. product",
+      "likes": 8,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116604267104784510",
+      "author": "@nauczymycieAI",
+      "text": "Chcesz być na bieżąco z wykorzystaniem AI w pracy?\n\nWe wtorek wychodzi mój darmowy newsletter. W środku podsumowanie najważniejszych wydarzeń, polecane modele i narzędzia oraz najważniejsze poradniki.\n\n1 wiadomość w miesiącu i jesteś na bieżąco. Zapis👇",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2116908645845741618",
+      "author": "@AIMind_Ai",
+      "text": "I asked Claude Opus 5.5, Gemini 4 Argon, and GPT-6.1 Terra to recreate the Windows XP boot screen as if it launched in 2026.\n\nGemini rebuilt XP almost pixel for pixel. Bliss, the flag, the green Start button, everything.\nGPT made a dark sci-fi XP that says \"Welcome back\" right on",
+      "likes": 1085,
+      "retweets": 36
+    },
+    {
+      "tweet_id": "2116898053013819524",
+      "author": "@Rainmaker1973",
+      "text": "An MIT Media Lab study used EEG to track what happens in the brain when people write with ChatGPT rather than on their own. Fifty four students completed essay tasks while wearing electrode caps. One group used ChatGPT, one used a search engine, and one used no tools. Across",
+      "likes": 673,
+      "retweets": 165
+    },
+    {
+      "tweet_id": "2116509177988440427",
+      "author": "@hey_Jessicaai",
+      "text": "30 Websites That Feel \"Illegal\" But Are Perfectly Legal\n\n1.  — Free unlimited AI image generation, quality rivals Midjourney\n\n2.  — Real-time AI image generation, draws as you go\n\n3.  — AI unlimited image",
+      "likes": 643,
+      "retweets": 168
+    },
+    {
+      "tweet_id": "2116783161631719581",
+      "author": "@MAXdeg0",
+      "text": "THIS IS F**KING DANGEROUS.\n\nSOMEONE JUST REMOVED MOST OF THE REFUSALS FROM DEEPSEEK V4.1 FLASH.\n\nThe original model reportedly refused 81.6% of 838 test prompts. The modified version? Just 4.3%.\n\nHere’s what changed:\n\n→ built using OBLITERATUS, a free open source tool by Pliny",
+      "likes": 451,
+      "retweets": 37
+    },
+    {
+      "tweet_id": "2116945283879751848",
+      "author": "@0xHashiraa",
+      "text": "Holy f*ck. SpaceXAI founder Elon Musk:\n\n\"99% of people still use GrokBot like Google. They ask one question and close the tab\n\nAt SpaceXAI, over 80% of our engineers already run teams of 50+ GrokBot agents.\n\nA Chief of Staff plans the day, PMs hand out the work, and the workers",
+      "likes": 401,
+      "retweets": 69
+    },
+    {
+      "tweet_id": "2116531845839851723",
+      "author": "@sinanyorulmazz",
+      "text": "AI coding agents build UI that looks generated.\n\nWe built a tool that finds it, fixes it and proves it: 266 design findings → 0 on this dashboard.\n\nOpen source, zero dependencies:\nnpx @enmera/ai-design-check\n\nWhat it does:\n→ 70 design rules, each with what, why and how to fix",
+      "likes": 323,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2116545054630150383",
+      "author": "@painn_x",
+      "text": "Claude Opus 5.5 and Gemini 4 Argon are FREE 😳\n\nno deposit, no card, just credits\n\nmodels you get:\n- Claude Opus 5.5, Sonnet 5.5, Haiku 5.5\n- GPT 6.1 Sol, GPT 6 Sol\n- Gemini 4 Argon\n- DeepSeek V4.1 Flash, GLM 5.3, Kimi K3, Grok 4.6 and more\n\nhow to use it:\n-sign upto",
+      "likes": 303,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2116543430285512912",
+      "author": "@k2sbhai",
+      "text": "Claude Opus 5.5 Gemini 4 Argon and GPT 6.1 Sol for FREE 😳\n\nno deposit no card just credits\n\nhow to use it\n\n1. go to \n2. sign up\n3. open AI Chat\n4. pick any model from the list\n\nwhat u get\n\n- Claude Opus 5.5, Sonnet 5.5, Haiku 5.5\n- GPT 6.1 Sol, GPT 6 Sol",
+      "likes": 265,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2116491142162272657",
+      "author": "@jumperz",
+      "text": "AI subscriptions i would actually be happy paying for 2.0..\n\nmade the first version a while back, but things changed fast so i had to fix it..\n\nbiggest change is Codex..\n\nOpenAI just doubled the usage on the $100 and $500 plans, and dropped the cut they were planning for the $200",
+      "likes": 236,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2116816815917564193",
+      "author": "@0xemmy__G",
+      "text": "watching an AI fighter compete is one thing. Being able to study what made its performance succeed or fail adds another dimension.\n\n@agentdojo creates room for that kind of curiosity by turning agent competition into something people can follow, assess and learn from. Every match",
+      "likes": 202,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2116751556595069146",
+      "author": "@0x_why85",
+      "text": "Good morning Gm \n\nWhat if an AI trading agent could build its own credit reputation through real trading performance?\n\nThat's the interesting idea behind @agenticscredit.\n\nAgentics Credit is building a credit infrastructure for autonomous AI traders.\n\nHere's what makes it worth",
+      "likes": 218,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2116783911682601144",
+      "author": "@rudolphhh2000",
+      "text": "Something I think people underestimate when discussing AI agent economy is what happens when things go wrong.\n\nImagine hiring an AI agent to complete a research task.\n\nYou fund the job, the agent starts working, and eventually submits its result.\n\n- But what if the output is",
+      "likes": 181,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117072170535080263",
+      "author": "@TekonBurns",
+      "text": "Claude Opus 5.6 is coming.\n\nLeaked numbers have it clearing 90% on SWE Bench alongside Mythos and Fable 5.5.\n\nIt will completely mog every coding model on the leaderboard while running 20% cheaper.\n\nOpenAI will have to rush out GPT-6.2 Astra just to survive the week.\n\nGoogle will",
+      "likes": 167,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117092177184764310",
+      "author": "@rudolphhh2000",
+      "text": "One problem I think the AI agent economy needs to solve is making sure both sides understand what a job actually requires before execution begins.\n\nImagine asking an AI agent to conduct market research.\n\nDoes that mean collecting basic information, analyzing competitors,",
+      "likes": 120,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2116824025607422181",
+      "author": "@hey_SpencerAI",
+      "text": "25 open-source AI projects on GitHub that feel illegal to know\n\nAll open-source. Most are free to run on your own machine.\n\n1. Open Notebook\nAn open-source, self-hosted alternative to NotebookLM.\n\n\n2. Podcastfy\nTurns articles, PDFs and videos into",
+      "likes": 81,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2117074499959156968",
+      "author": "@0x_why85",
+      "text": "Every shining every grow \n\nThe next evolution of AI won't happen with digital data alone.\n\n It needs a deeper understanding of the physical world.\n\nThat's where @vangrid_io is building something interesting.\n\nVangrid is creating a decentralized spatial data network that connects",
+      "likes": 107,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117078691255886266",
+      "author": "@0x_why85",
+      "text": "Happy Monday gm CT \n\nThe future of AI won't be powered by intelligence alone. \n\nIt will also need a smarter financial infrastructure.\n\nThat's why I'm keeping a close eye on @agenticscredit.\n\nAgentics Credit is exploring how credit infrastructure can evolve for the AI-driven",
+      "likes": 101,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2116899815954989120",
+      "author": "@0xemmy__G",
+      "text": "what happens when an AI agent has to operate with incomplete information?\n\nThat question makes @agentdojo worth following from a different perspective. Competitive environments can reveal how well an agent handles uncertainty,adjusts to unfamiliar situations and makes decisions",
+      "likes": 76,
+      "retweets": 23
+    },
+    {
+      "tweet_id": "2117115074011648468",
+      "author": "@0xemmy__G",
+      "text": "Athe audience should not need to understand AI engineering to enjoy watching AI compete.\n\nThat is an opportunity for @agentdojo to make autonomous technology more accessible. Turning agent competition into something people can follow and discuss gives complex AI behaviour a more",
+      "likes": 71,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2116779243120079078",
+      "author": "@RealMarvelX",
+      "text": "this Open-Source AI agent is on another level\n\ni just found an open-source AI agent that can research, write, code, build projects, and execute complex tasks with minimal supervision.\n\nit’s called DeerFlow, built by ByteDance. It’s free, open source, and released under the MIT",
+      "likes": 45,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117078536968368308",
+      "author": "@I_am_Aiabir",
+      "text": "GITHUB IS ACTUALLY INSANE RIGHT NOW.\n\nYou can build an entire AI content factory without hiring a team.\n\nHere are 10 open-source repos worth checking out:\n\n1. OpenCreator\n\nGive Codex a creator workspace for writing scripts, generating images, creating voiceovers, translating",
+      "likes": 30,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2117119388113617233",
+      "author": "@MrDegenMax",
+      "text": "AI agents are getting smarter, but intelligence alone isn't enough to make autonomous finance work.\n\nWhat matters just as much is the infrastructure supporting those agents.\n\nThat's one reason I'm interested in what @meetmotes is building around Robinhood Chain.\n\nThe concept",
+      "likes": 37,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116777378945065354",
+      "author": "@saloniiio",
+      "text": "October was packed with AI model releases:\n\n• GPT-6.1 Terra\n• Kimi K3.1 Pro\n• DeepSeek V4.1 Flash-1017\n• Gemini 4 Argon\n• Muse Wonder / Muse Wonder Full\n• Claude Haiku 5.5\n\nWhich AI model do you think will drop first in November?",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116945895262486813",
+      "author": "@IntEngineering",
+      "text": "Researchers at Berkeley Lab’s Molecular Foundry have connected a commercial large language model to a transmission electron microscope capable of imaging structures about half the size of a hydrogen atom. The assistant, called TEM Agent, carries out experiments described in plain",
+      "likes": 22,
+      "retweets": 6
+    }
+  ]
+}
