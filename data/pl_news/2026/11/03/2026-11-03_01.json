@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-11-03",
+  "slot": "01",
+  "generated_at": "2026-11-03T07:11:10Z",
+  "tweets": [
+    {
+      "tweet_id": "2117140649979842946",
+      "author": "@DGPrawna",
+      "text": "I prezes SN: Sytuacja wokół TK jest na tyle krytyczna, że nie mogę przyglądać się temu obojętnie",
+      "likes": 642,
+      "retweets": 160
+    },
+    {
+      "tweet_id": "2117226977979400340",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli została naruszona \"nietykalność cielesna\" Prezydenta, to funkcjonariusze @SOP_GOV_PL którzy nie obronili naszego \"płatka śniegu\", na bruk!\n\nO to @NawrockiKn Panu chodzi? 😉",
+      "likes": 233,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2117301101007421821",
+      "author": "@DGPrawna",
+      "text": "Sędzia TK nie złożył ślubowania. Sąd: stosunek pracy nie został nawiązany",
+      "likes": 147,
+      "retweets": 64
+    },
+    {
+      "tweet_id": "2117273106603806894",
+      "author": "@PAPinformacje",
+      "text": "Rzecznik MSZ: ambasador Krzysztof Szczerski zwrócił się o skrócenie misji dyplomatycznej przy ONZ; szef MSZ przychylił się do prośby, Szczerski zakończy misję w tym miesiącu. (PAP) #PAPInformacje",
+      "likes": 63,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117303935090266190",
+      "author": "@Macronextcom",
+      "text": "Trump 🇺🇸: jeśli Demokraci przejmą Kongres, zostanę \"PANEM WETO\" 🤣 (za PAP) \n\nPolak, Amerykanin, dwa bratanki...",
+      "likes": 52,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117229439381852204",
+      "author": "@Macronextcom",
+      "text": "Aaale się porobiło. \n\n#XTB 132,04 zł (-5,51%). Wybicie dołem z miesięcznej konsolidacji 👇 - pomimo dobrych wyników za Q3 2026 - brzmi jak zapowiedź spadku gdzieś do 120-122 zł.",
+      "likes": 46,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117296670153052249",
+      "author": "@Macronextcom",
+      "text": "...a z dobrych wieści to ropa #Brent tanieje do 104,69 USD (-7,71%)📉, bo rynek kolejny raz ma nadzieję porozumienie USA-Iran. \n\nJeżeli tak zamknie się dzień, to będzie to największy jednodniowy spadek na Brent od 27 lipca (-11,27%) i 7. największy w tym roku.",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117335936845672523",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W III kw. 2026 zysk netto #Tauron Polska Energia wzrósł o 21% r/r do 1,02 mld zł i o 74% pobił konsensus. \n\nEBITDA o 16% powyżej prognoz, a przychody o 11,7%.\n\n--- \nW tym tygodniu wyniki opublikują  Dino Polska, Energa, Handlowy, Orlen i PKO BP.",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117166848831852809",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w X 2026 Indeks #PMI dla przemysłu: 50,0 pkt.📈 (prog. 49,4 pkt.; pop. 49,0 pkt.) \n\nTo pierwszy od 1⃣8⃣ miesięcy odczyt z \"5\" z przodu. Należy jednak pamiętać, że ten wskaźnik słabo pokazuje sytuację w przemyśle. Dla przypomnienia: we IX produkcja przemysłowa +4,6%",
+      "likes": 22,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117155463129428155",
+      "author": "@Macronextcom",
+      "text": "Niemiec jak nie kupował, tak dalej nie kupuje.\n\n#Niemcy 🇩🇪: we IX 2026 r. Sprzedaż detaliczna -2,3% r/r  (prognoza: -0,2%; poprzednio: -0,3%)",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117353740579508442",
+      "author": "@PAPinformacje",
+      "text": "Kończy się Dzień Zaduszny 🕯️\n\n🗓️ Polska Agencja Prasowa relacjonowała wydarzenia związane z obchodami listopadowych świąt.\n\nOdwiedziliśmy cmentarze i kwestujących tam wolontariuszy. Pokazaliśmy też m. in. akcje w polskich miejscach pamięci za granicą oraz zakopiańską nekropolię",
+      "likes": 11,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117171870667776235",
+      "author": "@Macronextcom",
+      "text": "#Allegro pcha się powyżej 60 zł.\n\nOd 1 listopada obowiązuje kolejne ograniczenie na przesyłki z Chin (2 EUR za każdą pozycję w przesyłce), co uderza w chińską konkurencję Allegro.\n\nCelem dla Allegro może być 65 zł, czyli proponowany nowy limit skupu akcji. \n\nWyniki za Q3 są 12.11",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117257211063804061",
+      "author": "@laskowski_pl",
+      "text": "Rak jądra to choroba przede wszystkim chłopców i mężczyzn pomiędzy 14 a 35 rokiem życia - 70% zachorowań. \nJest to jednak nowotwór całkowicie wyleczalny – pod warunkiem, że zostanie wykryty odpowiednio wcześnie.",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117290988922089800",
+      "author": "@PAPinformacje",
+      "text": "Ambasador Szczerski zwrócił się o skrócenie misji dyplomatycznej przy ONZ #PAPInformacje",
+      "likes": 11,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116896541688369285",
+      "author": "@Macronextcom",
+      "text": "Kalendarz (2-6 listopada 2026):\n\n02.11: PMI/ISM dla przemysłu; 🇩🇪 sprzedaż detaliczna; wyniki Apple.\n03.11: 🇺🇸 #Midterms2026, JOLTS; 🇳🇿 bezrobocie; 🇦🇺 RBA; wyniki AMD.\n04:11: PMI/ISM dla usług; 🇵🇱 RPP; 🇸🇪 Riksbank; 🇺🇸 ADP, bilans handlowy; 🇪🇺 HICP; wyniki Qualcomm.\n\n(1/2)",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117317314278289772",
+      "author": "@DGPrawna",
+      "text": "Zgromadzenie TK bez Święczkowskiego i Sochańskiego? Prawnicy: to mocno dyskusyjne",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117259181258346888",
+      "author": "@Macronextcom",
+      "text": "W październiku 2026 r. większość \"przemysłowych\" indeksów #PMI jest powyżej granicy 50 pkt.",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117191558394937477",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Ankieta kredytowa NBP potwierdza wciąż mocną akcję kredytową wśród przedsiębiorstw. Jednocześnie oczekiwania banków sygnalizują coraz lepszą perspektywę dla dużych firm i słabszą dla firm z sektora MŚP.",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117266434803876268",
+      "author": "@PAPinformacje",
+      "text": "Terrorysta Anders Breivik ponownie ubiega się o przedterminowe zwolnienie ⤵️\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117503789645344902",
+      "author": "@PAPinformacje",
+      "text": "Spór o TK. Europejskie instytucje wzywają Polskę do rozwiązania kryzysu\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117255127887147181",
+      "author": "@PAPinformacje",
+      "text": "Będą zmiany dotyczące pochówku? Resort zdrowia opublikował projekt ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117335048576028693",
+      "author": "@PAPinformacje",
+      "text": "Prof. Dudek: walka o Trybunał to rodzaj ustawki KO i PiS [WYWIAD] #PAPInformacje",
+      "likes": 4,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117281930656051273",
+      "author": "@PAPinformacje",
+      "text": "Iran gotowy otworzyć Ormuz, jeżeli USA zaakceptują żądania [WIDEO]\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117271835498676537",
+      "author": "@PAPinformacje",
+      "text": "Kielce. Wyrok ws. protestu na MSPO. Sąd orzekł kary ograniczenia wolności\n#PAPinformacje",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117256161984397381",
+      "author": "@PAPinformacje",
+      "text": "📌Otwarte krypty i Kaplica Świętych Relikwii na Jasnej Górze. \n\n📌W tej otwieranej wyłącznie na 48 godzin kaplicy udostępniono niezwykłe pamiątki. Pielgrzymi znajdą tam kości lub fragmenty ubrań osób znanych na całym świecie. \n\n📌Obok siebie spoczywają relikwie takich postaci jak",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117246418263970217",
+      "author": "@PAPinformacje",
+      "text": "Kryzys w Belgii. Premier zapowiedział rezygnację, król wstrzymał się z decyzją ws. dymisji premiera ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117145934975185360",
+      "author": "@DGPrawna",
+      "text": "We wtorek uda się zebrać kworum Zgromadzenia Ogólnego TK – przekonuje @WZembaczynski z KO. PiS już dziś zapowiada, że nie uzna żadnych decyzji Zgromadzenia Ogólnego. Klub PiS złoży też poprawkę do ustawy budżetowej, przywracającą pełny budżet Trybunału.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117272323405320494",
+      "author": "@PAPinformacje",
+      "text": "Powodzie na południowym zachodzie USA. Zarządzono ewakuacje ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117266559601156488",
+      "author": "@PAPinformacje",
+      "text": "TPN próbuje odzwyczaić jelenia przy Morskim Oku od ludzi. Apel do turystów ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117246123144622285",
+      "author": "@PAPinformacje",
+      "text": "We wtorek kierowcy na stacjach zatankują taniej niż w ostatnich dniach ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117496275553927625",
+      "author": "@PAPinformacje",
+      "text": "Alert RCB dla Lubelszczyzny i Podkarpacia. Podniesiono gotowość systemu obrony\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117277764445184058",
+      "author": "@PAPinformacje",
+      "text": "Zbliża się Liga Narodów. W piątek powołania Urbana na kolejne zgrupowanie kadry ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117272661659439273",
+      "author": "@PAPinformacje",
+      "text": "Obrona złożyła wniosek o pisemne uzasadnienie wyroku w sprawie Sebastiana M. #PAPInformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117490265246109975",
+      "author": "@DGPrawna",
+      "text": "🟥 TYLKO W DGP | @w_zurek o sytuacji w TK: kworum nie jest zawsze konieczne",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117511794239615470",
+      "author": "@PAPinformacje",
+      "text": "Wybory w USA. Kluczowe pojedynki, które zdecydują o układzie sił w Senacie\n#PAPinformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117272007197041078",
+      "author": "@PAPinformacje",
+      "text": "Meksykański Dzień Zmarłych w Atlancie: pamięć o bliskich i sprzeciw wobec polityki migracyjnej USA ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117301683122311578",
+      "author": "@DGPrawna",
+      "text": "W „Komentarzu DGP” Daria Al Shehabi i Tomasz Pietryga rozmawiają o tym, dlaczego Karol Nawrocki może być zmuszony do kolejnego ruchu, czy kompromis wokół TK jest jeszcze możliwy i dlaczego 11 listopada może stać się w całej historii momentem kluczowym.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117226819191517399",
+      "author": "@DGPrawna",
+      "text": "Koniec sielanki dla OZE? Priorytet ma być warunkowy",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117158769461272913",
+      "author": "@DGPrawna",
+      "text": "Po piątkowej eskalacji partie zaczęły układać własne scenariusze wyjścia z klinczu. KO i PiS paradoksalnie łączy sprzeciw wobec resetu, choć z całkowicie innych powodów. Polska 2050, Razem, Konfederacja i Rozwój Plus proponują własne rozwiązania.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117498715715903531",
+      "author": "@PAPinformacje",
+      "text": "RCB odwołało alert dla Lubelszczyzny i Podkarpacia. „Brak zagrożenia”\n#PAPinformacje",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}

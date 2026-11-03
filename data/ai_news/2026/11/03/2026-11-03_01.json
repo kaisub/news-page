@@ -1,0 +1,226 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-03",
+  "slot": "01",
+  "generated_at": "2026-11-03T07:11:10Z",
+  "tweets": [
+    {
+      "tweet_id": "2116957135661945283",
+      "author": "@karpathy",
+      "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n\n- Excellent",
+      "likes": 49018,
+      "retweets": 4462
+    },
+    {
+      "tweet_id": "2117343929960112486",
+      "author": "@AnthropicAI",
+      "text": "Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required.\n\nApply by November 22:",
+      "likes": 22183,
+      "retweets": 1537
+    },
+    {
+      "tweet_id": "2117039992627470520",
+      "author": "@reach_vb",
+      "text": "banked reset for y’all - enjoy!",
+      "likes": 290,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2116948445533725165",
+      "author": "@jerryjliu0",
+      "text": "We've built the most accurate document extraction system on the planet.\n\nExtract Max Effort will spend dynamic tokens reasoning about every visual detail across hundreds of pages to ensure that you get the maximum accuracy possible.\n\nCheck out this massive well log report below.",
+      "likes": 249,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2117275570627289413",
+      "author": "@svpino",
+      "text": "Nothing will ever be the same for developers.\n\nIt's just incredible that you can build a complete application and deploy it in under 5 minutes.\n\n@vercel added Python support, and I'm in heaven!",
+      "likes": 229,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2117290251081368042",
+      "author": "@svpino",
+      "text": "This is an open-source tool that will let you carry knowledge between different coding assistants.\n\nThis is super cool for moving between assistants when you hit a usage limit.\n\nBasically, this will record your coding sessions and turn useful fixes, corrections, and workflows",
+      "likes": 127,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2117367302719172784",
+      "author": "@svpino",
+      "text": "This is a new developer platform for fine-tuning models.\n\nYou provide:\n\n• The tasks the model should solve\n• The data the model needs to solve them\n• The criteria to evaluate the results\n\n@trajectorylabs will take this and handle post-training, evaluation, and deployment.",
+      "likes": 123,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117292904045781358",
+      "author": "@svpino",
+      "text": "This is a new decision model for audio input:\n\n• You provide the audio\n• You provide a list of questions\n• Model outputs answers + confidence scores\n\nThe model analyzes the audio directly (no transcript needed).\n\nSomething really cool is the model's ability to answer questions",
+      "likes": 94,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2117341685042536576",
+      "author": "@nauczymycieAI",
+      "text": "Modele Open Source już niedługo przestaną się liczyć. Rozwój AI zrobił się tak drogi, że chińskie laboratoria, które do tej pory ciągnęły ten rynek, nie są w stanie dotrzymać kroku.\n\nChińczycy rozdają swoje modele za darmo. Zdobywają dzięki temu użytkowników, ale nie pieniądze.",
+      "likes": 97,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117345786715607062",
+      "author": "@hwchase17",
+      "text": "We're bringing back Interrupt for the THIRD year\n\n- This will be the biggest one yet (new venue that can hold ~2k people!)\n- Most talks &amp; workshops we've ever had\n- New Executive Track\n\nRegister today for the early bird special:",
+      "likes": 74,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2116955397223252385",
+      "author": "@reach_vb",
+      "text": "it’s true! my dog just helped put all my upcoming concerts and movies in my calendar. \n\nstarting to wonder which one of us needs looking after",
+      "likes": 76,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117317513105313904",
+      "author": "@svpino",
+      "text": "This is a new streaming decision model:\n\n• Give it text + list of questions\n• It answers back with a confidence score\n• Answers update as the text arrives, 3x faster\n\nBut it's also an extraction model:\n\n• Text in, structured data out\n• ~150 ms per extraction\n• Claims 75x",
+      "likes": 60,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117035182100205776",
+      "author": "@svpino",
+      "text": "I'm adding every account that replies with AI-generated slop to a list, so I can mass-mute and block them all.\n\nThis is probably an uphill battle, but I'll try to fight back because the replies on this platform are useless right now.\n\nI'm using Grok to identify slop, and based on",
+      "likes": 56,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2116945772398682337",
+      "author": "@nauczymycieAI",
+      "text": "Bardzo dobra porada dot. przyszłego rynku pracy.\n\nZastanów się kto w firmie jest kosztem, a kto zyskiem.\n\nKoszty można zautomatyzować.\n\nPracownicy dowożący zysk spięci z AI dostarczą więcej wartości niż kiedykolwiek wcześniej i w konsekwencji będą świetnie zarabiać",
+      "likes": 53,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2116840620102992002",
+      "author": "@reach_vb",
+      "text": "it’s 1st of november which only means one thing - ITS CHRISTMAS TIMEEEE!!",
+      "likes": 51,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117417321308545290",
+      "author": "@jerryjliu0",
+      "text": "Today, @llama_index is an applied research lab building models and agents for document work.\n\nWe have the best general purpose OCR models at the Pareto frontier of accuracy and cost. You can use them today within LlamaParse.\n✅ This includes fast and cheap models for ingesting",
+      "likes": 47,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117465596342509793",
+      "author": "@hwchase17",
+      "text": "is org/agent level memory just \"skills\"? assuming there is process for updating skills from agent traces/history\n\nwhy or why not?",
+      "likes": 36,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117190417263292787",
+      "author": "@rpl_0x",
+      "text": "Z Alicante ruszyliśmy rowerami na południe, przez wydmy, lasy sosnowe i ogromne solniska, gdzie spotkalismy flamingi. Dojechaliśmy aż do Torrevieja, gdzie jest słynne różowe jezioro, chociaż na żywo nie było aż tak różowe jak na zdjęciach 😄\n\nPotem pojechaliśmy na północ, do",
+      "likes": 35,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117386884188168213",
+      "author": "@svpino",
+      "text": "We haven’t figured out how to scale from producing stuff to shipping stuff:\n\n• 2,450% increase in lines of code\n• 240% increase in commits\n• but only 30% increase in releases\n\nThis video is really cool:",
+      "likes": 30,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117206652084539714",
+      "author": "@rpl_0x",
+      "text": "Hacker wykorzystał marketplace Cursora do rozpowszechnienia zainfekowanego rozszerzenia Claude Code\n\nSprawdź czy ciebie nie dotyczy i jakie wnioski wyciągnąć\n\nNajciekawsze jest to, jak przeprowadzono atak. Do oryginalnego rozszerzenia, zawierającego około 3,6 MB kodu, dopisano na",
+      "likes": 24,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117206784595435669",
+      "author": "@sentient_agency",
+      "text": "This is wild.\n\n@levelsio dropped 14 raw clips (58 min) into a folder and gave Claude Code one prompt. It handed back a 10 min vlog.\n\nHow it worked:\n\n→ mlx-whisper transcribed everything\n→ frame grids so it could \"see\" each clip\n→ voice matching to find his lines, face",
+      "likes": 14,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117379988718788924",
+      "author": "@jerryjliu0",
+      "text": "did we just kill backprop",
+      "likes": 24,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117229696509485351",
+      "author": "@sentient_agency",
+      "text": "wtf is __usage_ai-training.\n\nIt's 1 robots.txt line that tells AI labs not to train on your site. OpenAI, Google, Microsoft and Anthropic all back it.\n\n3 catches:\n\n&gt; At Google it counts as blocking Google-Extended, which also covers grounding in Gemini Apps.\n\n&gt; \"User-agent: *\"",
+      "likes": 14,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117217683192303660",
+      "author": "@sentient_agency",
+      "text": "Stageshow might be the best free skill for launch videos I've seen\n\nWithout it, the UI looks like a pasted screenshot.\n\nWith it, you get an actual STORY.\n\n22,627 bookmarks in 37 hours. Benji Taylor gave it away.\n\nlink in the comments.",
+      "likes": 9,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117214250649219360",
+      "author": "@rpl_0x",
+      "text": "Ajajaj, dostałem info o ataku hakerskim na system stypendialny Ministerstwa Kultury. Mogły wyciec moje dane, w tym PESEL i numer konta bankowego.\n\nChociaż w sumie trudno się dziwić. Skoro mają problem z ogarnięciem marginesów na najprostrzej stronie z samym htmlem...",
+      "likes": 17,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117299002136055877",
+      "author": "@svpino",
+      "text": "25 bots blocked so far after checking replies in October. Many more are on the list and will probably be blocked after a couple more replies.\n\nNow my bot does all of this automatically.\n\nYou reply with AI slop a few times, and my bot will block you.",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117499571383185862",
+      "author": "@rpl_0x",
+      "text": "Nowe narzędzie alert 🚨\n\nVercel Labs, czyli eksperymentalny dział Vercela, jednej z największych platform do wdrażania aplikacji webowych, udostępnił za darmo narzędzie open source, które pozwala agentom AI sterować praktycznie całym komputerem.\n\nProjekt nazywa się Agent Desktop",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117423644452536584",
+      "author": "@svpino",
+      "text": "$250M ARR with 50+ customers.\n\nSo many opportunities for building companies around AI!",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117162551909986329",
+      "author": "@sentient_agency",
+      "text": "a founder with 326 followers got 2,890 likes on a launch post yesterday.\n\ndydema (YC F26): brain-computer interfaces where you bind a thought to a key, a game or an agent. no surgery.\n\nthe copy is 2 sentences. the 2:40 video carries it:\n\n1. [0:00–0:0X: what's on screen first]\n2.",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117157763747070390",
+      "author": "@sentient_agency",
+      "text": "everyone's posting \"22x faster than Seedance 2.5\". I read fal's own benchmark table.\n\nFLUX 3 Max, explained:\n\n&gt; 10s clip in 12.45s on fal's test. Seedance 2.5: 277.80s\n&gt; quality: both 1,139 Elo on Artificial Analysis' preliminary image-to-video board. a tie, not a win\n&gt; MiniMax",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117152479263785323",
+      "author": "@sentient_agency",
+      "text": "I don't think video models work for motion graphics. you ask for a bigger title and get a new video.\n\nMagnific Move is built differently:\n\n&gt; the agent writes the motion as code on HeyGen's open-source HyperFrames\n&gt; \"bigger title\" changes the title. nothing else moves\n&gt; pause,",
+      "likes": 1,
+      "retweets": 1
+    }
+  ]
+}
