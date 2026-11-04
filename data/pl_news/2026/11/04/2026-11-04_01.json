@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-11-04",
+  "slot": "01",
+  "generated_at": "2026-11-04T06:37:18Z",
+  "tweets": [
+    {
+      "tweet_id": "2117701721518485882",
+      "author": "@PAPinformacje",
+      "text": "Premier: zaoferowałem prezydentowi, że jestem gotów w tym tygodniu na spotkanie w cztery oczy, by zastanowić się, jak obniżyć napięcie. (PAP) #PAPInformacje",
+      "likes": 511,
+      "retweets": 39
+    },
+    {
+      "tweet_id": "2117226977979400340",
+      "author": "@laskowski_pl",
+      "text": "Jeżeli została naruszona \"nietykalność cielesna\" Prezydenta, to funkcjonariusze @SOP_GOV_PL którzy nie obronili naszego \"płatka śniegu\", na bruk!\n\nO to @NawrockiKn Panu chodzi? 😉",
+      "likes": 242,
+      "retweets": 34
+    },
+    {
+      "tweet_id": "2117836870788719100",
+      "author": "@PAPinformacje",
+      "text": "USA/ NBC News: Demokraci zdobywają Senat i przejmują pełną kontrolę nad Kongresem. (PAP)\n#PAPInformacje",
+      "likes": 221,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2117703830880043349",
+      "author": "@PAPinformacje",
+      "text": "Premier: jestem przekonany, że prezydent jest świadomy, iż powinien skorzystać z tej oferty, że powinniśmy pracować we dwóch na rzecz bezpieczeństwa Polski, w tym obniżania napięcia. (PAP)",
+      "likes": 208,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2117570995376501143",
+      "author": "@Macronextcom",
+      "text": "🇵🇱  Premier ma podpisać kontrasygnatę pod wnioskiem prezydenta o powołanie 4 członków zarządu NBP - media. (za PAP) \n\nNowymi członkami zarządu NBP zostaną: Kightley oraz 3. członków RPP: Kotecki, Litwiniuk i Zarzecki. W miejsce tych ostatnich do RPP trzeba wybrać nowych członków.",
+      "likes": 109,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117817245258989938",
+      "author": "@PAPinformacje",
+      "text": "CNN: Demokraci przejmą kontrolę nad Izbą Reprezentantów USA. (PAP)\n#PAPInformacje",
+      "likes": 97,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117858461308318039",
+      "author": "@Macronextcom",
+      "text": "Dopiero połowa kadencji, a on już jest wielki. 😉 Przegrać Texas to dopiero jest sukces. \n\nNo cóż, teraz trzeba zostać \"panem weto\". 🙃",
+      "likes": 74,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117833113908674672",
+      "author": "@PAPinformacje",
+      "text": "USA/ NBC News: Demokrata James Talarico pokonuje Republikanina Kena Paxtona w wyścigu o miejsce w amerykańskim Senacie w Teksasie. (PAP)",
+      "likes": 60,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117690192928612723",
+      "author": "@PAPinformacje",
+      "text": "Zakończyło się posiedzenie Rady Bezpieczeństwa Narodowego. (PAP)\n#PAPInformacje",
+      "likes": 57,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117583799907184911",
+      "author": "@Macronextcom",
+      "text": "Done.\n\n🇵🇱 \"Zgodnie z rekomendacją pana ministra Domańskiego złożyłem podpis, kontrasygnatę, pod propozycjami nowych członków zarządu NBP. Odesłaliśmy już te dokumenty do prezydenta, bo tam jeszcze trzeba jego podpisu - powiedział Tusk.\" \n\n(za PAP)",
+      "likes": 60,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117303935090266190",
+      "author": "@Macronextcom",
+      "text": "Trump 🇺🇸: jeśli Demokraci przejmą Kongres, zostanę \"PANEM WETO\" 🤣 (za PAP) \n\nPolak, Amerykanin, dwa bratanki...",
+      "likes": 55,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117622575803294033",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Co jest luksusem w Polsce?\n\n65% - zdrowie\n43% - życie bez pośpiechu\n34% - czas dla siebie...\n\nPolacy najwyraźniej jednak do tak definiowanego luksusu nie dążą, skoro wielu z nich funduje sobie niezdrowy tryby życia (otyłość), pochwala kulturę zapi*** i siedzi w social mediach.",
+      "likes": 50,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117229439381852204",
+      "author": "@Macronextcom",
+      "text": "Aaale się porobiło. \n\n#XTB 132,04 zł (-5,51%). Wybicie dołem z miesięcznej konsolidacji 👇 - pomimo dobrych wyników za Q3 2026 - brzmi jak zapowiedź spadku gdzieś do 120-122 zł.",
+      "likes": 47,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117560164442341471",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Dziś startuje 2-dniowe posiedzenie #RPP. Zmiana stóp proc. nie jest oczekiwana.\n\nWiększość ekonomistów ankietowanych przez PAP prognozuje, że RPP utrzyma główną stopę na poziomie 3,75% do końca III kw. 2027, a następnie w IV kw. 2027 jednorazowo obniży ją o 25 pb do 3,50%.",
+      "likes": 34,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117296670153052249",
+      "author": "@Macronextcom",
+      "text": "...a z dobrych wieści to ropa #Brent tanieje do 104,69 USD (-7,71%)📉, bo rynek kolejny raz ma nadzieję porozumienie USA-Iran. \n\nJeżeli tak zamknie się dzień, to będzie to największy jednodniowy spadek na Brent od 27 lipca (-11,27%) i 7. największy w tym roku.",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117490265246109975",
+      "author": "@DGPrawna",
+      "text": "🟥 TYLKO W DGP | @w_zurek o sytuacji w TK: kworum nie jest zawsze konieczne",
+      "likes": 24,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117524511859900511",
+      "author": "@laskowski_pl",
+      "text": "Skumulowane wydatki zrealizowane (lata 2015–2025):\nŁącznie z budżetu państwa na funkcjonowanie Trybunału Konstytucyjnego w latach 2015–2025  ok. 436,5 mln zł.\n\nWynagrodzenia pracowników Kancelarii TK i sędziów orzekających: stanowią najwęższą i największą część budżetu (w",
+      "likes": 20,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117859080979075232",
+      "author": "@PAPinformacje",
+      "text": "Wybory połówkowe w USA. Demokraci z większością w obu izbach Kongresu\n#PAPInformacje",
+      "likes": 20,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2117335936845672523",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W III kw. 2026 zysk netto #Tauron Polska Energia wzrósł o 21% r/r do 1,02 mld zł i o 74% pobił konsensus. \n\nEBITDA o 16% powyżej prognoz, a przychody o 11,7%.\n\n--- \nW tym tygodniu wyniki opublikują  Dino Polska, Energa, Handlowy, Orlen i PKO BP.",
+      "likes": 25,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117817120570618235",
+      "author": "@PAPinformacje",
+      "text": "CNN i NBC: Demokratka Annie Andrews pokonała kandydatkę Republikanów Darline Graham w wyścigu o mandat do Senatu w Karolinie Płd. (PAP)\n#PAPInformacje",
+      "likes": 23,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117166848831852809",
+      "author": "@Macronextcom",
+      "text": "#Polska 🇵🇱: w X 2026 Indeks #PMI dla przemysłu: 50,0 pkt.📈 (prog. 49,4 pkt.; pop. 49,0 pkt.) \n\nTo pierwszy od 1⃣8⃣ miesięcy odczyt z \"5\" z przodu. Należy jednak pamiętać, że ten wskaźnik słabo pokazuje sytuację w przemyśle. Dla przypomnienia: we IX produkcja przemysłowa +4,6%",
+      "likes": 23,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117317314278289772",
+      "author": "@DGPrawna",
+      "text": "Zgromadzenie TK bez Święczkowskiego i Sochańskiego? Prawnicy: to mocno dyskusyjne",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117835627828072513",
+      "author": "@PAPinformacje",
+      "text": "USA/ CNN i NBC News: Demokrata Adam Hamilton wygrywa w wyborach do Senatu w stanie Kansas. (PAP)\n#PAPInformacje",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117155463129428155",
+      "author": "@Macronextcom",
+      "text": "Niemiec jak nie kupował, tak dalej nie kupuje.\n\n#Niemcy 🇩🇪: we IX 2026 r. Sprzedaż detaliczna -2,3% r/r  (prognoza: -0,2%; poprzednio: -0,3%)",
+      "likes": 19,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117805891424567503",
+      "author": "@PAPinformacje",
+      "text": "NBC: kandydaci Demokratów do Senatu wygrali w Karolinie Północnej i Georgii\n#PAPInformacje",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117822502588301637",
+      "author": "@PAPinformacje",
+      "text": "CNN: Demokraci zdobędą większość w Izbie Reprezentantów\n#PAPinformacje",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117171870667776235",
+      "author": "@Macronextcom",
+      "text": "#Allegro pcha się powyżej 60 zł.\n\nOd 1 listopada obowiązuje kolejne ograniczenie na przesyłki z Chin (2 EUR za każdą pozycję w przesyłce), co uderza w chińską konkurencję Allegro.\n\nCelem dla Allegro może być 65 zł, czyli proponowany nowy limit skupu akcji. \n\nWyniki za Q3 są 12.11",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117257211063804061",
+      "author": "@laskowski_pl",
+      "text": "Rak jądra to choroba przede wszystkim chłopców i mężczyzn pomiędzy 14 a 35 rokiem życia - 70% zachorowań. \nJest to jednak nowotwór całkowicie wyleczalny – pod warunkiem, że zostanie wykryty odpowiednio wcześnie.",
+      "likes": 11,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117727747883594116",
+      "author": "@PAPinformacje",
+      "text": "📌 Dzisiaj w Pałacu Prezydenckim w Warszawie odbyła się Rada Bezpieczeństwa Narodowego. \n\n📌 Otwierający spotkanie prezydent Karol Nawrocki ocenił, że za ostatnie wydarzenia związane z Trybunałem Konstytucyjnym pełną odpowiedzialność ponosi premier Donald Tusk. \n\n📌 Premier na",
+      "likes": 9,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117721890496094267",
+      "author": "@PAPinformacje",
+      "text": "Podpalenie stacji Starlink w Polsce. Zatrzymano domniemanego zleceniodawcę ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117566577545478332",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Tyle mamy do powiedzenia w sprawie jutrzejszej decyzji i trwającego of dziś posiedzenia RPP 👇",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117513747149525309",
+      "author": "@Macronextcom",
+      "text": "Dziś wybory połówkowe w USA 🇺🇸. To obok wyników amerykańskich spółek (obaw o AI), publikowanych w piątek danych z rynku pracy (NFP) i sytuacja na rynku paliw, główne wydarzenie tygodnia na globalnych rynkach finansowych.\n\nKalendarz USA:",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117259181258346888",
+      "author": "@Macronextcom",
+      "text": "W październiku 2026 r. większość \"przemysłowych\" indeksów #PMI jest powyżej granicy 50 pkt.",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117726886612947065",
+      "author": "@PAPinformacje",
+      "text": "Krytyczna sytuacja w energetyce na Ukrainie. W Kijowie stanęły tramwaje i trolejbusy ⤵️\n#PAPInformacje",
+      "likes": 6,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117721741648966038",
+      "author": "@PAPinformacje",
+      "text": "Po RBN - Premier gotowy do spotkania z prezydentem w cztery oczy. Prezydent o odpowiedzialności Tuska ws. TK [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117191558394937477",
+      "author": "@mbank_research",
+      "text": "🇵🇱 Ankieta kredytowa NBP potwierdza wciąż mocną akcję kredytową wśród przedsiębiorstw. Jednocześnie oczekiwania banków sygnalizują coraz lepszą perspektywę dla dużych firm i słabszą dla firm z sektora MŚP.",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117761885764284675",
+      "author": "@PAPinformacje",
+      "text": "USA. W pierwszych dwóch stanach zakończyło się głosowanie w wyborach połówkowych\n#PAPinformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117563435856581105",
+      "author": "@DGPrawna",
+      "text": "Podwyżka CIT z 19 do 22 proc. ma przynieść budżetowi dodatkowe wpływy, ale nie będzie gospodarczo neutralna. Jej koszt może zostać rozłożony między inwestycje, marże, ceny i zatrudnienie, zwiększając jednocześnie niepewność regulacyjną przedsiębiorców.",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117722043970154870",
+      "author": "@PAPinformacje",
+      "text": "Wybory do amerykańskiego Kongresu. Astronauci NASA zagłosowali z kosmosu ⤵️\n#PAPInformacje",
+      "likes": 4,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117695315532787919",
+      "author": "@PAPinformacje",
+      "text": "Kolejny atak powietrzny Rosji na Ukrainie. Alert RCB dla części Lubelszczyzny ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 1
+    }
+  ]
+}

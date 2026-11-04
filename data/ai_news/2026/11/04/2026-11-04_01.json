@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-04",
+  "slot": "01",
+  "generated_at": "2026-11-04T06:37:17Z",
+  "tweets": [
+    {
+      "tweet_id": "2117343929960112486",
+      "author": "@AnthropicAI",
+      "text": "Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required.\n\nApply by November 22:",
+      "likes": 39217,
+      "retweets": 3082
+    },
+    {
+      "tweet_id": "2117794005165748448",
+      "author": "@sama",
+      "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
+      "likes": 10120,
+      "retweets": 528
+    },
+    {
+      "tweet_id": "2117693181651542387",
+      "author": "@bcherny",
+      "text": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now.\n\nTeam and Enterprise admins can set them up, and teammates are connected automatically the first time they use the plugins.",
+      "likes": 1941,
+      "retweets": 68
+    },
+    {
+      "tweet_id": "2117275570627289413",
+      "author": "@svpino",
+      "text": "Nothing will ever be the same for developers.\n\nIt's just incredible that you can build a complete application and deploy it in under 5 minutes.\n\n@vercel added Python support, and I'm in heaven!",
+      "likes": 264,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2117367302719172784",
+      "author": "@svpino",
+      "text": "This is a new developer platform for fine-tuning models.\n\nYou provide:\n\n• The tasks the model should solve\n• The data the model needs to solve them\n• The criteria to evaluate the results\n\n@trajectorylabs will take this and handle post-training, evaluation, and deployment.",
+      "likes": 231,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2117612773953974519",
+      "author": "@reach_vb",
+      "text": "we’re just about ready to get the show started @ Dev Day Exchange London 🤩",
+      "likes": 223,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117694224498049187",
+      "author": "@reach_vb",
+      "text": "holy shitt, it’s the claw father himself!! 🔥",
+      "likes": 194,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117738598090874926",
+      "author": "@reach_vb",
+      "text": "QoL upgrade for ChatGPT side chats! they no longer expire or disappear after a restart or update.\n\nfaster to open, better at talking to the main chat, fewer failed tool calls and clearer activity.\n\narchive or delete them on their own or with the main chat, or ask ChatGPT to clean",
+      "likes": 164,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117290251081368042",
+      "author": "@svpino",
+      "text": "This is an open-source tool that will let you carry knowledge between different coding assistants.\n\nThis is super cool for moving between assistants when you hit a usage limit.\n\nBasically, this will record your coding sessions and turn useful fixes, corrections, and workflows",
+      "likes": 145,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2117341685042536576",
+      "author": "@nauczymycieAI",
+      "text": "Modele Open Source już niedługo przestaną się liczyć. Rozwój AI zrobił się tak drogi, że chińskie laboratoria, które do tej pory ciągnęły ten rynek, nie są w stanie dotrzymać kroku.\n\nChińczycy rozdają swoje modele za darmo. Zdobywają dzięki temu użytkowników, ale nie pieniądze.",
+      "likes": 117,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2117292904045781358",
+      "author": "@svpino",
+      "text": "This is a new decision model for audio input:\n\n• You provide the audio\n• You provide a list of questions\n• Model outputs answers + confidence scores\n\nThe model analyzes the audio directly (no transcript needed).\n\nSomething really cool is the model's ability to answer questions",
+      "likes": 107,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117713481826963658",
+      "author": "@svpino",
+      "text": "This is for freelancers and anyone doing creative work.\n\nThis gives you an agent that takes care of a ton of the work we have to do every day:\n\n1. It drafts proposals for clients\n2. It generates tasks from a project description\n3. It schedules those tasks around commitments\n4. It",
+      "likes": 104,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117345786715607062",
+      "author": "@hwchase17",
+      "text": "We're bringing back Interrupt for the THIRD year\n\n- This will be the biggest one yet (new venue that can hold ~2k people!)\n- Most talks &amp; workshops we've ever had\n- New Executive Track\n\nRegister today for the early bird special:",
+      "likes": 86,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2117317513105313904",
+      "author": "@svpino",
+      "text": "This is a new streaming decision model:\n\n• Give it text + list of questions\n• It answers back with a confidence score\n• Answers update as the text arrives, 3x faster\n\nBut it's also an extraction model:\n\n• Text in, structured data out\n• ~150 ms per extraction\n• Claims 75x",
+      "likes": 91,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117598667435651433",
+      "author": "@rpl_0x",
+      "text": "Warto przeczytać ten tekst Addy'ego Osmaniego, szczególnie jeśli coraz więcej pracy delegujecie agentom AI.\n\nDla tych, którzy go nie kojarzą: Addy spędził ponad 14 lat w Google, gdzie odpowiadał między innymi za rozwój narzędzi dla programistów związanych z Chrome, DevTools i",
+      "likes": 92,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117499571383185862",
+      "author": "@rpl_0x",
+      "text": "Nowe narzędzie alert 🚨\n\nVercel Labs, czyli eksperymentalny dział Vercela, jednej z największych platform do wdrażania aplikacji webowych, udostępnił za darmo narzędzie open source, które pozwala agentom AI sterować praktycznie całym komputerem.\n\nProjekt nazywa się Agent Desktop",
+      "likes": 81,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117465596342509793",
+      "author": "@hwchase17",
+      "text": "is org/agent level memory just \"skills\"? assuming there is process for updating skills from agent traces/history\n\nwhy or why not?",
+      "likes": 85,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117386884188168213",
+      "author": "@svpino",
+      "text": "We haven’t figured out how to scale from producing stuff to shipping stuff:\n\n• 2,450% increase in lines of code\n• 240% increase in commits\n• but only 30% increase in releases\n\nThis video is really cool:",
+      "likes": 75,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117417321308545290",
+      "author": "@jerryjliu0",
+      "text": "Today, @llama_index is an applied research lab building models and agents for document work.\n\nWe have the best general purpose OCR models at the Pareto frontier of accuracy and cost. You can use them today within LlamaParse.\n✅ This includes fast and cheap models for ingesting",
+      "likes": 82,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117681681658437728",
+      "author": "@hwchase17",
+      "text": "earlier this ~spring, models got good enough to drive browsers\n\nin some ways, browsers are the new terminal! a general purpose tool \n\none difference is there is a few different ways to design tools to drive the browser. @sydneyrunkle deep dives into how we did this for MDA",
+      "likes": 72,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117667405656973391",
+      "author": "@svpino",
+      "text": "Specialized Models &gt;&gt; Larger Models.\n\nThis is an open-source platform that will help you choose and run specialized models in your applications.\n\nBasically, you can set up which models you want to serve specific tasks.\n\nFor example, if your agent needs to classify a message, read",
+      "likes": 66,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117697428833132986",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is one of the fastest models ever for doc parsing. We sped up OCRia-1 by 10x on a single B200 (285 tok/s  --&gt; 2800 tok/s). \n\nthere are a ton of useful learnings in this extremely detailed blog post for anyone looking to optimize models!\n\n* we made use of established",
+      "likes": 42,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117561545676750907",
+      "author": "@rpl_0x",
+      "text": "DeepSeek udostępnił open source DeepSeek Harness z trybem Creator Mode, który pozwala AI rozbudowywać własne środowisko pracy\n\nI moim zdaniem to jeden z ciekawszych kierunków rozwoju agentów AI\n\n🔗 github(.)com/deepseek-ai/deepseek-harness\n\nSam jakiś czas temu pisałem o tym, jak",
+      "likes": 42,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2117799968815915440",
+      "author": "@jerryjliu0",
+      "text": "i got a mac mini for everything AI related.\n\n1. codex remote &gt; claude remote. claude through ssh doesn't work when you close laptop. claude remote control is too limited. \n\n2. that said, opus 5.5 is a much more token-efficient daily driver. i've resorted to using it through the",
+      "likes": 45,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117710234479407561",
+      "author": "@svpino",
+      "text": "Soniox just realeased their latest speech-to-text model for voice agents, dictation, and meeting tools.\n\nBut there's something really cool about it:\n\nDevelopers can send the model the audio they want to transcribe, along with the text of what the agent said to prompt that",
+      "likes": 47,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117515827012387026",
+      "author": "@rpl_0x",
+      "text": "Kiedy AI zacznie się samo budować?\n\nAnthropic opublikowało bardzo ciekawy materiał o rekurencyjnym samodoskonaleniu AI. I wygląda na to, że jesteśmy znacznie bliżej tego momentu, niż mogłoby się wydawać.\n\nJuż ponad 80% kodu trafiającego do repozytoriów Anthropic pisze Claude.",
+      "likes": 40,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117190417263292787",
+      "author": "@rpl_0x",
+      "text": "Z Alicante ruszyliśmy rowerami na południe, przez wydmy, lasy sosnowe i ogromne solniska, gdzie spotkalismy flamingi. Dojechaliśmy aż do Torrevieja, gdzie jest słynne różowe jezioro, chociaż na żywo nie było aż tak różowe jak na zdjęciach 😄\n\nPotem pojechaliśmy na północ, do",
+      "likes": 36,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117787436675997769",
+      "author": "@jerryjliu0",
+      "text": "There are two main types of benchmarks: \n\n1. those that measure frontier intelligence (terminalbench, gdpval, etc.). accuracy matters more than cost.\n\n2. those that measure specialized intelligence. the pareto curve of cost/accuracy more than accuracy alone. \n\nboth are important,",
+      "likes": 31,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117379988718788924",
+      "author": "@jerryjliu0",
+      "text": "did we just kill backprop",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117650510690009566",
+      "author": "@svpino",
+      "text": "I don't want another assistant app.\n\nI already have and use iMessage, WhatsApp, Telegram, and Slack. If your assistant doesn't run there, I don't want it.\n\nOne issue I'm having right now is constantly shifting focus from one app to another.\n\nIf I can keep a conversation with my",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117581760154271861",
+      "author": "@nauczymycieAI",
+      "text": "Jaki model AI wybrać żeby z obecnej generacji wyciągnąć maksa w pracy?\n\nDostajemy od Was podobne pytania niemal codziennie. W internecie nie było dotąd na nie dobrej odpowiedzi. \n\nWiększość benchmarków albo mierzy abstrakcyjne z punktu widzenia codziennej pracy rzeczy, jak",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117206652084539714",
+      "author": "@rpl_0x",
+      "text": "Hacker wykorzystał marketplace Cursora do rozpowszechnienia zainfekowanego rozszerzenia Claude Code\n\nSprawdź czy ciebie nie dotyczy i jakie wnioski wyciągnąć\n\nNajciekawsze jest to, jak przeprowadzono atak. Do oryginalnego rozszerzenia, zawierającego około 3,6 MB kodu, dopisano na",
+      "likes": 25,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117789053680849043",
+      "author": "@jerryjliu0",
+      "text": "i agree that vibe-coded solutions will not replace enterprise-grade saas solutions.\n\nhowever i do think saas margins will be compressed for a variety of reasons:\n* the value of these tools will be in the data layer, and not in the app/UI layer\n* it is much easier and faster for",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117620125557838144",
+      "author": "@svpino",
+      "text": "My bot keeps blocking replybois.\n\n77 accounts flagged out of 255 replies. X has lost to bots.",
+      "likes": 25,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117565488184373272",
+      "author": "@sentient_agency",
+      "text": "AI marketing accounts i'd actually follow right now\n\n@shannholmberg for claude skill breakdowns\n@zackpaid for meta ads with AI UGC\n@EXM7777 for distribution takes\n@PJaccetturo for AI film costs, fully revealed\n@0xROAS for AI ad formats\n@spwfeijen for UGC formats you can steal",
+      "likes": 14,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117206784595435669",
+      "author": "@sentient_agency",
+      "text": "This is wild.\n\n@levelsio dropped 14 raw clips (58 min) into a folder and gave Claude Code one prompt. It handed back a 10 min vlog.\n\nHow it worked:\n\n→ mlx-whisper transcribed everything\n→ frame grids so it could \"see\" each clip\n→ voice matching to find his lines, face",
+      "likes": 15,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117229696509485351",
+      "author": "@sentient_agency",
+      "text": "wtf is __usage_ai-training.\n\nIt's 1 robots.txt line that tells AI labs not to train on your site. OpenAI, Google, Microsoft and Anthropic all back it.\n\n3 catches:\n\n&gt; At Google it counts as blocking Google-Extended, which also covers grounding in Gemini Apps.\n\n&gt; \"User-agent: *\"",
+      "likes": 14,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117423644452536584",
+      "author": "@svpino",
+      "text": "$250M ARR with 50+ customers.\n\nSo many opportunities for building companies around AI!",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117667251117510974",
+      "author": "@rpl_0x",
+      "text": "Startup Asimov, należący do programu Y Combinator, szuka ludzi, którzy będą nagrywać swoje codzienne czynności. Gotowanie, sprzątanie, robienie zakupów, majsterkowanie, właściwie cokolwiek\n\nWystarczy zamontować telefon na głowie i nagrywać świat ze swojej perspektywy. Nie trzeba",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117784384875155805",
+      "author": "@jerryjliu0",
+      "text": "There is so much alpha in this blog post for anyone learning model optimization.\n\nCheck it out!",
+      "likes": 18,
+      "retweets": 3
+    }
+  ]
+}
