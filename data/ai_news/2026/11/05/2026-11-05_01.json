@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-05",
+  "slot": "01",
+  "generated_at": "2026-11-05T07:09:57Z",
+  "tweets": [
+    {
+      "tweet_id": "2117794005165748448",
+      "author": "@sama",
+      "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
+      "likes": 19222,
+      "retweets": 940
+    },
+    {
+      "tweet_id": "2118073665296228863",
+      "author": "@AnthropicAI",
+      "text": "We’re sharing how our biology research team worked with Claude to map the first 3D structure of a vault particle from bacterial life.\n\nVault particles are a longstanding mystery. They are barrel-shaped objects, among the largest protein structures found in our cells. They were",
+      "likes": 3569,
+      "retweets": 375
+    },
+    {
+      "tweet_id": "2117693181651542387",
+      "author": "@bcherny",
+      "text": "Signing in to your company's plugins one by one is annoying, so we let Claude auto-connect to them now.\n\nTeam and Enterprise admins can set them up, and teammates are connected automatically the first time they use the plugins.",
+      "likes": 2728,
+      "retweets": 102
+    },
+    {
+      "tweet_id": "2117612773953974519",
+      "author": "@reach_vb",
+      "text": "we’re just about ready to get the show started @ Dev Day Exchange London 🤩",
+      "likes": 232,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117694224498049187",
+      "author": "@reach_vb",
+      "text": "holy shitt, it’s the claw father himself!! 🔥",
+      "likes": 215,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2118023661789794396",
+      "author": "@svpino",
+      "text": "You can now add a talking animated character to a website or app.\n\nHere is the API that will let you do that.\n\nYou take an image and a short voice recording, and it turns them into an avatar you can talk to live.",
+      "likes": 185,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2117738598090874926",
+      "author": "@reach_vb",
+      "text": "QoL upgrade for ChatGPT side chats! they no longer expire or disappear after a restart or update.\n\nfaster to open, better at talking to the main chat, fewer failed tool calls and clearer activity.\n\narchive or delete them on their own or with the main chat, or ask ChatGPT to clean",
+      "likes": 191,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118047292766970219",
+      "author": "@svpino",
+      "text": "Open models keep getting better!\n\nYou can run this 8.8B-parameter model on your hardware, and it comes with impressive benchmarks, including 93% of frontier performance on coding and 92% on instruction following.\n\n@thewebAI cooked here.\n\nThe link to the Hugging Face model page is",
+      "likes": 132,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2117984900750188923",
+      "author": "@svpino",
+      "text": "This is a shared memory service where you can connect multiple agents and AI tools to reuse knowledge.\n\nFor example, you can save information using Codex and retrieve it through Claude Code.\n\nTwo scenarios where this is very helpful:\n\n• To keep a portable knowledge base not tied",
+      "likes": 103,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2117598667435651433",
+      "author": "@rpl_0x",
+      "text": "Warto przeczytać ten tekst Addy'ego Osmaniego, szczególnie jeśli coraz więcej pracy delegujecie agentom AI.\n\nDla tych, którzy go nie kojarzą: Addy spędził ponad 14 lat w Google, gdzie odpowiadał między innymi za rozwój narzędzi dla programistów związanych z Chrome, DevTools i",
+      "likes": 106,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2117681681658437728",
+      "author": "@hwchase17",
+      "text": "earlier this ~spring, models got good enough to drive browsers\n\nin some ways, browsers are the new terminal! a general purpose tool \n\none difference is there is a few different ways to design tools to drive the browser. @sydneyrunkle deep dives into how we did this for MDA",
+      "likes": 96,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2117697428833132986",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is one of the fastest models ever for doc parsing. We sped up OCRia-1 by 10x on a single B200 (285 tok/s  --&gt; 2800 tok/s). \n\nthere are a ton of useful learnings in this extremely detailed blog post for anyone looking to optimize models!\n\n* we made use of established",
+      "likes": 71,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2117799968815915440",
+      "author": "@jerryjliu0",
+      "text": "i got a mac mini for everything AI related.\n\n1. codex remote &gt; claude remote. claude through ssh doesn't work when you close laptop. claude remote control is too limited. \n\n2. that said, opus 5.5 is a much more token-efficient daily driver. i've resorted to using it through the",
+      "likes": 75,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117916550954917991",
+      "author": "@rpl_0x",
+      "text": "Coraz więcej osób, coś budujE z AI. Jedni robią własne aplikacje, inni automatyzacje, agentów, jakieś usługi, próbują rozkręcić mały biznes\n\nJestem ciekaw, jak Wam to idzie w praktyce\n\nCo budujecie? Czy udało się już coś zmonetyzować? Skąd bierzecie użytkowników albo klientów?\n\nA",
+      "likes": 67,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118101702968770912",
+      "author": "@svpino",
+      "text": "Agents don't fail because models are dumb. They fail because they don't have the right context.\n\nRedis just released 6 new features for Iris, their agent context and memory platform:\n\n1. Intent Router: Routes requests by meaning\n2. Agent Playbooks: Reuses answers and procedures",
+      "likes": 57,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2117787436675997769",
+      "author": "@jerryjliu0",
+      "text": "There are two main types of benchmarks: \n\n1. those that measure frontier intelligence (terminalbench, gdpval, etc.). accuracy matters more than cost.\n\n2. those that measure specialized intelligence. the pareto curve of cost/accuracy more than accuracy alone. \n\nboth are important,",
+      "likes": 50,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118053842093027528",
+      "author": "@svpino",
+      "text": "This is a desktop agent that connects video generation models with creative tools such as Blender, DaVinci Resolve, and Premiere Pro.\n\nThe idea is simple:\n\nTell it what you want, and the agent will generate footage, assemble it, and edit it using pro tools.",
+      "likes": 45,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117992915448574127",
+      "author": "@svpino",
+      "text": "How to turn your tasks into workflows and reusable behavior.\n\nYou ask your agent to build it once, and then you run it again and again.\n\nHuge advantage to doing this:\n\n• You only use models for tasks that only models can do\n• Every other step is encoded in TypeScript\n• Very",
+      "likes": 42,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2117561545676750907",
+      "author": "@rpl_0x",
+      "text": "DeepSeek udostępnił open source DeepSeek Harness z trybem Creator Mode, który pozwala AI rozbudowywać własne środowisko pracy\n\nI moim zdaniem to jeden z ciekawszych kierunków rozwoju agentów AI\n\n🔗 github(.)com/deepseek-ai/deepseek-harness\n\nSam jakiś czas temu pisałem o tym, jak",
+      "likes": 43,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2117783921924755715",
+      "author": "@jerryjliu0",
+      "text": "OpenDocRouter is an awesome playground for trying out different document OCR models: from open-weight to frontier.\n\nCheck it out!",
+      "likes": 45,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117784384875155805",
+      "author": "@jerryjliu0",
+      "text": "There is so much alpha in this blog post for anyone learning model optimization.\n\nCheck it out!",
+      "likes": 38,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118094857260658989",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is one of the only VLM OCR models that can uniformly parse any element (tables, charts, images, equations, scans, forms) with a consistently high degree of accuracy.\n\nWe’ve released a 37 page technical report on ArXiv. It contains comprehensive information about our data",
+      "likes": 41,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117515827012387026",
+      "author": "@rpl_0x",
+      "text": "Kiedy AI zacznie się samo budować?\n\nAnthropic opublikowało bardzo ciekawy materiał o rekurencyjnym samodoskonaleniu AI. I wygląda na to, że jesteśmy znacznie bliżej tego momentu, niż mogłoby się wydawać.\n\nJuż ponad 80% kodu trafiającego do repozytoriów Anthropic pisze Claude.",
+      "likes": 39,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2117789053680849043",
+      "author": "@jerryjliu0",
+      "text": "i agree that vibe-coded solutions will not replace enterprise-grade saas solutions.\n\nhowever i do think saas margins will be compressed for a variety of reasons:\n* the value of these tools will be in the data layer, and not in the app/UI layer\n* it is much easier and faster for",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117986743538598146",
+      "author": "@svpino",
+      "text": "I just blocked a new batch of bots that spam this site with ai slop.\n\nThe number next to each one is how many AI replies they've posted under my posts over the last couple of weeks.\n\nSharing them here in case you want to take care of them as well.",
+      "likes": 33,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118031037842510229",
+      "author": "@svpino",
+      "text": "I hope this works. It looks very clever:\n\nBasically, you get an agent that learns from mistakes. FAiE takes every failure trace and, instead of patching prompts, uses it to train the model to avoid those mistakes.\n\nThey also use user preferences to retrain their model.",
+      "likes": 29,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117581760154271861",
+      "author": "@nauczymycieAI",
+      "text": "Jaki model AI wybrać żeby z obecnej generacji wyciągnąć maksa w pracy?\n\nDostajemy od Was podobne pytania niemal codziennie. W internecie nie było dotąd na nie dobrej odpowiedzi. \n\nWiększość benchmarków albo mierzy abstrakcyjne z punktu widzenia codziennej pracy rzeczy, jak",
+      "likes": 30,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117667251117510974",
+      "author": "@rpl_0x",
+      "text": "Startup Asimov, należący do programu Y Combinator, szuka ludzi, którzy będą nagrywać swoje codzienne czynności. Gotowanie, sprzątanie, robienie zakupów, majsterkowanie, właściwie cokolwiek\n\nWystarczy zamontować telefon na głowie i nagrywać świat ze swojej perspektywy. Nie trzeba",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117929098316238990",
+      "author": "@sentient_agency",
+      "text": "here's another AI ad format you can steal for your creatives\n\nit's called the Text Thread Ad (people watch these to the end)\n\nwhy it works:\n\n• looks like a real screen recording, so it doesn't read as an ad\n• messages popping in one by one keep eyes glued to the screen\n•",
+      "likes": 18,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2117565488184373272",
+      "author": "@sentient_agency",
+      "text": "AI marketing accounts i'd actually follow right now\n\n@shannholmberg for claude skill breakdowns\n@zackpaid for meta ads with AI UGC\n@EXM7777 for distribution takes\n@PJaccetturo for AI film costs, fully revealed\n@0xROAS for AI ad formats\n@spwfeijen for UGC formats you can steal",
+      "likes": 14,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2118051150306173116",
+      "author": "@svpino",
+      "text": "This runs Claude Code and Codex in the cloud with the plan you already pay for.\n\nYou only need to pay for the machine.\n\nHere is what's cool about this:\n\nYou start from a Linear ticket, and the agent does the rest. If the ticket is too big, you'll get parallel agents working on it",
+      "likes": 21,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118084760547594468",
+      "author": "@jerryjliu0",
+      "text": "i love two things in life: \n- anime\n- giving users the most accurate and cheap pdf parsing service at scale\n\nwe've massively simplified pricing for anyone looking to run document parsing workloads in production. come check it out!",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118055940796870962",
+      "author": "@svpino",
+      "text": "I've spent 3 weeks connecting 40+ workflows and turning them into agents.\n\nThis company spent years automating everything they could. They have a buttload of workflows to do different things.\n\nIf you know the steps, automating a process is pretty simple. You can build a script",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117596893605732722",
+      "author": "@rpl_0x",
+      "text": "Spotify udostępnił w open source repozytorium, które pozwala agentom AI współpracować z infrastrukturą programistyczną firmy\n\nTo zestaw tooli i skilli dla agentów do platformy Spotify Portal\n\nW praktyce agent może przeszukiwać wewnętrzną dokumentację, sprawdzać, kto odpowiada za",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2117961028528971821",
+      "author": "@rpl_0x",
+      "text": "Postaram się po kolei przyglądać projektom, które wrzucacie. Na pierwszy ogień ARKAD Wallet od @artur_2111.\n\nTo aplikacja do zarządzania budżetem, zintegrowana z bankami, z dodawaniem wydatków głosem i elementami AI.\n\nAle nie sam produkt zwrócił moją największą uwagę.\n\nCoraz",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118029150187622611",
+      "author": "@rpl_0x",
+      "text": "Jak korzystasz z obsidiana to PKM Assistant od @jdholee powinien Cię zainteresować.\n\nA jeśli nie, Kuba pewnie Was przekona 😄 Jest bardzo pomocny na naszym Discordzie i prowadzi też podróżniczy YouTube - co nieukrywam jest mi bardzo bliskie 😉. Kibicuję!",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118017181145276755",
+      "author": "@rpl_0x",
+      "text": "Ciekawy projekt od @tomswitala - @noklikio to coś w rodzaju autonomicznego handlowca AI dla e-commerce.\n\nZ Tomasem często rozmawiam i wiem, że ma sporą wiedzę, dobre spojrzenie na rynek i ciekawą wizję tego, jak AI zmieni handel internetowy.\n\nMieliśmy też okazję pogadać trochę o",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117595162289602899",
+      "author": "@sentient_agency",
+      "text": "how to get your AI product inside gemini and google search (google's new connected apps platform)\n\nit runs on MCP, so if you already have an MCP server you're most of the way there ↓\n\n- host it on a public https endpoint\n- test it in gemini developer mode\n- request preview",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117580068826583155",
+      "author": "@sentient_agency",
+      "text": "semianalysis just dropped GDPx: the best AI agent finishes 12% of real expert work\n\nthe bigger story is #2. gemini 4 carbon lands 1.1 points behind opus 5.5 at about a third of the cost per task\n\nscore per dollar is the benchmark that actually decides who wins next year",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117598921866493998",
+      "author": "@sentient_agency",
+      "text": "okara looked at 3,382 tech launches on X and one gap dwarfs everything else\n\nlaunches with 50-200 creator quote posts in the first hour got a median 456K views. launches with 0-5 got 6.7K\n\nthe demo isn't the distribution. the first hour is",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
