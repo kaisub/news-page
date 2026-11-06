@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-11-06",
+  "slot": "01",
+  "generated_at": "2026-11-06T07:10:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2118346201015951787",
+      "author": "@PAPinformacje",
+      "text": "Glapiński: Narodowy Bank Polski zgromadził 700 ton złota\n#PAPinformacje",
+      "likes": 871,
+      "retweets": 84
+    },
+    {
+      "tweet_id": "2118334028533375357",
+      "author": "@laskowski_pl",
+      "text": "Pan Kosiniak proponuję, aby sędziów wybierał Prezydent. Fajny ten \"reset\" 😁",
+      "likes": 565,
+      "retweets": 130
+    },
+    {
+      "tweet_id": "2118349601174372573",
+      "author": "@PAPinformacje",
+      "text": "Sąd Okręgowy w Katowicach zdecydował o aresztowaniu podejrzanego o korupcję posła Wojciecha Króla; został on zatrzymany na sali sądowej\n#PAPinformacje",
+      "likes": 291,
+      "retweets": 60
+    },
+    {
+      "tweet_id": "2118026709308190947",
+      "author": "@Macronextcom",
+      "text": "Ropa #BRENT:\n\n🔻Dziś: -8,87% 📉\n🔻03.11: -1,12%\n🔻02.11: -7,63%\n\nRopa Brent właśnie przebiła dołek z końca września i jest najtańsza od 2⃣ miesięcy. Od szczytu z października potaniała o prawie 1/5. 📉",
+      "likes": 95,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2118368387927871965",
+      "author": "@laskowski_pl",
+      "text": "W Polsce pomiędzy miastami wystarczy jak pociągi będą jeździć 200km/h\nLepiej 200 wszędzie niż 320 na jednej trasie, do tego taniej.",
+      "likes": 91,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2118365233643188711",
+      "author": "@PAPinformacje",
+      "text": "📌Sąd Okręgowy w Katowicach zmienił wcześniejszą decyzję sądu rejonowego i postanowił w czwartek o aresztowaniu posła Wojciecha Króla, któremu Prokuratura Europejska zarzuca korupcję.\n\n📌Poseł Król został zatrzymany 17 września, krótko po decyzji Sejmu, który zgodził się na jego",
+      "likes": 70,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2117933376321851601",
+      "author": "@Macronextcom",
+      "text": "Na Grupę #WB na giełdzie czekają chyba wszyscy. Wreszcie jakiś powiew świeżości.",
+      "likes": 79,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118090229475144149",
+      "author": "@Macronextcom",
+      "text": "Jak minął dzień? Bardzo dobrze! 😁\n\nPo wyborach w USA 🇺🇲 rynki w szampańskich nastrojach. 🥳\n\nDJIA +3,03% 🚀\nS&amp;P500 +1,58%\nNasdaq +1,44%\nWIG +1,47%\nDAX +2,38%\nCAC40 +1,96%\nZłoto +3,38%\nSrebro +5,02%\nRopa Brent -8,26% 🤯\nUSD/PLN -3,9 gr\nEUR/PLN -2,7 gr",
+      "likes": 64,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118388463057637409",
+      "author": "@PAPinformacje",
+      "text": "Przewodnicząca Parlamentu Europejskiego rozpoczęła wizytę w Polsce\n#PAPinformacje",
+      "likes": 50,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2118360443500609553",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Polski: Europa Środkowa powinna mieć większy wpływ na kształtowanie przyszłości kontynentu\n#PAPinformacje",
+      "likes": 46,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118271420757389467",
+      "author": "@laskowski_pl",
+      "text": "Przypominam, że wszystkie falowniki, a jest ich ich około 2 mln, są podpięte pod sieć, a włam do nich to nie jest rocket science. \nJak to jest niebezpieczne najlepiej wie @On58Greg",
+      "likes": 37,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118313909195096266",
+      "author": "@PAPinformacje",
+      "text": "Kosiniak-Kamysz: PSL przygotowało projekt zmiany Konstytucji ws. przywrócenia wiarygodności TK\n#PAPinformacje",
+      "likes": 27,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2118349670434894293",
+      "author": "@PAPinformacje",
+      "text": "Glapiński: RPP dostrzega ryzyko, że w kolejnych miesiącach dynamika cen znowu może wzrosnąć\n#PAPinformacje",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118380307288080404",
+      "author": "@Macronextcom",
+      "text": "#Orlen - wyniki za III kw. 2026:\n\n🔸EBITDA LIFO: 14,78 mld zł (prog. 15,32 mld zł)\n🔸zysk netto: 5,61 mld zł (prog. 7,48 mld zł)\n🔸przychody: 80,1 mld zł (85 mld zł)\n\n*prognozy za PAP Biznes\n\nKalendarz GPW/NC:",
+      "likes": 31,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118226808189431908",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 W III kw. 2026 r. zysk netto #PKOBP wzrósł o 3,4% r/r do 2,933 mld zł. To wynik o 4,1% powyżej oczekiwań.\n\nOd początku roku bank zarobił już 8,2 mld zł.\n\nLiczba klientów PKO BP wzrosła o 306 tys. r/r do 12,7 mln zł, a suma zgromadzonych oszczędności o 13,3% r/r do 747 mld zł.",
+      "likes": 32,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118256967881801914",
+      "author": "@Macronextcom",
+      "text": "#Orlen 137,96 zł (-1,69%)\n\nDziś po sesji Orlen opublikuje wyniki za Q3 2026. Pewnie będą świetne. Tyle tylko, że trwający gwałtowny zwrot w dół na ropie i nadzieje na koniec wojny USA-Iran, sugerują głębsze spadki.\n\nAT to potwierdza. Orlen jest najniżej od 4 mies. Cel to 122 zł.",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118017764195545533",
+      "author": "@laskowski_pl",
+      "text": "Mamy podsumowanie udanej kampanii wyborczej @realDonaldTrump 👏",
+      "likes": 23,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118460303575052432",
+      "author": "@Macronextcom",
+      "text": "🇺🇸 Wall Street popłynęło na całego. Wczoraj euforia, dziś panika.\n\n🔸DJIA, S&amp;P500, Nasdaq - największy jednodniowy spadek od 3 kwietnia 2025;\n🔸Nasdaq już 11,9% poniżej rekordu z 10.2026;\n🔸Philadelphia Semiconductor Index - największy jednodniowy spadek do marca 2020‼️",
+      "likes": 21,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118392376725028877",
+      "author": "@Macronextcom",
+      "text": "Dino Polska - wyniki za III kw. 2026:\n\n🔸zysk netto: 483 mln zł (prog. 484,5 mln zł)\n🔸EBITDA: 785,5 mln zł (prog. 783,5 mln zł)\n🔸przychody: 9,708 mld zł (prog. 9,679 mld zł)\n🔸LFL: 0,1%\n\n* prognozy za PAP Biznes",
+      "likes": 23,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118351844384583838",
+      "author": "@PAPinformacje",
+      "text": "Rosyjski atak na punkt pomocy humanitarnej w Ukrainie. 43 ofiary śmiertelne, jedna osoba przeżyła\n#PAPinformacje",
+      "likes": 16,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118237638331170833",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: we IX 2026 r. Zamówienia w przemyśle 4,4% m/m (prognoza: 4,5%; poprzednio: -10,1%) \n\nKalendarz (Niemcy):",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118442714157171098",
+      "author": "@PAPinformacje",
+      "text": "Sejm po raz drugi uchwalił ustawę, która dodaje nową stawkę w PIT i zmienia progi podatkowe\n#PAPinformacje",
+      "likes": 15,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118351014374047791",
+      "author": "@PAPinformacje",
+      "text": "Polska i Korea Płd. rozpoczynają współpracę przy wdrażaniu AI w gospodarce\n#PAPinformacje",
+      "likes": 10,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118041108273881258",
+      "author": "@laskowski_pl",
+      "text": "Popatrz @naprawdejoanna rośnie narybek",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118310641689915413",
+      "author": "@laskowski_pl",
+      "text": "On miał być kandydatem na premiera? 😁",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118324993905807751",
+      "author": "@PAPinformacje",
+      "text": "Zginął turecki żołnierz. Ostrzał miał być przeprowadzony z terytorium Iranu\n#PAPinformacje",
+      "likes": 8,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117897499520188847",
+      "author": "@GUS_STAT",
+      "text": "W maju 2026 r. mediana wynagrodzeń miesięcznych brutto w #GospodarkaNarodowa wyniosła 7550,32 zł i była niższa o 17,7% od przeciętnego miesięcznego wynagrodzenia brutto (9178,16 zł).\n\n🔗 \n\n#GUS #statystyki #wynagrodzenia",
+      "likes": 4,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118598486044373112",
+      "author": "@Macronextcom",
+      "text": "🇵🇱 Deficyt w tym roku będzie trochę niższy, niż pierwotnie planowano, na poziomie około 6,7% PKB - powiedział minister @Domanski_Andrz.  \n\nNiższy deficyt to efekt silnych wpływów podatkowych. Pierwotnie resort finansów zakładał deficyt na poziomie 7,1% PKB.",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118019400620032381",
+      "author": "@laskowski_pl",
+      "text": "Atlantyści wszystkich krajów, łączcie się!",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118445508381614291",
+      "author": "@PAPinformacje",
+      "text": "Do 2029 roku wszyscy żołnierze dostaną nowe mundury w kamuflażu „Ryś” [WIDEO]\n#PAPinformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118414795669954576",
+      "author": "@DGPrawna",
+      "text": "Proponuję, aby Trybunał Konstytucyjny - a dziś już wiemy, że chodzi o dwie instytucje, które bezpodstawnie roszczą sobie prawa do tego, by być Trybunałami Konstytucyjnymi -zniknęły – mówi w rozmowie z DGP senator @kmujazdowski",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118240648600150495",
+      "author": "@DGPrawna",
+      "text": "Stan wyższej konieczności konstytucyjnej. Jakie mogą być jego skutki",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118591378049708368",
+      "author": "@PAPinformacje",
+      "text": "Papież wyrusza w najdłuższą podróż od początku pontyfikatu. Odwiedzi trzy kraje ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118294992976228399",
+      "author": "@GUS_STAT",
+      "text": "W 2025 r. działalność w zakresie biotechnologii prowadziło 250 przedsiębiorstw, o 1,6% więcej niż rok wcześniej. Wewnętrzne nakłady poniesione przez te podmioty na działalność biotechnologiczną wyniosły     3 153,7 mln zł (-4,1% r/r).  \n\n🔗 \n\n#GUS",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118416018813133262",
+      "author": "@PAPinformacje",
+      "text": "„Ekstazy. Bernini na Wawelu”. Wyjątkowa wystawa o sztuce baroku [WIDEO]\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118284940232085919",
+      "author": "@DGPrawna",
+      "text": "Wakaty w zarządzie NBP obsadzone. Prezes zyskał komfort, ale wciąż wisi nad nim Trybunał Stanu",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118600071306735868",
+      "author": "@Macronextcom",
+      "text": "#Niemcy 🇩🇪: we IX 2026 r. Produkcja przemysłowa 0,7% m/m (prognoza: 0,0%; poprzednio: 1,0%) \n\nW relacji rocznej produkcja wzrosła o 0,4%.\n\nDane za wrzesień były lepsze od prognoz, ale jednocześnie mocno w dół skorygowano sierpniowe odczyty.\n\n➡️",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118316180180226245",
+      "author": "@DGPrawna",
+      "text": "🟥 SONDAŻ DGP | Spór o TK bez końca? Polacy sceptyczni wobec działań władz",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118311112647303638",
+      "author": "@DGPrawna",
+      "text": "Ustawa kominowa może wypchnąć lekarzy specjalistów z małych ośrodków, zamieniając wiele regionów Polski w medyczne pustynie. Komisja senacka chce temu zapobiec, zmniejszając minimalny czas pracy w danej placówce z połowy do ćwierci etatu.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118307841148661936",
+      "author": "@DGPrawna",
+      "text": "W najbliższy piątek w Sejmie rozstrzygnąć mają się losy Karty Rodziny Mundurowej. Do finalnej wersji KRM dołączono strażaków ratowników z OSP, na czym zależało koalicyjnemu PSL, jednak zaproponowane dla nich zniżki są mocno ograniczone.",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}

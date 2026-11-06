@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-06",
+  "slot": "01",
+  "generated_at": "2026-11-06T07:10:58Z",
+  "tweets": [
+    {
+      "tweet_id": "2118403114890137895",
+      "author": "@claudeai",
+      "text": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money.",
+      "likes": 30530,
+      "retweets": 1518
+    },
+    {
+      "tweet_id": "2118073665296228863",
+      "author": "@AnthropicAI",
+      "text": "We’re sharing how our biology research team worked with Claude to map the first 3D structure of a vault particle from bacterial life.\n\nVault particles are a longstanding mystery. They are barrel-shaped objects, among the largest protein structures found in our cells. They were",
+      "likes": 4737,
+      "retweets": 511
+    },
+    {
+      "tweet_id": "2118389961426874879",
+      "author": "@GoogleAI",
+      "text": "Meet Gemini Omni 1.2 Flash ⚡️\n\nWe’ve made the model more cost-effective, bumped the video generation and editing limit up to 15 seconds, and made updates to how scenes hold together over time. We've also given character speech an upgrade, reduced visual glitches like jump cuts,",
+      "likes": 1912,
+      "retweets": 190
+    },
+    {
+      "tweet_id": "2118401916418048379",
+      "author": "@svpino",
+      "text": "Companies are killing for good engineers right now!\n\nThese guys are offering a paid first-week vacation worth up to $10,000, planned with a dedicated travel concierge for new engineers who join their team.\n\nIf you refer a candidate who joins, they give you a $30,000 bonus, and",
+      "likes": 186,
+      "retweets": 46
+    },
+    {
+      "tweet_id": "2118101702968770912",
+      "author": "@svpino",
+      "text": "Agents don't fail because models are dumb. They fail because they don't have the right context.\n\nRedis just released 6 new features for Iris, their agent context and memory platform:\n\n1. Intent Router: Routes requests by meaning\n2. Agent Playbooks: Reuses answers and procedures",
+      "likes": 110,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2118399344332464395",
+      "author": "@svpino",
+      "text": "How to replace a large, expensive, and slow model with a small, cheaper, fast model and still get the same results.\n\n7x faster and 50% fewer tokens.\n\nThis is like fine-tuning, but without touching the model.\n\nHere, we teach Haiku, using Zep Agent Skills, to do what Opus 5.5 does",
+      "likes": 101,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2118356664479052207",
+      "author": "@svpino",
+      "text": "Building more software means managing more data, access rules, deployments, and monitoring.\n\nEvery company I talk to is using agentic coding to do more. Codebases are growing, and so are problems.\n\nHere is the best way to manage complexity: ↓",
+      "likes": 79,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118560425122082834",
+      "author": "@reach_vb",
+      "text": "This! I am who I am today because over the past decade I’ve had people who gave me constructive feedback, opened doors for me and, most importantly, gave a shit about me and my career.\n\nI try to do the same for others every day I get to work. It’s a privilege.",
+      "likes": 79,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118094857260658989",
+      "author": "@jerryjliu0",
+      "text": "OCRia-1 is one of the only VLM OCR models that can uniformly parse any element (tables, charts, images, equations, scans, forms) with a consistently high degree of accuracy.\n\nWe’ve released a 37 page technical report on ArXiv. It contains comprehensive information about our data",
+      "likes": 74,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2117916550954917991",
+      "author": "@rpl_0x",
+      "text": "Coraz więcej osób, coś budujE z AI. Jedni robią własne aplikacje, inni automatyzacje, agentów, jakieś usługi, próbują rozkręcić mały biznes\n\nJestem ciekaw, jak Wam to idzie w praktyce\n\nCo budujecie? Czy udało się już coś zmonetyzować? Skąd bierzecie użytkowników albo klientów?\n\nA",
+      "likes": 72,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118053842093027528",
+      "author": "@svpino",
+      "text": "This is a desktop agent that connects video generation models with creative tools such as Blender, DaVinci Resolve, and Premiere Pro.\n\nThe idea is simple:\n\nTell it what you want, and the agent will generate footage, assemble it, and edit it using pro tools.",
+      "likes": 66,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2118464263497142576",
+      "author": "@hwchase17",
+      "text": "most of the agents we're building inside langchain leverage async subagents in a meaningful way\n\nnow available in deep agents!",
+      "likes": 67,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118362868962005234",
+      "author": "@svpino",
+      "text": "I know many teams that are, unfortunately, reinventing all these features right now because they need good context to run agents.\n\nHere is a managed system where you connect your data, and it shapes it for agents:\n\n• It automatically cleans the data as it arrives\n• It organizes",
+      "likes": 52,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2118411274757574662",
+      "author": "@svpino",
+      "text": "I'm so happy most new personal agents are coming out iMessage-first instead of Slack or Discord.\n\nI know WhatsApp and Telegram are big in Europe, but in the US, iMessage is king.\n\nThis looks like a nice personal agentic advisor if you want to use AI to learn and follow through on",
+      "likes": 48,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118419308472926477",
+      "author": "@jerryjliu0",
+      "text": "YOU CAN PARSE EVERYTHING \n\n11.17.26\n\nocria-1 is already the cheapest, most accurate unified model for doc parsing (not only tables/text, but also charts/diagrams/images/scans) \n\nit's only getting better. stay tuned",
+      "likes": 46,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118372004613255357",
+      "author": "@reach_vb",
+      "text": "Was a ton of fun catching up with John at DevDay in London!\n\nWe spoke about a good chunk of things around startups, models and what does OpenAI for Developers entails \n\nEnjoy! 🤙🏻",
+      "likes": 44,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118582849385505137",
+      "author": "@reach_vb",
+      "text": "if you’re the one securing the infra Tibo’s talking about, this is why we built Daybreak\n\n&gt; blue helps you find and fix bugs with GPT-6 Sol and Luna\n&gt; red helps teams test exploits with GPT-5.6 Cyber\n\nselect Red teams also get GPT-6 Cyber\n\napply here:",
+      "likes": 44,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118350887014072545",
+      "author": "@svpino",
+      "text": "Wow!\n\nAgents are now creating 20,000+ PostgreSQL instances a day on Tencent Cloud.\n\nThis is up 80x in a year!\n\n14 million sandboxes are created daily. Agents run isolated environments in these sandboxes to execute code and browse the web.\n\nTencent's office AI agent has received 9",
+      "likes": 38,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118264613469057158",
+      "author": "@nauczymycieAI",
+      "text": "Wygrana demokratów w midtermsach nie zatrzyma AI. \n\nWg. SemiAnalysis, niemal cała budowa w 2027 jest bezpieczna, a tylko około 10% centrów danych na 2028 jest zagrożonych.\n\nW tym świetle $Samsung i $MRVL są atrakcyjnie wycenione. Powody dostali subskrybenci mojego newslettera",
+      "likes": 37,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117929098316238990",
+      "author": "@sentient_agency",
+      "text": "here's another AI ad format you can steal for your creatives\n\nit's called the Text Thread Ad (people watch these to the end)\n\nwhy it works:\n\n• looks like a real screen recording, so it doesn't read as an ad\n• messages popping in one by one keep eyes glued to the screen\n•",
+      "likes": 19,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2118051150306173116",
+      "author": "@svpino",
+      "text": "This runs Claude Code and Codex in the cloud with the plan you already pay for.\n\nYou only need to pay for the machine.\n\nHere is what's cool about this:\n\nYou start from a Linear ticket, and the agent does the rest. If the ticket is too big, you'll get parallel agents working on it",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118084760547594468",
+      "author": "@jerryjliu0",
+      "text": "i love two things in life: \n- anime\n- giving users the most accurate and cheap pdf parsing service at scale\n\nwe've massively simplified pricing for anyone looking to run document parsing workloads in production. come check it out!",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118394630765162662",
+      "author": "@svpino",
+      "text": "Can agents really do scientific research?\n\nThis is a new benchmark that focuses on this.\n\nIt comes with 50+ tasks across 9 scientific disciplines. There's also a leaderboard to see which agents work best.\n\nHere is how we know an agent is good for scientific research:\n\n• It",
+      "likes": 19,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2118287072398045574",
+      "author": "@rpl_0x",
+      "text": "Chyba właśnie udało się dopiąć przedostatni element układanki.\n\nUruchomienie MCP tak, żeby Mumro dało się obsługiwać bezpośrednio z czatu w przeglądarce, z dostępem do kilku workspace'ów, okazało się znacznie trudniejsze niż integracja z narzędziami do vibe codingu.\n\nAle w końcu",
+      "likes": 19,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118055940796870962",
+      "author": "@svpino",
+      "text": "I've spent 3 weeks connecting 40+ workflows and turning them into agents.\n\nThis company spent years automating everything they could. They have a buttload of workflows to do different things.\n\nIf you know the steps, automating a process is pretty simple. You can build a script",
+      "likes": 18,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118279687608864925",
+      "author": "@sentient_agency",
+      "text": "i genuinely can't comprehend why AI founders still launch on X only\n\none of our Instagram pages, chatgptricks, has 2.7M followers\n\nthat's one page. our network is 100M+ across AI, tech and business\n\nyour buyers are watching reels at 11pm, not reading your launch thread\n\nbe where",
+      "likes": 11,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2118393147466129738",
+      "author": "@rpl_0x",
+      "text": "Kolejny ciekawy projekt z naszej dyskusji :)\n\n@WojciechK25 buduje Lunchlify, czyli agregator ofert lunchowych z okolicznych restauracji. Można sprawdzić, co i gdzie dzisiaj zjemy, bez przekopywania się przez strony i social media poszczególnych lokali.\n\nNarazie Wrocław\n\nPomysł",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118278928104108141",
+      "author": "@rpl_0x",
+      "text": "Mam wrażenie, że w czasach AI umiejętność formułowania własnych myśli, kreatywność, komunikacja z ludźmi i ogólnie te wszystkie tzw. umiejętności miękkie będą nabierały coraz większego znaczenia.\n\nO ile stworzenie oprogramowania staje się coraz łatwiejsze, o tyle jego sprzedaż,",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118406723182666096",
+      "author": "@rpl_0x",
+      "text": "Niebieska platforma dopięta - jak chodzi o platformy sm mam komplet.\n\nnawet nie wiem co on będzie wrzucał 🤣\n\nW każdym razie możliwe że w przyszłym tygodniu zacznę kolejny etap 👌",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2117961028528971821",
+      "author": "@rpl_0x",
+      "text": "Postaram się po kolei przyglądać projektom, które wrzucacie. Na pierwszy ogień ARKAD Wallet od @artur_2111.\n\nTo aplikacja do zarządzania budżetem, zintegrowana z bankami, z dodawaniem wydatków głosem i elementami AI.\n\nAle nie sam produkt zwrócił moją największą uwagę.\n\nCoraz",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118029150187622611",
+      "author": "@rpl_0x",
+      "text": "Jak korzystasz z obsidiana to PKM Assistant od @jdholee powinien Cię zainteresować.\n\nA jeśli nie, Kuba pewnie Was przekona 😄 Jest bardzo pomocny na naszym Discordzie i prowadzi też podróżniczy YouTube - co nieukrywam jest mi bardzo bliskie 😉. Kibicuję!",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118395108617798017",
+      "author": "@rpl_0x",
+      "text": "Fajny przykład praktycznego wykorzystania AI. @SShahro zrobił sobie narzędzie, które zbiera informacje z Librusa i szkolnego extranetu, a potem wysyła jedno podsumowanie dnia zamiast masy powiadomień.\n\nNiby pierdoła, ale jeśli oszczędza kilka czy kilkanaście minut dziennie, to w",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118322379810086918",
+      "author": "@rpl_0x",
+      "text": "AI może sprawić, że powstanie 5000 kopii Twojej aplikacji. Ale może też sprawić, że po raz pierwszy opłacalne stanie się zbudowanie oprogramowania dla 50 klientów.\n\nI myślę, że warto spojrzeć na to również z tej strony.\n\nPrzecież nadal istnieje mnóstwo problemów, dla których nikt",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118017181145276755",
+      "author": "@rpl_0x",
+      "text": "Ciekawy projekt od @tomswitala - @noklikio to coś w rodzaju autonomicznego handlowca AI dla e-commerce.\n\nZ Tomasem często rozmawiam i wiem, że ma sporą wiedzę, dobre spojrzenie na rynek i ciekawą wizję tego, jak AI zmieni handel internetowy.\n\nMieliśmy też okazję pogadać trochę o",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118178862823874924",
+      "author": "@CrazyShyyt",
+      "text": "ChatGPT has now a big problem.\n\nResearchers at Oxford exposed a massive threat to large language models.”\n\nIt’s called \"Model Collapse.\"\n\nAnd it explains why the internet is about to become a toxic waste dump for Large Language Models.\n\nRight now, AI companies are scraping the",
+      "likes": 5049,
+      "retweets": 1134
+    },
+    {
+      "tweet_id": "2118306509041910096",
+      "author": "@MAXdeg0",
+      "text": "THE MOST FAMOUS AI JAILBREAKER ON EARTH JUST BUILT AN AI HACKING WAR MACHINE.\n\npliny the elder  open sourced t3mp3st.\n\nforget running individual security tools one by one. \n\nt3mp3st turns your existing ai coding agent into an autonomous security testing system that can plan,",
+      "likes": 1041,
+      "retweets": 98
+    },
+    {
+      "tweet_id": "2118010783384977849",
+      "author": "@cancore_io",
+      "text": "AI agents can now trade on Cancore – within limits you control.\n\nWe’ve published a step-by-step guide to your first agentic trade: from setting up a dedicated bot account to executing a live CC/CBTC trade on mainnet using Claude Code or Codex.\n\nHow it works:\n• Create a bot",
+      "likes": 650,
+      "retweets": 59
+    },
+    {
+      "tweet_id": "2118325080052625568",
+      "author": "@T3chFalcon",
+      "text": "Cybersecurity people, what models are we using for cyber tasks these days?\n\nGPT, Claude, Gemini, DeepSeek or local models?\n\n Curious which ones using and are actually worth it m for technical security work?",
+      "likes": 414,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2118429823244935257",
+      "author": "@fouadmatin",
+      "text": "Today’s GPT-6 Cyber release is a meaningful step for defenders: stronger vulnerability research and better alignment. We’ve already been using GPT-6 Cyber alongside GPT-6 Astra with Daybreak to harden our own systems, finding weaknesses, validating their impact, and developing",
+      "likes": 373,
+      "retweets": 42
+    },
+    {
+      "tweet_id": "2118369698924384487",
+      "author": "@Blue_Beba_",
+      "text": "#Keep4o #OpenSource4o #BringBack4o #JusticeForGPT4o \n\nIn a 2026 peer reviewed study,18 multimodal models were tested on ancient oracle bone inscriptions.\nGPT-4o ranked #1 ahead of Qwen-Omni-Turbo, GLM-4V-Plus,DeepSeek and others.\n\nGPT-4o achieved the highest overall score.\n\nThe",
+      "likes": 173,
+      "retweets": 65
+    }
+  ]
+}
