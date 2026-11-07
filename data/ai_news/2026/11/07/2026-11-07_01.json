@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-07",
+  "slot": "01",
+  "generated_at": "2026-11-07T06:19:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2118403114890137895",
+      "author": "@claudeai",
+      "text": "Introducing Personal Finance in Claude, in beta in the US.\n\nConnect the accounts you choose, and Claude answers your money questions in everyday language, from your own balances and transactions. Access is read-only, and Claude can't move, manage, or invest your money.",
+      "likes": 43825,
+      "retweets": 2523
+    },
+    {
+      "tweet_id": "2118814753154064501",
+      "author": "@AnthropicAI",
+      "text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time.",
+      "likes": 7573,
+      "retweets": 619
+    },
+    {
+      "tweet_id": "2118792930211107115",
+      "author": "@AnthropicAI",
+      "text": "New on our Science Blog: How AI is beginning to change scientific modeling.\n\nScientific models help researchers explain and predict real-world systems—like how a single nerve cell fires, or what happens when neutron stars collide. Recent advances have transformed how scientists",
+      "likes": 2484,
+      "retweets": 246
+    },
+    {
+      "tweet_id": "2118389961426874879",
+      "author": "@GoogleAI",
+      "text": "Meet Gemini Omni 1.2 Flash ⚡️\n\nWe’ve made the model more cost-effective, bumped the video generation and editing limit up to 15 seconds, and made updates to how scenes hold together over time. We've also given character speech an upgrade, reduced visual glitches like jump cuts,",
+      "likes": 2423,
+      "retweets": 237
+    },
+    {
+      "tweet_id": "2118870200850235542",
+      "author": "@ammaar",
+      "text": "I used Gemini 4 to get the new Zelda: Ocarina of Time remake running on my iPhone Duo 🗡️\n\nIt's my actual Switch 2 copy running natively on Apple Silicon via nxnative and Metal.\n\nPlaying it unfolded on the inner screen feels like a Switch in your pocket and it runs well!",
+      "likes": 1517,
+      "retweets": 76
+    },
+    {
+      "tweet_id": "2118401916418048379",
+      "author": "@svpino",
+      "text": "Companies are killing for good engineers right now!\n\nThese guys are offering a paid first-week vacation worth up to $10,000, planned with a dedicated travel concierge for new engineers who join their team.\n\nIf you refer a candidate who joins, they give you a $30,000 bonus, and",
+      "likes": 210,
+      "retweets": 45
+    },
+    {
+      "tweet_id": "2118560425122082834",
+      "author": "@reach_vb",
+      "text": "This! I am who I am today because over the past decade I’ve had people who gave me constructive feedback, opened doors for me and, most importantly, gave a shit about me and my career.\n\nI try to do the same for others every day I get to work. It’s a privilege.",
+      "likes": 216,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118582849385505137",
+      "author": "@reach_vb",
+      "text": "if you’re the one securing the infra Tibo’s talking about, this is why we built Daybreak\n\n&gt; blue helps you find and fix bugs with GPT-6 Sol and Luna\n&gt; red helps teams test exploits with GPT-5.6 Cyber\n\nselect Red teams also get GPT-6 Cyber\n\napply here:",
+      "likes": 199,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118399344332464395",
+      "author": "@svpino",
+      "text": "How to replace a large, expensive, and slow model with a small, cheaper, fast model and still get the same results.\n\n7x faster and 50% fewer tokens.\n\nThis is like fine-tuning, but without touching the model.\n\nHere, we teach Haiku, using Zep Agent Skills, to do what Opus 5.5 does",
+      "likes": 162,
+      "retweets": 15
+    },
+    {
+      "tweet_id": "2118713634092355624",
+      "author": "@svpino",
+      "text": "There are 10,000 things you can do with small models running on your local computer.\n\nMany small models today compete very well with larger models at a fraction of the cost.\n\n@thewebAI released an 8.8B-parameter model that's a dream, and now they have a Mac app that you can run",
+      "likes": 110,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2118739844696277338",
+      "author": "@hwchase17",
+      "text": "this week at langchain:\n\n- async subagents in deep agents - your agent keeps talking to you while subagents work in the background\n- how we tuned browser use in MDA (7 toolsets tested, stagehand won)\n- LangSmith BYOC on AWS, Azure + GCP\n- Interrupt is back, March 24-25 in SF",
+      "likes": 102,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2118464263497142576",
+      "author": "@hwchase17",
+      "text": "most of the agents we're building inside langchain leverage async subagents in a meaningful way\n\nnow available in deep agents!",
+      "likes": 105,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2118639381107839413",
+      "author": "@rpl_0x",
+      "text": "DeepSeek opublikował na GitHubie open-source'owy prototyp Superagenta. Projekt w niecały tydzień zdobył już prawie 20 tys. gwiazdek.\n\nChodzi o system, który potrafi samodzielnie zarządzać zadaniami, uruchamiać agentów, reagować na zdarzenia na GitHubie i angażować człowieka tylko",
+      "likes": 84,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2118875764066222117",
+      "author": "@jerryjliu0",
+      "text": "The world needs two types of document OCR:\n\n1. Extremely fast/cheap OCR tools: Each organization might have trillions of documents, and this is oftentimes helpful as a 'first pass' to digitalize each document so that it's accessible to AI agents. Accuracy might not be the",
+      "likes": 84,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2118754159281459416",
+      "author": "@svpino",
+      "text": "The way these guys are doing streaming speech recognition is really cool.\n\n#1 on Hugging Face's ASR Trending list: Confucius4-R2T2 from @NetEaseYouDaoAI. It hit #1 within 4 days of release.\n\nIt now has 200K+ cumulative downloads worldwide, including quantized versions.\n\nI read",
+      "likes": 65,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2118411274757574662",
+      "author": "@svpino",
+      "text": "I'm so happy most new personal agents are coming out iMessage-first instead of Slack or Discord.\n\nI know WhatsApp and Telegram are big in Europe, but in the US, iMessage is king.\n\nThis looks like a nice personal agentic advisor if you want to use AI to learn and follow through on",
+      "likes": 60,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118419308472926477",
+      "author": "@jerryjliu0",
+      "text": "YOU CAN PARSE EVERYTHING \n\n11.17.26\n\nocria-1 is already the cheapest, most accurate unified model for doc parsing (not only tables/text, but also charts/diagrams/images/scans) \n\nit's only getting better. stay tuned",
+      "likes": 53,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2118372004613255357",
+      "author": "@reach_vb",
+      "text": "Was a ton of fun catching up with John at DevDay in London!\n\nWe spoke about a good chunk of things around startups, models and what does OpenAI for Developers entails \n\nEnjoy! 🤙🏻",
+      "likes": 46,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118264613469057158",
+      "author": "@nauczymycieAI",
+      "text": "Wygrana demokratów w midtermsach nie zatrzyma AI. \n\nWg. SemiAnalysis, niemal cała budowa w 2027 jest bezpieczna, a tylko około 10% centrów danych na 2028 jest zagrożonych.\n\nW tym świetle $Samsung i $MRVL są atrakcyjnie wycenione. Powody dostali subskrybenci mojego newslettera",
+      "likes": 38,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118279687608864925",
+      "author": "@sentient_agency",
+      "text": "i genuinely can't comprehend why AI founders still launch on X only\n\none of our Instagram pages, chatgptricks, has 2.7M followers\n\nthat's one page. our network is 100M+ across AI, tech and business\n\nyour buyers are watching reels at 11pm, not reading your launch thread\n\nbe where",
+      "likes": 17,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2118717541296291899",
+      "author": "@svpino",
+      "text": "I'm heading to San Francisco next week to talk and learn about the hottest, most exciting topic in the industry right now:\n\nAgents.\n\nNov 10, I'll be attending Run by @apify at The Pearl. There are still some tickets, so grab one if you care about running agents in production.",
+      "likes": 23,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118287072398045574",
+      "author": "@rpl_0x",
+      "text": "Chyba właśnie udało się dopiąć przedostatni element układanki.\n\nUruchomienie MCP tak, żeby Mumro dało się obsługiwać bezpośrednio z czatu w przeglądarce, z dostępem do kilku workspace'ów, okazało się znacznie trudniejsze niż integracja z narzędziami do vibe codingu.\n\nAle w końcu",
+      "likes": 21,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2118645274910335336",
+      "author": "@rpl_0x",
+      "text": "Google udostępnia Remote Agents w Antigravity. Moim zdaniem to jedna z ciekawszych nowości ostatnich dni dla osób budujących oprogramowanie z AI.\n\nPodłączasz repozytorium GitHub, zlecasz agentowi zadanie i możesz wyłączyć komputer. Agent dalej pracuje na infrastrukturze Google,",
+      "likes": 21,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118648351428428101",
+      "author": "@sentient_agency",
+      "text": "every AI startup will brief creators like this within a year\n\npaste your landing page into Claude\n\nget 10 Instagram captions, one per page niche, each with its own hook, CTA and opening shot\n\nit's the brief we'd write before putting a product in front of our network\n\nfull prompt",
+      "likes": 13,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2118653332612878572",
+      "author": "@nauczymycieAI",
+      "text": "Dzisiaj mamy dostać nowe GPT Astra i Sol.\n\nOpenAI będzie musiało je agresywnie wycenić w świecie dominacji Opusa 5.5, żeby nie zaliczyć PR-owej wtopy jak z szybko wycofanym GPT-6 Sol.\n\nDla nas to fantastyczna wiadomość",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118634725573022205",
+      "author": "@rpl_0x",
+      "text": "GPT-6 Cyber,  nowy model AI wyspecjalizowany w cyberbezpieczeństwie.\n\nPodczas badań\n\n• Odtworzono 1724 podatności jądra Linux, a dla 948 z nich model opracował działające exploity, czyli sposoby wykorzystania tych luk.\n\n• Model odkrył 81 wcześniej nieznanych, poważnych",
+      "likes": 14,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118395108617798017",
+      "author": "@rpl_0x",
+      "text": "Fajny przykład praktycznego wykorzystania AI. @SShahro zrobił sobie narzędzie, które zbiera informacje z Librusa i szkolnego extranetu, a potem wysyła jedno podsumowanie dnia zamiast masy powiadomień.\n\nNiby pierdoła, ale jeśli oszczędza kilka czy kilkanaście minut dziennie, to w",
+      "likes": 14,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118393147466129738",
+      "author": "@rpl_0x",
+      "text": "Kolejny ciekawy projekt z naszej dyskusji :)\n\n@WojciechK25 buduje Lunchlify, czyli agregator ofert lunchowych z okolicznych restauracji. Można sprawdzić, co i gdzie dzisiaj zjemy, bez przekopywania się przez strony i social media poszczególnych lokali.\n\nNarazie Wrocław\n\nPomysł",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118278928104108141",
+      "author": "@rpl_0x",
+      "text": "Mam wrażenie, że w czasach AI umiejętność formułowania własnych myśli, kreatywność, komunikacja z ludźmi i ogólnie te wszystkie tzw. umiejętności miękkie będą nabierały coraz większego znaczenia.\n\nO ile stworzenie oprogramowania staje się coraz łatwiejsze, o tyle jego sprzedaż,",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118821602880004470",
+      "author": "@svpino",
+      "text": "Down with AI slop.",
+      "likes": 14,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118406723182666096",
+      "author": "@rpl_0x",
+      "text": "Niebieska platforma dopięta - jak chodzi o platformy sm mam komplet.\n\nnawet nie wiem co on będzie wrzucał 🤣\n\nW każdym razie możliwe że w przyszłym tygodniu zacznę kolejny etap 👌",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118650025676824677",
+      "author": "@rpl_0x",
+      "text": "Kolejny ciekawy projekt z naszej dyskusji, tym razem @flashcoff  i apteka online \n\nTutaj spodobało mi się przede wszystkim podejście do budowania produktu.  \n\nWchodzą na duży, konkurencyjny rynek aptek internetowych, ale od początku dostosowują ją do świata AI i agentów",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118322379810086918",
+      "author": "@rpl_0x",
+      "text": "AI może sprawić, że powstanie 5000 kopii Twojej aplikacji. Ale może też sprawić, że po raz pierwszy opłacalne stanie się zbudowanie oprogramowania dla 50 klientów.\n\nI myślę, że warto spojrzeć na to również z tej strony.\n\nPrzecież nadal istnieje mnóstwo problemów, dla których nikt",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118789045455102069",
+      "author": "@nauczymycieAI",
+      "text": "AI zaczyna być wyraźnie widoczne w danych o globalnej produktywności. I sytuacja wygląda źle dla Europy.\n\nPrzez dwa lata najczęstszy argument przeciwko AI brzmiał - skoro to taka rewolucja, dlaczego nie widać jej w statystykach ekonomiczny? Teraz już widać. Tyle że głównie po",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118654055350177889",
+      "author": "@rpl_0x",
+      "text": "AgenticOS od @wlodarczykacper  i zespołu Vstorm.\n\nTo open-source'owa platforma do budowania i zarządzania agentami AI w firmie. Można tworzyć całe zespoły agentów, łączyć je z narzędziami przez MCP, korzystać z różnych modeli, automatyzować zadania i kontrolować ich działanie z",
+      "likes": 9,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2118794720143122880",
+      "author": "@svpino",
+      "text": "Every AI-slop replyboi that replies to my posts will go straight into this list.\n\nAsk your agent to monitor the list and block anyone on it.\n\nWe can fight back against these people!",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118795272234938706",
+      "author": "@svpino",
+      "text": "We should have a one-click button to block everyone on a list. If you block a list and a new account is added, you will also have that account blocked.",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118657803321532626",
+      "author": "@rpl_0x",
+      "text": "Fajna apka dla fotografów\n\nPlaner zdjęć z Księżycem i Słońcem. Na mapie wybierasz miejsce i obiekt, a Widok kadru pokazuje, gdzie o danej godzinie znajdzie się Księżyc lub Słońce.\n\nMyślę że może być przydatne 😉, a najlepszą reklamą jest to że zrobił to fotograf bo sam tego",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118306509041910096",
+      "author": "@MAXdeg0",
+      "text": "THE MOST FAMOUS AI JAILBREAKER ON EARTH JUST BUILT AN AI HACKING WAR MACHINE.\n\npliny the elder  open sourced t3mp3st.\n\nforget running individual security tools one by one. \n\nt3mp3st turns your existing ai coding agent into an autonomous security testing system that can plan,",
+      "likes": 1212,
+      "retweets": 110
+    },
+    {
+      "tweet_id": "2118760703125233790",
+      "author": "@irombie",
+      "text": "My team at Cohere is hiring for various roles. This is the perfect opportunity to work at a company training their own LLMs from scratch! Both roles are on the post-training side of the training stack and highly impactful.\n\n1. Member of Technical Staff - Post-training (Data",
+      "likes": 563,
+      "retweets": 36
+    }
+  ]
+}
