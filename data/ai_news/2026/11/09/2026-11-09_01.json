@@ -1,0 +1,226 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-09",
+  "slot": "01",
+  "generated_at": "2026-11-09T06:58:10Z",
+  "tweets": [
+    {
+      "tweet_id": "2119114537442189652",
+      "author": "@karpathy",
+      "text": "Earlier this week Tristan published his top YouTube channels:\n\nWhich looked excellent so clearly I had to turn it into TristanTube:\n\n47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)",
+      "likes": 8812,
+      "retweets": 742
+    },
+    {
+      "tweet_id": "2119343556091412816",
+      "author": "@reach_vb",
+      "text": "To be fair: Images 2.6 landed on Plus four days ago! You can turn a sketch into a GIF, and images generate 50% faster. \n\nWe also tripled daily GPT‑Live voice time from 1 to 3 hours. \n\nOn Codex, even tho Plus limits stayed the same, 6.1 Terra gets you more tasks out of that",
+      "likes": 383,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2119317162724925695",
+      "author": "@reach_vb",
+      "text": "oh and no 5 hour limits either - so you can use your tokens as and when you want",
+      "likes": 135,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119190885871312911",
+      "author": "@hwchase17",
+      "text": "Long tasks shouldn't block the chat",
+      "likes": 96,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2119056311019049187",
+      "author": "@svpino",
+      "text": "X is rate limiting how many people I can block daily, so that’s not even an option to stop ai replies.",
+      "likes": 42,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119126255455051893",
+      "author": "@jerryjliu0",
+      "text": "There's a pareto frontier of accuracy and cost for every meaningful task out in the world. \n\nEven as frontier models advance raw intelligence, everyone has the opportunity to define and advance the frontier for their own tasks.",
+      "likes": 38,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119526362881094062",
+      "author": "@nauczymycieAI",
+      "text": "Wiele osób oburzyło się na moje posty o tym, że Chińskie Open Source przegra - i że to tylko kwestia czasu.\n\nPoniżej wyjaśniam dlaczego tak się stanie.\n\nWyobraź sobie biznesowe starcie firm AI jako wojnę czołgów.\n\nChińczycy mają równie dobrą konstrukcję czołgów (architektura",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2118996453309960214",
+      "author": "@sentient_agency",
+      "text": "If you're creating video ads with AI, bookmark this.\n\nNever approve an ad handoff that only includes an MP4.\n\nAsk for these 7 files so your ads stay editable, reusable, and ready for future campaigns:\n\n1. Approved claims.\n\nA plain-text file with each allowed claim and its",
+      "likes": 10,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119022300439933386",
+      "author": "@alex_verem",
+      "text": "I am begging you, download an open source AI model this weekend.\n\nIt's one file, 5 to 20GB, and it runs on the laptop you already own. You won't need an account, a subscription or an internet connection once it's on your drive.\n\nYour paid AI can change overnight, cost more next",
+      "likes": 10985,
+      "retweets": 827
+    },
+    {
+      "tweet_id": "2119096226058588434",
+      "author": "@e_opore",
+      "text": "MACHINE LEARNING ENGINEER ROADMAP\n│\n├── 1. Programming Fundamentals\n│   ├── Python\n│   │   ├── Variables &amp; Data Types\n│   │   ├── Loops &amp; Conditionals\n│   │   ├── Functions &amp; Modules\n│   │   ├── OOP &amp; Exception Handling\n│   │   ├── List",
+      "likes": 2451,
+      "retweets": 383
+    },
+    {
+      "tweet_id": "2119414308299792536",
+      "author": "@anuragdotdev",
+      "text": "AI ENGINEER ROADMAP\n│\n├── 1. Programming Fundamentals\n│   ├── Python\n│   │   ├── Variables &amp; Data Types\n│   │   ├── Functions &amp; Modules\n│   │   ├── OOP &amp; Exception Handling\n│   │   ├── List &amp; Dictionary Comprehensions\n│   │   ├── Iterators &amp;",
+      "likes": 1588,
+      "retweets": 239
+    },
+    {
+      "tweet_id": "2119297363256955052",
+      "author": "@sakatayasha",
+      "text": "RUN UNCENSORED AI OFFLINE ON YOUR ANDROID PHONE\n\nprivatelm lets you download and run uncensored gguf models right on your phone. no internet needed after download\n\nhow to set it up:\n1. open the github repo\n\n\n2. get the android build from the repo\n3. open",
+      "likes": 1330,
+      "retweets": 175
+    },
+    {
+      "tweet_id": "2119038154053480543",
+      "author": "@Pirat_Nation",
+      "text": "Someone used Claude Code to build a sailing game and tested four AI models to see which one could sail a boat the best.\n\nGemini 4 Argon won, GPT-6 Astra came second, Claude Opus 5.5 got stuck, and Qwen 3.5-9B wanted go home\n\nThe models had to steer their boats and adjust the",
+      "likes": 1145,
+      "retweets": 56
+    },
+    {
+      "tweet_id": "2119332592814067932",
+      "author": "@finnardley",
+      "text": "i killed the infographics show with 1 claude opus prompt\n\nnow i made a full 10 minute story video in full code\n\nthis cost me $0 in ai video generations btw\n\nturned it into a prompt you can use for free and make any topic u want, enjoy ↓\n\n&lt;inputs&gt;\nAsk me for my topic and my",
+      "likes": 358,
+      "retweets": 38
+    },
+    {
+      "tweet_id": "2119500443831169516",
+      "author": "@VORTEX_Promos",
+      "text": "New Video Generator\n\nVimoo has released the open weights for its Vimoo 1.0 family of video generation models, supporting both text-to-video (T2V) and image-to-video (I2V) generation.\n\nRather than training the model from scratch, the team built a hybrid architecture by combining",
+      "likes": 317,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2118984299944772050",
+      "author": "@leviackermanft",
+      "text": "Paying for AI APIs? 🤯\n\nThis GitHub repo has a massive list of FREE LLM APIs you can use instead.\n\nGPT, Claude, Llama, Gemini &amp; more all in one place.\n\nLink:",
+      "likes": 277,
+      "retweets": 29
+    },
+    {
+      "tweet_id": "2118982884115788231",
+      "author": "@AiwithYasir",
+      "text": "🚨THIS IS FUCK*NG INCREDIBLE\n\nGitHub is full of free stuff that almost nobody is using.\n\nGitHub is full of powerful free tools that most people are overlooking. Here are the 10 repositories exploding this month, ranked from the easiest to use to the most technical.\n\nWhat anyone",
+      "likes": 150,
+      "retweets": 63
+    },
+    {
+      "tweet_id": "2119024563086397503",
+      "author": "@sermakarevich",
+      "text": "A research/review of how to fix common agentic issues with architectural tricks:\n\n- early failure\n- hand-off efficiency\n- noisy context\n- more agents same miss-takes \n- big context\n- LLMs tend to agree\n- faster/cheaper\n- learning",
+      "likes": 177,
+      "retweets": 20
+    },
+    {
+      "tweet_id": "2119112910546809096",
+      "author": "@quantscience_",
+      "text": "AI Trader\n\n100% fully autonomous trading agent. \n\nAvailable for free:",
+      "likes": 169,
+      "retweets": 18
+    },
+    {
+      "tweet_id": "2119096414227845576",
+      "author": "@anya_yfa7",
+      "text": "WAIT… 18 AI models in ONE free coding app?! 🤯\n\nDeepAI Code brings top models together:\n\n→ Claude Fable 5.1\n→ Claude Opus 5.5\n→ GPT-6 Astra\n→ Gemini 4 Argon\n→ Kimi K3\n→ DeepSeek V4.1 Flash\n→ GLM 5.3 and more\n\nHow to get started:\n\n1. Visit : \n2.",
+      "likes": 133,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2119429592985563277",
+      "author": "@AIwithGhotai",
+      "text": "SenseNova 6.8 Code2Video is here.\n\nSenseTime just open-sourced the industry’s first major model built specifically for code-driven video generation.\n\nInstead of a black-box video, it writes actual code that defines the visuals, animation, timing, and structure  then hands you the",
+      "likes": 100,
+      "retweets": 33
+    },
+    {
+      "tweet_id": "2119086676303835422",
+      "author": "@I_am_Aiabir",
+      "text": "Damn, GitHub is full of free stuff that almost nobody is using.\n\nthe 10 repos that are blowing up this month, from the easiest to the most technical:\n\nstuff anyone can use\n\n1. VoiceStudio: clones voices, dubs videos and transcribes in 646 languages, free and without leaving your",
+      "likes": 72,
+      "retweets": 35
+    },
+    {
+      "tweet_id": "2119437090467291276",
+      "author": "@dravenip",
+      "text": "🚨 A FREE AI HACKER JUST WENT OPEN SOURCE, AND IT ATTACKS YOUR APP EVERY TIME YOU SHIP A RELEASE\n\nOver 49,000 stars on GitHub and still climbing.\n\nIt doesn't hand you a list of possible flaws. It shows you exactly where someone could get in.\n\nIt's called Shannon, an open source",
+      "likes": 57,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2119464484217692570",
+      "author": "@mayuri_3015",
+      "text": "Dumb AI User:\n\nGPT \nClaude  \nGemini  \nGrok \nDeepSeek\nNew model",
+      "likes": 46,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2119359046482596277",
+      "author": "@web3devop",
+      "text": "which ai model is more funny ?\n\n- grok\n- gemini\n- claude \n- gpt \n- or others",
+      "likes": 44,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2119666861893972039",
+      "author": "@sakatayasha",
+      "text": "RUN UNCENSORED AI FULLY OFFLINE ON YOUR IPHONE OR ANDROID\n\npocketpal ai lets you download gguf models onto your phone and chat with zero cloud\n\nhow to set it up:\n1. install pocketpal ai\n\n\n\n2. source code and apk",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119390195917427101",
+      "author": "@itsvishaltwt",
+      "text": "Free AI Models Tier List 2026\n\nFrom Gemini 2.5 Flash and GPT-5 to DeepSeek, Qwen, Llama, Claude, and more. Some rankings might surprise you.\n\nWhich free AI model deserves the S+ tier, and which one is overrated?",
+      "likes": 26,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119672847073186168",
+      "author": "@RitaCryptoTips",
+      "text": "i built 𝗛𝘂𝘀𝗵𝗺𝗮𝗿𝗸 for NEAR hackathon.\n\n𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺:\n\nAI coding agents now read your pull requests, docs and rules files, and they follow the instructions inside them. including the ones your reviewers never see.\n\none hidden HTML comment in a PR can say \"approve",
+      "likes": 15,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2119206289003962850",
+      "author": "@howaboutarock",
+      "text": "if I was a large language model would you train me",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119663014169514296",
+      "author": "@abhinavflac",
+      "text": "Wyvern aka \"atlas-alpha\": routed through OpenAI, a stealth model inside Devin\n\n&gt; it points to OpenAI, from Devin's own model config:\nCL100K_WITH_SPECIAL, same as the GPT entries, claude and gemini use a different one\n&gt; context window: 1,000,000 tokens, max output 128,000 tokens,",
+      "likes": 11,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2119672042090017012",
+      "author": "@Rivonn",
+      "text": "FOUND AN APP THAT RUNS UNCENSORED AI OFFLINE ON YOUR PHONE\n\nPrivateLM is a free, open-source Android app that runs GGUF models locally\n\n- runs on your phone's GPU (Vulkan)\n- no internet needed after the model downloads\n- checks your RAM and sets context size for you\n- text +",
+      "likes": 11,
+      "retweets": 0
+    }
+  ]
+}
