@@ -1,0 +1,163 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-10",
+  "slot": "01",
+  "generated_at": "2026-11-10T07:30:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2119867114450268322",
+      "author": "@claudeai",
+      "text": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges.\n\nThey’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.",
+      "likes": 85172,
+      "retweets": 8131
+    },
+    {
+      "tweet_id": "2119899459761131615",
+      "author": "@claudeai",
+      "text": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few.\n\nFrom a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant hub.",
+      "likes": 24097,
+      "retweets": 1363
+    },
+    {
+      "tweet_id": "2119873095129550880",
+      "author": "@bcherny",
+      "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get.",
+      "likes": 14704,
+      "retweets": 561
+    },
+    {
+      "tweet_id": "2119867707546071125",
+      "author": "@AnthropicAI",
+      "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:",
+      "likes": 13330,
+      "retweets": 848
+    },
+    {
+      "tweet_id": "2119343556091412816",
+      "author": "@reach_vb",
+      "text": "To be fair: Images 2.6 landed on Plus four days ago! You can turn a sketch into a GIF, and images generate 50% faster. \n\nWe also tripled daily GPT‑Live voice time from 1 to 3 hours. \n\nOn Codex, even tho Plus limits stayed the same, 6.1 Terra gets you more tasks out of that",
+      "likes": 392,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2119804662320623775",
+      "author": "@svpino",
+      "text": "The new MacBook Pro is hands down the most beautiful computer humanity has ever created.\n\nThis thing is absolutely perfect. \n\nI'm sorry about those of you who don't like Apple or macOS, but hardware-wise, I'm not sure where we go from here.\n\nWhat can you do to improve this thing?",
+      "likes": 267,
+      "retweets": 14
+    },
+    {
+      "tweet_id": "2119852615102349620",
+      "author": "@reach_vb",
+      "text": "sent using @ChatGPT",
+      "likes": 260,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2119849939891294227",
+      "author": "@ammaar",
+      "text": "AI Studio now lets you build rich apps with Google Maps with just a simple prompt! 🚀 \n\nOur batteries included experience to build apps with the Google ecosystem continues to get easier :)",
+      "likes": 220,
+      "retweets": 17
+    },
+    {
+      "tweet_id": "2120033798012506613",
+      "author": "@reach_vb",
+      "text": "cake day today!\n\nbeen reflecting on the past year and holy shit, what a year it’s been\n\ngrateful to everyone who took a chance on me, gave me honest feedback and pushed me to be better every day. you know who you are ;)\n\nand to y’all for being the absolute best. here’s to another",
+      "likes": 151,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119865004006793396",
+      "author": "@reach_vb",
+      "text": "6.1 Terra for incredibly efficient computer use:",
+      "likes": 142,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119860343384293543",
+      "author": "@svpino",
+      "text": "This is so cool: A model that lets you have face-to-face conversations with a virtual persona.\n\nThe model processes incoming audio and video while it generates speech and facial expressions.\n\nYou can talk to the AI persona, and it will use visual cues while listening, making for",
+      "likes": 64,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2119803208801362151",
+      "author": "@svpino",
+      "text": "The easier it is to build software, the more people will do it, so everyone will have to work harder to differentiate what they build if they want customers.\n\nThat being said, I think it's an amazing opportunity.\n\nYes, we'll have way more slop going around, but the market will",
+      "likes": 64,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119833301641044397",
+      "author": "@svpino",
+      "text": "This is a new agent designed from the ground up to run the day-to-day work of a digital business.\n\nHere is what's new about this:\n\n1. It uses a world model to forecast how different decisions could affect the business before taking action.\n\n2. It uses the results of previous",
+      "likes": 52,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2119846273951973798",
+      "author": "@svpino",
+      "text": "Two things to improve the latest MacBook Pro:\n\n1. Cellular, so you don't have to use a hotspot.\n2. Face ID.\n\nEverything else is chef's kiss.",
+      "likes": 51,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119526362881094062",
+      "author": "@nauczymycieAI",
+      "text": "Wiele osób oburzyło się na moje posty o tym, że Chińskie Open Source przegra - i że to tylko kwestia czasu.\n\nPoniżej wyjaśniam dlaczego tak się stanie.\n\nWyobraź sobie biznesowe starcie firm AI jako wojnę czołgów.\n\nChińczycy mają równie dobrą konstrukcję czołgów (architektura",
+      "likes": 46,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119885386763952131",
+      "author": "@svpino",
+      "text": "This is super cool for automating tasks with Codex or Claude Code:\n\n• Connect your coding agent to Swamp\n• Ask your agent to solve a task\n• You get a deterministic workflow with TypeScript\n• You also get a skill that you can run whenever you want\n• Every step becomes a",
+      "likes": 35,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2119878904358027743",
+      "author": "@jerryjliu0",
+      "text": "Last Thursday we hosted a private dinner for AI leaders in insurance at Niku Steakhouse.\n\nThe discussion was so good we forgot to take a photo :) We created a photorealistic rendering of what the conversation looked like below.\n\nWe live in a world where frontier models are",
+      "likes": 28,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119845803909144943",
+      "author": "@svpino",
+      "text": "This is super cool: an agent that helps engineers design chips!\n\nThe agent automates part of the design process:\n\n• Arranges components\n• Routes connections\n• Fixes design problems\n• Predicts temperatures to identify hotspots earlier\n\nThis bit here is really impressive:\n\n&gt;",
+      "likes": 24,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119732981170667884",
+      "author": "@sentient_agency",
+      "text": "Steal these 5 prompts for checking AI-written marketing copy.\n\nPaste them into ChatGPT or Claude before the next draft goes live.\n\n1. Claims check\n\n\"Read the copy below. Make a table: factual claim, exact supporting passage from the evidence I paste, and verdict: supported,",
+      "likes": 14,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2119852349074108801",
+      "author": "@rpl_0x",
+      "text": "GitHub Next, czyli zespół zajmujący się eksperymentalnymi rozwiązaniami dla przyszłości programowania, udostępnił ACE.\n\nTo eksperymentalne środowisko do wspólnego tworzenia oprogramowania przez ludzi i agentów AI.\n\nPomysł jest całkiem ciekawy. Zamiast prowadzić osobne sesje z",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2119848328905027917",
+      "author": "@rpl_0x",
+      "text": "Jak agenci AI zaczynają uczyć się na własnych błędach i wykorzystywać doświadczenia z poprzednich zadań? Jak to wszystko ewoluowało, od promptów i prostych instrukcji po pamięć i systemy samodoskonalenia.\nTrochę historii i kontekstu, a do tego zbiór ciekawych bibliotek,",
+      "likes": 15,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119755909291213080",
+      "author": "@rpl_0x",
+      "text": "Po tragedii w Krakowie warto zastanowić się, czy przy dzisiejszym rozwoju technologii jesteśmy w stanie wcześniej wykrywać podobne zagrożenia.\n\nCzy można rozpoznać, że ktoś porusza się z bronią, zanim odda pierwszy strzał? \nCo można wykryć wcześniej karabin przewożony w",
+      "likes": 7,
+      "retweets": 0
+    }
+  ]
+}

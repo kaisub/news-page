@@ -1,0 +1,86 @@
+{
+  "pipeline": "global_news",
+  "label": "Radar Globalny",
+  "date": "2026-11-10",
+  "slot": "01",
+  "generated_at": "2026-11-10T07:30:51Z",
+  "tweets": [
+    {
+      "tweet_id": "2119903207350521926",
+      "author": "@RadekPyffel",
+      "text": "Japońskie powiedzenie na dziś. Z dedykacją dla Wszystkich, którzy z narażeniem własnego życia obezwładnii zamachowca w Krakowie (i których odznaczył dziś Prezydent Nawrocki).\n\n滅私奉公 (Messhi hōkō) \n\nDosłownie oznacza „stłumienie własnego \"ja\" w służbie publicznej” („poświęcenie",
+      "likes": 195,
+      "retweets": 26
+    },
+    {
+      "tweet_id": "2119701329664721082",
+      "author": "@RadekPyffel",
+      "text": "Skomplikowana sytuacja i \"trudne sprawy\" Jensena Huanga... Szef Nvidii oficjalnie przeprosił za dopuszczenie się zdrady małżeńskiej po tym jak amerykańskie media zaczęły publikować  informacje służb, iż partnerka prezesa Nvidii Alice Huang, mogĺa zostać zwerbowana przez ChRL.",
+      "likes": 136,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2119754407692677188",
+      "author": "@OSW_pl",
+      "text": ".@J_Jakobowski: W Chinach każda firma może znaleźć się pod kontrolą partii. Ostatecznie jest to więc decyzja polityczna. Każda transakcja biznesowa może zostać z powodów politycznych natychmiast przerwana i mieliśmy już wiele przykładów takich sytuacji.",
+      "likes": 50,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2119715638390186138",
+      "author": "@RadekPyffel",
+      "text": "Dyplomatyczny, ale jednak niezwykle ostry atak papieża na jedną z czołowych postaci ruchu MAGA prezydenta Argentyny Javiera Milei.\n\nPodczas swojej pielgrzymki do Argentyny Leon XIV ostro skrytykował drastyczną politykę cięcia kosztów prowadzoną przez Milei. \n\nW przemówieniu",
+      "likes": 41,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2119884423638188090",
+      "author": "@RadekPyffel",
+      "text": "Zastanawiające, a nawet szokujące (z punktu widzenia polskich schematów myślowych) wieści i sytuacja na Litwie, która ciraz wyraźniej odchodzi od protajwańskiego kursu i skłania się ku normalizacji relacji z Pekinem.\n\nLitewski MSZ miał poprosić Biuro Tajwanu w Wilnie o zmianę",
+      "likes": 33,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119486877002875051",
+      "author": "@RadekPyffel",
+      "text": "Jeszcze kilka miesięcy temu ruch MAGA wydawał się nierozerwalnie związany z Donaldem Trumpem. \n\nDziś jednak Reuters publikuje analizę, z której wynika, że nawet wśród najbardziej zaangażowanych zwolenników prezydenta zaczynają pojawiać się pytania o przyszłość całego projektu.\n\nI",
+      "likes": 29,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119720000193966537",
+      "author": "@OSW_pl",
+      "text": "▪️Co się dzieje z rosyjskim złotem? \n▪️Gdzie Rosjanie je sprzedają?\n▪️Co sytuacja z rosyjskim złotem mówi nam o stanie rosyjskiej gospodarki?\nNa te i inne pytania odpowiada Iwona Wiśniewska.",
+      "likes": 25,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2119742242374230041",
+      "author": "@OSW_pl",
+      "text": "Społeczeństwo obywatelskie zostało stłamszone, zepchnięte do głębokiego podziemia lub zmuszone do relokacji poza granice kraju.\n\n#raportOSW na temat ewolucji systemu politycznego Białorusi po 2020 roku 👉",
+      "likes": 27,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119500667945402521",
+      "author": "@RadekPyffel",
+      "text": "No Proszę Państwa... Wyroki śmierci w Iranie. Dziś stracono 3 mężczyzn skazanych za udział w styczniowych protestach antyrządowych. \n\nWedług irańskich władz mieli oni prowadzić działania na rzecz Stanów Zjednoczonych i Izraela oraz uczestniczyć w zbrojnych wystąpieniach przeciwko",
+      "likes": 28,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2119718799134150938",
+      "author": "@OSW_pl",
+      "text": "Kryzys wywołany wojną uwypuklił strukturalne problemy Iraku, ale stał się też silnym impulsem do poszukiwania ich rozwiązań.\n\nZ rozważanych obecnie projektów dywersyfikacyjnych najbardziej perspektywiczny wydaje się turecki (rozwój szlaku Kirkuk–Ceyhan).",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119880968538345573",
+      "author": "@OSW_pl",
+      "text": "▪️Czy Turcja dba o ekologię?\n▪️Po co Turcji Szczyt Klimatyczny COP?\n▪️Jak to się wpisuje w politykę Erdogana?\nNa te i inne pytania odpowiadają @kwasylewsky, @zu_krzyzanowska i @michalski_adam_.",
+      "likes": 17,
+      "retweets": 3
+    }
+  ]
+}
