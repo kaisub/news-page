@@ -1,0 +1,289 @@
+{
+  "pipeline": "pl_news",
+  "label": "Radar Wiadomości PL",
+  "date": "2026-11-11",
+  "slot": "01",
+  "generated_at": "2026-11-11T06:51:48Z",
+  "tweets": [
+    {
+      "tweet_id": "2119729372529664341",
+      "author": "@laskowski_pl",
+      "text": "To jest członek @KRRiT__ i ma decydować czy ukarać RTV, coś dodać?",
+      "likes": 3141,
+      "retweets": 389
+    },
+    {
+      "tweet_id": "2120121075485077566",
+      "author": "@PAPinformacje",
+      "text": "Premier: to, co zakazane w rzeczywistości realnej musi być też zakazane w rzeczywistości wirtualnej; wrócimy do projektów dot. nadużywania wolności w internecie. (PAP)\n#PAPinformacje",
+      "likes": 853,
+      "retweets": 96
+    },
+    {
+      "tweet_id": "2120120890155241664",
+      "author": "@PAPinformacje",
+      "text": "Premier: TK zaczął pracę, zostanie opublikowana uchwała zgromadzenia ogólnego sędziów TK ws. zmiany regulaminu Trybunału. (PAP)\n#PAPinformacje",
+      "likes": 467,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2120240996680093975",
+      "author": "@PAPinformacje",
+      "text": "24-letni strażak ochotnik Tomek własnym ciałem ochronił swoją żonę Kingę przed kulami zamachowca w Krakowie, a sam został ranny w twarz.\n\nStrażacy z jego jednostki OSP Olszowice zbierają pieniądze na rehabilitację druha. Nadwyżka zostanie przeznaczona na cel charytatywny.",
+      "likes": 392,
+      "retweets": 58
+    },
+    {
+      "tweet_id": "2120124333737529536",
+      "author": "@Macronextcom",
+      "text": "\"Matka wszystkich strachów\"\n\nRopa jest dziś najtańsza od końca sierpnia.",
+      "likes": 102,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2120255831837130920",
+      "author": "@PAPinformacje",
+      "text": "Orlen wypowiedział jedną z dwóch umów z QatarEnergy na dostawy LNG - podał we wtorek koncern w giełdowym raporcie bieżącym.(PAP)\n#PAPInformacje",
+      "likes": 71,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2120047177540202984",
+      "author": "@laskowski_pl",
+      "text": "Kolejne prawicowe rządy z \"Bogiem, Honorem i Ojczyzną\" na ustach, a faktycznie z małymi, prywatnymi interesami i \"Ojczyzną dojną\", a VAT będzie wynosił 26% jak na Węgrzech. \nBędzie drugi Budapeszt w Warszawie, ale taka sama banda złodziei.",
+      "likes": 51,
+      "retweets": 13
+    },
+    {
+      "tweet_id": "2120143813213552644",
+      "author": "@PAPinformacje",
+      "text": "Tomczyk w Kijowie: Ukraina zgodziła się przekazać Polsce technologie antydronowe\n#PAPinformacje",
+      "likes": 46,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2120117321419145575",
+      "author": "@laskowski_pl",
+      "text": "Kolejna firma przestanie płacić podatki w Polsce, kupili amerykanie.",
+      "likes": 43,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2119713153818968469",
+      "author": "@laskowski_pl",
+      "text": "Tesla kończy produkcję amerykańskiej wersji Multipli.",
+      "likes": 36,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120255912401109192",
+      "author": "@PAPinformacje",
+      "text": "Miał szpiegować na rzecz Rosji. Żołnierz USA aresztowany w Wielkiej Brytanii ⤵️\n#PAPInformacje",
+      "likes": 29,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2120161971085394310",
+      "author": "@PAPinformacje",
+      "text": "Zakończyła się sekcja zwłok sprawcy ataku w Krakowie\n#PAPinformacje",
+      "likes": 22,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120229827970212241",
+      "author": "@PAPinformacje",
+      "text": "Rubio o rozmowach w Abu Zabi: nie będzie układu ponad głowami Europejczyków ⤵️\n#PAPInformacje",
+      "likes": 13,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119829658371821570",
+      "author": "@laskowski_pl",
+      "text": "Trochę przykro, po tym jak wychwalał przyjaźń z naszym prezydentem...",
+      "likes": 13,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120189041295626604",
+      "author": "@PAPinformacje",
+      "text": "Policjant ranny w ataku na Rynku przetransportowany do szpitala wojskowego ⤵️\n#PAPInformacje",
+      "likes": 12,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120250983955792182",
+      "author": "@PAPinformacje",
+      "text": "Strefa buforowa przy granicy z Białorusią. MSWiA chce przedłużenia o kolejne 90 dni ⤵️\n#PAPInformacje",
+      "likes": 10,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120193014677008545",
+      "author": "@PAPinformacje",
+      "text": "Honorowe obywatelstwo Bielska-Białej dla Jakuba Kulika ⤵️\n#PAPInformacje",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120266521649774721",
+      "author": "@PAPinformacje",
+      "text": "Papież w Cordobie: głód i niesprawiedliwość wymagają odpowiedzi w duchu chrześcijańskiej miłości ⤵️\n#PAPInformacje",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119709250683592741",
+      "author": "@GUS_STAT",
+      "text": "Przeciętne wynagrodzenie w trzecim kwartale br. wyniosło 9 317,01 zł.\n\n🔗\n\n#GUS #statystyka #wynagrodzenia",
+      "likes": 3,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120251197395460409",
+      "author": "@PAPinformacje",
+      "text": "Prowadząc rodzinę zastępczą znęcała się na dziećmi. Svitlana P. skazana [WIDEO] ⤵️\n#PAPInformacje",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120214778983436444",
+      "author": "@PAPinformacje",
+      "text": "Pierwsze posiedzenie nowego Knesetu po wyborach. Prezydent Izraela apeluje o kompromis ⤵️\n#PAPInformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120167720998318113",
+      "author": "@PAPinformacje",
+      "text": "650 tysięcy osób na papieskiej mszy w Cordobie\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120073890005168575",
+      "author": "@GUS_STAT",
+      "text": "📚Pośredniczysz w organizowaniu kursów lub korepetycji? \nPKD 2025 wprowadza dla tej działalności podklasę 85.61.Z. Kod dotyczy pośrednictwa. \nJeśli masz firmę sprzed 2025 r., sprawdź swój wpis do 31 grudnia.\n\n🔎\n\n#PKD2025 #GUS",
+      "likes": 2,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120158813244604917",
+      "author": "@PAPinformacje",
+      "text": "Abu Zabi. Zakończyło się pierwsze spotkanie ws. pokoju w Ukrainie\n#PAPinformacje",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120399666785198085",
+      "author": "@PAPinformacje",
+      "text": "Narodowe Święto Niepodległości - obchody 11 listopada w stolicy: uroczystości państwowe i Marsz Niepodległości\n#PAPinformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120207726202556749",
+      "author": "@PAPinformacje",
+      "text": "Szef MON w Pentagonie ws. obecności wojsk USA w Polsce. \"Owocny dialog\" ⤵️\n#PAPInformacje",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120064667834023972",
+      "author": "@DGPrawna",
+      "text": "Przedszkola nie będą już mogły publicznie udostępniać w sieci zdjęć dzieci. I to nawet za zgodą rodziców. Nowe zasady w tym zakresie czekają również szkoły.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120026165951778924",
+      "author": "@DGPrawna",
+      "text": "Broń palna zbyt łatwo dostępna - czy potrzebujemy zmiany w przepisach?",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120073539739066762",
+      "author": "@mbank_research",
+      "text": "Co słychać w globalnej gospodarce? Zapraszamy do lektury naszego miesięcznego opracowania.",
+      "likes": 2,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120215279040917566",
+      "author": "@PAPinformacje",
+      "text": "Prezydent Gibała dla PAP: ostatnie dni były nas niezwykle trudnym doświadczeniem ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120072359335874624",
+      "author": "@GUS_STAT",
+      "text": "W 3 kwartale 2026 r. co czwarta rejestracja dotyczyła sektora usług. Liczba rejestracji przedsiębiorstw była niższa o 9,1% w porównaniu z analogicznym okresem 2025 r.  \n\n🔗\n\n#GUS #statystyki",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119760389168611705",
+      "author": "@GUS_STAT",
+      "text": "💡 Co dzieje się z wynalazkiem, gdy otrzyma patent? Czy trafia na rynek? Z okazji Dnia Wynalazcy sprawdzamy, jak wygląda komercjalizacja patentów w Polsce. 📊 Poznaj dane i zobacz, jaki potencjał mają polskie wynalazki! 👇\n\n🔗 \n\n#GUS #Innowacje #Patenty",
+      "likes": 0,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120188483402969174",
+      "author": "@DGPrawna",
+      "text": "🟥 RAPORT SPECJALNY DGP | Nie tylko Rosja. Analizujemy, jakie reżimy sankcyjne obowiązują w UE",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120053342504141018",
+      "author": "@DGPrawna",
+      "text": "Sędzia Piwnik: W sprawie Trybunału przegrani są wszyscy",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120041766367662508",
+      "author": "@DGPrawna",
+      "text": "Jedna tragedia nie przekreśla bezpieczeństwa Polski. Najgorsze decyzje rodzą się ze strachu",
+      "likes": 1,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120192846661849585",
+      "author": "@PAPinformacje",
+      "text": "Urban przed meczami Ligi Narodów. Zabrał głos ws. zdrowia Bednarka ⤵️\n#PAPInformacje",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120151740947530012",
+      "author": "@DGPrawna",
+      "text": "Po uwagach samorządów może powstać jeszcze więcej nowych związków metropolitalnych",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120147211535233296",
+      "author": "@DGPrawna",
+      "text": "Przepisy o dostępie do broni trzeba zmienić? Dyskusja po tragedii w Krakowie",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120127834257523026",
+      "author": "@DGPrawna",
+      "text": "Warszawa wprowadza kary, Bruksela chce luzować. Przedsiębiorcy sprzedający za granicę nie wiedzą, na czym stoją",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120119780476600521",
+      "author": "@DGPrawna",
+      "text": "Podatek u źródła. Kiedy polski płatnik nie zastosuje zwolnienia",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}

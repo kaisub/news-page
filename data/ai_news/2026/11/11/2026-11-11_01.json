@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-11",
+  "slot": "01",
+  "generated_at": "2026-11-11T06:51:48Z",
+  "tweets": [
+    {
+      "tweet_id": "2120206365759094857",
+      "author": "@claudeai",
+      "text": "Starting to roll out today: Claude Whiteboards, Claude Sheets and Claude Data.\n\nThink a plan through on a board, build a tracker in a sheet, and tell a story with your data.",
+      "likes": 49990,
+      "retweets": 3768
+    },
+    {
+      "tweet_id": "2119899459761131615",
+      "author": "@claudeai",
+      "text": "During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few.\n\nFrom a one-paragraph prompt, Fable 5.2 designed three working electronic devices, including this home voice assistant hub.",
+      "likes": 40648,
+      "retweets": 2698
+    },
+    {
+      "tweet_id": "2119873095129550880",
+      "author": "@bcherny",
+      "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get.",
+      "likes": 16968,
+      "retweets": 635
+    },
+    {
+      "tweet_id": "2119867707546071125",
+      "author": "@AnthropicAI",
+      "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:",
+      "likes": 14784,
+      "retweets": 938
+    },
+    {
+      "tweet_id": "2120174844822298730",
+      "author": "@claudeai",
+      "text": "A thread of early experiments with Claude Fable 5.2:\n\nA 3D model of a cell, built entirely from code one organelle at a time. Built by @kevin_t_ngo.",
+      "likes": 13573,
+      "retweets": 961
+    },
+    {
+      "tweet_id": "2120187753329791341",
+      "author": "@GoogleAI",
+      "text": "Our strongest frontier model, Gemini 4 Carbon, is now available.\n\nBuilt for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web",
+      "likes": 5895,
+      "retweets": 601
+    },
+    {
+      "tweet_id": "2120117722230968385",
+      "author": "@AnthropicAI",
+      "text": "Anthropic has launched the roadshow for its proposed initial public offering: \n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may",
+      "likes": 4537,
+      "retweets": 467
+    },
+    {
+      "tweet_id": "2120182450416500819",
+      "author": "@leerob",
+      "text": "I got this cold email today about what I'd teach kids interested in web development and programming. I figured I'd share my full response here in case it helps others:\n\n—\n\nLearning to create software today is a glass half full / half empty situation. You can be optimistic or",
+      "likes": 1103,
+      "retweets": 77
+    },
+    {
+      "tweet_id": "2120033798012506613",
+      "author": "@reach_vb",
+      "text": "cake day today!\n\nbeen reflecting on the past year and holy shit, what a year it’s been\n\ngrateful to everyone who took a chance on me, gave me honest feedback and pushed me to be better every day. you know who you are ;)\n\nand to y’all for being the absolute best. here’s to another",
+      "likes": 437,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119852615102349620",
+      "author": "@reach_vb",
+      "text": "sent using @ChatGPT",
+      "likes": 294,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2119849939891294227",
+      "author": "@ammaar",
+      "text": "AI Studio now lets you build rich apps with Google Maps with just a simple prompt! 🚀 \n\nOur batteries included experience to build apps with the Google ecosystem continues to get easier :)",
+      "likes": 276,
+      "retweets": 19
+    },
+    {
+      "tweet_id": "2119865004006793396",
+      "author": "@reach_vb",
+      "text": "6.1 Terra for incredibly efficient computer use:",
+      "likes": 174,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120181150136328344",
+      "author": "@svpino",
+      "text": "I paid $299 for a 4TB SSD a year ago. Today, the same drive is $1,099.\n\nThat's almost 4x more expensive. In less than 12 months.\n\nUnbelievable.",
+      "likes": 134,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2120246800171016255",
+      "author": "@svpino",
+      "text": "This is how you own your AI coworker, instead of renting one from Big AI.\n\nOoenBot is the first fully customizable AI coworker platform out there.\n\nThis was built on top of open building blocks (like CopilotKit and AG-UI), which already have production adoption from companies",
+      "likes": 71,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2120204993731121622",
+      "author": "@svpino",
+      "text": "Every operating system should do this, and I don't understand why we don't have it yet.\n\nWhen I type something, I want my computer to search inside videos, audio files, images, and every other single document it finds.\n\nThis is an API that does this.\n\nYou can plug in an agent to",
+      "likes": 61,
+      "retweets": 7
+    },
+    {
+      "tweet_id": "2120135752570810878",
+      "author": "@nauczymycieAI",
+      "text": "Dostaliśmy Fable 5.2! Przejrzałem dla Was niemal wszystkie materiały dostępne po starcie, wykonałem kilka ws†ępnych testów i poniżej moje wnioski.\n\n1. Do długich, ambitnych projektów nie ma dziś lepszego modelu\n\nTesterzy ze wcześniejszym dostępem opisują, że Fable 5.2 pokazuje,",
+      "likes": 52,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120222858270118157",
+      "author": "@svpino",
+      "text": "This gives agents their own email address and messaging channels.\n\nBetter yet: you can have an idle agent that wakes up as soon as an email reply comes in, picks up the full thread, accesses files, and maintains its conversation history.\n\nThis will be very popular with people",
+      "likes": 40,
+      "retweets": 6
+    },
+    {
+      "tweet_id": "2120210821037138429",
+      "author": "@svpino",
+      "text": "Interesting service for those building robots:\n\nUsing this model factory, you can bring your simulator or recorded demos and work with these guys to train an existing model for that task.\n\nThey will test whether your model works reliably and is fast enough for your robot.\n\nYou",
+      "likes": 33,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2120169740794802384",
+      "author": "@svpino",
+      "text": "We have another open-weight model, and this one is a beast!\n\nModel: Tencent Hy4.\n\nYou can use the model now, and the weights should be published in a couple of weeks.\n\nIt supports vision and computer use, which are two must-haves right now. I tried a few images in the attached",
+      "likes": 35,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2119878904358027743",
+      "author": "@jerryjliu0",
+      "text": "Last Thursday we hosted a private dinner for AI leaders in insurance at Niku Steakhouse.\n\nThe discussion was so good we forgot to take a photo :) We created a photorealistic rendering of what the conversation looked like below.\n\nWe live in a world where frontier models are",
+      "likes": 32,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120321303572025349",
+      "author": "@hwchase17",
+      "text": "we're running our annual \"State of Agent Engineering\" survey!\n\nwe're all just trying to figure out how to build agents together - these are a few of the questions/topics that are top of mind of us\n\nexcited to see what the community thinks!",
+      "likes": 30,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120224494430413136",
+      "author": "@svpino",
+      "text": "This will save you around 92% on your model subscriptions.\n\nThis is a workspace where you can have access to the best text, video, image, audio, and 3D generation models we have.\n\nThe cool thing about this is to have a central place for billing, usage limits, and control who can",
+      "likes": 30,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120110328612782192",
+      "author": "@sentient_agency",
+      "text": "Steal this playbook for X's new native clips.\n\nX just rolled out clipping in its iOS and Android apps: cut 5 to 60 seconds from any video over two minutes, add your take, and the clip carries a \"Clip from\" label that links to that exact moment.\n\nFor founders, the best footage is",
+      "likes": 12,
+      "retweets": 12
+    },
+    {
+      "tweet_id": "2120094121062985796",
+      "author": "@sentient_agency",
+      "text": "If you started marketing with Claude this year, write these 12 files before your next prompt.\n\nWrite them once and every prompt after starts from your business instead of a blank page.\n\nVOICE\n\nvoice.md → 10 posts or emails you wrote that worked, and why\nbanned.md → words,",
+      "likes": 13,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2119732981170667884",
+      "author": "@sentient_agency",
+      "text": "Steal these 5 prompts for checking AI-written marketing copy.\n\nPaste them into ChatGPT or Claude before the next draft goes live.\n\n1. Claims check\n\n\"Read the copy below. Make a table: factual claim, exact supporting passage from the evidence I paste, and verdict: supported,",
+      "likes": 14,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2120192005594816870",
+      "author": "@nauczymycieAI",
+      "text": "Darmowe resety do Claude :)\n\nW zakładce Ustawienia &gt; Użycie znajdziesz od 1-3 resetów z okazji premiery Fable 5.2.\n\nIch ilość zależy od Twojej historii subskrypcji oraz wybranego planu. Resetują 5-h okno i limity Fable - nie resetują całego tygodnia",
+      "likes": 23,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119852349074108801",
+      "author": "@rpl_0x",
+      "text": "GitHub Next, czyli zespół zajmujący się eksperymentalnymi rozwiązaniami dla przyszłości programowania, udostępnił ACE.\n\nTo eksperymentalne środowisko do wspólnego tworzenia oprogramowania przez ludzi i agentów AI.\n\nPomysł jest całkiem ciekawy. Zamiast prowadzić osobne sesje z",
+      "likes": 20,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120204747424800843",
+      "author": "@svpino",
+      "text": "This is a demo video from IFM's PAN 2:\n\nSomeone adds ink to a test tube of water.\n\nOur brains know what this should look like. We've seen it before a million times.\n\nLook at this video and tell me if anything looks off to you.",
+      "likes": 18,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2119848328905027917",
+      "author": "@rpl_0x",
+      "text": "Jak agenci AI zaczynają uczyć się na własnych błędach i wykorzystywać doświadczenia z poprzednich zadań? Jak to wszystko ewoluowało, od promptów i prostych instrukcji po pamięć i systemy samodoskonalenia.\nTrochę historii i kontekstu, a do tego zbiór ciekawych bibliotek,",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120104674917322870",
+      "author": "@rpl_0x",
+      "text": "Ciekawa sprawa. Mój Instagram jest raczej dość marny, ale pod jednym z postów dotyczącym ecommerce mam jakiś zmasowany atak botów dość płynnie i naturalnie krytykujących apke @InPostPL @RBrzoska \n\nCiekawe zjawisko, link w kom",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120081160566882517",
+      "author": "@rpl_0x",
+      "text": "Anthropic przy okazji wczorajszej premiery Claude Fable 5.2 i Mythos 5.2 opublikował też ciekawy materiał z przykładami tego, co udało im się zrobić z wykorzystaniem nowych modeli.\n\nWiadomo, że jest w tym sporo marketingu, firmy prześcigają się w pokazywaniu coraz bardziej",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120242576859250714",
+      "author": "@svpino",
+      "text": "MPP - Machine Payments Protocol\n\nThis is a new (at least, new to me). \n\nIt's a protocol you can use so your agents pay for services on their own without you being involved. \n\nJst learn about this in the #RunByApify conference. This is going to blow in popularity in the coming few",
+      "likes": 17,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120232621053788454",
+      "author": "@svpino",
+      "text": "This is a pretty cool idea:\n\nLet your agent simulate each potential action before picking the best one.\n\nThe model is PAN 2, a world model from the Institute of Foundation Models (IFM). They call this \"simulative reasoning\".\n\nThe attached video shows an example with a surfer:",
+      "likes": 13,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120087931519909946",
+      "author": "@rpl_0x",
+      "text": "Google wprowadzilo do Chrome HTML-in-Canvas i w sumie jest to całkiem spore usprawnienie, szczególnie dla bardziej zaawansowanych aplikacji webowych.\n\nDo tej pory połączenie normalnego, interaktywnego HTML z Canvasem, WebGL czy WebGPU było dość upierdliwe. Oczywiście dało się to",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120107230167232818",
+      "author": "@rpl_0x",
+      "text": "próbuję reaktywować newsletter",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120129019282641251",
+      "author": "@rpl_0x",
+      "text": "Marcin jest mega hmmm.... płodny jak chodzi o aplikacje a w dodatku z żyłką biznesmena ( której np u mnie - jako u deva brakuje, ale się uczę 😉 ) i w każdej apce dorzuca opcję premium\n\nI bardzo dobrze 👌",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119755909291213080",
+      "author": "@rpl_0x",
+      "text": "Po tragedii w Krakowie warto zastanowić się, czy przy dzisiejszym rozwoju technologii jesteśmy w stanie wcześniej wykrywać podobne zagrożenia.\n\nCzy można rozpoznać, że ktoś porusza się z bronią, zanim odda pierwszy strzał? \nCo można wykryć wcześniej karabin przewożony w",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120238486670426495",
+      "author": "@svpino",
+      "text": "An open foundation world model for physical intelligence.\n\nPaper coming soon.",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2119911942227959883",
+      "author": "@superalesha",
+      "text": "Anthropic put GPU kernel optimization in the same Safeguards section as hacking and biology. WTF?\n\nIt is in their launch post. During training they limited the skills that \"could most directly accelerate AI development\".\n\"Accelerator kernel optimization.\"\n\"Improving large",
+      "likes": 2936,
+      "retweets": 263
+    },
+    {
+      "tweet_id": "2120241906542080172",
+      "author": "@BoringBiz_",
+      "text": "Anthropic launching spreadsheets and word documents doesn’t surprise me at all\n\nEvery frontier model company is coming to the realization that tokens are getting commoditized because of open source alternatives\n\nThere is simply no free lunch and pricing power left in selling",
+      "likes": 831,
+      "retweets": 36
+    }
+  ]
+}
