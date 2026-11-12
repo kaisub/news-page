@@ -1,0 +1,289 @@
+{
+  "pipeline": "ai_news",
+  "label": "Radar AI & Tech",
+  "date": "2026-11-12",
+  "slot": "01",
+  "generated_at": "2026-11-12T07:37:04Z",
+  "tweets": [
+    {
+      "tweet_id": "2120206365759094857",
+      "author": "@claudeai",
+      "text": "Starting to roll out today: Claude Whiteboards, Claude Sheets and Claude Data.\n\nThink a plan through on a board, build a tracker in a sheet, and tell a story with your data.",
+      "likes": 62892,
+      "retweets": 5115
+    },
+    {
+      "tweet_id": "2120174844822298730",
+      "author": "@claudeai",
+      "text": "A thread of early experiments with Claude Fable 5.2:\n\nA 3D model of a cell, built entirely from code one organelle at a time. Built by @kevin_t_ngo.",
+      "likes": 16920,
+      "retweets": 1259
+    },
+    {
+      "tweet_id": "2120187753329791341",
+      "author": "@GoogleAI",
+      "text": "Our strongest frontier model, Gemini 4 Carbon, is now available.\n\nBuilt for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web",
+      "likes": 8394,
+      "retweets": 810
+    },
+    {
+      "tweet_id": "2120117722230968385",
+      "author": "@AnthropicAI",
+      "text": "Anthropic has launched the roadshow for its proposed initial public offering: \n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may",
+      "likes": 4891,
+      "retweets": 502
+    },
+    {
+      "tweet_id": "2120669165316915259",
+      "author": "@claudeai",
+      "text": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation.",
+      "likes": 3712,
+      "retweets": 223
+    },
+    {
+      "tweet_id": "2120605420066595029",
+      "author": "@ammaar",
+      "text": "I used Gemini 4 Carbon to get Windows 11 running on my iPhone Duo! 💻\n\nUnfold the screen and it's a pocket PC, including Antigravity running coding agents on my phone.\n\nThis is the actual desktop ARM OS running locally with touch controls. \n\nDemo + repo below!",
+      "likes": 2341,
+      "retweets": 197
+    },
+    {
+      "tweet_id": "2120182450416500819",
+      "author": "@leerob",
+      "text": "I got this cold email today about what I'd teach kids interested in web development and programming. I figured I'd share my full response here in case it helps others:\n\n—\n\nLearning to create software today is a glass half full / half empty situation. You can be optimistic or",
+      "likes": 1299,
+      "retweets": 92
+    },
+    {
+      "tweet_id": "2120509292818379165",
+      "author": "@reach_vb",
+      "text": "1,000,000 followers now!",
+      "likes": 446,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2120451135479963945",
+      "author": "@reach_vb",
+      "text": "mildly interesting but @thsottiaux is just 800 followers away from a million followers 🤯",
+      "likes": 434,
+      "retweets": 8
+    },
+    {
+      "tweet_id": "2120574632126275746",
+      "author": "@ammaar",
+      "text": "Little moments of delight in AI Studio designed by @chanelluuh using Gemini 4 Carbon 🔥",
+      "likes": 176,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120494245140369606",
+      "author": "@svpino",
+      "text": "n8n just released a personal agent.\n\nOpen source!\n\nSeems pretty awesome: 98% task completion using GPT-6.1 Sol in October.\n\nSeparate from this launch but I love it: apparently, @n8n_io has a small division (Labs) where they are interacting quickly on different ideas. Love that!",
+      "likes": 131,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2120246800171016255",
+      "author": "@svpino",
+      "text": "This is how you own your AI coworker, instead of renting one from Big AI.\n\nOoenBot is the first fully customizable AI coworker platform out there.\n\nThis was built on top of open building blocks (like CopilotKit and AG-UI), which already have production adoption from companies",
+      "likes": 113,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2120530738902938019",
+      "author": "@svpino",
+      "text": "Here is a big problem with agentic coding:\n\nThe more code you write, the more complex it is to keep the application from blowing up in users' faces.\n\nFor every new feature you implement:\n\n• You need to determine how to measure it\n• You need to plan who gets it first\n• You need",
+      "likes": 96,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2120561659605668198",
+      "author": "@svpino",
+      "text": "I built an agent and tested it without writing a single line of code.\n\nHere is how to create a digital twin of your agent, mock every tool it touches, and simulate every function it runs without affecting production.\n\nI'm using Claude Code here.\n\nProbably the closest thing to",
+      "likes": 74,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2120575081499783643",
+      "author": "@nauczymycieAI",
+      "text": "Google nie chce, żebyś korzystał z ich modeli AI.\n\nWczoraj Google wypuściło swój najlepszy model - Gemini 4 Carbon. Według użytkowników ze wczesnym dostępem to naprawdę dobre AI do pracy - i jedyne poza duopolem Anthropic i OpenAI, które zbliża się do nich poziomem.\n\nNiestety,",
+      "likes": 78,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120321303572025349",
+      "author": "@hwchase17",
+      "text": "we're running our annual \"State of Agent Engineering\" survey!\n\nwe're all just trying to figure out how to build agents together - these are a few of the questions/topics that are top of mind of us\n\nexcited to see what the community thinks!",
+      "likes": 53,
+      "retweets": 9
+    },
+    {
+      "tweet_id": "2120655974923120681",
+      "author": "@jerryjliu0",
+      "text": "in retrospect, not sure i should've dressed up as jensen for halloween",
+      "likes": 60,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120662367646437535",
+      "author": "@jerryjliu0",
+      "text": "Today, @llama_index is an applied research lab for document OCR and document work.\n\nOur core focus is investing in building the best-in-class models+ agents at the pareto frontier of accuracy/cost/latency for document processing. \n\nTo do this, we have to invest in all the",
+      "likes": 52,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2120135752570810878",
+      "author": "@nauczymycieAI",
+      "text": "Dostaliśmy Fable 5.2! Przejrzałem dla Was niemal wszystkie materiały dostępne po starcie, wykonałem kilka ws†ępnych testów i poniżej moje wnioski.\n\n1. Do długich, ambitnych projektów nie ma dziś lepszego modelu\n\nTesterzy ze wcześniejszym dostępem opisują, że Fable 5.2 pokazuje,",
+      "likes": 54,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120576208035623135",
+      "author": "@svpino",
+      "text": "If you had told me a year ago that this is how I would be creating slides and videos for my classes, I would have thought you were brain dead.\n\nSometimes I think we are living in a simulation.",
+      "likes": 37,
+      "retweets": 5
+    },
+    {
+      "tweet_id": "2120619580276220382",
+      "author": "@svpino",
+      "text": "Wow, Jev is giving Google a run for its money. \n\n$0.20 cheaper per 1M tokens. It's kind of surprising that Google can't compete on price here.",
+      "likes": 34,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120513626406842383",
+      "author": "@svpino",
+      "text": "Super cool demo using Kimi K3.1 Pro:\n\nThey built a machine explorer that lets you disassemble, slice, and see through a turbofan engine.\n\nHere is the code: \n\nCheck the link to the online 3D site in the post below.",
+      "likes": 29,
+      "retweets": 4
+    },
+    {
+      "tweet_id": "2120463590075371836",
+      "author": "@rpl_0x",
+      "text": "OpenAI uruchomiło Businesses in ChatGPT. Coś w rodzaju Google Business Profile, tylko że dla ChatGPT.\n\nFirmy mogą teraz przejmować swoje profile, uzupełniać informacje o działalności, dodawać katalogi produktów, ceny i dostępność, a także sprawdzać, jak często ChatGPT o nich",
+      "likes": 27,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120192005594816870",
+      "author": "@nauczymycieAI",
+      "text": "Darmowe resety do Claude :)\n\nW zakładce Ustawienia &gt; Użycie znajdziesz od 1-3 resetów z okazji premiery Fable 5.2.\n\nIch ilość zależy od Twojej historii subskrypcji oraz wybranego planu. Resetują 5-h okno i limity Fable - nie resetują całego tygodnia",
+      "likes": 28,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120518548175065169",
+      "author": "@svpino",
+      "text": "You can now get paid for the conversations you've had with your agent:\n\n1. Install this app (link below)\n2. It will look at your Codex, Claude Code, and other AI app sessions\n3. You pick conversations you want to upload\n4. The app will remove private information\n5. You'll get a",
+      "likes": 27,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120242576859250714",
+      "author": "@svpino",
+      "text": "MPP - Machine Payments Protocol\n\nThis is a new (at least, new to me). \n\nIt's a protocol you can use so your agents pay for services on their own without you being involved. \n\nJst learn about this in the #RunByApify conference. This is going to blow in popularity in the coming few",
+      "likes": 26,
+      "retweets": 2
+    },
+    {
+      "tweet_id": "2120456755754975349",
+      "author": "@sentient_agency",
+      "text": "I am begging you to paste this into Claude with your last 100 customer reviews...\n\nit will hand you the exact words your buyers use, the objections you're not answering, and 10 hooks written in their language\n\nsave and steal this:\n\n\"You are a direct-response researcher. Below are",
+      "likes": 13,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2120110328612782192",
+      "author": "@sentient_agency",
+      "text": "Steal this playbook for X's new native clips.\n\nX just rolled out clipping in its iOS and Android apps: cut 5 to 60 seconds from any video over two minutes, add your take, and the clip carries a \"Clip from\" label that links to that exact moment.\n\nFor founders, the best footage is",
+      "likes": 12,
+      "retweets": 11
+    },
+    {
+      "tweet_id": "2120094121062985796",
+      "author": "@sentient_agency",
+      "text": "If you started marketing with Claude this year, write these 12 files before your next prompt.\n\nWrite them once and every prompt after starts from your business instead of a blank page.\n\nVOICE\n\nvoice.md → 10 posts or emails you wrote that worked, and why\nbanned.md → words,",
+      "likes": 13,
+      "retweets": 10
+    },
+    {
+      "tweet_id": "2120081160566882517",
+      "author": "@rpl_0x",
+      "text": "Anthropic przy okazji wczorajszej premiery Claude Fable 5.2 i Mythos 5.2 opublikował też ciekawy materiał z przykładami tego, co udało im się zrobić z wykorzystaniem nowych modeli.\n\nWiadomo, że jest w tym sporo marketingu, firmy prześcigają się w pokazywaniu coraz bardziej",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120543809750933696",
+      "author": "@svpino",
+      "text": "The future is all about personal AI assistants. Chatbots can't compete.\n\nTell your chatbot that your mom's birthday dinner is Saturday at 7, and you haven't booked a table yet.\n\nYou'll get back a list of restaurants at best. Nothing else.\n\nAsk a personal assistant, and you'll",
+      "likes": 18,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120104674917322870",
+      "author": "@rpl_0x",
+      "text": "Ciekawa sprawa. Mój Instagram jest raczej dość marny, ale pod jednym z postów dotyczącym ecommerce mam jakiś zmasowany atak botów dość płynnie i naturalnie krytykujących apke @InPostPL @RBrzoska \n\nCiekawe zjawisko, link w kom",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "tweet_id": "2120467713210364178",
+      "author": "@rpl_0x",
+      "text": "Google przy okazji premiery Gemini 4 Carbon udostępnił też /swarm w Antigravity. Przeglądam dokumentację i wygląda to naprawdę ciekawie, szczególnie jeśli ktoś pracuje z agentami nad większymi projektami.\n\n/swarm (na razie preview) pozwala uruchomić cały zespół agentów AI. Jeden",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120107230167232818",
+      "author": "@rpl_0x",
+      "text": "próbuję reaktywować newsletter",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120087931519909946",
+      "author": "@rpl_0x",
+      "text": "Google wprowadzilo do Chrome HTML-in-Canvas i w sumie jest to całkiem spore usprawnienie, szczególnie dla bardziej zaawansowanych aplikacji webowych.\n\nDo tej pory połączenie normalnego, interaktywnego HTML z Canvasem, WebGL czy WebGPU było dość upierdliwe. Oczywiście dało się to",
+      "likes": 12,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120657040091513255",
+      "author": "@nauczymycieAI",
+      "text": "Polymarket daje 68% szansy, że $NVDA odsunie CEO, Jensena Huanga od zarządzania spółką do końca listopada 2026 i 79% szansy, że wydarzy się to do końca '27.\n\nEfekt podejrzeń o drugi romans i doniesień WSJ, że rada nadzorcza przygotowuje się, żeby go usunąć.\n\nJeżeli to się okaże",
+      "likes": 11,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120129019282641251",
+      "author": "@rpl_0x",
+      "text": "Marcin jest mega hmmm.... płodny jak chodzi o aplikacje a w dodatku z żyłką biznesmena ( której np u mnie - jako u deva brakuje, ale się uczę 😉 ) i w każdej apce dorzuca opcję premium\n\nI bardzo dobrze 👌",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120238486670426495",
+      "author": "@svpino",
+      "text": "An open foundation world model for physical intelligence.\n\nPaper coming soon.",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "tweet_id": "2120486966668185729",
+      "author": "@sentient_agency",
+      "text": "1.2 billion people use ChatGPT every week.\n\nAs of this week, your business can claim its own profile inside it.\n\nIt's called Business Hub. It's in beta. Here's the setup, in order:\n\n1. Open ChatGPT, click Business Hub in the sidebar and search your business name\n2. Verify with",
+      "likes": 3,
+      "retweets": 1
+    },
+    {
+      "tweet_id": "2120517203728691351",
+      "author": "@sentient_agency",
+      "text": "How to build a founder's X content engine with AI agents in one weekend:\n\ntopics, voice, hooks, testing and growth. every step below.\n\nfind it\n\n- list 10 accounts your buyers already follow\n- search X for each one with from:handle min_faves:500 to pull their biggest posts\n- paste",
+      "likes": 2,
+      "retweets": 1
+    }
+  ]
+}
